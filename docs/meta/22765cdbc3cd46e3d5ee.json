@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/payments.connectStarRefBot",
+  "final_url": "https://core.telegram.org/method/payments.connectStarRefBot",
+  "title": "payments.connectStarRefBot",
+  "fetched_at": "2026-09-11T06:10:43Z",
+  "sha256": "0446fd1c8e9512021996d7f1bce2daf70e1023f854ab23052a7d2a2db6b8493d",
+  "bytes": 15908,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/22765cdbc3cd46e3d5ee.html",
+  "markdown": "docs/pages/22765cdbc3cd46e3d5ee.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/referrals",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.connectedStarRefBots",
+    "https://core.telegram.org/method/payments.connectStarRefBot",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ConnectedBotStarRef",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/payments.ConnectedStarRefBots"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/groupCallDonor",
+  "final_url": "https://core.telegram.org/constructor/groupCallDonor",
+  "title": "groupCallDonor",
+  "fetched_at": "2026-09-11T06:06:08Z",
+  "sha256": "39b3de4b1bdca67d496d5c9e1d760da64c386408110c7affc5f4af011b835a33",
+  "bytes": 15665,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/416542b216c768f51732.html",
+  "markdown": "docs/pages/416542b216c768f51732.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/groupCallDonor",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/GroupCallDonor",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/api/file-reference-generator",
+  "final_url": "https://core.telegram.org/api/file-reference-generator",
+  "title": "File reference generator",
+  "fetched_at": "2026-09-11T06:05:26Z",
+  "sha256": "69064437258d87d6b4f3952a73ec2076edd8183cc3148cad012e5d70be111d57",
+  "bytes": 13689,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/745f2643f561bdf5e42c.html",
+  "markdown": "docs/pages/745f2643f561bdf5e42c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/file-reference-generator",
+    "https://core.telegram.org/api/file-references",
+    "https://core.telegram.org/constructor/peerStories",
+    "https://core.telegram.org/constructor/storyItem",
+    "https://core.telegram.org/constructor/updateNewMessage",
+    "https://core.telegram.org/method/channels.getMessages",
+    "https://core.telegram.org/method/messages.getMessages",
+    "https://core.telegram.org/method/stories.getAllStories",
+    "https://core.telegram.org/method/stories.getStoriesByID",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Updates"
+  ]
+}

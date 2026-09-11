@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation",
+  "title": "channelAdminLogEventActionChangeLocation",
+  "fetched_at": "2026-09-11T06:05:44Z",
+  "sha256": "f4b23b9ef71231df6b73bc8e3c8b5ace8fa8c549b604226c0e2183ef54a04c94",
+  "bytes": 14623,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7738ecbae2c2dbc5a4b0.html",
+  "markdown": "docs/pages/7738ecbae2c2dbc5a4b0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ChannelLocation"
+  ]
+}

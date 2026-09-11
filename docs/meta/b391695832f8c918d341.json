@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_giveaway_deposit-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_giveaway_deposit-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:52Z",
+  "sha256": "3e9d4d954dece4a62cbdd463942ae171e207483716f7688de021f8a46094a986",
+  "bytes": 10921,
+  "content_type": "text/html",
+  "raw": "docs/raw/b391695832f8c918d341.html",
+  "markdown": "docs/pages/b391695832f8c918d341.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_giveaway_deposit.html"
+  ]
+}

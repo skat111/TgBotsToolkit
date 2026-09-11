@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/MaskCoords",
+  "final_url": "https://core.telegram.org/type/MaskCoords",
+  "title": "MaskCoords",
+  "fetched_at": "2026-09-11T06:17:04Z",
+  "sha256": "d91db695f5b02aff361b19e3b419b8a91b6d85a1adfda3e7087aa284135a0733",
+  "bytes": 14396,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bb60160388a44c66c5ff.html",
+  "markdown": "docs/pages/bb60160388a44c66c5ff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/maskCoords",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MaskCoords",
+    "https://core.telegram.org/type/double",
+    "https://core.telegram.org/type/int"
+  ]
+}

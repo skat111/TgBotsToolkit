@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_address.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_address.html",
+  "title": "TDLib: authorizationStateWaitEmailAddress Class Reference",
+  "fetched_at": "2026-09-11T06:13:24Z",
+  "sha256": "e71067575c6e40d7d5dbc712d4c063e5bd678897e9298711d4a5f3863b512ea8",
+  "bytes": 20417,
+  "content_type": "text/html",
+  "raw": "docs/raw/1c2b0768442fabc5c19f.html",
+  "markdown": "docs/pages/1c2b0768442fabc5c19f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_authorization_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_address-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_address.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_email_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_authentication_email_address.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

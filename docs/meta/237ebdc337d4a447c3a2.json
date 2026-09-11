@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/help.AppUpdate",
+  "final_url": "https://core.telegram.org/type/help.AppUpdate",
+  "title": "help.AppUpdate",
+  "fetched_at": "2026-09-11T06:17:14Z",
+  "sha256": "ff72a0a5ec863ce4e5e1089439f0619a2a1167efc5369e174be47a36646b99bf",
+  "bytes": 15237,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/237ebdc337d4a447c3a2.html",
+  "markdown": "docs/pages/237ebdc337d4a447c3a2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.appUpdate",
+    "https://core.telegram.org/constructor/help.noAppUpdate",
+    "https://core.telegram.org/method/help.getAppUpdate",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.AppUpdate",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

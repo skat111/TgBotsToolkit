@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/StarsRating",
+  "final_url": "https://core.telegram.org/type/StarsRating",
+  "title": "StarsRating",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "713016adb60ad7d70616a3dc1d8fa5e7f5d4ab33069a3eef7bc090a7855797e0",
+  "bytes": 14779,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f23304b10af9160710ec.html",
+  "markdown": "docs/pages/f23304b10af9160710ec.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/starsRating",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StarsRating",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

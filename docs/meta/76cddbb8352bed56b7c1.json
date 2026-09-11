@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1seconds.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1seconds.html",
+  "title": "TDLib: seconds Class Reference",
+  "fetched_at": "2026-09-11T06:15:30Z",
+  "sha256": "264a1a2f0696576f107c92075682d2c1eea6b5b53585de90a32a37db9116b1b9",
+  "bytes": 17753,
+  "content_type": "text/html",
+  "raw": "docs/raw/76cddbb8352bed56b7c1.html",
+  "markdown": "docs/pages/76cddbb8352bed56b7c1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1seconds-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1seconds.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

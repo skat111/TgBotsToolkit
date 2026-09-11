@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transaction_direction_outgoing.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transaction_direction_outgoing.html",
+  "title": "TDLib: transactionDirectionOutgoing Class Reference",
+  "fetched_at": "2026-09-11T06:16:05Z",
+  "sha256": "9a6aee3d59c1ba055e9ba8fcf3b5b233be52208320e9e6d24f796466ce5309f2",
+  "bytes": 15707,
+  "content_type": "text/html",
+  "raw": "docs/raw/cefbdf5dd105b80a7e27.html",
+  "markdown": "docs/pages/cefbdf5dd105b80a7e27.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_transaction_direction.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transaction_direction_outgoing-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transaction_direction_outgoing.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

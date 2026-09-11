@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/SponsoredPeer",
+  "final_url": "https://core.telegram.org/type/SponsoredPeer",
+  "title": "SponsoredPeer",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "f690bace2465ef3d53e4e2997470408d9bddbd64237c343405cc96dcfc8087be",
+  "bytes": 14031,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a1b8ac8f12b7ce7d530e.html",
+  "markdown": "docs/pages/a1b8ac8f12b7ce7d530e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sponsoredPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/SponsoredPeer",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

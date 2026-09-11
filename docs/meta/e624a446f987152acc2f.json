@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/phoneCallDiscarded",
+  "final_url": "https://core.telegram.org/constructor/phoneCallDiscarded",
+  "title": "phoneCallDiscarded",
+  "fetched_at": "2026-09-11T06:07:20Z",
+  "sha256": "c4ffd467138651589ec9087e95d60bb47609a5d8c2432052edcf9fdd5375c3c1",
+  "bytes": 17025,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e624a446f987152acc2f.html",
+  "markdown": "docs/pages/e624a446f987152acc2f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phoneCallDiscarded",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/phone.saveCallDebug",
+    "https://core.telegram.org/method/phone.setCallRating",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PhoneCall",
+    "https://core.telegram.org/type/PhoneCallDiscardReason",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

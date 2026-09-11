@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/stories.CanSendStoryCount",
+  "final_url": "https://core.telegram.org/type/stories.CanSendStoryCount",
+  "title": "stories.CanSendStoryCount",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "caa1e90bcc6fa24ab931525777c44c6ab50c07b3bd74af3dbfc04fdee0588fca",
+  "bytes": 15809,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/96eae36035bfdf75ce1b.html",
+  "markdown": "docs/pages/96eae36035bfdf75ce1b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/stories.canSendStoryCount",
+    "https://core.telegram.org/method/stories.canSendStory",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/stories.CanSendStoryCount"
+  ]
+}

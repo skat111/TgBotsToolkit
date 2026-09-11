@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/api/offsets",
+  "final_url": "https://core.telegram.org/api/offsets",
+  "title": "Pagination in the API",
+  "fetched_at": "2026-09-11T06:04:56Z",
+  "sha256": "5fe3eee720540ce105cb646f83cc21e044c3eac73b6f334b2c58655ac1e6b468",
+  "bytes": 10520,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8840060b7996619f7a55.html",
+  "markdown": "docs/pages/8840060b7996619f7a55.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/messages.messagesNotModified",
+    "https://core.telegram.org/method/channels.getParticipants",
+    "https://core.telegram.org/method/messages.getHistory",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1read_chat_list.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1read_chat_list.html",
+  "title": "TDLib: readChatList Class Reference",
+  "fetched_at": "2026-09-11T06:15:19Z",
+  "sha256": "79b97eaf786d19fc2faf9277790ea725703ecc192eeb06f92544651c2865bf59",
+  "bytes": 19667,
+  "content_type": "text/html",
+  "raw": "docs/raw/bfc5ffc3c08cc3c73f3a.html",
+  "markdown": "docs/pages/bfc5ffc3c08cc3c73f3a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1read_chat_list-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1read_chat_list.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

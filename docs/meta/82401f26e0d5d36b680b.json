@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/topPeerCategoryPhoneCalls",
+  "final_url": "https://core.telegram.org/constructor/topPeerCategoryPhoneCalls",
+  "title": "topPeerCategoryPhoneCalls",
+  "fetched_at": "2026-09-11T06:07:52Z",
+  "sha256": "307bdd102b1227da760418b108f2cc654f0e8ac193d1c14e3980d50faed1ff5a",
+  "bytes": 13913,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/82401f26e0d5d36b680b.html",
+  "markdown": "docs/pages/82401f26e0d5d36b680b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/topPeerCategoryPhoneCalls",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/TopPeerCategory"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/sendMessageUploadAudioAction",
+  "final_url": "https://core.telegram.org/constructor/sendMessageUploadAudioAction",
+  "title": "sendMessageUploadAudioAction",
+  "fetched_at": "2026-09-11T06:07:36Z",
+  "sha256": "8785ddcbbb8026b67b4f706ef4b2a19be8633faa97650170fb07a03535a11aa2",
+  "bytes": 14774,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6970294c43be0dae901d.html",
+  "markdown": "docs/pages/6970294c43be0dae901d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendMessageUploadAudioAction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/type/SendMessageAction",
+    "https://core.telegram.org/type/int"
+  ]
+}

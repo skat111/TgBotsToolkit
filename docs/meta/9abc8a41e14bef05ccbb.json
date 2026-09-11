@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000",
+  "final_url": "https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000",
+  "title": "securePasswordKdfAlgoPBKDF2HMACSHA512iter100000",
+  "fetched_at": "2026-09-11T06:07:32Z",
+  "sha256": "803c99dc4f359cf62b05367e7d4e3f653b0bb6b3c1bcf29c3759a6b18a1aa2c7",
+  "bytes": 14413,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9abc8a41e14bef05ccbb.html",
+  "markdown": "docs/pages/9abc8a41e14bef05ccbb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecurePasswordKdfAlgo",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

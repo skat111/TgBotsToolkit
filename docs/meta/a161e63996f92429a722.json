@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_profile_audio.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_profile_audio.html",
+  "title": "TDLib: addProfileAudio Class Reference",
+  "fetched_at": "2026-09-11T06:13:19Z",
+  "sha256": "5ef25043617728595a76577b2276557ef57a5e451b6eb2161ad485249f51a283",
+  "bytes": 19538,
+  "content_type": "text/html",
+  "raw": "docs/raw/a161e63996f92429a722.html",
+  "markdown": "docs/pages/a161e63996f92429a722.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_profile_audio-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_profile_audio.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

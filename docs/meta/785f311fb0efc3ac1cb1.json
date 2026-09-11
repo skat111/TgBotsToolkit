@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/stories.getPeerMaxIDs",
+  "final_url": "https://core.telegram.org/method/stories.getPeerMaxIDs",
+  "title": "stories.getPeerMaxIDs",
+  "fetched_at": "2026-09-11T06:11:31Z",
+  "sha256": "b5654d2b2b6e48ab6aafd3b48272723c37596eb9c76742784715a61344debadf",
+  "bytes": 15176,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/785f311fb0efc3ac1cb1.html",
+  "markdown": "docs/pages/785f311fb0efc3ac1cb1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/method/stories.getPeerMaxIDs",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/RecentStory",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

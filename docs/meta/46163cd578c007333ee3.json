@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.saveDefaultSendAs",
+  "final_url": "https://core.telegram.org/method/messages.saveDefaultSendAs",
+  "title": "messages.saveDefaultSendAs",
+  "fetched_at": "2026-09-11T06:10:26Z",
+  "sha256": "1a20ece6c082e2cc837108d3ad5b5a08d5d4d0de70959d4db4eee4b81e6b5108",
+  "bytes": 15608,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/46163cd578c007333ee3.html",
+  "markdown": "docs/pages/46163cd578c007333ee3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.saveDefaultSendAs",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

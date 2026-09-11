@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_sticker_to_set.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_sticker_to_set.html",
+  "title": "TDLib: addStickerToSet Class Reference",
+  "fetched_at": "2026-09-11T06:13:19Z",
+  "sha256": "a57ded7755e4f2c881053e88bd6e7e2741737fb2ecb9b614d33387dbd42db5b3",
+  "bytes": 22266,
+  "content_type": "text/html",
+  "raw": "docs/raw/c1bc526c3b21c9fc2b42.html",
+  "markdown": "docs/pages/c1bc526c3b21c9fc2b42.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_sticker_to_set-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_sticker_to_set.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_sticker.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

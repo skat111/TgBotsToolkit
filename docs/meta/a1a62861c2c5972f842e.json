@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_statistics_inviter_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_statistics_inviter_info.html",
+  "title": "TDLib: chatStatisticsInviterInfo Class Reference",
+  "fetched_at": "2026-09-11T06:13:46Z",
+  "sha256": "bf621f31611f3518fa691651ef9af6b5764df6eff86b8a50cdb3466bd5df4341",
+  "bytes": 19622,
+  "content_type": "text/html",
+  "raw": "docs/raw/a1a62861c2c5972f842e.html",
+  "markdown": "docs/pages/a1a62861c2c5972f842e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_statistics_inviter_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_statistics_inviter_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

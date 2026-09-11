@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/RestrictionReason",
+  "final_url": "https://core.telegram.org/type/RestrictionReason",
+  "title": "RestrictionReason",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "dde71f072369e69d1ce033c9b510f13e5f2aab3754fca29d41d328b88f243160",
+  "bytes": 14094,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/201282c6dbe8154f3397.html",
+  "markdown": "docs/pages/201282c6dbe8154f3397.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/age-verification",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/restrictionReason",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RestrictionReason",
+    "https://core.telegram.org/type/string"
+  ]
+}

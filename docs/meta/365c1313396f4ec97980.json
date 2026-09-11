@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/account.getGlobalPrivacySettings",
+  "final_url": "https://core.telegram.org/method/account.getGlobalPrivacySettings",
+  "title": "account.getGlobalPrivacySettings",
+  "fetched_at": "2026-09-11T06:08:40Z",
+  "sha256": "6f97fdbdf7e23c13af4667a25a2fe55645d213a179a131fb26abd2cae42152c5",
+  "bytes": 14784,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/365c1313396f4ec97980.html",
+  "markdown": "docs/pages/365c1313396f4ec97980.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/globalPrivacySettings",
+    "https://core.telegram.org/method/account.getGlobalPrivacySettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DisallowedGiftsSettings",
+    "https://core.telegram.org/type/GlobalPrivacySettings",
+    "https://core.telegram.org/type/long"
+  ]
+}

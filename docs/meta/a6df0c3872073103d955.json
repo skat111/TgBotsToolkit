@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionDefaultBannedRights",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionDefaultBannedRights",
+  "title": "channelAdminLogEventActionDefaultBannedRights",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "615d721f0fb249cde073b7245cdf5dbb113390b9356fee3d61ef308764b06448",
+  "bytes": 15260,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a6df0c3872073103d955.html",
+  "markdown": "docs/pages/a6df0c3872073103d955.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rights",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionDefaultBannedRights",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ChatBannedRights"
+  ]
+}

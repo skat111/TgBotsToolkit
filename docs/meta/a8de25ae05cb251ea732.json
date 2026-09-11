@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/method/invokeAfterMsg",
+  "final_url": "https://core.telegram.org/method/invokeAfterMsg",
+  "title": "invokeAfterMsg",
+  "fetched_at": "2026-09-11T06:09:44Z",
+  "sha256": "e50841b4f2c05fdbe236afc6e5040c17dd7b1a7f4c6c5ab46495423977cfcb99",
+  "bytes": 14611,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a8de25ae05cb251ea732.html",
+  "markdown": "docs/pages/a8de25ae05cb251ea732.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/invokeAfterMsg",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/long"
+  ]
+}

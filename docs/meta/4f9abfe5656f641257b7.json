@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/InputQuickReplyShortcut",
+  "final_url": "https://core.telegram.org/type/InputQuickReplyShortcut",
+  "title": "InputQuickReplyShortcut",
+  "fetched_at": "2026-09-11T06:17:03Z",
+  "sha256": "c459d231e757f3bf0e6d91b7ca562f61a8da299b438ff28316f5f2a1a5cf4a8d",
+  "bytes": 15109,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4f9abfe5656f641257b7.html",
+  "markdown": "docs/pages/4f9abfe5656f641257b7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputQuickReplyShortcut",
+    "https://core.telegram.org/constructor/inputQuickReplyShortcutId",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputQuickReplyShortcut",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

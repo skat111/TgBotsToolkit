@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/bots.toggleUsername",
+  "final_url": "https://core.telegram.org/method/bots.toggleUsername",
+  "title": "bots.toggleUsername",
+  "fetched_at": "2026-09-11T06:09:19Z",
+  "sha256": "bc19c7e2721b0d0096539da0c82f578cf310220182f64a088c80ac2dea2786af",
+  "bytes": 15525,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b818300d0379522ba248.html",
+  "markdown": "docs/pages/b818300d0379522ba248.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/bots.toggleUsername",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/string"
+  ]
+}

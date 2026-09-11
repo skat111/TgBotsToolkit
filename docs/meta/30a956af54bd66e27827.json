@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_custom_emoji_reaction_animations-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_custom_emoji_reaction_animations-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:13Z",
+  "sha256": "17b5dd773f286a842a892a0e4275bf7b7ad875711fcb808c915c621fa4daaffb",
+  "bytes": 10100,
+  "content_type": "text/html",
+  "raw": "docs/raw/30a956af54bd66e27827.html",
+  "markdown": "docs/pages/30a956af54bd66e27827.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_custom_emoji_reaction_animations.html"
+  ]
+}

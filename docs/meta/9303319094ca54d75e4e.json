@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_chat_change_photo.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_chat_change_photo.html",
+  "title": "TDLib: pushMessageContentChatChangePhoto Class Reference",
+  "fetched_at": "2026-09-11T06:15:16Z",
+  "sha256": "45968c62fb1bb3bdca03a33b79cf5808f8e962447df209b4e43ab0fb8b33ba4d",
+  "bytes": 15689,
+  "content_type": "text/html",
+  "raw": "docs/raw/9303319094ca54d75e4e.html",
+  "markdown": "docs/pages/9303319094ca54d75e4e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_push_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_chat_change_photo-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_chat_change_photo.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

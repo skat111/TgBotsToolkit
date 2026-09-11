@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1settings_section_features.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1settings_section_features.html",
+  "title": "TDLib: settingsSectionFeatures Class Reference",
+  "fetched_at": "2026-09-11T06:15:44Z",
+  "sha256": "eb8bbafde87084e0bded72963719b4d8201a4cadb7a2f7477447727c449cc3fd",
+  "bytes": 15578,
+  "content_type": "text/html",
+  "raw": "docs/raw/42d083bc6615939cd1b2.html",
+  "markdown": "docs/pages/42d083bc6615939cd1b2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_settings_section.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1settings_section_features-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1settings_section_features.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

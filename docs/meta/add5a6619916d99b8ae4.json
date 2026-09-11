@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/payments.BankCardData",
+  "final_url": "https://core.telegram.org/type/payments.BankCardData",
+  "title": "payments.BankCardData",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "69edaa8fd4cc1eeb7f02b66426bec85a579c52cc7ef074138e312277b877d8ca",
+  "bytes": 14765,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/add5a6619916d99b8ae4.html",
+  "markdown": "docs/pages/add5a6619916d99b8ae4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.bankCardData",
+    "https://core.telegram.org/method/payments.getBankCardData",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BankCardOpenUrl",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/payments.BankCardData",
+    "https://core.telegram.org/type/string"
+  ]
+}

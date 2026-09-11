@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.giveawayInfoResults",
+  "final_url": "https://core.telegram.org/constructor/payments.giveawayInfoResults",
+  "title": "payments.giveawayInfoResults",
+  "fetched_at": "2026-09-11T06:07:13Z",
+  "sha256": "5e952d1fd2e7d481249d44277fc7707497b62366884f1cf0364361aca366d4bf",
+  "bytes": 17908,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4ddffeaddbd90ed676b7.html",
+  "markdown": "docs/pages/4ddffeaddbd90ed676b7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/payments.giveawayInfoResults",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.GiveawayInfo",
+    "https://core.telegram.org/type/string"
+  ]
+}

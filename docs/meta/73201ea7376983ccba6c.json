@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_public_groups_unavailable.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_public_groups_unavailable.html",
+  "title": "TDLib: checkChatUsernameResultPublicGroupsUnavailable Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "d720848348c4a60dc0c6419b112374a616fdf8994e4c3d54f0601fd45e674ae2",
+  "bytes": 15912,
+  "content_type": "text/html",
+  "raw": "docs/raw/73201ea7376983ccba6c.html",
+  "markdown": "docs/pages/73201ea7376983ccba6c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_check_chat_username_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_public_groups_unavailable-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_public_groups_unavailable.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.deleteBusinessChatLink",
+  "final_url": "https://core.telegram.org/method/account.deleteBusinessChatLink",
+  "title": "account.deleteBusinessChatLink",
+  "fetched_at": "2026-09-11T06:08:32Z",
+  "sha256": "e3ac7da5bbc2eb1088bb4075d3edff3b0aabeb96b272f35f3398e04ba337ad2b",
+  "bytes": 16084,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6b30b9cc6733fe56d9c4.html",
+  "markdown": "docs/pages/6b30b9cc6733fe56d9c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.deleteBusinessChatLink",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar.html",
+  "title": "TDLib: ChatActionBar Class Reference",
+  "fetched_at": "2026-09-11T06:11:59Z",
+  "sha256": "f99722a2a1eabb45922cdf0351ce3ac1b5f7477ba9cc1971c6801becf0b0a662",
+  "bytes": 12955,
+  "content_type": "text/html",
+  "raw": "docs/raw/50f8aa1d2114845525ca.html",
+  "markdown": "docs/pages/50f8aa1d2114845525ca.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_add_contact.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_invite_members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_add_block.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_spam.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_share_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

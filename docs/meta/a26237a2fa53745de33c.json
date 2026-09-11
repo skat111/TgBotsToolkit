@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_message_advertisements.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_message_advertisements.html",
+  "title": "TDLib: videoMessageAdvertisements Class Reference",
+  "fetched_at": "2026-09-11T06:16:21Z",
+  "sha256": "2c11a1318af2caa9a0ab79f6739386300d40f7a2d5d96c694964d911228dc72c",
+  "bytes": 21734,
+  "content_type": "text/html",
+  "raw": "docs/raw/a26237a2fa53745de33c.html",
+  "markdown": "docs/pages/a26237a2fa53745de33c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_message_advertisement.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_message_advertisements-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_message_advertisements.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

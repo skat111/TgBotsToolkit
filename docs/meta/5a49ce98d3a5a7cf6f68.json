@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/botCommandScopeDefault",
+  "final_url": "https://core.telegram.org/constructor/botCommandScopeDefault",
+  "title": "botCommandScopeDefault",
+  "fetched_at": "2026-09-11T06:05:38Z",
+  "sha256": "94f6488859681a35ceb6d103f1893927876ce1d09f2c21f911fa4c3655e8f5c0",
+  "bytes": 13931,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5a49ce98d3a5a7cf6f68.html",
+  "markdown": "docs/pages/5a49ce98d3a5a7cf6f68.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botCommandScopeDefault",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotCommandScope"
+  ]
+}

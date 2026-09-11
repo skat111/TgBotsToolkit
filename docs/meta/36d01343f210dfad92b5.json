@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPaymentRefunded",
+  "final_url": "https://core.telegram.org/constructor/messageActionPaymentRefunded",
+  "title": "messageActionPaymentRefunded",
+  "fetched_at": "2026-09-11T06:06:48Z",
+  "sha256": "2e1e6733e6c5583bb70e28a220b97c799d7ceb52840b5ca5e53509b123efef8f",
+  "bytes": 16179,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/36d01343f210dfad92b5.html",
+  "markdown": "docs/pages/36d01343f210dfad92b5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/messageActionPaymentRefunded",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/PaymentCharge",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

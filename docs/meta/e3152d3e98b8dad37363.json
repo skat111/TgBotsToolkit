@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.getEmojiStickerGroups",
+  "final_url": "https://core.telegram.org/method/messages.getEmojiStickerGroups",
+  "title": "messages.getEmojiStickerGroups",
+  "fetched_at": "2026-09-11T06:10:05Z",
+  "sha256": "d9a48dfb40d3334575d69bf195dccc96edc2faf792c3e88d2af27f0253112b4d",
+  "bytes": 15876,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e3152d3e98b8dad37363.html",
+  "markdown": "docs/pages/e3152d3e98b8dad37363.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-categories",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/messages.emojiGroups",
+    "https://core.telegram.org/constructor/messages.emojiGroupsNotModified",
+    "https://core.telegram.org/method/messages.getEmojiStickerGroups",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiGroup",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.EmojiGroups"
+  ]
+}

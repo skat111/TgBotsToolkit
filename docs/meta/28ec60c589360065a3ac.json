@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_is_broadcast_group-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_is_broadcast_group-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:05Z",
+  "sha256": "7ee495a7ad9231a47a707b1919353a227ef4890adb61d487f416be6b1c41bcb9",
+  "bytes": 10867,
+  "content_type": "text/html",
+  "raw": "docs/raw/28ec60c589360065a3ac.html",
+  "markdown": "docs/pages/28ec60c589360065a3ac.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_is_broadcast_group.html"
+  ]
+}

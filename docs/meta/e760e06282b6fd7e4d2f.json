@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/e2e.chain.changeSetValue",
+  "final_url": "https://core.telegram.org/constructor/e2e.chain.changeSetValue",
+  "title": "e2e.chain.changeSetValue",
+  "fetched_at": "2026-09-11T06:06:01Z",
+  "sha256": "7ebf947a4d3218aeaed8ed89e8f7c388c1019fe1e85eaf8acf9f7121aeda38da",
+  "bytes": 6937,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e760e06282b6fd7e4d2f.html",
+  "markdown": "docs/pages/e760e06282b6fd7e4d2f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.chain.changeSetValue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/e2e.chain.Change"
+  ]
+}

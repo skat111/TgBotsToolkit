@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays.html",
+  "title": "TDLib: updateContactCloseBirthdays Class Reference",
+  "fetched_at": "2026-09-11T06:16:09Z",
+  "sha256": "4934853837b954a65748753b76771507e1ab3211478ce7b9ec06534000fcd135",
+  "bytes": 19200,
+  "content_type": "text/html",
+  "raw": "docs/raw/5dcf9a9f33298fdd4d35.html",
+  "markdown": "docs/pages/5dcf9a9f33298fdd4d35.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1close_birthday_user.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

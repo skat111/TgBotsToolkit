@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/updateServiceNotification",
+  "final_url": "https://core.telegram.org/constructor/updateServiceNotification",
+  "title": "updateServiceNotification",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "d9693f9b28cf79f1eda9c69120607b80bd8098f49988a970664f7cfa1925cf79",
+  "bytes": 18341,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7154caef425cd420e327.html",
+  "markdown": "docs/pages/7154caef425cd420e327.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/errors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateServiceNotification",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/MessageMedia",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

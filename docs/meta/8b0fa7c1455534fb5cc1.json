@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_repost_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_repost_info.html",
+  "title": "TDLib: storyRepostInfo Class Reference",
+  "fetched_at": "2026-09-11T06:15:55Z",
+  "sha256": "05d9fdb6d050e03f82329fa5b45a1752f9710b3abb21cc3214a1f71b3c897235",
+  "bytes": 19584,
+  "content_type": "text/html",
+  "raw": "docs/raw/8b0fa7c1455534fb5cc1.html",
+  "markdown": "docs/pages/8b0fa7c1455534fb5cc1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_origin.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_repost_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_repost_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

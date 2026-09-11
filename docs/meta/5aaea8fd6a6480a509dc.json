@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantJoinByInvite",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantJoinByInvite",
+  "title": "channelAdminLogEventActionParticipantJoinByInvite",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "d435bd33a4954aa14b53594eb0634c9c64dd088cc5c611a03a712c911aa8efdd",
+  "bytes": 16072,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5aaea8fd6a6480a509dc.html",
+  "markdown": "docs/pages/5aaea8fd6a6480a509dc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantJoinByInvite",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ExportedChatInvite"
+  ]
+}

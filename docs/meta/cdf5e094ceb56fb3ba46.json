@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/statsPercentValue",
+  "final_url": "https://core.telegram.org/constructor/statsPercentValue",
+  "title": "statsPercentValue",
+  "fetched_at": "2026-09-11T06:07:44Z",
+  "sha256": "69862abe7097d08b64e9073ab624be943b301b6e830d722d6f24d6250b6f10e1",
+  "bytes": 14931,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cdf5e094ceb56fb3ba46.html",
+  "markdown": "docs/pages/cdf5e094ceb56fb3ba46.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/statsPercentValue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsPercentValue",
+    "https://core.telegram.org/type/double"
+  ]
+}

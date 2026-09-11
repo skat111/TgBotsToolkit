@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePeerLocated",
+  "final_url": "https://core.telegram.org/constructor/updatePeerLocated",
+  "title": "updatePeerLocated",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "ec56fdd91c678e24649067a72ab3f1c4fb86509aae91c3c9f5dccc77f1c641c2",
+  "bytes": 14239,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/511ecb8b571cdae3cf29.html",
+  "markdown": "docs/pages/511ecb8b571cdae3cf29.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updatePeerLocated",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PeerLocated",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

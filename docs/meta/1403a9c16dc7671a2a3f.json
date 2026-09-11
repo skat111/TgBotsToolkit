@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePeerHistoryTTL",
+  "final_url": "https://core.telegram.org/constructor/updatePeerHistoryTTL",
+  "title": "updatePeerHistoryTTL",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "76992435e00c1577426eafa8665b91a53e73730c102a6eb876b72e5a9fc709ff",
+  "bytes": 14769,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1403a9c16dc7671a2a3f.html",
+  "markdown": "docs/pages/1403a9c16dc7671a2a3f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updatePeerHistoryTTL",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

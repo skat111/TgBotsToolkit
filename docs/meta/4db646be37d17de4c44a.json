@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_hidden_user.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_hidden_user.html",
+  "title": "TDLib: messageOriginHiddenUser Class Reference",
+  "fetched_at": "2026-09-11T06:14:52Z",
+  "sha256": "2be5613a3dadcb1f6594c71c72a45ba0a083e139a0f231aeed19851ddd48baaa",
+  "bytes": 18474,
+  "content_type": "text/html",
+  "raw": "docs/raw/4db646be37d17de4c44a.html",
+  "markdown": "docs/pages/4db646be37d17de4c44a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_origin.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_hidden_user-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_hidden_user.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

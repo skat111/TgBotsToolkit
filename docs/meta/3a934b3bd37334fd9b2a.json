@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1_td_callback.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1_td_callback.html",
+  "title": "TDLib: TdCallback Class Reference",
+  "fetched_at": "2026-09-11T06:17:04Z",
+  "sha256": "ec89cc99b2466fb151392e5eed5f9524010f8bfffad8c1819a48f45fdffeeace",
+  "bytes": 12374,
+  "content_type": "text/html",
+  "raw": "docs/raw/3a934b3bd37334fd9b2a.html",
+  "markdown": "docs/pages/3a934b3bd37334fd9b2a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_td_callback_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_td_callback-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_td_callback.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html"
+  ]
+}

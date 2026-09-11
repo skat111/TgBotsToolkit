@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html",
+  "title": "TDLib: StoryInteractionType Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "baea4ec35e3343ddfcb1d9205c56c121942819cfd44c339e4dd654b9692737f2",
+  "bytes": 12628,
+  "content_type": "text/html",
+  "raw": "docs/raw/626e82576872b544210c.html",
+  "markdown": "docs/pages/626e82576872b544210c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction_type_forward.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction_type_repost.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction_type_view.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

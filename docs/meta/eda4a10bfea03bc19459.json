@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_location.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_location.html",
+  "title": "TDLib: pushMessageContentLocation Class Reference",
+  "fetched_at": "2026-09-11T06:15:18Z",
+  "sha256": "72d06cc69eea45631cd4e83adf4a3cbad9accb1ba218c6000fd66a23da6eb0bc",
+  "bytes": 19139,
+  "content_type": "text/html",
+  "raw": "docs/raw/eda4a10bfea03bc19459.html",
+  "markdown": "docs/pages/eda4a10bfea03bc19459.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_push_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_location-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_location.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

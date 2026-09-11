@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.getDefaultBackgroundEmojis",
+  "final_url": "https://core.telegram.org/method/account.getDefaultBackgroundEmojis",
+  "title": "account.getDefaultBackgroundEmojis",
+  "fetched_at": "2026-09-11T06:08:39Z",
+  "sha256": "8a7c7b019574dfc11505c5a0c34051437d75ea8823d81de22b688d36e4828331",
+  "bytes": 16035,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/79e17d9fd881b1c2c90b.html",
+  "markdown": "docs/pages/79e17d9fd881b1c2c90b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/colors",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/emojiList",
+    "https://core.telegram.org/constructor/emojiListNotModified",
+    "https://core.telegram.org/method/account.getDefaultBackgroundEmojis",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiList",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

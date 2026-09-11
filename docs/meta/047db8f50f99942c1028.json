@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/starGiftAuctionStateFinished",
+  "final_url": "https://core.telegram.org/constructor/starGiftAuctionStateFinished",
+  "title": "starGiftAuctionStateFinished",
+  "fetched_at": "2026-09-11T06:07:39Z",
+  "sha256": "4e42dc650238a485eda666bbf3948f17cb0668b9b98fbb76f6604ef47a3fc1b5",
+  "bytes": 17503,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/047db8f50f99942c1028.html",
+  "markdown": "docs/pages/047db8f50f99942c1028.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auctions",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/starGiftAuctionStateFinished",
+    "https://core.telegram.org/method/payments.getResaleStarGifts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StarGiftAuctionState",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

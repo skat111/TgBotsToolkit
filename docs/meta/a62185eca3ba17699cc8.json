@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_string.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_string.html",
+  "title": "TDLib: getLanguagePackString Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "4c4a5799926b6ea4c4a4c452f74cf6ec6b906b9c148b3d7f256a610598f774e9",
+  "bytes": 24067,
+  "content_type": "text/html",
+  "raw": "docs/raw/a62185eca3ba17699cc8.html",
+  "markdown": "docs/pages/a62185eca3ba17699cc8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_language_pack_string_value.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_string-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_string.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

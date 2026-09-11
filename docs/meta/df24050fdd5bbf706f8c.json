@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_connected_bot-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_connected_bot-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:41Z",
+  "sha256": "d8126ede473d98d0f07420b824beb43bf0883e79a6343c8daed67496f98af73f",
+  "bytes": 10653,
+  "content_type": "text/html",
+  "raw": "docs/raw/df24050fdd5bbf706f8c.html",
+  "markdown": "docs/pages/df24050fdd5bbf706f8c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_connected_bot.html"
+  ]
+}

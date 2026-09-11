@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionChatCreate",
+  "final_url": "https://core.telegram.org/constructor/messageActionChatCreate",
+  "title": "messageActionChatCreate",
+  "fetched_at": "2026-09-11T06:06:45Z",
+  "sha256": "160c5cc8d046a5e6ee3475bc74ba3433b212173a3a0c3ef672e1f4a2084d1390",
+  "bytes": 14389,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f2d531a0eefaa9367e75.html",
+  "markdown": "docs/pages/f2d531a0eefaa9367e75.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionChatCreate",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

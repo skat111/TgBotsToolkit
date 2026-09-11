@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateUserName",
+  "final_url": "https://core.telegram.org/constructor/updateUserName",
+  "title": "updateUserName",
+  "fetched_at": "2026-09-11T06:08:08Z",
+  "sha256": "2f1e33c96a3444dabd50ad0426b813fa85575c76b25bb02a026a16f26db95f13",
+  "bytes": 15648,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/65c56157c67381ca4fe5.html",
+  "markdown": "docs/pages/65c56157c67381ca4fe5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/updateUserName",
+    "https://core.telegram.org/constructor/userFull",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Username",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

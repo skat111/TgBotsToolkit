@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannelMessageViews",
+  "final_url": "https://core.telegram.org/constructor/updateChannelMessageViews",
+  "title": "updateChannelMessageViews",
+  "fetched_at": "2026-09-11T06:07:55Z",
+  "sha256": "407429be0edcdb9774c699338f39107b72959b76ea9589c2808b00551a4248a3",
+  "bytes": 14564,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bf01a7b1033ed02ea627.html",
+  "markdown": "docs/pages/bf01a7b1033ed02ea627.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateChannelMessageViews",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

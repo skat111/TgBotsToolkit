@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_empty.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_empty.html",
+  "title": "TDLib: testCallEmpty Class Reference",
+  "fetched_at": "2026-09-11T06:15:58Z",
+  "sha256": "f251b1e2082ce0757c57c79e06c9b386c1ddfdabd536533cd5b581bd61bec49c",
+  "bytes": 16629,
+  "content_type": "text/html",
+  "raw": "docs/raw/062dd38120e0d68155a6.html",
+  "markdown": "docs/pages/062dd38120e0d68155a6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_empty-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_empty.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

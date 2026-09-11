@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inlineQueryPeerTypeChat",
+  "final_url": "https://core.telegram.org/constructor/inlineQueryPeerTypeChat",
+  "title": "inlineQueryPeerTypeChat",
+  "fetched_at": "2026-09-11T06:06:12Z",
+  "sha256": "1980e360451c0fd04a24ba86faf60f6e5af985f573a4fbf2fa6c7d7a6e2f60dc",
+  "bytes": 14450,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/02a4209e91a7848c568c.html",
+  "markdown": "docs/pages/02a4209e91a7848c568c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inlineQueryPeerTypeChat",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InlineQueryPeerType"
+  ]
+}

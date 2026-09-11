@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.getForumTopicsByID",
+  "final_url": "https://core.telegram.org/method/messages.getForumTopicsByID",
+  "title": "messages.getForumTopicsByID",
+  "fetched_at": "2026-09-11T06:10:08Z",
+  "sha256": "486f4bc7957ace078da9dde53b8956067ed35ac79ea6a26c259dabb1715b79a2",
+  "bytes": 15932,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/95f29bb1e29177906780.html",
+  "markdown": "docs/pages/95f29bb1e29177906780.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.forumTopics",
+    "https://core.telegram.org/method/messages.getForumTopicsByID",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ForumTopic",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.ForumTopics"
+  ]
+}

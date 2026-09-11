@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputCheckPasswordSRP",
+  "final_url": "https://core.telegram.org/constructor/inputCheckPasswordSRP",
+  "title": "inputCheckPasswordSRP",
+  "fetched_at": "2026-09-11T06:06:19Z",
+  "sha256": "66b56c4fbd1a815de169aa7c5c3a02758340b7f4d510a8a9d33ba992f7736c57",
+  "bytes": 15193,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/eaf8f48ae38eb50872de.html",
+  "markdown": "docs/pages/eaf8f48ae38eb50872de.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/inputCheckPasswordSRP",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

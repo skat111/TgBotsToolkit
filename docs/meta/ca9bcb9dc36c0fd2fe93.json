@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/EmojiGroup",
+  "final_url": "https://core.telegram.org/type/EmojiGroup",
+  "title": "EmojiGroup",
+  "fetched_at": "2026-09-11T06:16:58Z",
+  "sha256": "34c947c881d8eccf562d15e00596d23e7a240413894d9e198ff4053fa0413660",
+  "bytes": 15975,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ca9bcb9dc36c0fd2fe93.html",
+  "markdown": "docs/pages/ca9bcb9dc36c0fd2fe93.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/emoji-categories",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/documentAttributeCustomEmoji",
+    "https://core.telegram.org/constructor/emojiGroup",
+    "https://core.telegram.org/constructor/emojiGroupGreeting",
+    "https://core.telegram.org/constructor/emojiGroupPremium",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiGroup",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

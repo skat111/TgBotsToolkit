@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/account.getAuthorizationForm",
+  "final_url": "https://core.telegram.org/method/account.getAuthorizationForm",
+  "title": "account.getAuthorizationForm",
+  "fetched_at": "2026-09-11T06:08:35Z",
+  "sha256": "e520632f8492d28d9f614b3a0dad254ea4d9383c2131e6d1e0913e2cb9a0b929",
+  "bytes": 16168,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4610a2d462ec4924ea2a.html",
+  "markdown": "docs/pages/4610a2d462ec4924ea2a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.authorizationForm",
+    "https://core.telegram.org/method/account.getAuthorizationForm",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/SecureRequiredType",
+    "https://core.telegram.org/type/SecureValue",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.AuthorizationForm",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

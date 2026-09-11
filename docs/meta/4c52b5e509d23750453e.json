@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1open_sponsored_chat.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1open_sponsored_chat.html",
+  "title": "TDLib: openSponsoredChat Class Reference",
+  "fetched_at": "2026-09-11T06:15:00Z",
+  "sha256": "5aea7f55d52e5819cbccbe9e15ad9b48fc63906928ab631a7c751405a44745dd",
+  "bytes": 19455,
+  "content_type": "text/html",
+  "raw": "docs/raw/4c52b5e509d23750453e.html",
+  "markdown": "docs/pages/4c52b5e509d23750453e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1open_sponsored_chat-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1open_sponsored_chat.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

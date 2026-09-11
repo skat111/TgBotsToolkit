@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command.html",
+  "title": "TDLib: botCommand Class Reference",
+  "fetched_at": "2026-09-11T06:13:27Z",
+  "sha256": "826b8ec38097def80c8e1a2916cd11b9bb9a0b1565510b12268930bc2684b77a",
+  "bytes": 19225,
+  "content_type": "text/html",
+  "raw": "docs/raw/18f16a5025abd1396a64.html",
+  "markdown": "docs/pages/18f16a5025abd1396a64.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

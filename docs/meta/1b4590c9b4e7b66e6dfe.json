@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyValueAllowPremium",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyValueAllowPremium",
+  "title": "inputPrivacyValueAllowPremium",
+  "fetched_at": "2026-09-11T06:06:33Z",
+  "sha256": "73ac99a5db82f9324800be062d14d9bb365be127cb8201043d2ae4d7522a1046",
+  "bytes": 15023,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1b4590c9b4e7b66e6dfe.html",
+  "markdown": "docs/pages/1b4590c9b4e7b66e6dfe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/inputPrivacyKeyChatInvite",
+    "https://core.telegram.org/constructor/inputPrivacyValueAllowPremium",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyRule"
+  ]
+}

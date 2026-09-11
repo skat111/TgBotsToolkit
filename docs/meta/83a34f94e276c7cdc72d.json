@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/groupCallMessage",
+  "final_url": "https://core.telegram.org/constructor/groupCallMessage",
+  "title": "groupCallMessage",
+  "fetched_at": "2026-09-11T06:06:08Z",
+  "sha256": "b2b87361580f5957366f10d305b37a08df069e1d158014c9144ae0450cfefb0f",
+  "bytes": 17531,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/83a34f94e276c7cdc72d.html",
+  "markdown": "docs/pages/83a34f94e276c7cdc72d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/groupCallMessage",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/GroupCallMessage",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

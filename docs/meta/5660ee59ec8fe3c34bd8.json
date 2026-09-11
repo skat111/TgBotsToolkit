@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_age_verification_parameters-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_age_verification_parameters-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:12Z",
+  "sha256": "616fc9db25abdc59ea6faefcb3add2868614acaba56025876c325a2b5ca3aea9",
+  "bytes": 10530,
+  "content_type": "text/html",
+  "raw": "docs/raw/5660ee59ec8fe3c34bd8.html",
+  "markdown": "docs/pages/5660ee59ec8fe3c34bd8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_age_verification_parameters.html"
+  ]
+}

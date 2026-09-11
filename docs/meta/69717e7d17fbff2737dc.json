@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/messages.translateText",
+  "final_url": "https://core.telegram.org/method/messages.translateText",
+  "title": "messages.translateText",
+  "fetched_at": "2026-09-11T06:10:37Z",
+  "sha256": "5d33d5214f47b2b84dd2682d28c875a39c1b0b981faecfe4c7046c6b04142f52",
+  "bytes": 19281,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/69717e7d17fbff2737dc.html",
+  "markdown": "docs/pages/69717e7d17fbff2737dc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/errors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/messages.translateResult",
+    "https://core.telegram.org/method/messages.translateText",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.TranslatedText",
+    "https://core.telegram.org/type/string"
+  ]
+}

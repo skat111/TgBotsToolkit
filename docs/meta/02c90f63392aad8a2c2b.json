@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/requestedPeerChannel",
+  "final_url": "https://core.telegram.org/constructor/requestedPeerChannel",
+  "title": "requestedPeerChannel",
+  "fetched_at": "2026-09-11T06:07:30Z",
+  "sha256": "a8cad609b22f7d2ae244d6fe328c9e86f50aa938a42f7465ae6b57fa3c235ffd",
+  "bytes": 17816,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/02c90f63392aad8a2c2b.html",
+  "markdown": "docs/pages/02c90f63392aad8a2c2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/constructor/inputKeyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/requestedPeerChannel",
+    "https://core.telegram.org/method/messages.sendBotRequestedPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Photo",
+    "https://core.telegram.org/type/RequestedPeer",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

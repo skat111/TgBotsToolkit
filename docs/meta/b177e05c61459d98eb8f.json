@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_full_type_mask.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_full_type_mask.html",
+  "title": "TDLib: stickerFullTypeMask Class Reference",
+  "fetched_at": "2026-09-11T06:15:50Z",
+  "sha256": "e790ffe34a50a97c8e58102cb5487f742fe15262a2983862bd2ec8cbc81d0e6e",
+  "bytes": 18695,
+  "content_type": "text/html",
+  "raw": "docs/raw/b177e05c61459d98eb8f.html",
+  "markdown": "docs/pages/b177e05c61459d98eb8f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_sticker_full_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_position.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_full_type_mask-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_full_type_mask.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

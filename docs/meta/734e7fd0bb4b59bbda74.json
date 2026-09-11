@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyKeySavedMusic",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyKeySavedMusic",
+  "title": "inputPrivacyKeySavedMusic",
+  "fetched_at": "2026-09-11T06:06:32Z",
+  "sha256": "f53aef5d7493c885b38138a48c2f31151c1df4dcea14d016f3f851fcbc1bcccf",
+  "bytes": 14414,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/734e7fd0bb4b59bbda74.html",
+  "markdown": "docs/pages/734e7fd0bb4b59bbda74.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/inputPrivacyKeySavedMusic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyKey"
+  ]
+}

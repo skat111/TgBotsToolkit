@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_rarity_epic.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_rarity_epic.html",
+  "title": "TDLib: upgradedGiftAttributeRarityEpic Class Reference",
+  "fetched_at": "2026-09-11T06:16:18Z",
+  "sha256": "e2bbb768b05458863e83185e7ef5ca8cd6827f2b278a5af2a8244e2b184a7c31",
+  "bytes": 15673,
+  "content_type": "text/html",
+  "raw": "docs/raw/7a5550ede1aaf47f249e.html",
+  "markdown": "docs/pages/7a5550ede1aaf47f249e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_attribute_rarity.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_rarity_epic-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_rarity_epic.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

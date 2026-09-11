@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateMoveStickerSetToTop",
+  "final_url": "https://core.telegram.org/constructor/updateMoveStickerSetToTop",
+  "title": "updateMoveStickerSetToTop",
+  "fetched_at": "2026-09-11T06:08:01Z",
+  "sha256": "82150a3a9176648c5fbafdddd6dacbb00239e2fb1f016a0df03dfaded2bf802f",
+  "bytes": 15806,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/06a7a8f50ae42e432bda.html",
+  "markdown": "docs/pages/06a7a8f50ae42e432bda.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateMoveStickerSetToTop",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long"
+  ]
+}

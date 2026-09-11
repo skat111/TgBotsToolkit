@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/bots/webhooks",
+  "final_url": "https://core.telegram.org/bots/webhooks",
+  "title": "Marvin's Marvellous Guide to All Things Webhook",
+  "fetched_at": "2026-09-11T06:05:12Z",
+  "sha256": "1e8ec0ed7940367422ce200e66c1c5ead2825e3425759b4d162aabd8aed1c9c1",
+  "bytes": 59319,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/765e4b522aa0650c4bbf.html",
+  "markdown": "docs/pages/765e4b522aa0650c4bbf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/samples",
+    "https://core.telegram.org/bots/webhooks",
+    "https://core.telegram.org/file/811140010/2/omTlwQW_Wpk.133258/5db0b29d43f5558413",
+    "https://core.telegram.org/file/811140045/1/wtVcG_IghfI.78937/51e72042b1df5f28b5",
+    "https://core.telegram.org/file/811140068/1/5qVIwLYnqd8.116971/87a6da7b70e377f899",
+    "https://core.telegram.org/file/811140069/2/MVKz66N9t4o.53664/7130b06124c18c9e94",
+    "https://core.telegram.org/file/811140157/1/FsbXbc0yPJA.49297/5812f355ecfcda764a",
+    "https://core.telegram.org/file/811140281/1/5le8eVE7mPk.261973/25ba8c07609aef2310",
+    "https://core.telegram.org/file/811140789/2/DmiZPh1t6z0.269328/98525b6835f0a91432",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

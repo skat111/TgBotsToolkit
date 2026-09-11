@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_all_sticker_emojis.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_all_sticker_emojis.html",
+  "title": "TDLib: getAllStickerEmojis Class Reference",
+  "fetched_at": "2026-09-11T06:14:05Z",
+  "sha256": "ec3066847c737c7405feaa21d9d5bddeed14307161d4d74c3eb9315202664692",
+  "bytes": 23593,
+  "content_type": "text/html",
+  "raw": "docs/raw/a6024bd62baaad9092fa.html",
+  "markdown": "docs/pages/a6024bd62baaad9092fa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_sticker_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emojis.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_all_sticker_emojis-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_all_sticker_emojis.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionWebViewDataSentMe",
+  "final_url": "https://core.telegram.org/constructor/messageActionWebViewDataSentMe",
+  "title": "messageActionWebViewDataSentMe",
+  "fetched_at": "2026-09-11T06:06:51Z",
+  "sha256": "eb1e850a33f885d402d2480891ac5d5605cc140c5690095610fe6b4e92151dce",
+  "bytes": 16168,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dba5ba8b886444493291.html",
+  "markdown": "docs/pages/dba5ba8b886444493291.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonSimpleWebView",
+    "https://core.telegram.org/constructor/keyboardButtonWebView",
+    "https://core.telegram.org/constructor/messageActionWebViewDataSentMe",
+    "https://core.telegram.org/method/messages.requestSimpleWebView",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/string"
+  ]
+}

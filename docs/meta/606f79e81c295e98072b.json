@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_deleted.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_deleted.html",
+  "title": "TDLib: chatEventForumTopicDeleted Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "a268d74e7f42c035017d22b98c7cbe0e31a700b101700673e1a06d6f1c780e28",
+  "bytes": 18673,
+  "content_type": "text/html",
+  "raw": "docs/raw/606f79e81c295e98072b.html",
+  "markdown": "docs/pages/606f79e81c295e98072b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_deleted-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_deleted.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

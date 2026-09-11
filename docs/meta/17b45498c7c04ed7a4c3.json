@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/help.termsOfService",
+  "final_url": "https://core.telegram.org/constructor/help.termsOfService",
+  "title": "help.termsOfService",
+  "fetched_at": "2026-09-11T06:06:11Z",
+  "sha256": "2b1fd26d18a4897714beacc2878d247df161253951432f5faa347dcb7ea0635e",
+  "bytes": 16076,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/17b45498c7c04ed7a4c3.html",
+  "markdown": "docs/pages/17b45498c7c04ed7a4c3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.termsOfService",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.TermsOfService",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

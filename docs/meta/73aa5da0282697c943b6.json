@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_callback_query_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_callback_query_message.html",
+  "title": "TDLib: getCallbackQueryMessage Class Reference",
+  "fetched_at": "2026-09-11T06:14:08Z",
+  "sha256": "948a708f94ecdb15d85ca7772539027f6f74d2a75ed16091608ff09957e501a6",
+  "bytes": 22195,
+  "content_type": "text/html",
+  "raw": "docs/raw/73aa5da0282697c943b6.html",
+  "markdown": "docs/pages/73aa5da0282697c943b6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_callback_query_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_callback_query_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

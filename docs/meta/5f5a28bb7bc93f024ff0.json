@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_authentication_email_address-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_authentication_email_address-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:27Z",
+  "sha256": "895236ea49854a3051dcba36fea727999d3e89ec14602eb54d412e7072854775",
+  "bytes": 10072,
+  "content_type": "text/html",
+  "raw": "docs/raw/5f5a28bb7bc93f024ff0.html",
+  "markdown": "docs/pages/5f5a28bb7bc93f024ff0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_authentication_email_address.html"
+  ]
+}

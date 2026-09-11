@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_group_call_link.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_group_call_link.html",
+  "title": "TDLib: inputGroupCallLink Class Reference",
+  "fetched_at": "2026-09-11T06:14:31Z",
+  "sha256": "defdf03ac12d8b2d09b6f034ce3a3099b09ba43bade4a5b6423eb089678adbce",
+  "bytes": 18249,
+  "content_type": "text/html",
+  "raw": "docs/raw/602dcd068695d31c61b5.html",
+  "markdown": "docs/pages/602dcd068695d31c61b5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_group_call.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_group_call_link-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_group_call_link.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

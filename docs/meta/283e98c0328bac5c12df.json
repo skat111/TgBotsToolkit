@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_business_connected_bot_from_chat-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_business_connected_bot_from_chat-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:23Z",
+  "sha256": "62694e5828677c2602e33e1a3703db3a2ce047cb56f0e0551cb76f3be4e8e359",
+  "bytes": 10919,
+  "content_type": "text/html",
+  "raw": "docs/raw/283e98c0328bac5c12df.html",
+  "markdown": "docs/pages/283e98c0328bac5c12df.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_business_connected_bot_from_chat.html"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/auth.checkRecoveryPassword",
+  "final_url": "https://core.telegram.org/method/auth.checkRecoveryPassword",
+  "title": "auth.checkRecoveryPassword",
+  "fetched_at": "2026-09-11T06:09:04Z",
+  "sha256": "16837c1beb2af68a32a37a70f93e06429c70ab29039e46d74b74c81e2a5df23c",
+  "bytes": 16617,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d28086aceb786f595014.html",
+  "markdown": "docs/pages/d28086aceb786f595014.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/auth.checkRecoveryPassword",
+    "https://core.telegram.org/method/auth.recoverPassword",
+    "https://core.telegram.org/method/auth.requestPasswordRecovery",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_has_scheduled_messages-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_has_scheduled_messages-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:12Z",
+  "sha256": "17f47ee8bc11bd6a43a477e63905bfb68d080399944830c22db16069b76a3e09",
+  "bytes": 10800,
+  "content_type": "text/html",
+  "raw": "docs/raw/c28d8bfae0ce18ba831c.html",
+  "markdown": "docs/pages/c28d8bfae0ce18ba831c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_has_scheduled_messages.html"
+  ]
+}

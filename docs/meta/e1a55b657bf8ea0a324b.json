@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/help.editUserInfo",
+  "final_url": "https://core.telegram.org/method/help.editUserInfo",
+  "title": "help.editUserInfo",
+  "fetched_at": "2026-09-11T06:09:39Z",
+  "sha256": "d602043436f4981348f0aff2b07bac3a8d2bad379d4976d8612db42c47db6de7",
+  "bytes": 16353,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e1a55b657bf8ea0a324b.html",
+  "markdown": "docs/pages/e1a55b657bf8ea0a324b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.userInfo",
+    "https://core.telegram.org/constructor/help.userInfoEmpty",
+    "https://core.telegram.org/method/help.editUserInfo",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.UserInfo",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

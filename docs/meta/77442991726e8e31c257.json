@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/baseThemeTinted",
+  "final_url": "https://core.telegram.org/constructor/baseThemeTinted",
+  "title": "baseThemeTinted",
+  "fetched_at": "2026-09-11T06:05:37Z",
+  "sha256": "f2bcc706d546c558ee3726c0c2031efae5eb605d84e6e0596987c3d72902e16b",
+  "bytes": 13770,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/77442991726e8e31c257.html",
+  "markdown": "docs/pages/77442991726e8e31c257.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/baseThemeTinted",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BaseTheme"
+  ]
+}

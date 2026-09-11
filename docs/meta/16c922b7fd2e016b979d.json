@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/account.resetPasswordRequestedWait",
+  "final_url": "https://core.telegram.org/constructor/account.resetPasswordRequestedWait",
+  "title": "account.resetPasswordRequestedWait",
+  "fetched_at": "2026-09-11T06:05:17Z",
+  "sha256": "b5f6a1302a8a5538c5b8213414dcd952558dc0d7e7fc4600809261638a45d50d",
+  "bytes": 14579,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/16c922b7fd2e016b979d.html",
+  "markdown": "docs/pages/16c922b7fd2e016b979d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.resetPasswordRequestedWait",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/account.ResetPasswordResult",
+    "https://core.telegram.org/type/int"
+  ]
+}

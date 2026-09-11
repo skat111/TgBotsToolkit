@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.reorderQuickReplies",
+  "final_url": "https://core.telegram.org/method/messages.reorderQuickReplies",
+  "title": "messages.reorderQuickReplies",
+  "fetched_at": "2026-09-11T06:10:21Z",
+  "sha256": "13d7781eb8d975a6e2919cd3a06e91a57d9cadb456d029ef49b38f0ec21d15f2",
+  "bytes": 16174,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c6442406b6220f0fb058.html",
+  "markdown": "docs/pages/c6442406b6220f0fb058.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/updateQuickReplies",
+    "https://core.telegram.org/method/messages.reorderQuickReplies",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPaymentCredentialsApplePay",
+  "final_url": "https://core.telegram.org/constructor/inputPaymentCredentialsApplePay",
+  "title": "inputPaymentCredentialsApplePay",
+  "fetched_at": "2026-09-11T06:06:29Z",
+  "sha256": "bdf50e059ee7dca7df142694ce9147b8577f7bad0357c8b6b5c020157420e25e",
+  "bytes": 14285,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c156c2a33147df6f774d.html",
+  "markdown": "docs/pages/c156c2a33147df6f774d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPaymentCredentialsApplePay",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputPaymentCredentials"
+  ]
+}

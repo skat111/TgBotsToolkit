@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.toggleStickerSets",
+  "final_url": "https://core.telegram.org/method/messages.toggleStickerSets",
+  "title": "messages.toggleStickerSets",
+  "fetched_at": "2026-09-11T06:10:37Z",
+  "sha256": "8cf5322ad66053c3c855186ea6d39a723a266182ff158daea3f84247a6e298ea",
+  "bytes": 15726,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/86f9e4c103c6712ae1cc.html",
+  "markdown": "docs/pages/86f9e4c103c6712ae1cc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.toggleStickerSets",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputStickerSet",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

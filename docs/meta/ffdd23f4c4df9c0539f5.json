@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_live_story_result_ok.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_live_story_result_ok.html",
+  "title": "TDLib: startLiveStoryResultOk Class Reference",
+  "fetched_at": "2026-09-11T06:15:49Z",
+  "sha256": "fdb4727db37a59fa0df3a2825cad5c72789944672dfa720d257e549d6944533e",
+  "bytes": 18540,
+  "content_type": "text/html",
+  "raw": "docs/raw/ffdd23f4c4df9c0539f5.html",
+  "markdown": "docs/pages/ffdd23f4c4df9c0539f5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_start_live_story_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_live_story_result_ok-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_live_story_result_ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

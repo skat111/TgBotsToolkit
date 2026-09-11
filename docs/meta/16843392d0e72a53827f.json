@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_statistics.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_statistics.html",
+  "title": "TDLib: chatRevenueStatistics Class Reference",
+  "fetched_at": "2026-09-11T06:13:45Z",
+  "sha256": "b7f3fca98cbeee7cc9888dc6a9d449e3a1509b1fd230233c2071b023288f2371",
+  "bytes": 23087,
+  "content_type": "text/html",
+  "raw": "docs/raw/16843392d0e72a53827f.html",
+  "markdown": "docs/pages/16843392d0e72a53827f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_statistical_graph.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_statistics-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_statistics.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/chatlists.exportedChatlistInvite",
+  "final_url": "https://core.telegram.org/constructor/chatlists.exportedChatlistInvite",
+  "title": "chatlists.exportedChatlistInvite",
+  "fetched_at": "2026-09-11T06:05:54Z",
+  "sha256": "962a8fce13179df16847618d20fc45f03fe11271aa1f3c4c8b9bef0ab678247b",
+  "bytes": 15178,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bd39801bcb8616b4ed7b.html",
+  "markdown": "docs/pages/bd39801bcb8616b4ed7b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/chatlists.exportedChatlistInvite",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DialogFilter",
+    "https://core.telegram.org/type/ExportedChatlistInvite",
+    "https://core.telegram.org/type/chatlists.ExportedChatlistInvite"
+  ]
+}

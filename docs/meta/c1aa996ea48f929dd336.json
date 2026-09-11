@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1parse_text_entities.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1parse_text_entities.html",
+  "title": "TDLib: parseTextEntities Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "2cfc4db076a6b318e4000d31840875d6b5c8358cbae035452ad1dbcd4ba23a80",
+  "bytes": 21321,
+  "content_type": "text/html",
+  "raw": "docs/raw/c1aa996ea48f929dd336.html",
+  "markdown": "docs/pages/c1aa996ea48f929dd336.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_parse_mode.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1parse_text_entities-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1parse_text_entities.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_map_thumbnail_file.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_map_thumbnail_file.html",
+  "title": "TDLib: getMapThumbnailFile Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "65998d9754a572847bc18621f0b4d25aa2846b8db8807749fd62d977647b7a7a",
+  "bytes": 26259,
+  "content_type": "text/html",
+  "raw": "docs/raw/59ba56ed2ad1ad5e6469.html",
+  "markdown": "docs/pages/59ba56ed2ad1ad5e6469.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_map_thumbnail_file-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_map_thumbnail_file.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

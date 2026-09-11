@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/auth.cancelCode",
+  "final_url": "https://core.telegram.org/method/auth.cancelCode",
+  "title": "auth.cancelCode",
+  "fetched_at": "2026-09-11T06:09:03Z",
+  "sha256": "764dfb1d676f3a0d0540ea1a15c1c31c99b07dc4d7a51d9c944ac8e8054c8412",
+  "bytes": 15926,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3c790e43417dd42e7f49.html",
+  "markdown": "docs/pages/3c790e43417dd42e7f49.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/auth.cancelCode",
+    "https://core.telegram.org/method/auth.sendCode",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

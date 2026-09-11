@@ -1,0 +1,18 @@
+{
+  "url": "https://core.telegram.org/themes",
+  "final_url": "https://core.telegram.org/themes",
+  "title": "Creating Custom Cloud Themes",
+  "fetched_at": "2026-09-11T06:11:49Z",
+  "sha256": "7a69bef9f6bc2709794be171ca851879fed6dd62f48cda81155c7803ab8e4923",
+  "bytes": 9287,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e1e2e562c3a0d76398ff.html",
+  "markdown": "docs/pages/e1e2e562c3a0d76398ff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/themes"
+  ]
+}

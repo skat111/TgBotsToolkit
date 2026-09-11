@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_secret_chat.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_secret_chat.html",
+  "title": "TDLib: updateSecretChat Class Reference",
+  "fetched_at": "2026-09-11T06:16:16Z",
+  "sha256": "a045eac6eca48b52ff6d2aa7055540fe82428896d0b652f5a9f3680d5ae4761f",
+  "bytes": 18765,
+  "content_type": "text/html",
+  "raw": "docs/raw/2f1e68296481a96fb4dd.html",
+  "markdown": "docs/pages/2f1e68296481a96fb4dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1secret_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_secret_chat-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_secret_chat.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

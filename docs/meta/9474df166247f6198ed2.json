@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_app_store_deposit.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_app_store_deposit.html",
+  "title": "TDLib: starTransactionTypeAppStoreDeposit Class Reference",
+  "fetched_at": "2026-09-11T06:15:47Z",
+  "sha256": "ecb2d8945ed2f61277f5e5069c21745f854f7ba394af940db273815a240ff8ca",
+  "bytes": 15843,
+  "content_type": "text/html",
+  "raw": "docs/raw/9474df166247f6198ed2.html",
+  "markdown": "docs/pages/9474df166247f6198ed2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_star_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_app_store_deposit-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_app_store_deposit.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

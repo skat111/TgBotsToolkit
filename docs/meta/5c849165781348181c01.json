@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/gateway",
+  "final_url": "https://core.telegram.org/gateway",
+  "title": "Telegram Gateway – Fast, Affordable, and Secure User Verification",
+  "fetched_at": "2026-09-11T06:04:37Z",
+  "sha256": "cd1cb703fd9577ee91b618e10e82d976c77e0446671de00779d7b0097ed47a61",
+  "bytes": 16076,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5c849165781348181c01.html",
+  "markdown": "docs/pages/5c849165781348181c01.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/400780400031/4/O9Jsl42ber0.98383/bfc2ac7805965d98a0",
+    "https://core.telegram.org/file/400780400146/1/3uChLsddQE4.79753/a4051359d04719de58",
+    "https://core.telegram.org/file/400780400656/3/9iBg_m8EjJs.349165/64ba1e8722d15e124d",
+    "https://core.telegram.org/file/400780400658/1/KzqXYJ29JGs.45959/e1be634e32ae8b8f00",
+    "https://core.telegram.org/gateway",
+    "https://core.telegram.org/gateway/api",
+    "https://core.telegram.org/gateway/verification-tutorial",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

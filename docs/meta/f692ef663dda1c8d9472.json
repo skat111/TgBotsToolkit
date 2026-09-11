@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_vector_path_command.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_vector_path_command.html",
+  "title": "TDLib: VectorPathCommand Class Reference",
+  "fetched_at": "2026-09-11T06:13:18Z",
+  "sha256": "7c1d29c84bc4f7c4cd050d0b311543bddb86118d6263caa508edd6a88017cd14",
+  "bytes": 12501,
+  "content_type": "text/html",
+  "raw": "docs/raw/f692ef663dda1c8d9472.html",
+  "markdown": "docs/pages/f692ef663dda1c8d9472.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_vector_path_command-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_vector_path_command.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1vector_path_command_cubic_bezier_curve.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1vector_path_command_line.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

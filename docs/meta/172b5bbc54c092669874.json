@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/videoSizeStickerMarkup",
+  "final_url": "https://core.telegram.org/constructor/videoSizeStickerMarkup",
+  "title": "videoSizeStickerMarkup",
+  "fetched_at": "2026-09-11T06:08:13Z",
+  "sha256": "e8ca47a0f19f5cbcf646d1d25b73e89db598e09dd435c9f5f3a1db78f9928dab",
+  "bytes": 15946,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/172b5bbc54c092669874.html",
+  "markdown": "docs/pages/172b5bbc54c092669874.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/videoSizeStickerMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputStickerSet",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/VideoSize",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_underline.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_underline.html",
+  "title": "TDLib: richTextUnderline Class Reference",
+  "fetched_at": "2026-09-11T06:15:28Z",
+  "sha256": "b10196402d6a0967994cb5f502309ac4d043bbebf5b4fe769d5aabb0e9d26045",
+  "bytes": 18354,
+  "content_type": "text/html",
+  "raw": "docs/raw/f7a8d88a729d0716e332.html",
+  "markdown": "docs/pages/f7a8d88a729d0716e332.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_rich_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_underline-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_underline.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

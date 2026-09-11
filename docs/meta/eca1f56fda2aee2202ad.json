@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html",
+  "title": "TDLib: getSearchedForTags Class Reference",
+  "fetched_at": "2026-09-11T06:14:21Z",
+  "sha256": "2d490d1e0ce303b9534d296671d76a811501c4018a6a76c641d09c96ff2fbd0e",
+  "bytes": 20702,
+  "content_type": "text/html",
+  "raw": "docs/raw/eca1f56fda2aee2202ad.html",
+  "markdown": "docs/pages/eca1f56fda2aee2202ad.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1hashtags.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

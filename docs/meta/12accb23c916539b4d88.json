@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:31Z",
+  "sha256": "652abead39e5f3cc4d9ecab3cfff2d7d0b0e5553cc3cdbd13bb2ce953ecfbb9e",
+  "bytes": 9673,
+  "content_type": "text/html",
+  "raw": "docs/raw/12accb23c916539b4d88.html",
+  "markdown": "docs/pages/12accb23c916539b4d88.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message.html"
+  ]
+}

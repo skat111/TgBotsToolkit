@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_login_url.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_login_url.html",
+  "title": "TDLib: inlineKeyboardButtonTypeLoginUrl Class Reference",
+  "fetched_at": "2026-09-11T06:14:29Z",
+  "sha256": "a4c3d4d0fbf28cff54cabc7cd006fae3b6163fc1dfea4fc1a2bf6cd2edb85f37",
+  "bytes": 21671,
+  "content_type": "text/html",
+  "raw": "docs/raw/e04c0d261ea2d29adf11.html",
+  "markdown": "docs/pages/e04c0d261ea2d29adf11.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_inline_keyboard_button_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_login_url_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_login_url-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_login_url.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

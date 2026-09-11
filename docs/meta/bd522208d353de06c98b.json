@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonRequestPoll",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonRequestPoll",
+  "title": "keyboardButtonRequestPoll",
+  "fetched_at": "2026-09-11T06:06:42Z",
+  "sha256": "6f93f2b3ea106c5b950c4f486f044c4421cefa293a26458acaaeaae784721be8",
+  "bytes": 16446,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bd522208d353de06c98b.html",
+  "markdown": "docs/pages/bd522208d353de06c98b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPoll",
+    "https://core.telegram.org/constructor/replyKeyboardMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/string"
+  ]
+}

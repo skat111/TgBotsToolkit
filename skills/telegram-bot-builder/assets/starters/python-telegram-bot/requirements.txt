@@ -1,0 +1,1 @@
+python-telegram-bot[webhooks]>=22,<23

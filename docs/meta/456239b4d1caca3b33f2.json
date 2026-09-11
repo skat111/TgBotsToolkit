@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/paidReactionPrivacyPeer",
+  "final_url": "https://core.telegram.org/constructor/paidReactionPrivacyPeer",
+  "title": "paidReactionPrivacyPeer",
+  "fetched_at": "2026-09-11T06:07:12Z",
+  "sha256": "32c9f1765e65d7a2e6efa496e128928bd5176996f076a6d6754d37c78a5a50dc",
+  "bytes": 15089,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/456239b4d1caca3b33f2.html",
+  "markdown": "docs/pages/456239b4d1caca3b33f2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/paidReactionPrivacyPeer",
+    "https://core.telegram.org/method/channels.getSendAs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/PaidReactionPrivacy"
+  ]
+}

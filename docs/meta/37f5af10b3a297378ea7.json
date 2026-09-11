@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/payments.getSavedStarGift",
+  "final_url": "https://core.telegram.org/method/payments.getSavedStarGift",
+  "title": "payments.getSavedStarGift",
+  "fetched_at": "2026-09-11T06:10:48Z",
+  "sha256": "a908312ec2e56addc5923b21ccc48b104db47b14559b91a0cf4ad5c6950d3270",
+  "bytes": 17033,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/37f5af10b3a297378ea7.html",
+  "markdown": "docs/pages/37f5af10b3a297378ea7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.savedStarGifts",
+    "https://core.telegram.org/method/payments.getSavedStarGift",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputSavedStarGift",
+    "https://core.telegram.org/type/SavedStarGift",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/payments.SavedStarGifts",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:51Z",
+  "sha256": "05fb40ac927a66208d8c26741aa43547e4e1d31bf81006410530a9f33e8f94a3",
+  "bytes": 11167,
+  "content_type": "text/html",
+  "raw": "docs/raw/474dcc23178802a9eb4b.html",
+  "markdown": "docs/pages/474dcc23178802a9eb4b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html"
+  ]
+}

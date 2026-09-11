@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/tdlib/notification-api/",
+  "final_url": "https://core.telegram.org/tdlib/notification-api/",
+  "title": "Notification API",
+  "fetched_at": "2026-09-11T06:11:49Z",
+  "sha256": "9e9678bfa6449d15bed4515a585f7f449799167d00d9f5bed7d3b2de74aff7ba",
+  "bytes": 20431,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/671dcd2c262858fd6ae9.html",
+  "markdown": "docs/pages/671dcd2c262858fd6ae9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/notification-api/"
+  ]
+}

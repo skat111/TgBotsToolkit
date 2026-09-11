@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/bots.setBotGroupDefaultAdminRights",
+  "final_url": "https://core.telegram.org/method/bots.setBotGroupDefaultAdminRights",
+  "title": "bots.setBotGroupDefaultAdminRights",
+  "fetched_at": "2026-09-11T06:09:18Z",
+  "sha256": "371e53091b0d95444a7c4c47fbf466f99ed721bb1ade53857fd11721753e08fb",
+  "bytes": 16018,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3f2b5c527fd4ca330936.html",
+  "markdown": "docs/pages/3f2b5c527fd4ca330936.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rights",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/bots.setBotGroupDefaultAdminRights",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChatAdminRights"
+  ]
+}

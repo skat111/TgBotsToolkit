@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_post_search_limits.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_post_search_limits.html",
+  "title": "TDLib: publicPostSearchLimits Class Reference",
+  "fetched_at": "2026-09-11T06:15:15Z",
+  "sha256": "3b48cd3674f68398245f0108caf828bb1ef6d8f8e740dfc27e325bbbf8c45a24",
+  "bytes": 23591,
+  "content_type": "text/html",
+  "raw": "docs/raw/a491ca1596bbd644105a.html",
+  "markdown": "docs/pages/a491ca1596bbd644105a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_post_search_limits-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_post_search_limits.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

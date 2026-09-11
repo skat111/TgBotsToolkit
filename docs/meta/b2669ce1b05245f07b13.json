@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.saveRecentSticker",
+  "final_url": "https://core.telegram.org/method/messages.saveRecentSticker",
+  "title": "messages.saveRecentSticker",
+  "fetched_at": "2026-09-11T06:10:26Z",
+  "sha256": "4fcd04223ae74e7cb81806dd6a4a944071f6f047455aeaa44e760d5b145eb3ef",
+  "bytes": 15707,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b2669ce1b05245f07b13.html",
+  "markdown": "docs/pages/b2669ce1b05245f07b13.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.saveRecentSticker",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputDocument"
+  ]
+}

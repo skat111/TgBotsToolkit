@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/type/SecureValueType",
+  "final_url": "https://core.telegram.org/type/SecureValueType",
+  "title": "SecureValueType",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "085a533feeff0e7b3ecf79d2c936319d83f770bbb449f5c3ecf1175f8c9909ce",
+  "bytes": 17592,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/83794789fab71de05380.html",
+  "markdown": "docs/pages/83794789fab71de05380.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeAddress",
+    "https://core.telegram.org/constructor/secureValueTypeBankStatement",
+    "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+    "https://core.telegram.org/constructor/secureValueTypeEmail",
+    "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+    "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+    "https://core.telegram.org/constructor/secureValueTypePassport",
+    "https://core.telegram.org/constructor/secureValueTypePassportRegistration",
+    "https://core.telegram.org/constructor/secureValueTypePersonalDetails",
+    "https://core.telegram.org/constructor/secureValueTypePhone",
+    "https://core.telegram.org/constructor/secureValueTypeRentalAgreement",
+    "https://core.telegram.org/constructor/secureValueTypeTemporaryRegistration",
+    "https://core.telegram.org/constructor/secureValueTypeUtilityBill",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

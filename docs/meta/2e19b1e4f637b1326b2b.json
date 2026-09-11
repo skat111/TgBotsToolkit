@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1received_gifts.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1received_gifts.html",
+  "title": "TDLib: receivedGifts Class Reference",
+  "fetched_at": "2026-09-11T06:15:19Z",
+  "sha256": "1557d31c7dc0ff715db9f0f51bf748491acf3c84434fcd36797397bd2848ac77",
+  "bytes": 22377,
+  "content_type": "text/html",
+  "raw": "docs/raw/2e19b1e4f637b1326b2b.html",
+  "markdown": "docs/pages/2e19b1e4f637b1326b2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1received_gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1received_gifts-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1received_gifts.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

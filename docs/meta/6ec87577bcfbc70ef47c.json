@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inlineBotSwitchPM",
+  "final_url": "https://core.telegram.org/constructor/inlineBotSwitchPM",
+  "title": "inlineBotSwitchPM",
+  "fetched_at": "2026-09-11T06:06:12Z",
+  "sha256": "e56297cccd517d470bb825379c49fb0815bd35205d2f986be34e5975aaf598b4",
+  "bytes": 14599,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6ec87577bcfbc70ef47c.html",
+  "markdown": "docs/pages/6ec87577bcfbc70ef47c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inlineBotSwitchPM",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InlineBotSwitchPM",
+    "https://core.telegram.org/type/string"
+  ]
+}

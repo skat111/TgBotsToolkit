@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_top_donors-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_top_donors-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:18Z",
+  "sha256": "ca4d8ca4f736dac3195a878ba253bb0d8304a3b20feb81fc5e9695487d0c1e2a",
+  "bytes": 10592,
+  "content_type": "text/html",
+  "raw": "docs/raw/7a5690d42ef1be5ee89d.html",
+  "markdown": "docs/pages/7a5690d42ef1be5ee89d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_top_donors.html"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/help.timezonesList",
+  "final_url": "https://core.telegram.org/constructor/help.timezonesList",
+  "title": "help.timezonesList",
+  "fetched_at": "2026-09-11T06:06:11Z",
+  "sha256": "24267ef7918089134bf621d4457d1079df1a5060df21796da8aa479726711362",
+  "bytes": 15569,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d871df3e9253105b1119.html",
+  "markdown": "docs/pages/d871df3e9253105b1119.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/help.timezonesList",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Timezone",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.TimezonesList",
+    "https://core.telegram.org/type/int"
+  ]
+}

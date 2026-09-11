@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_can_have_sponsored_messages-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_can_have_sponsored_messages-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:05Z",
+  "sha256": "f57406950abaad6d5ce77260c9a627bbf9198ee7df07152475e53d10d0a28949",
+  "bytes": 11472,
+  "content_type": "text/html",
+  "raw": "docs/raw/04a0aca354b0c8ffbabf.html",
+  "markdown": "docs/pages/04a0aca354b0c8ffbabf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_can_have_sponsored_messages.html"
+  ]
+}

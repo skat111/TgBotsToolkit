@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_upgraded_gift_purchase-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_upgraded_gift_purchase-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:06Z",
+  "sha256": "45dce941ce12d9715e3878a67dc750e36b9f3d927434bb81a3db7e66e3ac4fc9",
+  "bytes": 11040,
+  "content_type": "text/html",
+  "raw": "docs/raw/10ba08e0d2b85e801886.html",
+  "markdown": "docs/pages/10ba08e0d2b85e801886.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_upgraded_gift_purchase.html"
+  ]
+}

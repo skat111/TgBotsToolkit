@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateMessagePollVote",
+  "final_url": "https://core.telegram.org/constructor/updateMessagePollVote",
+  "title": "updateMessagePollVote",
+  "fetched_at": "2026-09-11T06:08:01Z",
+  "sha256": "0688319dff9f703909abce99f8d92db6c5a3ce2ca9e7321a566b61c4409c7f6c",
+  "bytes": 15654,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/774f83994f2440aa9619.html",
+  "markdown": "docs/pages/774f83994f2440aa9619.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateMessagePollVote",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

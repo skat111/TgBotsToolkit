@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/textPhone",
+  "final_url": "https://core.telegram.org/constructor/textPhone",
+  "title": "textPhone",
+  "fetched_at": "2026-09-11T06:07:49Z",
+  "sha256": "2984d59edbf977ece561c071596f918ad476c1bf237dd5bae7e9ced2a04fd9cd",
+  "bytes": 14241,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c47a4c8c130665260365.html",
+  "markdown": "docs/pages/c47a4c8c130665260365.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textPhone",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText",
+    "https://core.telegram.org/type/string"
+  ]
+}

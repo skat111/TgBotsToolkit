@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html",
+  "title": "TDLib: acceptedGiftTypes Class Reference",
+  "fetched_at": "2026-09-11T06:13:18Z",
+  "sha256": "b48e91736fc74f73557ad84c6f7dd231a38a79e3808b8b301c098c34fff673fd",
+  "bytes": 22466,
+  "content_type": "text/html",
+  "raw": "docs/raw/0b441e0fcd7e10add4a5.html",
+  "markdown": "docs/pages/0b441e0fcd7e10add4a5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

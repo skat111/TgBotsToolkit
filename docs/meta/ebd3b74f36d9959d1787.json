@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_business_callback_query.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_business_callback_query.html",
+  "title": "TDLib: updateNewBusinessCallbackQuery Class Reference",
+  "fetched_at": "2026-09-11T06:16:14Z",
+  "sha256": "7f9868e706ad6fecb1c003804a976bc36b20f6007fdfbb17b31f9469b61753ea",
+  "bytes": 25786,
+  "content_type": "text/html",
+  "raw": "docs/raw/ebd3b74f36d9959d1787.html",
+  "markdown": "docs/pages/ebd3b74f36d9959d1787.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_callback_query_payload.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_business_callback_query-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_business_callback_query.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/starsSubscription",
+  "final_url": "https://core.telegram.org/constructor/starsSubscription",
+  "title": "starsSubscription",
+  "fetched_at": "2026-09-11T06:07:41Z",
+  "sha256": "7b6c33e0eda05fa87977640ad014996de6824b5ccad5811bb7e2c8eb6d894034",
+  "bytes": 19354,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/403867a0091c835c8624.html",
+  "markdown": "docs/pages/403867a0091c835c8624.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/api/subscriptions",
+    "https://core.telegram.org/constructor/starsSubscription",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/payments.fulfillStarsSubscription",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/StarsSubscription",
+    "https://core.telegram.org/type/StarsSubscriptionPricing",
+    "https://core.telegram.org/type/WebDocument",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

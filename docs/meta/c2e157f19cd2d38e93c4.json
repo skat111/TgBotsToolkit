@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1option_value_empty.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1option_value_empty.html",
+  "title": "TDLib: optionValueEmpty Class Reference",
+  "fetched_at": "2026-09-11T06:15:00Z",
+  "sha256": "90c1c3ecc0a10ea121e75c8532cd28867f8057aba5fe0e8da46da8916b42c36f",
+  "bytes": 15538,
+  "content_type": "text/html",
+  "raw": "docs/raw/c2e157f19cd2d38e93c4.html",
+  "markdown": "docs/pages/c2e157f19cd2d38e93c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_option_value.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1option_value_empty-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1option_value_empty.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic_type_author_hidden.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic_type_author_hidden.html",
+  "title": "TDLib: savedMessagesTopicTypeAuthorHidden Class Reference",
+  "fetched_at": "2026-09-11T06:15:28Z",
+  "sha256": "7a7db6b70ee02f4e833204d8939db43b3f97a4c5f868b5652a6356ace08fff70",
+  "bytes": 15797,
+  "content_type": "text/html",
+  "raw": "docs/raw/ecb3cf5a3e75f3d46e55.html",
+  "markdown": "docs/pages/ecb3cf5a3e75f3d46e55.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_saved_messages_topic_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic_type_author_hidden-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic_type_author_hidden.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

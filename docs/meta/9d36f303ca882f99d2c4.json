@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_saved_messages_tags.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_saved_messages_tags.html",
+  "title": "TDLib: getSavedMessagesTags Class Reference",
+  "fetched_at": "2026-09-11T06:14:20Z",
+  "sha256": "f3cf2fd97d8ec1dbe133237e18ca33471244b8ce9d2a55d92225ecb20fb4a68e",
+  "bytes": 19755,
+  "content_type": "text/html",
+  "raw": "docs/raw/9d36f303ca882f99d2c4.html",
+  "markdown": "docs/pages/9d36f303ca882f99d2c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_saved_messages_tags-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_saved_messages_tags.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_tags.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

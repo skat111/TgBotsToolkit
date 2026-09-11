@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/users.getSavedMusic",
+  "final_url": "https://core.telegram.org/method/users.getSavedMusic",
+  "title": "users.getSavedMusic",
+  "fetched_at": "2026-09-11T06:11:39Z",
+  "sha256": "026b7a06a9c3f0d52029d54d36989714c5dc5e068a843786fbea5227f5b9bb01",
+  "bytes": 16705,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a1ee88ea5836712b1737.html",
+  "markdown": "docs/pages/a1ee88ea5836712b1737.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/users.savedMusic",
+    "https://core.telegram.org/constructor/users.savedMusicNotModified",
+    "https://core.telegram.org/method/users.getSavedMusic",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/users.SavedMusic"
+  ]
+}

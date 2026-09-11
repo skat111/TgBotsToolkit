@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/businessBotRecipients",
+  "final_url": "https://core.telegram.org/constructor/businessBotRecipients",
+  "title": "businessBotRecipients",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "bebab4b06ee6d9c3abea62e19b925f76db88415a3b5f3ae66b598d308ff29cef",
+  "bytes": 17507,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/657c59b623c568c23611.html",
+  "markdown": "docs/pages/657c59b623c568c23611.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessBotRecipients",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessBotRecipients",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

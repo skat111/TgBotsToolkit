@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/inputSecureFileLocation",
+  "final_url": "https://core.telegram.org/constructor/inputSecureFileLocation",
+  "title": "inputSecureFileLocation",
+  "fetched_at": "2026-09-11T06:06:36Z",
+  "sha256": "7db6c91a40614b4f9f1b1cce178b95b9000304a883d9ea07269a49038d797f1a",
+  "bytes": 15354,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/61a46a57df935813a675.html",
+  "markdown": "docs/pages/61a46a57df935813a675.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputSecureFileLocation",
+    "https://core.telegram.org/constructor/secureFile",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputFileLocation",
+    "https://core.telegram.org/type/long"
+  ]
+}

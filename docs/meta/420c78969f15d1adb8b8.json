@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionSetChatWallPaper",
+  "final_url": "https://core.telegram.org/constructor/messageActionSetChatWallPaper",
+  "title": "messageActionSetChatWallPaper",
+  "fetched_at": "2026-09-11T06:06:49Z",
+  "sha256": "e7bb716133bc2d8dea6ecb8d46533fbcc2584e3061c7bedbc00f75989cc284d4",
+  "bytes": 16760,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/420c78969f15d1adb8b8.html",
+  "markdown": "docs/pages/420c78969f15d1adb8b8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/messageActionSetChatWallPaper",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.setChatWallPaper",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/WallPaper"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_affiliate_programs-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_affiliate_programs-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:06Z",
+  "sha256": "3b842175b5cd3826173ee4933b697d09eb59878df64be93215d47b989a6bb059",
+  "bytes": 10961,
+  "content_type": "text/html",
+  "raw": "docs/raw/d69b8bcab271723b1cc4.html",
+  "markdown": "docs/pages/d69b8bcab271723b1cc4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_affiliate_programs.html"
+  ]
+}

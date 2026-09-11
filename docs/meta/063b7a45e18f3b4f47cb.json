@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/bots/",
+  "final_url": "https://core.telegram.org/bots/",
+  "title": "Bots: An introduction for developers",
+  "fetched_at": "2026-09-11T06:05:29Z",
+  "sha256": "3329b2b9b373bfc155f419d9014a2f5e4d5a404859df3f63890390b137a02dc2",
+  "bytes": 24953,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/063b7a45e18f3b4f47cb.html",
+  "markdown": "docs/pages/063b7a45e18f3b4f47cb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/url-authorization",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/bots/features",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/bots/games",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments-stars",
+    "https://core.telegram.org/bots/samples",
+    "https://core.telegram.org/bots/tutorial",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/file/464001186/11e04/7XO37b9iccE.133932/a29f8bf593af567fcc",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.uploadEncryptedFile",
+  "final_url": "https://core.telegram.org/method/messages.uploadEncryptedFile",
+  "title": "messages.uploadEncryptedFile",
+  "fetched_at": "2026-09-11T06:10:39Z",
+  "sha256": "b08c3473264007bd51bbfd1a629cd339185907e2eba7255a1a53b4b8a0a52160",
+  "bytes": 15727,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/27d8a884b30fce5e8388.html",
+  "markdown": "docs/pages/27d8a884b30fce5e8388.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/encryptedFile",
+    "https://core.telegram.org/constructor/encryptedFileEmpty",
+    "https://core.telegram.org/method/messages.uploadEncryptedFile",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EncryptedFile",
+    "https://core.telegram.org/type/InputEncryptedChat",
+    "https://core.telegram.org/type/InputEncryptedFile",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

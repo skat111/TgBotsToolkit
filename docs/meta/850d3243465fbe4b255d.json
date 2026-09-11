@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/nearestDc",
+  "final_url": "https://core.telegram.org/constructor/nearestDc",
+  "title": "nearestDc",
+  "fetched_at": "2026-09-11T06:07:07Z",
+  "sha256": "179a0d1facf539c5faa5155b94655b7e89dd09435b254f09ea85aa942f3c8c92",
+  "bytes": 14495,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/850d3243465fbe4b255d.html",
+  "markdown": "docs/pages/850d3243465fbe4b255d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/nearestDc",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/NearestDc",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

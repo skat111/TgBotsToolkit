@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_email_code.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_email_code.html",
+  "title": "TDLib: checkAuthenticationEmailCode Class Reference",
+  "fetched_at": "2026-09-11T06:13:46Z",
+  "sha256": "a47c724bf8678cb163802a3cfba3f50a18aef5dc18ee51cbbcca0dcfa9f36ee0",
+  "bytes": 20491,
+  "content_type": "text/html",
+  "raw": "docs/raw/806f49e2211532995ee6.html",
+  "markdown": "docs/pages/806f49e2211532995ee6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_email_address_authentication.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_email_code-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_email_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

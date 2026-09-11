@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/ForumTopic",
+  "final_url": "https://core.telegram.org/type/ForumTopic",
+  "title": "ForumTopic",
+  "fetched_at": "2026-09-11T06:17:01Z",
+  "sha256": "c14e3a9a78b108438ecbb7b702e429370dfae3bf062ffef51bfca6a2a97ae421",
+  "bytes": 15799,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/da8ef394a293e088c85e.html",
+  "markdown": "docs/pages/da8ef394a293e088c85e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/forumTopic",
+    "https://core.telegram.org/constructor/forumTopicDeleted",
+    "https://core.telegram.org/method/messages.getForumTopicsByID",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DraftMessage",
+    "https://core.telegram.org/type/ForumTopic",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PeerNotifySettings",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_ok.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_ok.html",
+  "title": "TDLib: checkChatUsernameResultOk Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "6085711042fe1a97777d3787dea935e023d05b3fa6d744d33d00d986d6af267d",
+  "bytes": 15598,
+  "content_type": "text/html",
+  "raw": "docs/raw/78d8cebab3249acf74cc.html",
+  "markdown": "docs/pages/78d8cebab3249acf74cc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_check_chat_username_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_ok-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

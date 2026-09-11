@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/PostInteractionCounters",
+  "final_url": "https://core.telegram.org/type/PostInteractionCounters",
+  "title": "PostInteractionCounters",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "e75198bc4235cd36ef6db56d8066a07fe629fd23116667df4c81e1ba2e9d80a7",
+  "bytes": 14614,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ff7242f21caf9fe667bf.html",
+  "markdown": "docs/pages/ff7242f21caf9fe667bf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/postInteractionCountersMessage",
+    "https://core.telegram.org/constructor/postInteractionCountersStory",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PostInteractionCounters",
+    "https://core.telegram.org/type/int"
+  ]
+}

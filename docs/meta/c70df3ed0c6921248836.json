@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/replyKeyboardHide",
+  "final_url": "https://core.telegram.org/constructor/replyKeyboardHide",
+  "title": "replyKeyboardHide",
+  "fetched_at": "2026-09-11T06:07:29Z",
+  "sha256": "b5d1390100cdfe4b5dd60bb18a59e8b3f13fa49d17054352a4eca33e745a7e29",
+  "bytes": 14840,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c70df3ed0c6921248836.html",
+  "markdown": "docs/pages/c70df3ed0c6921248836.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/replyKeyboardHide",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ReplyMarkup"
+  ]
+}

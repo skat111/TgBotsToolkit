@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/Config",
+  "final_url": "https://core.telegram.org/type/Config",
+  "title": "Config",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "1f28a399bcad93fd71af3f9aedb462117035c8a0ac76584f64dc948699c796b5",
+  "bytes": 16796,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d173a026962d413ce815.html",
+  "markdown": "docs/pages/d173a026962d413ce815.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/config",
+    "https://core.telegram.org/method/help.getConfig",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Config",
+    "https://core.telegram.org/type/DcOption",
+    "https://core.telegram.org/type/Reaction",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

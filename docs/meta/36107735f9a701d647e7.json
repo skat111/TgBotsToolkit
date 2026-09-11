@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_fixed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_fixed.html",
+  "title": "TDLib: richTextFixed Class Reference",
+  "fetched_at": "2026-09-11T06:15:27Z",
+  "sha256": "fe76b71471536becf9385823ddf92831d7975a94b0a0d9c0adad49f6fcaa9938",
+  "bytes": 18279,
+  "content_type": "text/html",
+  "raw": "docs/raw/36107735f9a701d647e7.html",
+  "markdown": "docs/pages/36107735f9a701d647e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_rich_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_fixed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_fixed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

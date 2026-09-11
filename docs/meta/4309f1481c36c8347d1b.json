@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/starsGiveawayOption",
+  "final_url": "https://core.telegram.org/constructor/starsGiveawayOption",
+  "title": "starsGiveawayOption",
+  "fetched_at": "2026-09-11T06:07:40Z",
+  "sha256": "2598fdebbaeb0df732e755c8b583d3e5ca5e2e7617581a0cbf9c21b562ef6a5c",
+  "bytes": 18146,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4309f1481c36c8347d1b.html",
+  "markdown": "docs/pages/4309f1481c36c8347d1b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/inputStorePaymentStarsGiveaway",
+    "https://core.telegram.org/constructor/starsGiveawayOption",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StarsGiveawayOption",
+    "https://core.telegram.org/type/StarsGiveawayWinnersOption",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

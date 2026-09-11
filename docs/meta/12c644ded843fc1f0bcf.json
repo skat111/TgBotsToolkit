@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPaidMessagesRefunded",
+  "final_url": "https://core.telegram.org/constructor/messageActionPaidMessagesRefunded",
+  "title": "messageActionPaidMessagesRefunded",
+  "fetched_at": "2026-09-11T06:06:47Z",
+  "sha256": "20e6546e3d04dbfe5779ad18ede36ddd0ad353db6cca14c805905d887f37758f",
+  "bytes": 15711,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/12c644ded843fc1f0bcf.html",
+  "markdown": "docs/pages/12c644ded843fc1f0bcf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/messageActionPaidMessagesRefunded",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

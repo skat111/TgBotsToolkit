@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_store_payment_purpose.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_store_payment_purpose.html",
+  "title": "TDLib: StorePaymentPurpose Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "3256eeb5392f24e27d5420196f625c197844e31c99bba2c88cdd2e15e84eff25",
+  "bytes": 13152,
+  "content_type": "text/html",
+  "raw": "docs/raw/9cba02ffab5cb6a17599.html",
+  "markdown": "docs/pages/9cba02ffab5cb6a17599.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_store_payment_purpose-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_store_payment_purpose.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_gifted_stars.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_premium_gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_premium_gift_codes.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_premium_giveaway.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_premium_subscription.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_star_giveaway.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_payment_purpose_stars.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

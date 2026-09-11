@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/account.WebAuthorizations",
+  "final_url": "https://core.telegram.org/type/account.WebAuthorizations",
+  "title": "Account.WebAuthorizations",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "bb7ee0e1d2842de6e84949a52c6e131cb267922f68c3e62a3c69f2594589f33b",
+  "bytes": 14745,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c648488aefc9c26f4a08.html",
+  "markdown": "docs/pages/c648488aefc9c26f4a08.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.webAuthorizations",
+    "https://core.telegram.org/method/account.getWebAuthorizations",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/WebAuthorization",
+    "https://core.telegram.org/type/account.WebAuthorizations",
+    "https://core.telegram.org/widgets/login"
+  ]
+}

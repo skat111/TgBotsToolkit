@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionSetMessagesTTL",
+  "final_url": "https://core.telegram.org/constructor/messageActionSetMessagesTTL",
+  "title": "messageActionSetMessagesTTL",
+  "fetched_at": "2026-09-11T06:06:49Z",
+  "sha256": "c7d1053ca2ec71eceee9b2eddd01d2d117ee05770dfc72e955101e81d4545c7c",
+  "bytes": 15744,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f839411f21bb39f0e09b.html",
+  "markdown": "docs/pages/f839411f21bb39f0e09b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionSetMessagesTTL",
+    "https://core.telegram.org/method/messages.setDefaultHistoryTTL",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

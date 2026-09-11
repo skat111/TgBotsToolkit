@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/cdn/faq_ir/durov",
+  "final_url": "https://core.telegram.org/cdn/faq_ir/durov",
+  "title": "توضيحات CDNهاى رمزنگارى شده",
+  "fetched_at": "2026-09-11T06:12:48Z",
+  "sha256": "adecf028cd3513b03981c14dbf4ce19b0a0984f1e749651acc30b097770449a7",
+  "bytes": 9275,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cb109da805a6515aa2bd.html",
+  "markdown": "docs/pages/cb109da805a6515aa2bd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/cdn",
+    "https://core.telegram.org/cdn/faq_ir",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/techfaq"
+  ]
+}

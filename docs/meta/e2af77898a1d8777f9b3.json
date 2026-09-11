@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel.html",
+  "title": "TDLib: chatActionCancel Class Reference",
+  "fetched_at": "2026-09-11T06:13:34Z",
+  "sha256": "fd14de0147fd5e1fe193b13b0eae5a9903e377b551283d02390fb5d7dc68f171",
+  "bytes": 15485,
+  "content_type": "text/html",
+  "raw": "docs/raw/e2af77898a1d8777f9b3.html",
+  "markdown": "docs/pages/e2af77898a1d8777f9b3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

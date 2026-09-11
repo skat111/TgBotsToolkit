@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/PageRelatedArticle",
+  "final_url": "https://core.telegram.org/type/PageRelatedArticle",
+  "title": "PageRelatedArticle",
+  "fetched_at": "2026-09-11T06:17:05Z",
+  "sha256": "83215b21d65f62db15a0f7572ff844effba11a151e5026656f5f6f5491485838",
+  "bytes": 14225,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a8c9e7c8e40ecd72aa1f.html",
+  "markdown": "docs/pages/a8c9e7c8e40ecd72aa1f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/pageRelatedArticle",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PageRelatedArticle",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

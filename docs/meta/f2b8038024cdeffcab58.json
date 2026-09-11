@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/missingInvitee",
+  "final_url": "https://core.telegram.org/constructor/missingInvitee",
+  "title": "missingInvitee",
+  "fetched_at": "2026-09-11T06:07:05Z",
+  "sha256": "b2f93f957539cdf95bdde7b48adeb852f541b73eb4a3e628c175a32bb6b563c5",
+  "bytes": 16431,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f2b8038024cdeffcab58.html",
+  "markdown": "docs/pages/f2b8038024cdeffcab58.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/missingInvitee",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MissingInvitee",
+    "https://core.telegram.org/type/long"
+  ]
+}

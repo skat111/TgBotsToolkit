@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_away_message_settings-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_away_message_settings-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:41Z",
+  "sha256": "0cf1e245aba219a154faf8a8ea7d8c6e145e86ed56e1a310c3e3d38625c52eee",
+  "bytes": 10885,
+  "content_type": "text/html",
+  "raw": "docs/raw/018508327991a37454fa.html",
+  "markdown": "docs/pages/018508327991a37454fa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_business_away_message_settings.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/updates.channelDifference",
+  "final_url": "https://core.telegram.org/constructor/updates.channelDifference",
+  "title": "updates.channelDifference",
+  "fetched_at": "2026-09-11T06:08:09Z",
+  "sha256": "6f8754ebf663c68f4fa8b2c5706e16b87a0e655ab9a8a366822b751e49ae02d8",
+  "bytes": 16737,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ae426a305b70c5201077.html",
+  "markdown": "docs/pages/ae426a305b70c5201077.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updates.channelDifference",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/updates.ChannelDifference"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1animated_chat_photo.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1animated_chat_photo.html",
+  "title": "TDLib: animatedChatPhoto Class Reference",
+  "fetched_at": "2026-09-11T06:13:20Z",
+  "sha256": "946b2bbbabbbb31b94142629e45763832f92b2e8213527007f6288fd5d146c77",
+  "bytes": 20724,
+  "content_type": "text/html",
+  "raw": "docs/raw/35c9312abe55426e7036.html",
+  "markdown": "docs/pages/35c9312abe55426e7036.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1animated_chat_photo-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1animated_chat_photo.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

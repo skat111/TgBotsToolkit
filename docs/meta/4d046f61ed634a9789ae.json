@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_pinned.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_pinned.html",
+  "title": "TDLib: chatEventForumTopicPinned Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "76f27a02bbccf712d18fec4f41296e8e6fdacb26142e753ad76931ceaa0461c3",
+  "bytes": 20290,
+  "content_type": "text/html",
+  "raw": "docs/raw/4d046f61ed634a9789ae.html",
+  "markdown": "docs/pages/4d046f61ed634a9789ae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_pinned-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_pinned.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

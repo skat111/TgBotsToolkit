@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/todoList",
+  "final_url": "https://core.telegram.org/constructor/todoList",
+  "title": "todoList",
+  "fetched_at": "2026-09-11T06:07:51Z",
+  "sha256": "85377bb1ab6d58b6e272dc4bcf9518f21d130c5de205b37a71414092b20bdd55",
+  "bytes": 16161,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b39e2cf271dc19f0f702.html",
+  "markdown": "docs/pages/b39e2cf271dc19f0f702.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/todo",
+    "https://core.telegram.org/constructor/todoList",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/TodoItem",
+    "https://core.telegram.org/type/TodoList",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

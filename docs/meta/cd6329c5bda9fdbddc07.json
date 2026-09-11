@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/bots.updateStarRefProgram",
+  "final_url": "https://core.telegram.org/method/bots.updateStarRefProgram",
+  "title": "bots.updateStarRefProgram",
+  "fetched_at": "2026-09-11T06:09:19Z",
+  "sha256": "1425546287509162aab56d7a57fdfdaaa4e91b3d36f19282f6cce1e06d1eee54",
+  "bytes": 18617,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cd6329c5bda9fdbddc07.html",
+  "markdown": "docs/pages/cd6329c5bda9fdbddc07.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/referrals",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/starRefProgram",
+    "https://core.telegram.org/method/bots.updateStarRefProgram",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/StarRefProgram",
+    "https://core.telegram.org/type/StarsAmount",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.clearRecentEmojiStatuses",
+  "final_url": "https://core.telegram.org/method/account.clearRecentEmojiStatuses",
+  "title": "account.clearRecentEmojiStatuses",
+  "fetched_at": "2026-09-11T06:08:31Z",
+  "sha256": "312fd2a03fe8fd8b4ff92475c3b0f28078e1bd08ad832fd0b5607dafa9cd6da4",
+  "bytes": 14821,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8d0665ce9138958b2cd8.html",
+  "markdown": "docs/pages/8d0665ce9138958b2cd8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.clearRecentEmojiStatuses",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

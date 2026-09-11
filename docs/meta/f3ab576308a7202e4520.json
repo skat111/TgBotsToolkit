@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.getInlineGameHighScores",
+  "final_url": "https://core.telegram.org/method/messages.getInlineGameHighScores",
+  "title": "messages.getInlineGameHighScores",
+  "fetched_at": "2026-09-11T06:10:09Z",
+  "sha256": "b59a972561c88d8f455bbf0afced279d49401c5f676cdb52739fea46bc3b136c",
+  "bytes": 15602,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f3ab576308a7202e4520.html",
+  "markdown": "docs/pages/f3ab576308a7202e4520.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.highScores",
+    "https://core.telegram.org/method/messages.getInlineGameHighScores",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/HighScore",
+    "https://core.telegram.org/type/InputBotInlineMessageID",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/messages.HighScores"
+  ]
+}

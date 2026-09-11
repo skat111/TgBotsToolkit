@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/auth.reportMissingCode",
+  "final_url": "https://core.telegram.org/method/auth.reportMissingCode",
+  "title": "auth.reportMissingCode",
+  "fetched_at": "2026-09-11T06:09:07Z",
+  "sha256": "955dac8b0f65ad70b018efe6477eda37fe3da95b8a9012819d01d78890d601b2",
+  "bytes": 16331,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/991f6e4353bf3d012e51.html",
+  "markdown": "docs/pages/991f6e4353bf3d012e51.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/auth.reportMissingCode",
+    "https://core.telegram.org/method/auth.sendCode",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

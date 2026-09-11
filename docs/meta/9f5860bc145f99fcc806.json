@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/botCommandScopeChatAdmins",
+  "final_url": "https://core.telegram.org/constructor/botCommandScopeChatAdmins",
+  "title": "botCommandScopeChatAdmins",
+  "fetched_at": "2026-09-11T06:05:38Z",
+  "sha256": "e1972843d1fbe97b06a775de920f2775cd8fd7684cf893ac849d30b236f403c8",
+  "bytes": 14706,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9f5860bc145f99fcc806.html",
+  "markdown": "docs/pages/9f5860bc145f99fcc806.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botCommandScopeChatAdmins",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotCommandScope"
+  ]
+}

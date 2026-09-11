@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/payments.validateRequestedInfo",
+  "final_url": "https://core.telegram.org/method/payments.validateRequestedInfo",
+  "title": "payments.validateRequestedInfo",
+  "fetched_at": "2026-09-11T06:11:00Z",
+  "sha256": "89c47ddd766f5362408a05e97b7089999640f88e4e89b9ba29822129318c4100",
+  "bytes": 16190,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2105db8c20f796113ef0.html",
+  "markdown": "docs/pages/2105db8c20f796113ef0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.validatedRequestedInfo",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/payments.validateRequestedInfo",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/PaymentRequestedInfo",
+    "https://core.telegram.org/type/ShippingOption",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/payments.ValidatedRequestedInfo",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_data_channel_screen_sharing-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_data_channel_screen_sharing-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:32Z",
+  "sha256": "aa309b6fe6d90cbd1745b4f7cdb6f92548045b50e08c795e292c6e3342d96293",
+  "bytes": 9804,
+  "content_type": "text/html",
+  "raw": "docs/raw/ab9d6517be513802dacc.html",
+  "markdown": "docs/pages/ab9d6517be513802dacc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_data_channel_screen_sharing.html"
+  ]
+}

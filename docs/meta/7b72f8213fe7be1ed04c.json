@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyKeyPhoneNumber",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyKeyPhoneNumber",
+  "title": "inputPrivacyKeyPhoneNumber",
+  "fetched_at": "2026-09-11T06:06:32Z",
+  "sha256": "ded280a255ca491aa147494b02bc2a707835fb61744fad4d1211dd0eace0a66a",
+  "bytes": 13991,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7b72f8213fe7be1ed04c.html",
+  "markdown": "docs/pages/7b72f8213fe7be1ed04c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPrivacyKeyPhoneNumber",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyKey"
+  ]
+}

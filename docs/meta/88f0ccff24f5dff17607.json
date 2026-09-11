@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStorePaymentStarsTopup",
+  "final_url": "https://core.telegram.org/constructor/inputStorePaymentStarsTopup",
+  "title": "inputStorePaymentStarsTopup",
+  "fetched_at": "2026-09-11T06:06:39Z",
+  "sha256": "00baeb31324df2472d105dabb5201318e76c20886687c1855a74410c567b232f",
+  "bytes": 16664,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/88f0ccff24f5dff17607.html",
+  "markdown": "docs/pages/88f0ccff24f5dff17607.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/inputStorePaymentStarsTopup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputStorePaymentPurpose",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

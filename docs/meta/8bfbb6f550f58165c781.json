@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.deleteMessages",
+  "final_url": "https://core.telegram.org/method/messages.deleteMessages",
+  "title": "messages.deleteMessages",
+  "fetched_at": "2026-09-11T06:09:52Z",
+  "sha256": "8457e515e78fa445818c9b0079414793aa34f02d95dd9c436e17d145e7fa98ef",
+  "bytes": 17844,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8bfbb6f550f58165c781.html",
+  "markdown": "docs/pages/8bfbb6f550f58165c781.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.affectedMessages",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.deleteMessages",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AffectedMessages"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift.html",
+  "title": "TDLib: gift Class Reference",
+  "fetched_at": "2026-09-11T06:14:26Z",
+  "sha256": "e94826dd1206fbf312aad8f1f6af519239896828b009713940e0cc318a16ebea",
+  "bytes": 40919,
+  "content_type": "text/html",
+  "raw": "docs/raw/2606f726db7b3552a642.html",
+  "markdown": "docs/pages/2606f726db7b3552a642.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_auction.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_background.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_purchase_limits.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.invalidateSignInCodes",
+  "final_url": "https://core.telegram.org/method/account.invalidateSignInCodes",
+  "title": "account.invalidateSignInCodes",
+  "fetched_at": "2026-09-11T06:08:47Z",
+  "sha256": "372ba90cf814d06ec40587d21890b788e9470003a210a39a0ad2f93d16eb1acb",
+  "bytes": 15215,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/32a04e2392e82f778d2a.html",
+  "markdown": "docs/pages/32a04e2392e82f778d2a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.invalidateSignInCodes",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

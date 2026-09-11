@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/ChannelAdminLogEventsFilter",
+  "final_url": "https://core.telegram.org/type/ChannelAdminLogEventsFilter",
+  "title": "ChannelAdminLogEventsFilter",
+  "fetched_at": "2026-09-11T06:16:26Z",
+  "sha256": "0fd6b91a9f1db768842f5df0cb5559d2e7bd9772f561f1a139c41d4108d0bde7",
+  "bytes": 14518,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/362749147e0d96e9b3f8.html",
+  "markdown": "docs/pages/362749147e0d96e9b3f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventsFilter",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelAdminLogEventsFilter"
+  ]
+}

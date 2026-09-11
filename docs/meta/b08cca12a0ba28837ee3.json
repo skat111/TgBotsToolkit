@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_value_null.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_value_null.html",
+  "title": "TDLib: jsonValueNull Class Reference",
+  "fetched_at": "2026-09-11T06:14:41Z",
+  "sha256": "4a62d90252eefe2ec3b5cffe1045cd61246210c04905cc652fcbd373f9ed7607",
+  "bytes": 15420,
+  "content_type": "text/html",
+  "raw": "docs/raw/b08cca12a0ba28837ee3.html",
+  "markdown": "docs/pages/b08cca12a0ba28837ee3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_value_null-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_value_null.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

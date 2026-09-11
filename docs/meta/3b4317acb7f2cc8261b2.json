@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_member_status_administrator.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_member_status_administrator.html",
+  "title": "TDLib: chatMemberStatusAdministrator Class Reference",
+  "fetched_at": "2026-09-11T06:13:39Z",
+  "sha256": "ad98fd3753ce427fbf91ef9f6538040a7069feb47c7cc44494cbe94caa8a87ae",
+  "bytes": 20665,
+  "content_type": "text/html",
+  "raw": "docs/raw/3b4317acb7f2cc8261b2.html",
+  "markdown": "docs/pages/3b4317acb7f2cc8261b2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_member_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_administrator_rights.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_member_status_administrator-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_member_status_administrator.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

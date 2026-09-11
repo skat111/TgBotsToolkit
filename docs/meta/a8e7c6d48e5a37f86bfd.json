@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePinnedForumTopic",
+  "final_url": "https://core.telegram.org/constructor/updatePinnedForumTopic",
+  "title": "updatePinnedForumTopic",
+  "fetched_at": "2026-09-11T06:08:03Z",
+  "sha256": "af7800f340de842218f54ac7f4d24f81b95c1449ab133dbbe8221807b99d2ce6",
+  "bytes": 15318,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a8e7c6d48e5a37f86bfd.html",
+  "markdown": "docs/pages/a8e7c6d48e5a37f86bfd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updatePinnedForumTopic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

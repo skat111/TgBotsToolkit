@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/premiumSubscriptionOption",
+  "final_url": "https://core.telegram.org/constructor/premiumSubscriptionOption",
+  "title": "premiumSubscriptionOption",
+  "fetched_at": "2026-09-11T06:07:23Z",
+  "sha256": "5527525f1ce01f233294212a056af805787239b53627a00587d292b92dc284a3",
+  "bytes": 17653,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c4d798272d5e67ee7e8a.html",
+  "markdown": "docs/pages/c4d798272d5e67ee7e8a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/premiumSubscriptionOption",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PremiumSubscriptionOption",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

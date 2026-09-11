@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale.html",
+  "title": "TDLib: giftForResale Class Reference",
+  "fetched_at": "2026-09-11T06:14:26Z",
+  "sha256": "b913b5705c6130cb7c76e690b314291d44db803db765219dd27ff45ea508cf93",
+  "bytes": 19695,
+  "content_type": "text/html",
+  "raw": "docs/raw/880d6c6c93122422bffa.html",
+  "markdown": "docs/pages/880d6c6c93122422bffa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1notification_settings_scope_group_chats.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1notification_settings_scope_group_chats.html",
+  "title": "TDLib: notificationSettingsScopeGroupChats Class Reference",
+  "fetched_at": "2026-09-11T06:15:00Z",
+  "sha256": "114db7cbfd52e4d0b8391372b776b7653998e852dc05ed6379b730c64c568adc",
+  "bytes": 15924,
+  "content_type": "text/html",
+  "raw": "docs/raw/b741f053f1231116d6d8.html",
+  "markdown": "docs/pages/b741f053f1231116d6d8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_notification_settings_scope.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1notification_settings_scope_group_chats-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1notification_settings_scope_group_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

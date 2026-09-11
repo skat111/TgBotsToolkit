@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/api/end-to-end/pfs",
+  "final_url": "https://core.telegram.org/api/end-to-end/pfs",
+  "title": "Perfect Forward Secrecy",
+  "fetched_at": "2026-09-11T06:04:51Z",
+  "sha256": "a15c1b0dff3c392330e676a23bfa0125d9505381bb68d812517a522c340bdf5d",
+  "bytes": 16828,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1e43c671f5faa48475fd.html",
+  "markdown": "docs/pages/1e43c671f5faa48475fd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end",
+    "https://core.telegram.org/api/end-to-end%2Fpfs",
+    "https://core.telegram.org/api/end-to-end/pfs",
+    "https://core.telegram.org/constructor/decryptedMessageActionAbortKey",
+    "https://core.telegram.org/constructor/decryptedMessageActionAcceptKey",
+    "https://core.telegram.org/constructor/decryptedMessageActionCommitKey",
+    "https://core.telegram.org/constructor/decryptedMessageActionNoop",
+    "https://core.telegram.org/constructor/decryptedMessageActionRequestKey",
+    "https://core.telegram.org/constructor/decryptedMessageService",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/security_guidelines",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageAction",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

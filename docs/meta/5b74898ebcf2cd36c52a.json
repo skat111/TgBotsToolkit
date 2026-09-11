@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_black_berry_push.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_black_berry_push.html",
+  "title": "TDLib: deviceTokenBlackBerryPush Class Reference",
+  "fetched_at": "2026-09-11T06:13:56Z",
+  "sha256": "3bdff915edb05622746f74e26e5c1b0c24c9af25eb9e138dbb45867852091dc1",
+  "bytes": 18395,
+  "content_type": "text/html",
+  "raw": "docs/raw/5b74898ebcf2cd36c52a.html",
+  "markdown": "docs/pages/5b74898ebcf2cd36c52a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_device_token.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_black_berry_push-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_black_berry_push.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_member_tag.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_member_tag.html",
+  "title": "TDLib: setChatMemberTag Class Reference",
+  "fetched_at": "2026-09-11T06:15:38Z",
+  "sha256": "127f7b81c320acc8081bbf57642537a26b18c25441dba6e75bc884d3b7cfdbf0",
+  "bytes": 22244,
+  "content_type": "text/html",
+  "raw": "docs/raw/584b1b36c756603bc87d.html",
+  "markdown": "docs/pages/584b1b36c756603bc87d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_member_tag-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_member_tag.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

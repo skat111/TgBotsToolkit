@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1block_list_main.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1block_list_main.html",
+  "title": "TDLib: blockListMain Class Reference",
+  "fetched_at": "2026-09-11T06:13:26Z",
+  "sha256": "77f362f9b399df457f2bc1d877a37c3162df935a59d3fe114d02ca4615088495",
+  "bytes": 15663,
+  "content_type": "text/html",
+  "raw": "docs/raw/18b443fcd7a6b09fab58.html",
+  "markdown": "docs/pages/18b443fcd7a6b09fab58.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1block_list_main-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1block_list_main.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

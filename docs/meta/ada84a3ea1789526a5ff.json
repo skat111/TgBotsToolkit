@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/sendMessageGamePlayAction",
+  "final_url": "https://core.telegram.org/constructor/sendMessageGamePlayAction",
+  "title": "sendMessageGamePlayAction",
+  "fetched_at": "2026-09-11T06:07:35Z",
+  "sha256": "0d73f0479c7cbe3d5e629b162f9e335561ac072a9f4c56509610ec69aff41b63",
+  "bytes": 13903,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ada84a3ea1789526a5ff.html",
+  "markdown": "docs/pages/ada84a3ea1789526a5ff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendMessageGamePlayAction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SendMessageAction"
+  ]
+}

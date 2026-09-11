@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/account.deleteAccount",
+  "final_url": "https://core.telegram.org/method/account.deleteAccount",
+  "title": "account.deleteAccount",
+  "fetched_at": "2026-09-11T06:08:32Z",
+  "sha256": "b2c18125693395e2e08d8a28716f54a51ce729138985529df878711a60606735",
+  "bytes": 17881,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/18b186ce4dcbd11753a1.html",
+  "markdown": "docs/pages/18b186ce4dcbd11753a1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/account-deletion",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.deleteAccount",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/string"
+  ]
+}

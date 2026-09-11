@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/InputPasskeyResponse",
+  "final_url": "https://core.telegram.org/type/InputPasskeyResponse",
+  "title": "InputPasskeyResponse",
+  "fetched_at": "2026-09-11T06:17:03Z",
+  "sha256": "ea023a944e27dbfda9d345cfd07b3c1f09b3250bc658a08a6b7d6d54c93820c3",
+  "bytes": 15833,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d02d229e95c1c21546f4.html",
+  "markdown": "docs/pages/d02d229e95c1c21546f4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/passkeys",
+    "https://core.telegram.org/constructor/inputPasskeyResponseLogin",
+    "https://core.telegram.org/constructor/inputPasskeyResponseRegister",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputPasskeyResponse",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

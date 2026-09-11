@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_email_address-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_email_address-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:31Z",
+  "sha256": "12d68d4b9e17dd9a69f04abf724fcac8d7a5f76a8d5b9b573cb160f5c684e73d",
+  "bytes": 10562,
+  "content_type": "text/html",
+  "raw": "docs/raw/21fbc1c72b950d50b0ed.html",
+  "markdown": "docs/pages/21fbc1c72b950d50b0ed.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_email_address.html"
+  ]
+}

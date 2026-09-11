@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_gift_auction_acquired_gifts-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_gift_auction_acquired_gifts-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:15Z",
+  "sha256": "31474b9a7c8298cbb014df6498a2497189521e51de18a55a45ca56dc645cd613",
+  "bytes": 10730,
+  "content_type": "text/html",
+  "raw": "docs/raw/152f5d8fc680f4c19ac2.html",
+  "markdown": "docs/pages/152f5d8fc680f4c19ac2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_gift_auction_acquired_gifts.html"
+  ]
+}

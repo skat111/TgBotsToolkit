@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/ChatPhoto",
+  "final_url": "https://core.telegram.org/type/ChatPhoto",
+  "title": "ChatPhoto",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "918de960d7efc4e28deb6cf385f1aa395a48160a7a1fecb4cbe3b30a57230607",
+  "bytes": 14259,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b261213f31f117571358.html",
+  "markdown": "docs/pages/b261213f31f117571358.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatPhoto",
+    "https://core.telegram.org/constructor/chatPhotoEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatPhoto",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

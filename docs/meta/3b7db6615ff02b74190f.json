@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_empty.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_empty.html",
+  "title": "TDLib: userStatusEmpty Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "a287de087fcc29138ee597e71d1d99be71544bda6cfc5a5cd1f617676a65088b",
+  "bytes": 15470,
+  "content_type": "text/html",
+  "raw": "docs/raw/3b7db6615ff02b74190f.html",
+  "markdown": "docs/pages/3b7db6615ff02b74190f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_empty-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_empty.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

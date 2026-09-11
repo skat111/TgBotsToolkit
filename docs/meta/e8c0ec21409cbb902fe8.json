@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/decryptedMessageActionTyping",
+  "final_url": "https://core.telegram.org/constructor/decryptedMessageActionTyping",
+  "title": "decryptedMessageActionTyping",
+  "fetched_at": "2026-09-11T06:11:54Z",
+  "sha256": "38eeda2aa3d81ffb86b2c576f2aed64f69d39e8c5f00bcdf30c36915322b77d8",
+  "bytes": 14397,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e8c0ec21409cbb902fe8.html",
+  "markdown": "docs/pages/e8c0ec21409cbb902fe8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/decryptedMessageActionTyping",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageAction",
+    "https://core.telegram.org/type/SendMessageAction"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/messageReportOption",
+  "final_url": "https://core.telegram.org/constructor/messageReportOption",
+  "title": "messageReportOption",
+  "fetched_at": "2026-09-11T06:06:57Z",
+  "sha256": "8de4a858c5d1185961cc51bb7b36230fdb8fe95d834fdbfefec1fc05bd6a1c54",
+  "bytes": 14842,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/49d8b482f7719e0f7806.html",
+  "markdown": "docs/pages/49d8b482f7719e0f7806.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageReportOption",
+    "https://core.telegram.org/method/messages.report",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageReportOption",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

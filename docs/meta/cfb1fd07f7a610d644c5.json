@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_created.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_created.html",
+  "title": "TDLib: chatEventForumTopicCreated Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "1b48a8a21b211d72c0a9ac80a339b0ddae2f3c46947695dfab91792d47f93904",
+  "bytes": 18684,
+  "content_type": "text/html",
+  "raw": "docs/raw/cfb1fd07f7a610d644c5.html",
+  "markdown": "docs/pages/cfb1fd07f7a610d644c5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_created-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_forum_topic_created.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

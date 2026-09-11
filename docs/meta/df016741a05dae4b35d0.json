@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_suggested_post_declined.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_suggested_post_declined.html",
+  "title": "TDLib: messageSuggestedPostDeclined Class Reference",
+  "fetched_at": "2026-09-11T06:14:58Z",
+  "sha256": "91f52c24a2f1249285fb47b1843b53cd6d3f1336b24284cc7eaa4d6baaab8c7d",
+  "bytes": 19874,
+  "content_type": "text/html",
+  "raw": "docs/raw/df016741a05dae4b35d0.html",
+  "markdown": "docs/pages/df016741a05dae4b35d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_suggested_post_declined-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_suggested_post_declined.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_send_failed-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_send_failed-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:13Z",
+  "sha256": "c39e96e7adfba872c4e34bfa76fb15e9c0f6d6165c7efb52953b6c037fa610bf",
+  "bytes": 11243,
+  "content_type": "text/html",
+  "raw": "docs/raw/395cadff2074c5d8fd8d.html",
+  "markdown": "docs/pages/395cadff2074c5d8fd8d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_send_failed.html"
+  ]
+}

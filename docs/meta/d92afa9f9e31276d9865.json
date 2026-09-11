@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.codeTypeMissedCall",
+  "final_url": "https://core.telegram.org/constructor/auth.codeTypeMissedCall",
+  "title": "auth.codeTypeMissedCall",
+  "fetched_at": "2026-09-11T06:05:34Z",
+  "sha256": "f6c800ab08f95053bbb3778745640aad51e3714d2c63770928b64411322145e8",
+  "bytes": 14194,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d92afa9f9e31276d9865.html",
+  "markdown": "docs/pages/d92afa9f9e31276d9865.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.codeTypeMissedCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.CodeType"
+  ]
+}

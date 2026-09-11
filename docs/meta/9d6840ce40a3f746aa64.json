@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_greeting_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_greeting_message.html",
+  "title": "TDLib: businessFeatureGreetingMessage Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "f1ec128aa82ab487b4b368389db0aaf20236d3dedd74a4ddc7b9c0dc2108e6f4",
+  "bytes": 15667,
+  "content_type": "text/html",
+  "raw": "docs/raw/9d6840ce40a3f746aa64.html",
+  "markdown": "docs/pages/9d6840ce40a3f746aa64.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_greeting_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_greeting_message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

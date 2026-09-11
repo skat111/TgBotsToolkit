@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_stream.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_stream.html",
+  "title": "TDLib: getLogStream Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "a3969852d84a20e700e1343ea9358305ebd8f9954335fbaeb33e98de736b5f74",
+  "bytes": 16680,
+  "content_type": "text/html",
+  "raw": "docs/raw/9ca9cf955446c8ed2d74.html",
+  "markdown": "docs/pages/9ca9cf955446c8ed2d74.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_stream-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_stream.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/payments.botCancelStarsSubscription",
+  "final_url": "https://core.telegram.org/method/payments.botCancelStarsSubscription",
+  "title": "payments.botCancelStarsSubscription",
+  "fetched_at": "2026-09-11T06:10:41Z",
+  "sha256": "758629dcf4683c50905dd477d32854c42b9ed20588678782a928519084032925",
+  "bytes": 17490,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/53c22275a40ee8449902.html",
+  "markdown": "docs/pages/53c22275a40ee8449902.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/subscriptions",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/messageActionPaymentSentMe",
+    "https://core.telegram.org/constructor/starsSubscription",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/payments.botCancelStarsSubscription",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/string"
+  ]
+}

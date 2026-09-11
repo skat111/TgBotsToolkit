@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/e2e.callPacket",
+  "final_url": "https://core.telegram.org/constructor/e2e.callPacket",
+  "title": "e2e.callPacket",
+  "fetched_at": "2026-09-11T06:06:01Z",
+  "sha256": "7a434916e8dd9443f8e669616c4f500d0a9e6ee117affb9b53578b40893096f0",
+  "bytes": 6335,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/df05aa165498efc93308.html",
+  "markdown": "docs/pages/df05aa165498efc93308.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.callPacket",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/e2e.CallPacket"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMediaUploadedDocument",
+  "final_url": "https://core.telegram.org/constructor/inputMediaUploadedDocument",
+  "title": "inputMediaUploadedDocument",
+  "fetched_at": "2026-09-11T06:06:26Z",
+  "sha256": "aa4446a93a11d6e60036e5c16eaf0415559326e169d5f4b7dcafc35a3a97c04c",
+  "bytes": 18502,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d16fa65b6c6db232230b.html",
+  "markdown": "docs/pages/d16fa65b6c6db232230b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/documentAttributeAnimated",
+    "https://core.telegram.org/constructor/inputMediaUploadedDocument",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DocumentAttribute",
+    "https://core.telegram.org/type/InputDocument",
+    "https://core.telegram.org/type/InputFile",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/InputPhoto",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

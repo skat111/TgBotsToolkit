@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/StatsDateRangeDays",
+  "final_url": "https://core.telegram.org/type/StatsDateRangeDays",
+  "title": "StatsDateRangeDays",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "fe8a3536920107eaf5d424b37c1c8024e761cf008514d09347cabbfa95829d21",
+  "bytes": 14005,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a455fdddf40b51f45a88.html",
+  "markdown": "docs/pages/a455fdddf40b51f45a88.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/statsDateRangeDays",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsDateRangeDays",
+    "https://core.telegram.org/type/int"
+  ]
+}

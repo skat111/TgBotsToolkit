@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStickerSetTonGifts",
+  "final_url": "https://core.telegram.org/constructor/inputStickerSetTonGifts",
+  "title": "inputStickerSetTonGifts",
+  "fetched_at": "2026-09-11T06:06:37Z",
+  "sha256": "7c632b8578987788f5e8df704015dce76a3fbaa9e3832e288648201213e32a69",
+  "bytes": 13878,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/70f6a9b1a0fd9cb91ce4.html",
+  "markdown": "docs/pages/70f6a9b1a0fd9cb91ce4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputStickerSetTonGifts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputStickerSet"
+  ]
+}

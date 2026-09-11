@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_oauth.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_oauth.html",
+  "title": "TDLib: internalLinkTypeOauth Class Reference",
+  "fetched_at": "2026-09-11T06:14:40Z",
+  "sha256": "ffb83e590589ee45b24945960e7be53f8f4e849deaa034cd5537d7b6c9eadb96",
+  "bytes": 20405,
+  "content_type": "text/html",
+  "raw": "docs/raw/04c3222c0008752cbab9.html",
+  "markdown": "docs/pages/04c3222c0008752cbab9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accept_oauth_request.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_oauth_request_match_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1decline_oauth_request.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_oauth_link_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_oauth-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_oauth.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

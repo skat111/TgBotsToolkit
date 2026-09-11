@@ -1,0 +1,8 @@
+{
+  "home.title": "Beautiful bot",
+  "home.subtitle": "All important actions are available from one menu.",
+  "button.catalog": "Open catalog",
+  "button.profile": "Profile",
+  "button.settings": "Settings",
+  "error.generic": "The action could not be completed. Please try again."
+}

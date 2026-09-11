@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/paymentFormMethod",
+  "final_url": "https://core.telegram.org/constructor/paymentFormMethod",
+  "title": "paymentFormMethod",
+  "fetched_at": "2026-09-11T06:07:12Z",
+  "sha256": "c6213c809b3860c54f4d6e3326b4e5f3df2577009fad240605cfcc815f934f71",
+  "bytes": 14371,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d4e76570b2c4da9ca08f.html",
+  "markdown": "docs/pages/d4e76570b2c4da9ca08f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/paymentFormMethod",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PaymentFormMethod",
+    "https://core.telegram.org/type/string"
+  ]
+}

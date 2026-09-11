@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueErrorSelfie",
+  "final_url": "https://core.telegram.org/constructor/secureValueErrorSelfie",
+  "title": "secureValueErrorSelfie",
+  "fetched_at": "2026-09-11T06:07:33Z",
+  "sha256": "e1ca8ed428ac709474677e1612cecc3255d32deda935fe3f657b54d101819521",
+  "bytes": 16408,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/05acfab10a3c0a5c3520.html",
+  "markdown": "docs/pages/05acfab10a3c0a5c3520.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueErrorSelfie",
+    "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+    "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+    "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+    "https://core.telegram.org/constructor/secureValueTypePassport",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

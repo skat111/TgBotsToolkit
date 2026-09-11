@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/inputChatThemeUniqueGift",
+  "final_url": "https://core.telegram.org/constructor/inputChatThemeUniqueGift",
+  "title": "inputChatThemeUniqueGift",
+  "fetched_at": "2026-09-11T06:06:19Z",
+  "sha256": "cfdd0b13daa5161146aad323d54075883f5df8e97f3e8563f0c59f9a9ddb41e3",
+  "bytes": 16032,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/69ad97e952ebeebdb307.html",
+  "markdown": "docs/pages/69ad97e952ebeebdb307.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/themes",
+    "https://core.telegram.org/constructor/inputChatThemeUniqueGift",
+    "https://core.telegram.org/constructor/starGiftAttributeModel",
+    "https://core.telegram.org/constructor/starGiftUnique",
+    "https://core.telegram.org/method/account.getUniqueGiftChatThemes",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputChatTheme",
+    "https://core.telegram.org/type/string"
+  ]
+}

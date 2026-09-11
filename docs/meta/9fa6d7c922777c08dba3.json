@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1birthdate.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1birthdate.html",
+  "title": "TDLib: birthdate Class Reference",
+  "fetched_at": "2026-09-11T06:13:26Z",
+  "sha256": "e36d71ac37b970edfbb3a012684e0a043689453c31cf97113316c17f427f87f0",
+  "bytes": 20278,
+  "content_type": "text/html",
+  "raw": "docs/raw/9fa6d7c922777c08dba3.html",
+  "markdown": "docs/pages/9fa6d7c922777c08dba3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1birthdate-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1birthdate.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

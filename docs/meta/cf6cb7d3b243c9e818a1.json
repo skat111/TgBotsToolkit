@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/method/invokeWithApnsSecret",
+  "final_url": "https://core.telegram.org/method/invokeWithApnsSecret",
+  "title": "invokeWithApnsSecret",
+  "fetched_at": "2026-09-11T06:09:44Z",
+  "sha256": "1d98a02697c93fcca5ccb0132fd8616a34b76922da63c20798cb4b4432523bfe",
+  "bytes": 14731,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cf6cb7d3b243c9e818a1.html",
+  "markdown": "docs/pages/cf6cb7d3b243c9e818a1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/invokeWithApnsSecret",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/string"
+  ]
+}

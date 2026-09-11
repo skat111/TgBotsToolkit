@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_type_default.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_type_default.html",
+  "title": "TDLib: emojiCategoryTypeDefault Class Reference",
+  "fetched_at": "2026-09-11T06:14:00Z",
+  "sha256": "e9dc935f7bfef7344c484e744ba546524596287727352d00ace2435c53f93299",
+  "bytes": 15682,
+  "content_type": "text/html",
+  "raw": "docs/raw/b7b29fd7f33173788f2d.html",
+  "markdown": "docs/pages/b7b29fd7f33173788f2d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_emoji_category_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_type_default-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_type_default.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_closed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_closed.html",
+  "title": "TDLib: authorizationStateClosed Class Reference",
+  "fetched_at": "2026-09-11T06:13:24Z",
+  "sha256": "48e6602b3d013e76f7e3b2da38bd8949b509999afbd4995bb434ab344a70feab",
+  "bytes": 16043,
+  "content_type": "text/html",
+  "raw": "docs/raw/511554276940f3445b79.html",
+  "markdown": "docs/pages/511554276940f3445b79.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_authorization_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_closed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_closed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

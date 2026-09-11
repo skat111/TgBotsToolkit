@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_speech_recognition_result.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_speech_recognition_result.html",
+  "title": "TDLib: SpeechRecognitionResult Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "350aef01ab2eb59e9ba30899fafb76c0e550f81e68783802a8ade825efbf1118",
+  "bytes": 12671,
+  "content_type": "text/html",
+  "raw": "docs/raw/101d9bc1a0262f8cf6b2.html",
+  "markdown": "docs/pages/101d9bc1a0262f8cf6b2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_speech_recognition_result-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_speech_recognition_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_error.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_pending.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_text.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

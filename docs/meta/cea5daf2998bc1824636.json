@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/channels.getForumTopics",
+  "final_url": "https://core.telegram.org/method/channels.getForumTopics",
+  "title": "channels.getForumTopics",
+  "fetched_at": "2026-09-11T06:09:22Z",
+  "sha256": "273cd7c51e9b29f797d9d31cdafd13dace171e8d56b072d3acc964d010659fc1",
+  "bytes": 17555,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cea5daf2998bc1824636.html",
+  "markdown": "docs/pages/cea5daf2998bc1824636.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/method/channels.getForumTopics",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.ForumTopics",
+    "https://core.telegram.org/type/string"
+  ]
+}

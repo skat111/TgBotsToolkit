@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/LangPackDifference",
+  "final_url": "https://core.telegram.org/type/LangPackDifference",
+  "title": "LangPackDifference",
+  "fetched_at": "2026-09-11T06:17:04Z",
+  "sha256": "b131a814f5fbebbfc5e19f7583ba057011e9a42a062cc3aa0d2e1b4630d139bd",
+  "bytes": 15176,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d794c63101a0937c96fc.html",
+  "markdown": "docs/pages/d794c63101a0937c96fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/langPackDifference",
+    "https://core.telegram.org/method/langpack.getDifference",
+    "https://core.telegram.org/method/langpack.getLangPack",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/LangPackDifference",
+    "https://core.telegram.org/type/LangPackString",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

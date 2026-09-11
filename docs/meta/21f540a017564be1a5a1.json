@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/starGiftUpgradePrice",
+  "final_url": "https://core.telegram.org/constructor/starGiftUpgradePrice",
+  "title": "starGiftUpgradePrice",
+  "fetched_at": "2026-09-11T06:07:40Z",
+  "sha256": "032bf254a4f692fa92e7f688a3cca236cb635845e366eb58eeba96bd43cd6727",
+  "bytes": 15147,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/21f540a017564be1a5a1.html",
+  "markdown": "docs/pages/21f540a017564be1a5a1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/starGiftUpgradePrice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StarGiftUpgradePrice",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

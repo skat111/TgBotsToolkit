@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/payments.getStarsRevenueAdsAccountUrl",
+  "final_url": "https://core.telegram.org/method/payments.getStarsRevenueAdsAccountUrl",
+  "title": "payments.getStarsRevenueAdsAccountUrl",
+  "fetched_at": "2026-09-11T06:10:50Z",
+  "sha256": "1c2475e6e441b3a363abc08cce4faca16209fc442aa577e4897d712a600cb923",
+  "bytes": 16393,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4b513bdd264b552858fe.html",
+  "markdown": "docs/pages/4b513bdd264b552858fe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/payments.starsRevenueAdsAccountUrl",
+    "https://core.telegram.org/method/payments.getStarsRevenueAdsAccountUrl",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/payments.StarsRevenueAdsAccountUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

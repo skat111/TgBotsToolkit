@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/passwordKdfAlgoUnknown",
+  "final_url": "https://core.telegram.org/constructor/passwordKdfAlgoUnknown",
+  "title": "passwordKdfAlgoUnknown",
+  "fetched_at": "2026-09-11T06:07:12Z",
+  "sha256": "7d30882995c6eb14626b4b3d4d49e1c624475096afa716b22b25d15f92164d2b",
+  "bytes": 14102,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d1231c73da525d1212e4.html",
+  "markdown": "docs/pages/d1231c73da525d1212e4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/passwordKdfAlgoUnknown",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PasswordKdfAlgo"
+  ]
+}

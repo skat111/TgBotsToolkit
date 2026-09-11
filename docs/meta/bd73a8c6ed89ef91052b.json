@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/help.peerColorsNotModified",
+  "final_url": "https://core.telegram.org/constructor/help.peerColorsNotModified",
+  "title": "help.peerColorsNotModified",
+  "fetched_at": "2026-09-11T06:06:10Z",
+  "sha256": "0550f2b76e1a2fb96a8a38989cb3869998949d0d305989bec1a60406c9dc3a4e",
+  "bytes": 14129,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bd73a8c6ed89ef91052b.html",
+  "markdown": "docs/pages/bd73a8c6ed89ef91052b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.peerColorsNotModified",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/help.PeerColors"
+  ]
+}

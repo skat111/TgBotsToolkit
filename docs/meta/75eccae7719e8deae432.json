@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1t_me_url_type_sticker_set.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1t_me_url_type_sticker_set.html",
+  "title": "TDLib: tMeUrlTypeStickerSet Class Reference",
+  "fetched_at": "2026-09-11T06:15:57Z",
+  "sha256": "b1c5cd26ea08f4b185a396cf9ec23c3b61b106ae7a073b041c9eb3a946a33222",
+  "bytes": 18279,
+  "content_type": "text/html",
+  "raw": "docs/raw/75eccae7719e8deae432.html",
+  "markdown": "docs/pages/75eccae7719e8deae432.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_t_me_url_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1t_me_url_type_sticker_set-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1t_me_url_type_sticker_set.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

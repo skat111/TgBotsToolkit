@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/invokeWithBusinessConnection",
+  "final_url": "https://core.telegram.org/method/invokeWithBusinessConnection",
+  "title": "invokeWithBusinessConnection",
+  "fetched_at": "2026-09-11T06:09:44Z",
+  "sha256": "95060dea7cd25966adb0642b8af8b947409da3ad79d7c84f2ad487b174800be4",
+  "bytes": 16144,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ff70f8c8f912eff1e09e.html",
+  "markdown": "docs/pages/ff70f8c8f912eff1e09e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botBusinessConnection",
+    "https://core.telegram.org/method/invokeWithBusinessConnection",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_star_purchase.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_star_purchase.html",
+  "title": "TDLib: internalLinkTypeStarPurchase Class Reference",
+  "fetched_at": "2026-09-11T06:14:40Z",
+  "sha256": "8ea49845e5e4c0e5e9d4397b501000f0a978ff25be0510c05264361a2e84dfad",
+  "bytes": 20096,
+  "content_type": "text/html",
+  "raw": "docs/raw/3619d7ba5a906fc36354.html",
+  "markdown": "docs/pages/3619d7ba5a906fc36354.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_star_purchase-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_star_purchase.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

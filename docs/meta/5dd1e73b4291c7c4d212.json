@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/help.termsOfServiceUpdate",
+  "final_url": "https://core.telegram.org/constructor/help.termsOfServiceUpdate",
+  "title": "help.termsOfServiceUpdate",
+  "fetched_at": "2026-09-11T06:06:11Z",
+  "sha256": "d1155b3a0680c5ec027d34cb0d08c686061c4d5a19eb5d44769b6385314253a8",
+  "bytes": 16180,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5dd1e73b4291c7c4d212.html",
+  "markdown": "docs/pages/5dd1e73b4291c7c4d212.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/account-deletion",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/help.termsOfServiceUpdate",
+    "https://core.telegram.org/method/account.deleteAccount",
+    "https://core.telegram.org/method/help.getTermsOfServiceUpdate",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/help.TermsOfService",
+    "https://core.telegram.org/type/help.TermsOfServiceUpdate",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_stickers.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_stickers.html",
+  "title": "TDLib: getPremiumStickers Class Reference",
+  "fetched_at": "2026-09-11T06:14:20Z",
+  "sha256": "1058c6fcb12bf955d25e02a15c3fd4bf39cfb60696b9a91d6d6053dc0f544e84",
+  "bytes": 19453,
+  "content_type": "text/html",
+  "raw": "docs/raw/12f311b2b35f79d9afb5.html",
+  "markdown": "docs/pages/12f311b2b35f79d9afb5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_stickers-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_stickers.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stickers.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

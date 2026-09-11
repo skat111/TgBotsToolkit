@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_privacy_settings.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_privacy_settings.html",
+  "title": "TDLib: StoryPrivacySettings Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "71b475463936c3fd1f197c2f8350d1995656dc49647fa5b20fcb8fa3519beeea",
+  "bytes": 12771,
+  "content_type": "text/html",
+  "raw": "docs/raw/485dbdf30d554c735488.html",
+  "markdown": "docs/pages/485dbdf30d554c735488.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_privacy_settings-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_privacy_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_privacy_settings_close_friends.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_privacy_settings_contacts.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_privacy_settings_everyone.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_privacy_settings_selected_users.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

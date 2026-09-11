@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/payments.changeStarsSubscription",
+  "final_url": "https://core.telegram.org/method/payments.changeStarsSubscription",
+  "title": "payments.changeStarsSubscription",
+  "fetched_at": "2026-09-11T06:10:41Z",
+  "sha256": "b8ef380f7eb1b4b731e1cd08bf01a7d2bde400e0f29647aa596ec29982d31430",
+  "bytes": 16530,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/460d67202b50c262e840.html",
+  "markdown": "docs/pages/460d67202b50c262e840.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/inputPeerSelf",
+    "https://core.telegram.org/method/payments.changeStarsSubscription",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/string"
+  ]
+}

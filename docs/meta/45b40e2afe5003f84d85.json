@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.setBotShippingResults",
+  "final_url": "https://core.telegram.org/method/messages.setBotShippingResults",
+  "title": "messages.setBotShippingResults",
+  "fetched_at": "2026-09-11T06:10:30Z",
+  "sha256": "4c9f1709ef6e59395642910f141a4544fe5d53692a5040f6ef06dde6f309dd50",
+  "bytes": 17157,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/45b40e2afe5003f84d85.html",
+  "markdown": "docs/pages/45b40e2afe5003f84d85.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/updateBotShippingQuery",
+    "https://core.telegram.org/method/messages.setBotShippingResults",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ShippingOption",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

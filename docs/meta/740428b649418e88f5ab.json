@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_similar_chat_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_similar_chat_count.html",
+  "title": "TDLib: premiumLimitTypeSimilarChatCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:10Z",
+  "sha256": "4873658a707ddba11e0b89f2a4ea88e7246d7c5172880f85ec71b9abd0eee9b1",
+  "bytes": 15715,
+  "content_type": "text/html",
+  "raw": "docs/raw/740428b649418e88f5ab.html",
+  "markdown": "docs/pages/740428b649418e88f5ab.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_similar_chat_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_similar_chat_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/payments.getStarGiftCollections",
+  "final_url": "https://core.telegram.org/method/payments.getStarGiftCollections",
+  "title": "payments.getStarGiftCollections",
+  "fetched_at": "2026-09-11T06:10:48Z",
+  "sha256": "b93f6bef0082d3c10b38dfc818a59df1079e44fd4c6023d5f53e80edabd9c127",
+  "bytes": 17055,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2381de4b44ff3477dfb5.html",
+  "markdown": "docs/pages/2381de4b44ff3477dfb5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/payments.starGiftCollections",
+    "https://core.telegram.org/constructor/payments.starGiftCollectionsNotModified",
+    "https://core.telegram.org/constructor/starGiftCollection",
+    "https://core.telegram.org/method/payments.getStarGiftCollections",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/StarGiftCollection",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.StarGiftCollections"
+  ]
+}

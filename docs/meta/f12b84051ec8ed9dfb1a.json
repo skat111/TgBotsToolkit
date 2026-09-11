@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+  "title": "secureValueTypeDriverLicense",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "450eb6a0e497dc218f581cca1f93b9cae610b5760c15a2990c61ca277264abb5",
+  "bytes": 13905,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f12b84051ec8ed9dfb1a.html",
+  "markdown": "docs/pages/f12b84051ec8ed9dfb1a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/widgets/login",
+  "final_url": "https://core.telegram.org/bots/telegram-login",
+  "title": "Log In With Telegram",
+  "fetched_at": "2026-09-11T06:17:21Z",
+  "sha256": "eb8d6f8c799fcb2c90eb24e682c2c2ac5f2705e441be24b7612cbe94473e82ca",
+  "bytes": 31511,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1e8c0331c2b5854d67ad.html",
+  "markdown": "docs/pages/1e8c0331c2b5854d67ad.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/telegram-login",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/file/400780400680/1/LQAYyWKJXy0.260963.png/8fe2cdf47d8a182740",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/widgets/login-legacy"
+  ]
+}

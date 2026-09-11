@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_status.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_status.html",
+  "title": "TDLib: updateUserStatus Class Reference",
+  "fetched_at": "2026-09-11T06:16:18Z",
+  "sha256": "9e217862c3a3b443b4ca35a1dd23274515456150c7053db5805b7ee2868a2ea0",
+  "bytes": 19524,
+  "content_type": "text/html",
+  "raw": "docs/raw/b3f8628e54e71659c7e8.html",
+  "markdown": "docs/pages/b3f8628e54e71659c7e8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_status-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_status.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

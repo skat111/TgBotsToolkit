@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/channels.setMainProfileTab",
+  "final_url": "https://core.telegram.org/method/channels.setMainProfileTab",
+  "title": "channels.setMainProfileTab",
+  "fetched_at": "2026-09-11T06:09:28Z",
+  "sha256": "f60db0b855ba9362a4bb8c84337c0a1f074110d738953a4b39f5889189284131",
+  "bytes": 15663,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ddc78652d0ecc755e6e2.html",
+  "markdown": "docs/pages/ddc78652d0ecc755e6e2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/channels.setMainProfileTab",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+  "title": "secureValueTypeInternalPassport",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "ae2dffffd7a64f4eb74b05578da54b1c070860c161b3248af08fa33525b52260",
+  "bytes": 14390,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/218a7a9f4214375ac7b3.html",
+  "markdown": "docs/pages/218a7a9f4214375ac7b3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

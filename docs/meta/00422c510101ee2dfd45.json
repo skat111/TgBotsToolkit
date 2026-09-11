@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/encryptedChatEmpty",
+  "final_url": "https://core.telegram.org/constructor/encryptedChatEmpty",
+  "title": "encryptedChatEmpty",
+  "fetched_at": "2026-09-11T06:06:04Z",
+  "sha256": "2f4b856c8b022e4bfc6a9d8c1f261b21458cf2fc6c8967dab9de8daeee660c72",
+  "bytes": 14077,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/00422c510101ee2dfd45.html",
+  "markdown": "docs/pages/00422c510101ee2dfd45.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/encryptedChatEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EncryptedChat",
+    "https://core.telegram.org/type/int"
+  ]
+}

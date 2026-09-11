@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/textUnderline",
+  "final_url": "https://core.telegram.org/constructor/textUnderline",
+  "title": "textUnderline",
+  "fetched_at": "2026-09-11T06:07:50Z",
+  "sha256": "ef0ac4a16b11ac27f66c2c5ae105c17d513ea92e89da519d04fb7b6805d4bd45",
+  "bytes": 14034,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/56404e325a730fcf2b23.html",
+  "markdown": "docs/pages/56404e325a730fcf2b23.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textUnderline",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1network_statistics.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1network_statistics.html",
+  "title": "TDLib: networkStatistics Class Reference",
+  "fetched_at": "2026-09-11T06:14:59Z",
+  "sha256": "b7b732739dc70af1afc760861b8a17667c51fadf591986612cd01c770ad72e81",
+  "bytes": 20068,
+  "content_type": "text/html",
+  "raw": "docs/raw/f8a595c075b33745a1b2.html",
+  "markdown": "docs/pages/f8a595c075b33745a1b2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_network_statistics_entry.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1network_statistics-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1network_statistics.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

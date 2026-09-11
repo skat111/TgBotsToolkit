@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_game_high_scores.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_game_high_scores.html",
+  "title": "TDLib: getGameHighScores Class Reference",
+  "fetched_at": "2026-09-11T06:14:11Z",
+  "sha256": "a063b333f3d9abc9e6a61c29ba3a51542ae7aa6753fe9f2fc264cf7ad5a560e0",
+  "bytes": 22073,
+  "content_type": "text/html",
+  "raw": "docs/raw/083d69a9b56a65e994f5.html",
+  "markdown": "docs/pages/083d69a9b56a65e994f5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1game_high_scores.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_game_high_scores-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_game_high_scores.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

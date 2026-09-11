@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/stats.getMessageStats",
+  "final_url": "https://core.telegram.org/method/stats.getMessageStats",
+  "title": "stats.getMessageStats",
+  "fetched_at": "2026-09-11T06:11:24Z",
+  "sha256": "bbf0cad33d811dad7da995a056014ab097b51dc70ae9198f6e5c24c05536fc53",
+  "bytes": 16396,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/abc0d1f4e3deb2b12fe7.html",
+  "markdown": "docs/pages/abc0d1f4e3deb2b12fe7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/stats.messageStats",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/stats.getMessageStats",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/StatsGraph",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/stats.MessageStats"
+  ]
+}

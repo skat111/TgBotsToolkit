@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.getOldFeaturedStickers",
+  "final_url": "https://core.telegram.org/method/messages.getOldFeaturedStickers",
+  "title": "messages.getOldFeaturedStickers",
+  "fetched_at": "2026-09-11T06:10:12Z",
+  "sha256": "a9b20c1d30e7a8437ef32935ad49523c62538d059b029545e9681af6981ce190",
+  "bytes": 16111,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3f0b080a1f4acff6b9f0.html",
+  "markdown": "docs/pages/3f0b080a1f4acff6b9f0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/messages.featuredStickers",
+    "https://core.telegram.org/constructor/messages.featuredStickersNotModified",
+    "https://core.telegram.org/method/messages.getOldFeaturedStickers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StickerSetCovered",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.FeaturedStickers"
+  ]
+}

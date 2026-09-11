@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/users.setSecureValueErrors",
+  "final_url": "https://core.telegram.org/method/users.setSecureValueErrors",
+  "title": "users.setSecureValueErrors",
+  "fetched_at": "2026-09-11T06:11:40Z",
+  "sha256": "14dc9ffb4c319aa3f8a5adab002fc48b0de59a42f21ca1cfe4cbbc71625a9173",
+  "bytes": 16982,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6d31ecc0eea138fbf347.html",
+  "markdown": "docs/pages/6d31ecc0eea138fbf347.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/users.setSecureValueErrors",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

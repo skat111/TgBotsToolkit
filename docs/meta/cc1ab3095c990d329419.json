@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/passport/sdk-ios-mac",
+  "final_url": "https://core.telegram.org/passport/sdk-ios-mac",
+  "title": "iOS & macOS SDK",
+  "fetched_at": "2026-09-11T06:11:45Z",
+  "sha256": "fff1bf1353afae0ca1404b491a5afb8d36987de88137f2debffa53a5b16bd4a0",
+  "bytes": 11502,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cc1ab3095c990d329419.html",
+  "markdown": "docs/pages/cc1ab3095c990d329419.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/sdk-ios-mac",
+    "https://core.telegram.org/schema"
+  ]
+}

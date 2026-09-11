@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_live_story_top_donors.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_live_story_top_donors.html",
+  "title": "TDLib: updateLiveStoryTopDonors Class Reference",
+  "fetched_at": "2026-09-11T06:16:10Z",
+  "sha256": "658dd027745fa5728e8ca24bddb4ca78e6bb2f14840268c19aff2784511fc87c",
+  "bytes": 19895,
+  "content_type": "text/html",
+  "raw": "docs/raw/0e8ccd9199bd4806d7d7.html",
+  "markdown": "docs/pages/0e8ccd9199bd4806d7d7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1live_story_donors.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_live_story_top_donors-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_live_story_top_donors.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

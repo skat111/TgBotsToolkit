@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_temporary_password_state.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_temporary_password_state.html",
+  "title": "TDLib: getTemporaryPasswordState Class Reference",
+  "fetched_at": "2026-09-11T06:14:22Z",
+  "sha256": "7e88f9a921692eedc4c2792e982978b7c4a2c20f3d178629b0ad265ad064e9ab",
+  "bytes": 16799,
+  "content_type": "text/html",
+  "raw": "docs/raw/eaac4b260c658e331678.html",
+  "markdown": "docs/pages/eaac4b260c658e331678.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_temporary_password_state-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_temporary_password_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1temporary_password_state.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

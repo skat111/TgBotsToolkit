@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/updateDeleteQuickReplyMessages",
+  "final_url": "https://core.telegram.org/constructor/updateDeleteQuickReplyMessages",
+  "title": "updateDeleteQuickReplyMessages",
+  "fetched_at": "2026-09-11T06:07:58Z",
+  "sha256": "21179c4d01816ddd6778c4c95f4b7322cb9ab43e0e343e2eaa972bc120464cce",
+  "bytes": 15167,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/71f215a3ea538652adfd.html",
+  "markdown": "docs/pages/71f215a3ea538652adfd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateDeleteQuickReplyMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

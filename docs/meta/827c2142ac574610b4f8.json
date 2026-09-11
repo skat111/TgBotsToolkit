@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/botCommandScopePeerUser",
+  "final_url": "https://core.telegram.org/constructor/botCommandScopePeerUser",
+  "title": "botCommandScopePeerUser",
+  "fetched_at": "2026-09-11T06:05:38Z",
+  "sha256": "b0335056ddbc60bbf69be9dec9858b105f09d464ba7e2cbbdf09d9ca4932718b",
+  "bytes": 15167,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/827c2142ac574610b4f8.html",
+  "markdown": "docs/pages/827c2142ac574610b4f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botCommandScopePeerUser",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotCommandScope",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputUser"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/InputSecureValue",
+  "final_url": "https://core.telegram.org/type/InputSecureValue",
+  "title": "InputSecureValue",
+  "fetched_at": "2026-09-11T06:17:03Z",
+  "sha256": "c41451a1e7f5d77c1824332379d31eba73b5cd4e17c34594c185e3c3360ffcc5",
+  "bytes": 15206,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4eb9ae64258189d7d8e9.html",
+  "markdown": "docs/pages/4eb9ae64258189d7d8e9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputSecureValue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputSecureFile",
+    "https://core.telegram.org/type/InputSecureValue",
+    "https://core.telegram.org/type/SecureData",
+    "https://core.telegram.org/type/SecurePlainData",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

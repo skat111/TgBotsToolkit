@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_symbol.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_symbol.html",
+  "title": "TDLib: upgradedGiftSymbol Class Reference",
+  "fetched_at": "2026-09-11T06:16:19Z",
+  "sha256": "8e2b2e08c5280cf2f72ebdba863848349272553354b0e593bae214bbdf6ba6db",
+  "bytes": 21321,
+  "content_type": "text/html",
+  "raw": "docs/raw/a9396948740b6f652c6b.html",
+  "markdown": "docs/pages/a9396948740b6f652c6b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_attribute_rarity.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_symbol-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_symbol.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/api/drafts",
+  "final_url": "https://core.telegram.org/api/drafts",
+  "title": "Message drafts",
+  "fetched_at": "2026-09-11T06:04:50Z",
+  "sha256": "683f03225936ff54374e616b9d4c435d2f9e80642827da3e5ece7ced81cdfeed",
+  "bytes": 7067,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b27b3aa05536f1fddae4.html",
+  "markdown": "docs/pages/b27b3aa05536f1fddae4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/drafts",
+    "https://core.telegram.org/constructor/dialog",
+    "https://core.telegram.org/constructor/updateDraftMessage",
+    "https://core.telegram.org/method/messages.saveDraft",
+    "https://core.telegram.org/method/messages.sendInlineBotResult",
+    "https://core.telegram.org/method/messages.sendMedia",
+    "https://core.telegram.org/method/messages.sendMessage",
+    "https://core.telegram.org/method/messages.sendMultiMedia",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DraftMessage"
+  ]
+}

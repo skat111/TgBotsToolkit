@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_local_message-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_local_message-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:22Z",
+  "sha256": "2adfcee32b493b566eb3391b3f3887b2643b19cf3dbbbcd68e09a7b6a753210a",
+  "bytes": 11753,
+  "content_type": "text/html",
+  "raw": "docs/raw/bca5a040fd2a7c8ed28a.html",
+  "markdown": "docs/pages/bca5a040fd2a7c8ed28a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_local_message.html"
+  ]
+}

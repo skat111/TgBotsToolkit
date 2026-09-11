@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model_count.html",
+  "title": "TDLib: upgradedGiftModelCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:19Z",
+  "sha256": "59996795f9faf1db72d2b97b1356509b9bda47ee56aef6c21d4d460c929b3651",
+  "bytes": 19845,
+  "content_type": "text/html",
+  "raw": "docs/raw/985e95cad3e22bb91f96.html",
+  "markdown": "docs/pages/985e95cad3e22bb91f96.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

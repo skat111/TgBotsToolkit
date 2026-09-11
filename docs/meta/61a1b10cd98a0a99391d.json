@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_star_giveaway.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_star_giveaway.html",
+  "title": "TDLib: telegramPaymentPurposeStarGiveaway Class Reference",
+  "fetched_at": "2026-09-11T06:15:58Z",
+  "sha256": "b2a8bb04a9054f9ba17e2c2b2c37be488afae28d0c02dd8aa468da9872e37a92",
+  "bytes": 24207,
+  "content_type": "text/html",
+  "raw": "docs/raw/61a1b10cd98a0a99391d.html",
+  "markdown": "docs/pages/61a1b10cd98a0a99391d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_telegram_payment_purpose.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_parameters.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_star_giveaway-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_star_giveaway.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

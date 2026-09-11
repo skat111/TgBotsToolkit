@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/inputKeyboardButtonUserProfile",
+  "final_url": "https://core.telegram.org/constructor/inputKeyboardButtonUserProfile",
+  "title": "inputKeyboardButtonUserProfile",
+  "fetched_at": "2026-09-11T06:06:24Z",
+  "sha256": "430f9f41d22aeae85a975d83b57509a8a1241b3194f5c58806910029b07af847",
+  "bytes": 16500,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2ae5fe8c1bb00dabb2ca.html",
+  "markdown": "docs/pages/2ae5fe8c1bb00dabb2ca.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/constructor/inputKeyboardButtonUserProfile",
+    "https://core.telegram.org/constructor/keyboardButtonUserProfile",
+    "https://core.telegram.org/constructor/replyInlineMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/string"
+  ]
+}

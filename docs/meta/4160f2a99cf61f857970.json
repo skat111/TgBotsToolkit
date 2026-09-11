@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.reportMusicListen",
+  "final_url": "https://core.telegram.org/method/messages.reportMusicListen",
+  "title": "messages.reportMusicListen",
+  "fetched_at": "2026-09-11T06:10:21Z",
+  "sha256": "de1e8da8b109ec6906dc0102e5d6bf277662df18719120d05fb69ff734a9516d",
+  "bytes": 15502,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4160f2a99cf61f857970.html",
+  "markdown": "docs/pages/4160f2a99cf61f857970.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/views",
+    "https://core.telegram.org/method/messages.reportMusicListen",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputDocument",
+    "https://core.telegram.org/type/int"
+  ]
+}

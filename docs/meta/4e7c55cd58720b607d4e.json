@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_secret_messages.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_secret_messages.html",
+  "title": "TDLib: searchSecretMessages Class Reference",
+  "fetched_at": "2026-09-11T06:15:30Z",
+  "sha256": "a0209bab31d7f54c73c5e4237e19276d0431326afab8c9ba605dcc971d3b1c98",
+  "bytes": 26074,
+  "content_type": "text/html",
+  "raw": "docs/raw/4e7c55cd58720b607d4e.html",
+  "markdown": "docs/pages/4e7c55cd58720b607d4e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_chat_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_secret_messages-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_secret_messages.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

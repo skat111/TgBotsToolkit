@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/topPeerCategoryBotsPM",
+  "final_url": "https://core.telegram.org/constructor/topPeerCategoryBotsPM",
+  "title": "topPeerCategoryBotsPM",
+  "fetched_at": "2026-09-11T06:07:51Z",
+  "sha256": "7f3c9e52784f10219aec971ee7d3db8cc2ced0efae59a651cf6bcaa7bc727db2",
+  "bytes": 13843,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/06c50f8dc598c81da05b.html",
+  "markdown": "docs/pages/06c50f8dc598c81da05b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/topPeerCategoryBotsPM",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/TopPeerCategory"
+  ]
+}

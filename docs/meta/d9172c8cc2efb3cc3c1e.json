@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/api/errors",
+  "final_url": "https://core.telegram.org/api/errors",
+  "title": "Error handling",
+  "fetched_at": "2026-09-11T06:04:51Z",
+  "sha256": "cc0fdf10a3fb67be4f31e74abf6ebac6a8b643a8d674502389c26980db31c4d7",
+  "bytes": 20197,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d9172c8cc2efb3cc3c1e.html",
+  "markdown": "docs/pages/d9172c8cc2efb3cc3c1e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/datacenter",
+    "https://core.telegram.org/api/errors",
+    "https://core.telegram.org/api/errors.json",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/auth.authorization",
+    "https://core.telegram.org/constructor/authorization",
+    "https://core.telegram.org/constructor/config",
+    "https://core.telegram.org/constructor/updateServiceNotification",
+    "https://core.telegram.org/method/account.getAuthorizations",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Updates"
+  ]
+}

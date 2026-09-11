@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sessions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sessions.html",
+  "title": "TDLib: sessions Class Reference",
+  "fetched_at": "2026-09-11T06:15:35Z",
+  "sha256": "5bdec36766fd2c77f7959dcb423561500772958e17f53d811cd66f8295c4c200",
+  "bytes": 19780,
+  "content_type": "text/html",
+  "raw": "docs/raw/aae20c42b0dcdd431176.html",
+  "markdown": "docs/pages/aae20c42b0dcdd431176.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sessions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sessions.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

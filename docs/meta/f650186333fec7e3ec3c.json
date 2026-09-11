@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_restrict_contacts-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_restrict_contacts-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:23Z",
+  "sha256": "f0bec5bc38cfd48d0823b5cf40bfd7df70fa14f185339ac8ed14305c025b6b07",
+  "bytes": 9883,
+  "content_type": "text/html",
+  "raw": "docs/raw/f650186333fec7e3ec3c.html",
+  "markdown": "docs/pages/f650186333fec7e3ec3c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_restrict_contacts.html"
+  ]
+}

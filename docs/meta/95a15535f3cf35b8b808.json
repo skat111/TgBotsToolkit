@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_message_send.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_message_send.html",
+  "title": "TDLib: starTransactionTypePaidGroupCallMessageSend Class Reference",
+  "fetched_at": "2026-09-11T06:15:49Z",
+  "sha256": "18cc6eb2079312d54c63144c4c6a86c92a86d48fde4759614cec7bbc4f125240",
+  "bytes": 18943,
+  "content_type": "text/html",
+  "raw": "docs/raw/95a15535f3cf35b8b808.html",
+  "markdown": "docs/pages/95a15535f3cf35b8b808.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_star_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_message_send-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_message_send.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannelViewForumAsMessages",
+  "final_url": "https://core.telegram.org/constructor/updateChannelViewForumAsMessages",
+  "title": "updateChannelViewForumAsMessages",
+  "fetched_at": "2026-09-11T06:07:55Z",
+  "sha256": "cd59b64b5462c98b3f91ec1af77a64d5f3eea19544309853ab111cfe1522e56e",
+  "bytes": 18547,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/77f97d22b4bc50f8a52c.html",
+  "markdown": "docs/pages/77f97d22b4bc50f8a52c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/channelFull",
+    "https://core.telegram.org/constructor/dialog",
+    "https://core.telegram.org/constructor/updateChannelViewForumAsMessages",
+    "https://core.telegram.org/method/channels.toggleViewForumAsMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long"
+  ]
+}

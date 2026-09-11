@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatures",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatures",
+  "title": "channelAdminLogEventActionToggleSignatures",
+  "fetched_at": "2026-09-11T06:05:48Z",
+  "sha256": "7e157bde1ae25432d34a17a10b1529dca0d67ff341819724f1a65ac002140620",
+  "bytes": 14383,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/036c83e43ad492c40f5e.html",
+  "markdown": "docs/pages/036c83e43ad492c40f5e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatures",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction"
+  ]
+}

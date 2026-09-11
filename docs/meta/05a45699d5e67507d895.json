@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_boost_needed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_boost_needed.html",
+  "title": "TDLib: canPostStoryResultBoostNeeded Class Reference",
+  "fetched_at": "2026-09-11T06:13:32Z",
+  "sha256": "0b404fb68c98b65743143b9eb4ea0af6909e0ebbd539bf891f917c10accacbbd",
+  "bytes": 16037,
+  "content_type": "text/html",
+  "raw": "docs/raw/05a45699d5e67507d895.html",
+  "markdown": "docs/pages/05a45699d5e67507d895.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_post_story_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_boost_needed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_boost_needed.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_boost_status.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

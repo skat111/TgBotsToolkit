@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputReportReasonPornography",
+  "final_url": "https://core.telegram.org/constructor/inputReportReasonPornography",
+  "title": "inputReportReasonPornography",
+  "fetched_at": "2026-09-11T06:06:35Z",
+  "sha256": "6c89f821c3a6a9039e419412693741bbe86fa0f872c6231753bcecd3cf47991e",
+  "bytes": 13904,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/77ad77d17721fcfc1f18.html",
+  "markdown": "docs/pages/77ad77d17721fcfc1f18.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputReportReasonPornography",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ReportReason"
+  ]
+}

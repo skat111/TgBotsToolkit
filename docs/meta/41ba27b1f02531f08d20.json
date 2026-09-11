@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_stories_by_venue.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_stories_by_venue.html",
+  "title": "TDLib: searchPublicStoriesByVenue Class Reference",
+  "fetched_at": "2026-09-11T06:15:30Z",
+  "sha256": "9a121e5bf889fe1b5089b3769fe80f8bc42e194e2ee67b82bca3602ce2f1edcf",
+  "bytes": 24303,
+  "content_type": "text/html",
+  "raw": "docs/raw/41ba27b1f02531f08d20.html",
+  "markdown": "docs/pages/41ba27b1f02531f08d20.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_stories.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_stories_by_venue-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_stories_by_venue.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

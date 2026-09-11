@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/channels.adminLogResults",
+  "final_url": "https://core.telegram.org/constructor/channels.adminLogResults",
+  "title": "channels.adminLogResults",
+  "fetched_at": "2026-09-11T06:05:50Z",
+  "sha256": "9cbc6a39ca8499ffed50c45a20d9c652c7039432a1c68be5ae00a95458e19925",
+  "bytes": 14884,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/769cb15186cbb8babd81.html",
+  "markdown": "docs/pages/769cb15186cbb8babd81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channels.adminLogResults",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEvent",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/channels.AdminLogResults"
+  ]
+}

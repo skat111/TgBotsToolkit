@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_callback_query_payload.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_callback_query_payload.html",
+  "title": "TDLib: CallbackQueryPayload Class Reference",
+  "fetched_at": "2026-09-11T06:11:59Z",
+  "sha256": "5d94fe6d26b972039b7537d8944107e0660cf17ca04e6d3c0753f5e6256a8543",
+  "bytes": 12642,
+  "content_type": "text/html",
+  "raw": "docs/raw/f4f7f084cdcbfa166558.html",
+  "markdown": "docs/pages/f4f7f084cdcbfa166558.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_callback_query_payload-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_callback_query_payload.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1callback_query_payload_data.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1callback_query_payload_data_with_password.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1callback_query_payload_game.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

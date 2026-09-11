@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.getCommonChats",
+  "final_url": "https://core.telegram.org/method/messages.getCommonChats",
+  "title": "messages.getCommonChats",
+  "fetched_at": "2026-09-11T06:10:03Z",
+  "sha256": "8d4399be868e964cf53c518fb2e3e62f996c3e57b2d8d1a21e4af23694246dd1",
+  "bytes": 16265,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7bd49f75df013dd10cfa.html",
+  "markdown": "docs/pages/7bd49f75df013dd10cfa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/messages.chats",
+    "https://core.telegram.org/constructor/messages.chatsSlice",
+    "https://core.telegram.org/method/messages.getCommonChats",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.Chats"
+  ]
+}

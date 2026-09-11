@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/profileTabGifs",
+  "final_url": "https://core.telegram.org/constructor/profileTabGifs",
+  "title": "profileTabGifs",
+  "fetched_at": "2026-09-11T06:07:26Z",
+  "sha256": "d4acabfe186a0a1f2b060ee80a5a35632052c6ab75bf8f6c8d2ae662d4d118b8",
+  "bytes": 14012,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/574402817e092476a1eb.html",
+  "markdown": "docs/pages/574402817e092476a1eb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/profileTabGifs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

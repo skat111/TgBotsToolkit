@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonStyle",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonStyle",
+  "title": "keyboardButtonStyle",
+  "fetched_at": "2026-09-11T06:06:42Z",
+  "sha256": "89d0d8413c823404fc2ce99a2e6c730c7a575bea51b314744fcddbc6158dbf1b",
+  "bytes": 16346,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8c63088903d2392b333d.html",
+  "markdown": "docs/pages/8c63088903d2392b333d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonStyle",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/long"
+  ]
+}

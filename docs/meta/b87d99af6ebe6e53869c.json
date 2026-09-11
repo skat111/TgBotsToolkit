@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_top_chats.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_top_chats.html",
+  "title": "TDLib: getTopChats Class Reference",
+  "fetched_at": "2026-09-11T06:14:25Z",
+  "sha256": "86d02b346fc35ab2a459e6a7f40034b45fdd5f0cc3c0101d2822bd89caa1c928",
+  "bytes": 20732,
+  "content_type": "text/html",
+  "raw": "docs/raw/b87d99af6ebe6e53869c.html",
+  "markdown": "docs/pages/b87d99af6ebe6e53869c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_top_chat_category.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chats.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_top_chats-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_top_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

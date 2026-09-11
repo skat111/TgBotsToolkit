@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.peerDialogs",
+  "final_url": "https://core.telegram.org/constructor/messages.peerDialogs",
+  "title": "messages.peerDialogs",
+  "fetched_at": "2026-09-11T06:07:02Z",
+  "sha256": "d5ba419c92024aa9e2b136f2fe02c284b8bce47a36b6a263500c3d174999837a",
+  "bytes": 15716,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9d9c3ba8155580e61684.html",
+  "markdown": "docs/pages/9d9c3ba8155580e61684.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/messages.peerDialogs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Dialog",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/messages.PeerDialogs",
+    "https://core.telegram.org/type/updates.State"
+  ]
+}

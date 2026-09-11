@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeEmail",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeEmail",
+  "title": "secureValueTypeEmail",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "d3b21f98b7be9864ffe1493faa28d07f5500231f35274c5fe6babd44e815d242",
+  "bytes": 13809,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ab062fc08cc6dcb25dde.html",
+  "markdown": "docs/pages/ab062fc08cc6dcb25dde.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeEmail",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

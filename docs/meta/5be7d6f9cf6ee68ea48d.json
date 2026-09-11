@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/ChannelMessagesFilter",
+  "final_url": "https://core.telegram.org/type/ChannelMessagesFilter",
+  "title": "ChannelMessagesFilter",
+  "fetched_at": "2026-09-11T06:16:26Z",
+  "sha256": "782171fd750363ba1eec18cbacafacfe9f756a7ae4505287d6ec957c5ac7ff31",
+  "bytes": 14623,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5be7d6f9cf6ee68ea48d.html",
+  "markdown": "docs/pages/5be7d6f9cf6ee68ea48d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelMessagesFilter",
+    "https://core.telegram.org/constructor/channelMessagesFilterEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelMessagesFilter",
+    "https://core.telegram.org/type/MessageRange",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

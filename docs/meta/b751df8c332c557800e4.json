@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_participant_video_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_participant_video_info.html",
+  "title": "TDLib: groupCallParticipantVideoInfo Class Reference",
+  "fetched_at": "2026-09-11T06:14:29Z",
+  "sha256": "7822aa26a1871cb73ba0e4cd7d66d2e16817d1d2b9fa67213778cf5c5a002d22",
+  "bytes": 21649,
+  "content_type": "text/html",
+  "raw": "docs/raw/b751df8c332c557800e4.html",
+  "markdown": "docs/pages/b751df8c332c557800e4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_participant_video_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_participant_video_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_video_source_group.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

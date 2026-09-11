@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_pinned_archived_chat_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_pinned_archived_chat_count.html",
+  "title": "TDLib: premiumLimitTypePinnedArchivedChatCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:10Z",
+  "sha256": "94a5a1f78318379bacb944efc526b47c2048b52f0d1a8524dea533a09873c334",
+  "bytes": 15834,
+  "content_type": "text/html",
+  "raw": "docs/raw/9e31b2a48db502aab325.html",
+  "markdown": "docs/pages/9e31b2a48db502aab325.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_pinned_archived_chat_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_pinned_archived_chat_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

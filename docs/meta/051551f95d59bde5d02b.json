@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/cdn/faq_ir",
+  "final_url": "https://core.telegram.org/cdn/faq_ir",
+  "title": "شبکه‌های تحویل محتوا (CDN) رمزنگاری شده",
+  "fetched_at": "2026-09-11T06:11:54Z",
+  "sha256": "0a15723be96fd794d6246860e4318f9ffb3b10d1d025227785f00eedd6c7be40",
+  "bytes": 13328,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/051551f95d59bde5d02b.html",
+  "markdown": "docs/pages/051551f95d59bde5d02b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/cdn",
+    "https://core.telegram.org/cdn/faq_ir",
+    "https://core.telegram.org/cdn/faq_ir/durov",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

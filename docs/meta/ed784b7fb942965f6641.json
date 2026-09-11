@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.toggleSavedDialogPin",
+  "final_url": "https://core.telegram.org/method/messages.toggleSavedDialogPin",
+  "title": "messages.toggleSavedDialogPin",
+  "fetched_at": "2026-09-11T06:10:36Z",
+  "sha256": "b49a099ff433ccbb81e1a37619a24ff13e68aa721f5350c5057567490ffcb1ec",
+  "bytes": 16001,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ed784b7fb942965f6641.html",
+  "markdown": "docs/pages/ed784b7fb942965f6641.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.toggleSavedDialogPin",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputDialogPeer"
+  ]
+}

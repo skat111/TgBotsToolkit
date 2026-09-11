@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1edit_chat_folder.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1edit_chat_folder.html",
+  "title": "TDLib: editChatFolder Class Reference",
+  "fetched_at": "2026-09-11T06:13:59Z",
+  "sha256": "3e9fd40901c86f3f3769853524d65a560481c6a352cb35a3460cbd8b4b9a4f25",
+  "bytes": 20866,
+  "content_type": "text/html",
+  "raw": "docs/raw/b72135a5997158463e61.html",
+  "markdown": "docs/pages/b72135a5997158463e61.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_folder.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_folder_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1edit_chat_folder-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1edit_chat_folder.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

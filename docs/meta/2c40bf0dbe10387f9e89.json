@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMessagesFilterVideo",
+  "final_url": "https://core.telegram.org/constructor/inputMessagesFilterVideo",
+  "title": "inputMessagesFilterVideo",
+  "fetched_at": "2026-09-11T06:06:28Z",
+  "sha256": "1d7d0d80739cfa2b49acd21d5947dca6e122b5399838a7872c861e0dc42ee4df",
+  "bytes": 13932,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2c40bf0dbe10387f9e89.html",
+  "markdown": "docs/pages/2c40bf0dbe10387f9e89.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputMessagesFilterVideo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessagesFilter"
+  ]
+}

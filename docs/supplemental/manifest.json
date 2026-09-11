@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/tdlib/td/d1085f9cebc5a62379991ae1652673954f229c1f/td/generate/scheme/td_api.tl",
+    "commit": "d1085f9cebc5a62379991ae1652673954f229c1f",
+    "file": "tdlib-td_api.tl",
+    "sha256": "326b65b41442901ad6bf0ca2f7c356ae54365d6c343956a62e06a8b3cb305e87",
+    "bytes": 1152505,
+    "fetched_at": "2026-09-11T06:08:15.867806+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tdlib/td/d1085f9cebc5a62379991ae1652673954f229c1f/td/generate/scheme/telegram_api.tl",
+    "commit": "d1085f9cebc5a62379991ae1652673954f229c1f",
+    "file": "tdlib-telegram_api.tl",
+    "sha256": "4c44853dd138f6484281317b2a6da7e778b770014bf2d63db76d4138b33bec4f",
+    "bytes": 282267,
+    "fetched_at": "2026-09-11T06:08:16.703214+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tdlib/td/d1085f9cebc5a62379991ae1652673954f229c1f/README.md",
+    "commit": "d1085f9cebc5a62379991ae1652673954f229c1f",
+    "file": "tdlib-README.md",
+    "sha256": "819d35072816a71deba701210e7806e41bbf1536518eaeeb1a1b9479e9bde360",
+    "bytes": 8389,
+    "fetched_at": "2026-09-11T06:08:17.585538+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tdlib/td/d1085f9cebc5a62379991ae1652673954f229c1f/CHANGELOG.md",
+    "commit": "d1085f9cebc5a62379991ae1652673954f229c1f",
+    "file": "tdlib-CHANGELOG.md",
+    "sha256": "4c06f9dafcd3b4bb89f555d5c896c4fe6297d89c7e0e4a03d48d1fca5b11091a",
+    "bytes": 119179,
+    "fetched_at": "2026-09-11T06:08:18.710105+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tdlib/td/d1085f9cebc5a62379991ae1652673954f229c1f/LICENSE_1_0.txt",
+    "commit": "d1085f9cebc5a62379991ae1652673954f229c1f",
+    "file": "tdlib-LICENSE_1_0.txt",
+    "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+    "bytes": 1338,
+    "fetched_at": "2026-09-11T06:08:19.683869+00:00"
+  }
+]

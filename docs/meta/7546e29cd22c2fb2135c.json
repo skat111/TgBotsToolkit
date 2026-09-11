@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotChatBoost",
+  "final_url": "https://core.telegram.org/constructor/updateBotChatBoost",
+  "title": "updateBotChatBoost",
+  "fetched_at": "2026-09-11T06:07:53Z",
+  "sha256": "9bf70c99e9cf540d2c9ce2086ec3d1d00222261b13c13689e92bd5a33a2dff41",
+  "bytes": 15330,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7546e29cd22c2fb2135c.html",
+  "markdown": "docs/pages/7546e29cd22c2fb2135c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotChatBoost",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Boost",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

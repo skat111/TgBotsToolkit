@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/contacts.unblock",
+  "final_url": "https://core.telegram.org/method/contacts.unblock",
+  "title": "contacts.unblock",
+  "fetched_at": "2026-09-11T06:09:37Z",
+  "sha256": "677f2ef8a443b1912a5fb6aa223776559bd4049c0964276afae3278e47304bdd",
+  "bytes": 16215,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/68b49abd9a3aee9d58c6.html",
+  "markdown": "docs/pages/68b49abd9a3aee9d58c6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/block",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/contacts.unblock",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

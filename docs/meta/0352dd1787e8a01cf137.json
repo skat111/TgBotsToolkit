@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/langpack.getStrings",
+  "final_url": "https://core.telegram.org/method/langpack.getStrings",
+  "title": "langpack.getStrings",
+  "fetched_at": "2026-09-11T06:09:46Z",
+  "sha256": "190bc94577102fc4fa2d53ffd35ec3b5c5bfc2dd479ef51eb4e25659ca14d71f",
+  "bytes": 16388,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0352dd1787e8a01cf137.html",
+  "markdown": "docs/pages/0352dd1787e8a01cf137.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/method/langpack.getStrings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/LangPackString",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:16Z",
+  "sha256": "3f905342161bde45c672df731eb66c59d6b4a0c9978070bcebcd8a7e27a531c1",
+  "bytes": 9086,
+  "content_type": "text/html",
+  "raw": "docs/raw/39d686adb70bd3deb940.html",
+  "markdown": "docs/pages/39d686adb70bd3deb940.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html"
+  ]
+}

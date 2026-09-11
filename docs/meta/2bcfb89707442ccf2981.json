@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_voice_recognition.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_voice_recognition.html",
+  "title": "TDLib: premiumFeatureVoiceRecognition Class Reference",
+  "fetched_at": "2026-09-11T06:15:09Z",
+  "sha256": "5f7cdd45bce972d338cfbcce2923a49a2ecdf207896a8ad27cd92400f80b402a",
+  "bytes": 15669,
+  "content_type": "text/html",
+  "raw": "docs/raw/2bcfb89707442ccf2981.html",
+  "markdown": "docs/pages/2bcfb89707442ccf2981.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_voice_recognition-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_voice_recognition.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

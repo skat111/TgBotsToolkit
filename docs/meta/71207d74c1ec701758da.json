@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_custom_expiration_duration.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_custom_expiration_duration.html",
+  "title": "TDLib: premiumStoryFeatureCustomExpirationDuration Class Reference",
+  "fetched_at": "2026-09-11T06:15:11Z",
+  "sha256": "3536954f77a569ddb890aa3caee6e1986fd0b9be013d27f381f6734546fde8bf",
+  "bytes": 15878,
+  "content_type": "text/html",
+  "raw": "docs/raw/71207d74c1ec701758da.html",
+  "markdown": "docs/pages/71207d74c1ec701758da.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_story_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_custom_expiration_duration-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_custom_expiration_duration.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

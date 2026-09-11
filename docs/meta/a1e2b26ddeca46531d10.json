@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1collectible_item_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1collectible_item_info.html",
+  "title": "TDLib: collectibleItemInfo Class Reference",
+  "fetched_at": "2026-09-11T06:13:49Z",
+  "sha256": "3ebd64b5f3156de50349ae501dc904efe6a8abd4c6553bd9c2899befe302801f",
+  "bytes": 24971,
+  "content_type": "text/html",
+  "raw": "docs/raw/a1e2b26ddeca46531d10.html",
+  "markdown": "docs/pages/a1e2b26ddeca46531d10.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1collectible_item_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1collectible_item_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

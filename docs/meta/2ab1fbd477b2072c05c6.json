@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateSavedRingtones",
+  "final_url": "https://core.telegram.org/constructor/updateSavedRingtones",
+  "title": "updateSavedRingtones",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "da4627a120e68d50f414fe2846813b6602586d52392eee830807c9f8ee27f0ca",
+  "bytes": 14515,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2ab1fbd477b2072c05c6.html",
+  "markdown": "docs/pages/2ab1fbd477b2072c05c6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateSavedRingtones",
+    "https://core.telegram.org/method/account.getSavedRingtones",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

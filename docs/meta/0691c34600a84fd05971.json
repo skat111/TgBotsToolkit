@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/InputEncryptedChat",
+  "final_url": "https://core.telegram.org/type/InputEncryptedChat",
+  "title": "InputEncryptedChat",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "a9cdb211a5b53f6775b0b0f766916169f95d3b6601985cb26d7852ea997242d6",
+  "bytes": 14455,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0691c34600a84fd05971.html",
+  "markdown": "docs/pages/0691c34600a84fd05971.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputEncryptedChat",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputEncryptedChat",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

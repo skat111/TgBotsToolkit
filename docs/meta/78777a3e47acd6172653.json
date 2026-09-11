@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/langpack.getLanguage",
+  "final_url": "https://core.telegram.org/method/langpack.getLanguage",
+  "title": "langpack.getLanguage",
+  "fetched_at": "2026-09-11T06:09:46Z",
+  "sha256": "076684ca7395133d8f16547450d6bdc8706d3100ddd35a46c69b07091caf563e",
+  "bytes": 16718,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/78777a3e47acd6172653.html",
+  "markdown": "docs/pages/78777a3e47acd6172653.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/langPackLanguage",
+    "https://core.telegram.org/method/langpack.getLanguage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/LangPackLanguage",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

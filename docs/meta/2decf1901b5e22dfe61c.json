@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/messages.VotesList",
+  "final_url": "https://core.telegram.org/type/messages.VotesList",
+  "title": "messages.VotesList",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "6f16b3f0e5c729f165eb00470a5fa671767c599c054c5b58453b6cb0a98f5016",
+  "bytes": 15083,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2decf1901b5e22dfe61c.html",
+  "markdown": "docs/pages/2decf1901b5e22dfe61c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.votesList",
+    "https://core.telegram.org/method/messages.getPollVotes",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/MessagePeerVote",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.VotesList",
+    "https://core.telegram.org/type/string"
+  ]
+}

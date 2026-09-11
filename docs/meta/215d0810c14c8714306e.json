@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateStarGiftCraftFail",
+  "final_url": "https://core.telegram.org/constructor/updateStarGiftCraftFail",
+  "title": "updateStarGiftCraftFail",
+  "fetched_at": "2026-09-11T06:08:07Z",
+  "sha256": "4cee7f00b2c2060591859264c26cc2ee75c09fecfb050082d0a774ab999c3ae4",
+  "bytes": 14612,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/215d0810c14c8714306e.html",
+  "markdown": "docs/pages/215d0810c14c8714306e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateStarGiftCraftFail",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

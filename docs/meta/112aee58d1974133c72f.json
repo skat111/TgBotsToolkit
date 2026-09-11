@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_stake_dice.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_stake_dice.html",
+  "title": "TDLib: inputMessageStakeDice Class Reference",
+  "fetched_at": "2026-09-11T06:14:35Z",
+  "sha256": "c382c69bc5e22a90c92056eba5cd4956d5c5687e4e3cacfbb66622c2391f3105",
+  "bytes": 21582,
+  "content_type": "text/html",
+  "raw": "docs/raw/112aee58d1974133c72f.html",
+  "markdown": "docs/pages/112aee58d1974133c72f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_stake_dice_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_stake_dice-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_stake_dice.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

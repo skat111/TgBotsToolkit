@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_mention_read.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_mention_read.html",
+  "title": "TDLib: updateMessageMentionRead Class Reference",
+  "fetched_at": "2026-09-11T06:16:10Z",
+  "sha256": "a3333be5fce691a52bf385af10148ac18313cbcc0fee0b249617c32bec878aeb",
+  "bytes": 20836,
+  "content_type": "text/html",
+  "raw": "docs/raw/b07c8adc0d98f629de28.html",
+  "markdown": "docs/pages/b07c8adc0d98f629de28.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_mention_read-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_mention_read.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

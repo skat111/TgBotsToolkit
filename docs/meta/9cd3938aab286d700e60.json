@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_passkey_parameters.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_passkey_parameters.html",
+  "title": "TDLib: getPasskeyParameters Class Reference",
+  "fetched_at": "2026-09-11T06:14:19Z",
+  "sha256": "a252ec94fc218d582f6c954c2b3235a6b672187827786879388976af102a6f5d",
+  "bytes": 16690,
+  "content_type": "text/html",
+  "raw": "docs/raw/9cd3938aab286d700e60.html",
+  "markdown": "docs/pages/9cd3938aab286d700e60.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_passkey_parameters-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_passkey_parameters.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantVolume",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantVolume",
+  "title": "channelAdminLogEventActionParticipantVolume",
+  "fetched_at": "2026-09-11T06:05:47Z",
+  "sha256": "b7534621a9d5c455d7cb1c20e6b22b34460d0920bae957af921660989003a2e7",
+  "bytes": 14635,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f53c6bda3276f1cc6821.html",
+  "markdown": "docs/pages/f53c6bda3276f1cc6821.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantVolume",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/GroupCallParticipant"
+  ]
+}

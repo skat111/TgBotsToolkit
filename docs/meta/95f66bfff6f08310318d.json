@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotInlineSend",
+  "final_url": "https://core.telegram.org/constructor/updateBotInlineSend",
+  "title": "updateBotInlineSend",
+  "fetched_at": "2026-09-11T06:07:53Z",
+  "sha256": "fadc783ba9b16c7d7c292d9f264432c26afd0d2b22c5b82ce04bc13f11161dcd",
+  "bytes": 16179,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/95f66bfff6f08310318d.html",
+  "markdown": "docs/pages/95f66bfff6f08310318d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/constructor/updateBotInlineSend",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/GeoPoint",
+    "https://core.telegram.org/type/InputBotInlineMessageID",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

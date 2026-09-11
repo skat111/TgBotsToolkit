@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recent_hashtag.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recent_hashtag.html",
+  "title": "TDLib: removeRecentHashtag Class Reference",
+  "fetched_at": "2026-09-11T06:15:21Z",
+  "sha256": "f144e71610723fb883b2f33cd621a45e6920d6db8a636c52f481b08cec39a7d7",
+  "bytes": 19429,
+  "content_type": "text/html",
+  "raw": "docs/raw/bdbbc8cf92b24bc720b5.html",
+  "markdown": "docs/pages/bdbbc8cf92b24bc720b5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recent_hashtag-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recent_hashtag.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

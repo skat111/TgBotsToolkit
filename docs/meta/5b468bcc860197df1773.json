@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.loginTokenSuccess",
+  "final_url": "https://core.telegram.org/constructor/auth.loginTokenSuccess",
+  "title": "auth.loginTokenSuccess",
+  "fetched_at": "2026-09-11T06:05:34Z",
+  "sha256": "3d1acab277243753555146b231af4a100ce9ea94c27cae2feed614fe30d38695",
+  "bytes": 14268,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5b468bcc860197df1773.html",
+  "markdown": "docs/pages/5b468bcc860197df1773.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.loginTokenSuccess",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/auth.LoginToken"
+  ]
+}

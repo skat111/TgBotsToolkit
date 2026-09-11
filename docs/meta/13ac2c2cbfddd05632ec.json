@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_dice_emojis-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_dice_emojis-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:13Z",
+  "sha256": "c4d41567a221193be4c7154cc6adbad274767ad990ae4c7ba7f24aad837aec33",
+  "bytes": 10156,
+  "content_type": "text/html",
+  "raw": "docs/raw/13ac2c2cbfddd05632ec.html",
+  "markdown": "docs/pages/13ac2c2cbfddd05632ec.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_dice_emojis.html"
+  ]
+}

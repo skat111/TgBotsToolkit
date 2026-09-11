@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_bot_similar_bot_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_bot_similar_bot_count.html",
+  "title": "TDLib: getBotSimilarBotCount Class Reference",
+  "fetched_at": "2026-09-11T06:14:07Z",
+  "sha256": "82c0a56ffc8f33089f7473fe18e3473e05f3d3c53520e43a9b07ac3a8f899d51",
+  "bytes": 20657,
+  "content_type": "text/html",
+  "raw": "docs/raw/6581e3da15035a361535.html",
+  "markdown": "docs/pages/6581e3da15035a361535.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1count.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_bot_similar_bot_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_bot_similar_bot_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

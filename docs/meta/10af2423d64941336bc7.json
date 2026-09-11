@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_forum_topic.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_forum_topic.html",
+  "title": "TDLib: createForumTopic Class Reference",
+  "fetched_at": "2026-09-11T06:13:51Z",
+  "sha256": "a680d07144330e863e47ebce6400a97219f3c7508718e571b8de903fbae4a73a",
+  "bytes": 24257,
+  "content_type": "text/html",
+  "raw": "docs/raw/10af2423d64941336bc7.html",
+  "markdown": "docs/pages/10af2423d64941336bc7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_forum_topic-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_forum_topic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_icon.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_forum_topic_default_icons.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

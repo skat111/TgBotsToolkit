@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/ReportReason",
+  "final_url": "https://core.telegram.org/type/ReportReason",
+  "title": "ReportReason",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "275b8b85a0e0378fdd79fae8a9255438320929e41ef58b1b5d82afa5ea9c4503",
+  "bytes": 16579,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f3942efe5675f6cc4a65.html",
+  "markdown": "docs/pages/f3942efe5675f6cc4a65.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputReportReasonChildAbuse",
+    "https://core.telegram.org/constructor/inputReportReasonCopyright",
+    "https://core.telegram.org/constructor/inputReportReasonFake",
+    "https://core.telegram.org/constructor/inputReportReasonGeoIrrelevant",
+    "https://core.telegram.org/constructor/inputReportReasonIllegalDrugs",
+    "https://core.telegram.org/constructor/inputReportReasonOther",
+    "https://core.telegram.org/constructor/inputReportReasonPersonalDetails",
+    "https://core.telegram.org/constructor/inputReportReasonPornography",
+    "https://core.telegram.org/constructor/inputReportReasonSpam",
+    "https://core.telegram.org/constructor/inputReportReasonViolence",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ReportReason"
+  ]
+}

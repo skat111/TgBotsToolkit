@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_text.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_text.html",
+  "title": "TDLib: pushMessageContentText Class Reference",
+  "fetched_at": "2026-09-11T06:15:18Z",
+  "sha256": "88b0450e9a0bb066f91319af21198ddaf7e79b58f50d4663ce3c1d7fceaffc44",
+  "bytes": 19228,
+  "content_type": "text/html",
+  "raw": "docs/raw/0376fddafc6a027ebd95.html",
+  "markdown": "docs/pages/0376fddafc6a027ebd95.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_push_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_text-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_text.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

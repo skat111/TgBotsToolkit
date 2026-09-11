@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles",
+  "title": "channelAdminLogEventActionToggleSignatureProfiles",
+  "fetched_at": "2026-09-11T06:05:48Z",
+  "sha256": "79c2e3dbe7c33f0c48f3b651af300eadc2fbd9cac2ad8f31e8aa02307bd0ca12",
+  "bytes": 14459,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ab6e33599bfc8debdbd0.html",
+  "markdown": "docs/pages/ab6e33599bfc8debdbd0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction"
+  ]
+}

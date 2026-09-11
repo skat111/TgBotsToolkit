@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/account.createBusinessChatLink",
+  "final_url": "https://core.telegram.org/method/account.createBusinessChatLink",
+  "title": "account.createBusinessChatLink",
+  "fetched_at": "2026-09-11T06:08:31Z",
+  "sha256": "b98d09a23d43dc3f913ee67a27d85d97acc2d3b6aa90f3cb3d974c487e6f3f75",
+  "bytes": 16243,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d88c9d509ff26cdcdbd5.html",
+  "markdown": "docs/pages/d88c9d509ff26cdcdbd5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessChatLink",
+    "https://core.telegram.org/method/account.createBusinessChatLink",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessChatLink",
+    "https://core.telegram.org/type/InputBusinessChatLink",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

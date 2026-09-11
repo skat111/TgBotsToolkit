@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/messages.getFactCheck",
+  "final_url": "https://core.telegram.org/method/messages.getFactCheck",
+  "title": "messages.getFactCheck",
+  "fetched_at": "2026-09-11T06:10:07Z",
+  "sha256": "9c8740dfbf0d93cf71761f1bd35b4f2e48ab7158f0901783df4ee6c9f9347434",
+  "bytes": 15991,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/57901b38954fc3199f24.html",
+  "markdown": "docs/pages/57901b38954fc3199f24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/factcheck",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/factCheck",
+    "https://core.telegram.org/method/messages.getFactCheck",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/FactCheck",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_forum_topic_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_forum_topic_info.html",
+  "title": "TDLib: updateForumTopicInfo Class Reference",
+  "fetched_at": "2026-09-11T06:16:09Z",
+  "sha256": "0e235925a927c67bae8e2001b4a4d4b88c579b67d4ab91ac7c8a9750d175ec39",
+  "bytes": 18614,
+  "content_type": "text/html",
+  "raw": "docs/raw/21b71fdb47bb4ab03a96.html",
+  "markdown": "docs/pages/21b71fdb47bb4ab03a96.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_forum_topic_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_forum_topic_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

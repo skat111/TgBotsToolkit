@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/emojiStatus",
+  "final_url": "https://core.telegram.org/constructor/emojiStatus",
+  "title": "emojiStatus",
+  "fetched_at": "2026-09-11T06:06:03Z",
+  "sha256": "b9d78ff533eb3bdee747842c4a00a4e1653829980a6107819008382a6a8ec9d2",
+  "bytes": 15325,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/193d5197bad55c3740a6.html",
+  "markdown": "docs/pages/193d5197bad55c3740a6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emojiStatus",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/EmojiStatus",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

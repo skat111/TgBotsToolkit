@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStickerSetDice",
+  "final_url": "https://core.telegram.org/constructor/inputStickerSetDice",
+  "title": "inputStickerSetDice",
+  "fetched_at": "2026-09-11T06:06:36Z",
+  "sha256": "fc53a6ba030993c2d4e0a2224310655fc60c3bd67bf8f10943611b8c1d687af1",
+  "bytes": 14893,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/058e04b26707e720bd2b.html",
+  "markdown": "docs/pages/058e04b26707e720bd2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/dice",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputStickerSetDice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputStickerSet",
+    "https://core.telegram.org/type/string"
+  ]
+}

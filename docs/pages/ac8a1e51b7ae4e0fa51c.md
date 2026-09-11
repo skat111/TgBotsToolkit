@@ -1,0 +1,385 @@
+# messages.sendMedia
+
+Source: https://core.telegram.org/method/messages.sendMedia
+
+Send a media
+
+* [Layer 223](https://core.telegram.org/method/messages.sendMedia#) 
+  + [1 – Base layer](https://core.telegram.org/method/messages.sendMedia?layer=1)
+  + [2 – New userpic notifications](https://core.telegram.org/method/messages.sendMedia?layer=2)
+  + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.sendMedia?layer=3)
+  + [4 – Check-in chats](https://core.telegram.org/method/messages.sendMedia?layer=4)
+  + [5 – Localized SMS, localized notifications](https://core.telegram.org/method/messages.sendMedia?layer=5)
+  + [6 – Foursquare integration](https://core.telegram.org/method/messages.sendMedia?layer=6)
+  + [7 – Added wallPaperSolid](https://core.telegram.org/method/messages.sendMedia?layer=7)
+  + [8 – Added end-to-end encryption](https://core.telegram.org/method/messages.sendMedia?layer=8)
+  + [9 – Improved big files upload perfomance](https://core.telegram.org/method/messages.sendMedia?layer=9)
+  + [10 – Improved chat participants updates](https://core.telegram.org/method/messages.sendMedia?layer=10)
+  + [11 – Improved secret chats](https://core.telegram.org/method/messages.sendMedia?layer=11)
+  + [12 – New dynamic support](https://core.telegram.org/method/messages.sendMedia?layer=12)
+  + [13 – Audio, video MIME; contacts import retry; new secret actions](https://core.telegram.org/method/messages.sendMedia?layer=13)
+  + [14 – Notify settings sync, blacklist sync](https://core.telegram.org/method/messages.sendMedia?layer=14)
+  + [15 – Modified getHistory offset behaviour](https://core.telegram.org/method/messages.sendMedia?layer=15)
+  + [16 – Split sendCode into 2 parts](https://core.telegram.org/method/messages.sendMedia?layer=16)
+  + [17 – Added custom typing, introduced message flags](https://core.telegram.org/method/messages.sendMedia?layer=17)
+  + [18 – Added usernames](https://core.telegram.org/method/messages.sendMedia?layer=18)
+  + [23 – Stickers for secret chats](https://core.telegram.org/method/messages.sendMedia?layer=23)
+  + [105 – Scheduled messages, Cloud themes](https://core.telegram.org/method/messages.sendMedia?layer=105)
+  + [108 – Login with QR code](https://core.telegram.org/method/messages.sendMedia?layer=108)
+  + [109 – Polls v2](https://core.telegram.org/method/messages.sendMedia?layer=109)
+  + [110 – People Nearby 2.0, Bank card entity](https://core.telegram.org/method/messages.sendMedia?layer=110)
+  + [111 – Folders, Broadcast Stats](https://core.telegram.org/method/messages.sendMedia?layer=111)
+  + [112 – Old featured stickers, generic dice, poll timer, poll solution](https://core.telegram.org/method/messages.sendMedia?layer=112)
+  + [113 – PSA](https://core.telegram.org/method/messages.sendMedia?layer=113)
+  + [114 – Video thumbs for GIFs](https://core.telegram.org/method/messages.sendMedia?layer=114)
+  + [115 – Peek Channel Invite](https://core.telegram.org/method/messages.sendMedia?layer=115)
+  + [116 – Group Stats, Profile Videos](https://core.telegram.org/method/messages.sendMedia?layer=116)
+  + [117 – WebRTC Phone Calls](https://core.telegram.org/method/messages.sendMedia?layer=117)
+  + [118 – Callback with 2FA, Countries list](https://core.telegram.org/method/messages.sendMedia?layer=118)
+  + [119 – Comments in channels, Threads, Anonymous Admins](https://core.telegram.org/method/messages.sendMedia?layer=119)
+  + [120 – Multipins, Message Stats, GeoLive v2](https://core.telegram.org/method/messages.sendMedia?layer=120)
+  + [121 – SVG-based Outlines for Stickers](https://core.telegram.org/method/messages.sendMedia?layer=121)
+  + [122 – Voice Chats](https://core.telegram.org/method/messages.sendMedia?layer=122)
+  + [123 – Voice Chat improvements](https://core.telegram.org/method/messages.sendMedia?layer=123)
+  + [124 – Expiring Invite links](https://core.telegram.org/method/messages.sendMedia?layer=124)
+  + [125 – Voice Chats in Broadcasts](https://core.telegram.org/method/messages.sendMedia?layer=125)
+  + [126 – Ban channels in channels](https://core.telegram.org/method/messages.sendMedia?layer=126)
+  + [127 – Payments in channels](https://core.telegram.org/method/messages.sendMedia?layer=127)
+  + [128 – Microthumbs for User/Chat profile photos](https://core.telegram.org/method/messages.sendMedia?layer=128)
+  + [129 – Video Chats](https://core.telegram.org/method/messages.sendMedia?layer=129)
+  + [130 – Custom placeholder for bot reply keyboards](https://core.telegram.org/method/messages.sendMedia?layer=130)
+  + [131 – Reset 2FA Password after a week](https://core.telegram.org/method/messages.sendMedia?layer=131)
+  + [132 – Chat themes](https://core.telegram.org/method/messages.sendMedia?layer=132)
+  + [133 – 64-bit IDs for User/Chat](https://core.telegram.org/method/messages.sendMedia?layer=133)
+  + [134 – Chat Requests, Shared Media Calendar](https://core.telegram.org/method/messages.sendMedia?layer=134)
+  + [135 – Send Message As a Channel](https://core.telegram.org/method/messages.sendMedia?layer=135)
+  + [136 – Reactions](https://core.telegram.org/method/messages.sendMedia?layer=136)
+  + [137 – Translations](https://core.telegram.org/method/messages.sendMedia?layer=137)
+  + [138 – GIF Sticker Packs](https://core.telegram.org/method/messages.sendMedia?layer=138)
+  + [139 – RTMP streaming](https://core.telegram.org/method/messages.sendMedia?layer=139)
+  + [140 – WebApps, Cloud Ringtones](https://core.telegram.org/method/messages.sendMedia?layer=140)
+  + [142 – TCP Reflectors](https://core.telegram.org/method/messages.sendMedia?layer=142)
+  + [143 – Premium Subscription, Cloud Invoices](https://core.telegram.org/method/messages.sendMedia?layer=143)
+  + [144 – Premium as a Gift, Custom Emoji](https://core.telegram.org/method/messages.sendMedia?layer=144)
+  + [145 – Custom Reactions, Statuses, Sign In with email](https://core.telegram.org/method/messages.sendMedia?layer=145)
+  + [147 – Keywords for stickers and emojis](https://core.telegram.org/method/messages.sendMedia?layer=147)
+  + [148 – Forums, collectible usernames](https://core.telegram.org/method/messages.sendMedia?layer=148)
+  + [150 – Pinned forum topics, general topic](https://core.telegram.org/method/messages.sendMedia?layer=150)
+  + [151 – Media spoilers, suggested profile photos](https://core.telegram.org/method/messages.sendMedia?layer=151)
+  + [152 – Real-time translations, Firebase SMS authentication](https://core.telegram.org/method/messages.sendMedia?layer=152)
+  + [153 – Modify created stickersets](https://core.telegram.org/method/messages.sendMedia?layer=153)
+  + [155 – Dates for reactions](https://core.telegram.org/method/messages.sendMedia?layer=155)
+  + [158 – Shared folders, per-chat wallpapers](https://core.telegram.org/method/messages.sendMedia?layer=158)
+  + [159 – Anonymous votes](https://core.telegram.org/method/messages.sendMedia?layer=159)
+  + [160 – Stories](https://core.telegram.org/method/messages.sendMedia?layer=160)
+  + [164 – Stories in Channels](https://core.telegram.org/method/messages.sendMedia?layer=164)
+  + [166 – Giveaways in channels](https://core.telegram.org/method/messages.sendMedia?layer=166)
+  + [167 – Similar channels](https://core.telegram.org/method/messages.sendMedia?layer=167)
+  + [168 – Channel colors](https://core.telegram.org/method/messages.sendMedia?layer=168)
+  + [169 – Multiselection of chats for bots](https://core.telegram.org/method/messages.sendMedia?layer=169)
+  + [170 – Saved Messages 2.0](https://core.telegram.org/method/messages.sendMedia?layer=170)
+  + [171 – Saved Messages 2.0](https://core.telegram.org/method/messages.sendMedia?layer=171)
+  + [174 – Group boosts](https://core.telegram.org/method/messages.sendMedia?layer=174)
+  + [176 – Business](https://core.telegram.org/method/messages.sendMedia?layer=176)
+  + [177 – Business Bots, Birthdays](https://core.telegram.org/method/messages.sendMedia?layer=177)
+  + [178 – Saved Personal channel, Reactions notifications](https://core.telegram.org/method/messages.sendMedia?layer=178)
+  + [179 – Channel revenue stats, phrases in SMS](https://core.telegram.org/method/messages.sendMedia?layer=179)
+  + [180 – Message Effects, Hashtags](https://core.telegram.org/method/messages.sendMedia?layer=180)
+  + [181 – Stars](https://core.telegram.org/method/messages.sendMedia?layer=181)
+  + [182 – Stars Revenue](https://core.telegram.org/method/messages.sendMedia?layer=182)
+  + [183 – Paid posts](https://core.telegram.org/method/messages.sendMedia?layer=183)
+  + [184 – Stars Refunds](https://core.telegram.org/method/messages.sendMedia?layer=184)
+  + [185 – MiniApp Store, Star Gifts](https://core.telegram.org/method/messages.sendMedia?layer=185)
+  + [186 – Channel Subscriptions for Stars](https://core.telegram.org/method/messages.sendMedia?layer=186)
+  + [187 – Stars Giveaways](https://core.telegram.org/method/messages.sendMedia?layer=187)
+  + [189 – Stars Gifts](https://core.telegram.org/method/messages.sendMedia?layer=189)
+  + [192 – Video Qualities, Ads in bots](https://core.telegram.org/method/messages.sendMedia?layer=192)
+  + [194 – Stars Subscription for Bots](https://core.telegram.org/method/messages.sendMedia?layer=194)
+  + [195 – Affiliate Programs for Bots](https://core.telegram.org/method/messages.sendMedia?layer=195)
+  + [196 – Collectible gifts](https://core.telegram.org/method/messages.sendMedia?layer=196)
+  + [197 – Similar Bots](https://core.telegram.org/method/messages.sendMedia?layer=197)
+  + [198 – Collectibles as emoji statuses](https://core.telegram.org/method/messages.sendMedia?layer=198)
+  + [200 – Paid Messages](https://core.telegram.org/method/messages.sendMedia?layer=200)
+  + [202 – Conference calls](https://core.telegram.org/method/messages.sendMedia?layer=202)
+  + [203 – Resell collectible gifts](https://core.telegram.org/method/messages.sendMedia?layer=203)
+  + [204 – Monoforums](https://core.telegram.org/method/messages.sendMedia?layer=204)
+  + [205 – TODO lists](https://core.telegram.org/method/messages.sendMedia?layer=205)
+  + [207 – Suggested channel posts](https://core.telegram.org/method/messages.sendMedia?layer=207)
+  + [210 – Star gift collections, rating](https://core.telegram.org/method/messages.sendMedia?layer=210)
+  + [211 – Story Albums](https://core.telegram.org/method/messages.sendMedia?layer=211)
+  + [212 – Prepaid gift upgrades](https://core.telegram.org/method/messages.sendMedia?layer=212)
+  + [213 – Music in profile](https://core.telegram.org/method/messages.sendMedia?layer=213)
+  + [214 – Chat Themes with collectible gifts](https://core.telegram.org/method/messages.sendMedia?layer=214)
+  + [215 – Chat Gift Themes](https://core.telegram.org/method/messages.sendMedia?layer=215)
+  + [216 – Threaded view for Bots](https://core.telegram.org/method/messages.sendMedia?layer=216)
+  + [217 – Live Stories](https://core.telegram.org/method/messages.sendMedia?layer=217)
+  + [218 – Gift Auctions](https://core.telegram.org/method/messages.sendMedia?layer=218)
+  + [219 – Passkeys](https://core.telegram.org/method/messages.sendMedia?layer=219)
+  + [220 – Gift Offers](https://core.telegram.org/method/messages.sendMedia?layer=220)
+  + [222 – Gift Crafts](https://core.telegram.org/method/messages.sendMedia?layer=222)
+  + [**223 – User tags in groups**](https://core.telegram.org/method/messages.sendMedia?layer=223)
+  + [More...](https://core.telegram.org/api/layers)
+
+```
+updatesTooLong#e317af7e = Updates;
+updateShortMessage#313bc7f8 flags:# out:flags.1?true mentioned:flags.4?true media_unread:flags.5?true silent:flags.13?true id:int user_id:long message:string pts:int pts_count:int date:int fwd_from:flags.2?MessageFwdHeader via_bot_id:flags.11?long reply_to:flags.3?MessageReplyHeader entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+updateShortChatMessage#4d6deea5 flags:# out:flags.1?true mentioned:flags.4?true media_unread:flags.5?true silent:flags.13?true id:int from_id:long chat_id:long message:string pts:int pts_count:int date:int fwd_from:flags.2?MessageFwdHeader via_bot_id:flags.11?long reply_to:flags.3?MessageReplyHeader entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+updateShort#78d4dec1 update:Update date:int = Updates;
+updatesCombined#725b04c3 updates:Vector<Update> users:Vector<User> chats:Vector<Chat> date:int seq_start:int seq:int = Updates;
+updates#74ae4240 updates:Vector<Update> users:Vector<User> chats:Vector<Chat> date:int seq:int = Updates;
+updateShortSentMessage#9015e101 flags:# out:flags.1?true id:int pts:int pts_count:int date:int media:flags.9?MessageMedia entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+---functions---
+messages.sendMedia#330e77f flags:# silent:flags.5?true background:flags.6?true clear_draft:flags.7?true noforwards:flags.14?true update_stickersets_order:flags.15?true invert_media:flags.16?true allow_paid_floodskip:flags.19?true peer:InputPeer reply_to:flags.0?InputReplyTo media:InputMedia message:string random_id:long reply_markup:flags.2?ReplyMarkup entities:flags.3?Vector<MessageEntity> schedule_date:flags.10?int schedule_repeat_period:flags.24?int send_as:flags.13?InputPeer quick_reply_shortcut:flags.17?InputQuickReplyShortcut effect:flags.18?long allow_paid_stars:flags.21?long suggested_post:flags.22?SuggestedPost = Updates;
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
+| **silent** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | Send message silently (no notification should be triggered) |
+| **background** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[true](https://core.telegram.org/constructor/true) | Send message in background |
+| **clear\_draft** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).7?[true](https://core.telegram.org/constructor/true) | Clear the draft |
+| **noforwards** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).14?[true](https://core.telegram.org/constructor/true) | Only for bots, disallows forwarding and saving of the messages, even if the destination chat doesn't have [content protection](https://telegram.org/blog/content-protection-delete-by-date-and-more) enabled |
+| **update\_stickersets\_order** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).15?[true](https://core.telegram.org/constructor/true) | Whether to move used stickersets to top, [see here for more info on this flag »](https://core.telegram.org/api/stickers#recent-stickersets) |
+| **invert\_media** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).16?[true](https://core.telegram.org/constructor/true) | If set, any eventual webpage preview will be shown on top of the message instead of at the bottom. |
+| **allow\_paid\_floodskip** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).19?[true](https://core.telegram.org/constructor/true) | Bots only: if set, allows sending up to 1000 messages per second, ignoring [broadcasting limits](https://core.telegram.org/bots/faq#how-can-i-message-all-of-my-bot-39s-subscribers-at-once) for a fee of 0.1 Telegram Stars per message. The relevant Stars will be withdrawn from the bot's balance. |
+| **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Destination |
+| **reply\_to** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputReplyTo](https://core.telegram.org/type/InputReplyTo) | If set, indicates that the message should be sent in reply to the specified message or story. |
+| **media** | [InputMedia](https://core.telegram.org/type/InputMedia) | Attached media |
+| **message** | [string](https://core.telegram.org/type/string) | Caption |
+| **random\_id** | [long](https://core.telegram.org/type/long) | Random ID to avoid resending the same message. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
+| **reply\_markup** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[ReplyMarkup](https://core.telegram.org/type/ReplyMarkup) | Reply markup for bot keyboards |
+| **entities** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[Vector](https://core.telegram.org/type/Vector%20t)<[MessageEntity](https://core.telegram.org/type/MessageEntity)> | Message [entities](https://core.telegram.org/api/entities) for styled text |
+| **schedule\_date** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).10?[int](https://core.telegram.org/type/int) | Scheduled message date for [scheduled messages](https://core.telegram.org/api/scheduled-messages) |
+| **schedule\_repeat\_period** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).24?[int](https://core.telegram.org/type/int) | Once sent, this message will be automatically re-scheduled to be re-sent again this many seconds in the future, see [here »](https://core.telegram.org/api/scheduled-messages#repeating-scheduled-messages) for more info on repeating scheduled messages. |
+| **send\_as** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).13?[InputPeer](https://core.telegram.org/type/InputPeer) | Send this message as the specified peer |
+| **quick\_reply\_shortcut** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).17?[InputQuickReplyShortcut](https://core.telegram.org/type/InputQuickReplyShortcut) | Add the message to the specified [quick reply shortcut »](https://core.telegram.org/api/business#quick-reply-shortcuts), instead. |
+| **effect** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).18?[long](https://core.telegram.org/type/long) | Specifies a [message effect »](https://core.telegram.org/api/effects) to use for the message. |
+| **allow\_paid\_stars** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).21?[long](https://core.telegram.org/type/long) | For [paid messages »](https://core.telegram.org/api/paid-messages), specifies the amount of [Telegram Stars](https://core.telegram.org/api/stars) the user has agreed to pay in order to send the message. |
+| **suggested\_post** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).22?[SuggestedPost](https://core.telegram.org/type/SuggestedPost) | Used to [suggest a post to a channel, see here »](https://core.telegram.org/api/suggested-posts) for more info on the full flow. |
+
+### Result
+
+[Updates](https://core.telegram.org/type/Updates)
+
+### Both users and bots can use this method
+
+### This method can be invoked over a [business connection »](https://core.telegram.org/api/bots/connected-business-bots)
+
+### Possible errors
+
+| Code | Type | Description |
+| --- | --- | --- |
+| 406 | ALLOW\_PAYMENT\_REQUIRED | This peer only accepts [paid messages »](https://core.telegram.org/api/paid-messages): this error is only emitted for older layers without paid messages support, so the client must be updated in order to use paid messages. . |
+| 403 | ALLOW\_PAYMENT\_REQUIRED\_%d | This peer charges %d [Telegram Stars](https://core.telegram.org/api/stars) per message, but the `allow_paid_stars` was not set or its value is smaller than %d. |
+| 400 | BOT\_GAMES\_DISABLED | Games can't be sent to channels. |
+| 400 | BOT\_PAYMENTS\_DISABLED | Please enable bot payments in botfather before calling this method. |
+| 400 | BROADCAST\_PUBLIC\_VOTERS\_FORBIDDEN | You can't forward polls with public voters. |
+| 400 | BUSINESS\_CONNECTION\_INVALID | The `connection_id` passed to the wrapping [invokeWithBusinessConnection](https://core.telegram.org/api/business) call is invalid. |
+| 400 | BUSINESS\_PEER\_INVALID | Messages can't be set to the specified peer through the current [business connection](https://core.telegram.org/api/business#connected-bots). |
+| 400 | BUSINESS\_PEER\_USAGE\_MISSING | You cannot send a message to a user through a [business connection](https://core.telegram.org/api/business#connected-bots) if the user hasn't recently contacted us. |
+| 400 | BUTTON\_COPY\_TEXT\_INVALID | The specified [keyboardButtonCopy](https://core.telegram.org/constructor/keyboardButtonCopy).`copy_text` is invalid. |
+| 400 | BUTTON\_DATA\_INVALID | The data of one or more of the buttons you provided is invalid. |
+| 400 | BUTTON\_POS\_INVALID | The position of one of the keyboard buttons is invalid (i.e. a Game or Pay button not in the first position, and so on...). |
+| 400 | BUTTON\_TYPE\_INVALID | The type of one or more of the buttons you provided is invalid. |
+| 400 | BUTTON\_URL\_INVALID | Button URL invalid. |
+| 400 | BUTTON\_USER\_PRIVACY\_RESTRICTED | The privacy setting of the user specified in a [inputKeyboardButtonUserProfile](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile) button do not allow creating such a button. |
+| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
+| 406 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
+| 403 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | CHAT\_FORWARDS\_RESTRICTED | You can't forward messages from a protected chat. |
+| 403 | CHAT\_GUEST\_SEND\_FORBIDDEN | You join the discussion group before commenting, see [here »](https://core.telegram.org/api/discussion#requiring-users-to-join-the-group) for more info. |
+| 400 | CHAT\_RESTRICTED | You can't send messages in this chat, you were restricted. |
+| 403 | CHAT\_SEND\_AUDIOS\_FORBIDDEN | You can't send audio messages in this chat. |
+| 403 | CHAT\_SEND\_DOCS\_FORBIDDEN | You can't send documents in this chat. |
+| 403 | CHAT\_SEND\_GIFS\_FORBIDDEN | You can't send gifs in this chat. |
+| 403 | CHAT\_SEND\_MEDIA\_FORBIDDEN | You can't send media in this chat. |
+| 403 | CHAT\_SEND\_PHOTOS\_FORBIDDEN | You can't send photos in this chat. |
+| 403 | CHAT\_SEND\_PLAIN\_FORBIDDEN | You can't send non-media (text) messages in this chat. |
+| 403 | CHAT\_SEND\_POLL\_FORBIDDEN | You can't send polls in this chat. |
+| 403 | CHAT\_SEND\_ROUNDVIDEOS\_FORBIDDEN | You can't send round videos to this chat. |
+| 403 | CHAT\_SEND\_STICKERS\_FORBIDDEN | You can't send stickers in this chat. |
+| 403 | CHAT\_SEND\_VIDEOS\_FORBIDDEN | You can't send videos in this chat. |
+| 403 | CHAT\_SEND\_VOICES\_FORBIDDEN | You can't send voice recordings in this chat. |
+| 403 | CHAT\_WRITE\_FORBIDDEN | You can't write in this chat. |
+| 400 | CURRENCY\_TOTAL\_AMOUNT\_INVALID | The total amount of all prices is invalid. |
+| 400 | DOCUMENT\_INVALID | The specified document is invalid. |
+| 400 | EFFECT\_CHAT\_INVALID | Message [effects](https://core.telegram.org/api/effects) can only be used in private 1-on-1 chats, but the caller tried to send a message with an effect to a group or channel. |
+| 400 | EFFECT\_ID\_INVALID | The specified effect ID is invalid. |
+| 400 | EMOTICON\_INVALID | The specified emoji is invalid. |
+| 400 | ENTITY\_BOUNDS\_INVALID | A specified [entity offset or length](https://core.telegram.org/api/entities#entity-length) is invalid, see [here »](https://core.telegram.org/api/entities#entity-length) for info on how to properly compute the entity offset/length. |
+| 400 | EXTENDED\_MEDIA\_AMOUNT\_INVALID | The specified `stars_amount` of the passed [inputMediaPaidMedia](https://core.telegram.org/constructor/inputMediaPaidMedia) is invalid. |
+| 400 | EXTENDED\_MEDIA\_EMPTY | The specified extended media is empty. |
+| 400 | EXTENDED\_MEDIA\_INVALID | The specified paid media is invalid. |
+| 400 | EXTENDED\_MEDIA\_PEER\_INVALID | Paid media is not allowed for the target peer. |
+| 400 | EXTERNAL\_URL\_INVALID | External URL invalid. |
+| 400 | FILE\_PARTS\_INVALID | The number of file parts is invalid. |
+| 400 | FILE\_PART\_LENGTH\_INVALID | The length of a file part is invalid. |
+| 400 | FILE\_REFERENCE\_EMPTY | An empty [file reference](https://core.telegram.org/api/file-references) was specified. |
+| 400 | FILE\_REFERENCE\_EXPIRED | File reference expired, it must be refetched as described in [the documentation](https://core.telegram.org/api/file-references). |
+| 400 | GAME\_BOT\_INVALID | Bots can't send another bot's game. |
+| 400 | IMAGE\_PROCESS\_FAILED | Failure while processing image. |
+| 400 | INPUT\_FILE\_INVALID | The specified [InputFile](https://core.telegram.org/type/InputFile) is invalid. |
+| 400 | INPUT\_USER\_DEACTIVATED | The specified user was deleted. |
+| 400 | INVOICE\_PAYLOAD\_INVALID | The specified invoice payload is invalid. |
+| 400 | MD5\_CHECKSUM\_INVALID | The MD5 checksums do not match. |
+| 400 | MEDIA\_CAPTION\_TOO\_LONG | The caption is too long. |
+| 400 | MEDIA\_EMPTY | The provided media object is invalid. |
+| 400 | MEDIA\_FILE\_INVALID | The specified media file is invalid. |
+| 400 | MEDIA\_INVALID | Media invalid. |
+| 400 | MESSAGE\_EMPTY | The provided message is empty. |
+| 400 | MESSAGE\_TOO\_LONG | The provided message is too long. |
+| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
+| 400 | PAYMENT\_PROVIDER\_INVALID | The specified payment provider is invalid. |
+| 406 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PHOTO\_EXT\_INVALID | The extension of the photo is invalid. |
+| 400 | PHOTO\_INVALID\_DIMENSIONS | The photo dimensions are invalid. |
+| 400 | PHOTO\_SAVE\_FILE\_INVALID | Internal issues, try again later. |
+| 400 | POLL\_ANSWERS\_INVALID | Invalid poll answers were provided. |
+| 400 | POLL\_ANSWER\_INVALID | One of the poll answers is not acceptable. |
+| 400 | POLL\_OPTION\_DUPLICATE | Duplicate poll options provided. |
+| 400 | POLL\_OPTION\_INVALID | Invalid poll option provided. |
+| 400 | POLL\_QUESTION\_INVALID | One of the poll questions is not acceptable. |
+| 403 | PREMIUM\_ACCOUNT\_REQUIRED | A premium account is required to execute this action. |
+| 403 | PRIVACY\_PREMIUM\_REQUIRED | You need a [Telegram Premium subscription](https://core.telegram.org/api/premium) to send a message to this user. |
+| 400 | QUICK\_REPLIES\_BOT\_NOT\_ALLOWED | [Quick replies](https://core.telegram.org/api/business#quick-reply-shortcuts) cannot be used by bots. |
+| 400 | QUICK\_REPLIES\_TOO\_MUCH | A maximum of [appConfig.`quick_replies_limit`](https://core.telegram.org/api/config#quick-replies-limit) shortcuts may be created, the limit was reached. |
+| 400 | QUIZ\_CORRECT\_ANSWERS\_EMPTY | No correct quiz answer was specified. |
+| 400 | QUIZ\_CORRECT\_ANSWERS\_TOO\_MUCH | You specified too many correct answers in a quiz, quizzes can only have one right answer! |
+| 400 | QUIZ\_CORRECT\_ANSWER\_INVALID | An invalid value was provided to the correct\_answers field. |
+| 400 | QUIZ\_MULTIPLE\_INVALID | Quizzes can't have the multiple\_choice flag set! |
+| 500 | RANDOM\_ID\_DUPLICATE | You provided a random ID that was already used. |
+| 400 | REPLY\_MARKUP\_BUY\_EMPTY | Reply markup for buy button empty. |
+| 400 | REPLY\_MARKUP\_GAME\_EMPTY | A game message is being edited, but the newly provided keyboard doesn't have a keyboardButtonGame button. |
+| 400 | REPLY\_MARKUP\_INVALID | The provided reply markup is invalid. |
+| 400 | REPLY\_MARKUP\_TOO\_LONG | The specified reply\_markup is too long. |
+| 400 | REPLY\_MESSAGES\_TOO\_MUCH | Each shortcut can contain a maximum of [appConfig.`quick_reply_messages_limit`](https://core.telegram.org/api/config#quick-reply-messages-limit) messages, the limit was reached. |
+| 400 | REPLY\_MESSAGE\_ID\_INVALID | The specified reply-to message ID is invalid. |
+| 400 | REPLY\_TO\_MONOFORUM\_PEER\_INVALID | The specified inputReplyToMonoForum.monoforum\_peer\_id is invalid. |
+| 400 | SCHEDULE\_BOT\_NOT\_ALLOWED | Bots cannot schedule messages. |
+| 400 | SCHEDULE\_DATE\_TOO\_LATE | You can't schedule a message this far in the future. |
+| 400 | SCHEDULE\_TOO\_MUCH | There are too many scheduled messages. |
+| 400 | SEND\_AS\_PEER\_INVALID | You can't send messages as the specified peer. |
+| 420 | SLOWMODE\_WAIT\_%d | Slowmode is enabled in this chat: wait %d seconds before sending another message to this chat. |
+| 400 | STARS\_INVOICE\_INVALID | The specified Telegram Star invoice is invalid. |
+| 400 | STORY\_ID\_INVALID | The specified story ID is invalid. |
+| 400 | SUBSCRIPTION\_EXPORT\_MISSING | You cannot send a [bot subscription invoice](https://core.telegram.org/api/subscriptions#bot-subscriptions) directly, you may only create invoice links using [payments.exportInvoice](https://core.telegram.org/method/payments.exportInvoice). |
+| 400 | SUGGESTED\_POST\_PEER\_INVALID | You cannot send suggested posts to non-[monoforum](https://core.telegram.org/api/monoforum) peers. |
+| 400 | TERMS\_URL\_INVALID | The specified [invoice](https://core.telegram.org/constructor/invoice).`terms_url` is invalid. |
+| 400 | TODO\_ITEMS\_EMPTY | A checklist was specified, but no [checklist items](https://core.telegram.org/api/todo) were passed. |
+| 400 | TODO\_ITEMS\_TOO\_MUCH | You specified too many todo list items. |
+| 400 | TODO\_ITEM\_DUPLICATE | Duplicate [checklist items](https://core.telegram.org/api/todo) detected. |
+| 406 | TOPIC\_CLOSED | This topic was closed, you can't send messages to it anymore. |
+| 406 | TOPIC\_DELETED | The specified topic was deleted. |
+| 400 | TTL\_MEDIA\_INVALID | Invalid media Time To Live was provided. |
+| 400 | USER\_BANNED\_IN\_CHANNEL | You're banned from sending messages in supergroups/channels. |
+| 400 | USER\_BOT\_TO\_BOT\_DISABLED | Bot-to-bot messaging is disabled because one of the two bots hasn't enabled the Bot to Bot setting in @BotFather. |
+| 403 | USER\_IS\_BLOCKED | You were blocked by this user. |
+| 400 | USER\_IS\_BOT | Bots can't send messages to other bots. |
+| 400 | VIDEO\_CONTENT\_TYPE\_INVALID | The video's content type is invalid. |
+| 400 | VOICE\_MESSAGES\_FORBIDDEN | This user's privacy settings forbid you from sending voice messages. |
+| 400 | WEBDOCUMENT\_MIME\_INVALID | Invalid webdocument mime type provided. |
+| 400 | WEBPAGE\_CURL\_FAILED | Failure while fetching the webpage with cURL. |
+| 400 | WEBPAGE\_MEDIA\_EMPTY | Webpage media empty. |
+| 400 | WEBPAGE\_NOT\_FOUND | A preview for the specified webpage `url` could not be generated. |
+| 400 | WEBPAGE\_URL\_INVALID | The specified webpage `url` is invalid. |
+| 400 | YOU\_BLOCKED\_USER | You blocked this user. |
+
+### Related pages
+
+#### [Stickers and masks](https://core.telegram.org/api/stickers)
+
+Telegram clients support displaying static and animated stickers.
+
+#### [Bots FAQ](https://core.telegram.org/bots/faq)
+
+#### [Working with Updates](https://core.telegram.org/api/updates)
+
+How to subscribe to updates and handle them properly.
+
+#### [Styled text with message entities](https://core.telegram.org/api/entities)
+
+How to create styled text with message entities
+
+#### [Scheduled messages](https://core.telegram.org/api/scheduled-messages)
+
+Telegram allows scheduling messages
+
+#### [Telegram Business](https://core.telegram.org/api/business)
+
+Users can turn their Telegram account into a business account, gaining access to business features such as opening hours, location, quick replies, automated messages, custom start pages, chatbot support, and more.
+
+#### [Animated message effects](https://core.telegram.org/api/effects)
+
+Telegram allows adding spectacular animated effects to messages you send.
+
+#### [Paid messages](https://core.telegram.org/api/paid-messages)
+
+Telegram Stars can be used to pay for sending messages to users, supergroups and channels that have configured paid messages, requiring a payment for every message sent to them.
+
+#### [Telegram Stars](https://core.telegram.org/api/stars)
+
+Telegram Stars are virtual items that allow users to purchase digital goods and services from bots and mini apps inside the Telegram ecosystem, send gifts to content creators on the Telegram platform, and more.
+
+#### [Suggested posts](https://core.telegram.org/api/suggested-posts)
+
+Telegram offers a powerful monetization feature to channel administrators: suggested posts.
+
+#### [keyboardButtonCopy](https://core.telegram.org/constructor/keyboardButtonCopy)
+
+Clipboard button
+
+Available only in [inline keyboards](https://core.telegram.org/constructor/replyInlineMarkup).
+
+When pressed, clients must copy `copy_text` to the clipboard.
+
+#### [inputKeyboardButtonUserProfile](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile)
+
+Button that links directly to a user profile
+
+Use this constructor to send a [keyboardButtonUserProfile](https://core.telegram.org/constructor/keyboardButtonUserProfile) button in an [inline keyboard](https://core.telegram.org/bots/features#inline-keyboards).
+
+#### [Discussion groups](https://core.telegram.org/api/discussion)
+
+Groups can be associated to a channel as a discussion group, to allow users to discuss about posts.
+
+#### [inputMediaPaidMedia](https://core.telegram.org/constructor/inputMediaPaidMedia)
+
+[Paid media, see here »](https://core.telegram.org/api/paid-media) for more info.
+
+#### [File references](https://core.telegram.org/api/file-references)
+
+How to handle file references.
+
+#### [InputFile](https://core.telegram.org/type/InputFile)
+
+Defines a file uploaded by the client.
+
+#### [Telegram Premium](https://core.telegram.org/api/premium)
+
+Telegram Premium is an optional subscription service that unlocks additional exclusive client-side and API-side features, while helping support the development of the app.
+
+#### [Client configuration](https://core.telegram.org/api/config)
+
+The MTProto API has multiple configuration parameters that can be fetched with the appropriate methods.
+
+#### [Star subscriptions](https://core.telegram.org/api/subscriptions)
+
+Bots and channels may create subscriptions, periodically charging users a certain amount of Telegram Stars in exchange for content and services.
+
+#### [payments.exportInvoice](https://core.telegram.org/method/payments.exportInvoice)
+
+Generate an [invoice deep link](https://core.telegram.org/api/links#invoice-links)
+
+#### [Direct messages to channels](https://core.telegram.org/api/monoforum)
+
+Telegram supports direct messages to channels, which can also be used to suggest (even paid) channel posts.
+
+#### [invoice](https://core.telegram.org/constructor/invoice)
+
+Invoice
+
+#### [Checklists and to-do lists](https://core.telegram.org/api/todo)
+
+Premium users can now create collaborative checklists in any chat to track tasks and coordinate teams — or manage shopping and to-do lists.

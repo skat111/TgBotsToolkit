@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_identity_card.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_identity_card.html",
+  "title": "TDLib: passportElementIdentityCard Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "73194e7ffd7e2d56e49b00626cb51144c342305520b695522d6a345b7ade35d5",
+  "bytes": 18787,
+  "content_type": "text/html",
+  "raw": "docs/raw/9361ee1e27fcc2d34072.html",
+  "markdown": "docs/pages/9361ee1e27fcc2d34072.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1identity_document.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_identity_card-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_identity_card.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

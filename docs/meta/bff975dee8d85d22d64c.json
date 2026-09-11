@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_sticker_set-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_sticker_set-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:57Z",
+  "sha256": "e1cbb6ac2d9477b2644359e7d407a50f1ccc004d5d66daa30ccab9972c6707c4",
+  "bytes": 10433,
+  "content_type": "text/html",
+  "raw": "docs/raw/bff975dee8d85d22d64c.html",
+  "markdown": "docs/pages/bff975dee8d85d22d64c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_sticker_set.html"
+  ]
+}

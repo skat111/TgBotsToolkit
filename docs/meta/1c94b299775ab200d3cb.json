@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.reorderPinnedDialogs",
+  "final_url": "https://core.telegram.org/method/messages.reorderPinnedDialogs",
+  "title": "messages.reorderPinnedDialogs",
+  "fetched_at": "2026-09-11T06:10:21Z",
+  "sha256": "a1de0e578ed5ef4b469acd849863e2ab207f44b7e64d504a5946c45a940c4b49",
+  "bytes": 16293,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1c94b299775ab200d3cb.html",
+  "markdown": "docs/pages/1c94b299775ab200d3cb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.reorderPinnedDialogs",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputDialogPeer",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

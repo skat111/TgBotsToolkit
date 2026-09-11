@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.deletePhoneCallHistory",
+  "final_url": "https://core.telegram.org/method/messages.deletePhoneCallHistory",
+  "title": "messages.deletePhoneCallHistory",
+  "fetched_at": "2026-09-11T06:09:54Z",
+  "sha256": "3f967e70f5426cc10f8e0cb477f7fdf13d13914d827433c1d2c40ffae2f3d017",
+  "bytes": 15254,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4fd5fafe47cd68a4fcfd.html",
+  "markdown": "docs/pages/4fd5fafe47cd68a4fcfd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.affectedFoundMessages",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.deletePhoneCallHistory",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AffectedFoundMessages"
+  ]
+}

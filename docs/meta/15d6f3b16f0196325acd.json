@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/account.TmpPassword",
+  "final_url": "https://core.telegram.org/type/account.TmpPassword",
+  "title": "Account.TmpPassword",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "7cc167039696d77f96a66fe461e1f1052bcfcc47dcddf9bc2befdfe7db9e0917",
+  "bytes": 14618,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/15d6f3b16f0196325acd.html",
+  "markdown": "docs/pages/15d6f3b16f0196325acd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.tmpPassword",
+    "https://core.telegram.org/method/account.getTmpPassword",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/account.TmpPassword",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

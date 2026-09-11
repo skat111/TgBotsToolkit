@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/_client_actor_8h.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/_client_actor_8h.html",
+  "title": "TDLib: td/telegram/ClientActor.h File Reference",
+  "fetched_at": "2026-09-11T06:16:53Z",
+  "sha256": "cde2c90801ad4230390900feac533e4cc46fa6e86f52941a81723c23f1f302b1",
+  "bytes": 10911,
+  "content_type": "text/html",
+  "raw": "docs/raw/f6344d075f548d7c8ac8.html",
+  "markdown": "docs/pages/f6344d075f548d7c8ac8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_client_actor_8h.html",
+    "https://core.telegram.org/tdlib/docs/_client_actor_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client_actor.html",
+    "https://core.telegram.org/tdlib/docs/dir_05b22fcca9bb47fde58f0d0dd2892ac6.html",
+    "https://core.telegram.org/tdlib/docs/dir_a49186d4b022e03550aa19f8980c74c2.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_actor_1_1_options.html"
+  ]
+}

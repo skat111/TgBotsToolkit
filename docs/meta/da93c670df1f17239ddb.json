@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/encryptedChatWaiting",
+  "final_url": "https://core.telegram.org/constructor/encryptedChatWaiting",
+  "title": "encryptedChatWaiting",
+  "fetched_at": "2026-09-11T06:06:04Z",
+  "sha256": "ca8f121fe9e610deb9853c3eb6eb6cbdf1226fc9e42cabfb955119b43591812c",
+  "bytes": 14941,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/da93c670df1f17239ddb.html",
+  "markdown": "docs/pages/da93c670df1f17239ddb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/encryptedChatWaiting",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EncryptedChat",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

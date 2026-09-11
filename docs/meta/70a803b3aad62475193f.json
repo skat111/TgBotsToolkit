@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/phone.GroupCallStars",
+  "final_url": "https://core.telegram.org/type/phone.GroupCallStars",
+  "title": "Phone.GroupCallStars",
+  "fetched_at": "2026-09-11T06:17:19Z",
+  "sha256": "5078457d7d72e41059faf2a06cc95c20de9f707ff2c8f50cf296abc07c887965",
+  "bytes": 15684,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/70a803b3aad62475193f.html",
+  "markdown": "docs/pages/70a803b3aad62475193f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phone.groupCallStars",
+    "https://core.telegram.org/method/phone.getGroupCallStars",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/GroupCallDonor",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/phone.GroupCallStars"
+  ]
+}

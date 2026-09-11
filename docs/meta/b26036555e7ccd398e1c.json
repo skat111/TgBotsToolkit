@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html",
+  "title": "TDLib: updateApplicationVerificationRequired Class Reference",
+  "fetched_at": "2026-09-11T06:16:07Z",
+  "sha256": "6e7470e83d59f3130c351f2a6b54a57dc708fda00fb3428d9153b47357712db3",
+  "bytes": 22619,
+  "content_type": "text/html",
+  "raw": "docs/raw/b26036555e7ccd398e1c.html",
+  "markdown": "docs/pages/b26036555e7ccd398e1c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

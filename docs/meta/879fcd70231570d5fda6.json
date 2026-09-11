@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/bots/games",
+  "final_url": "https://core.telegram.org/bots/games",
+  "title": "Gaming Platform",
+  "fetched_at": "2026-09-11T06:05:10Z",
+  "sha256": "cfe4b1511b2db12156e26b98e1e42224855b8b1e78ff37ee5e7d5cc8c0f709c0",
+  "bytes": 13012,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/879fcd70231570d5fda6.html",
+  "markdown": "docs/pages/879fcd70231570d5fda6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/games",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/file/811140022/1/m7-46hgmwbI.91190/ad7033bcb879270a69",
+    "https://core.telegram.org/file/811140035/2/cIULSr61vi4.78261/127282e0bbd66ce3a9",
+    "https://core.telegram.org/file/811140189/2/SLwHmToemfg.91233/a242854be2b500b4cb",
+    "https://core.telegram.org/file/811140373/1/0_42vz9chLs.975647/383dca94f028b1872c",
+    "https://core.telegram.org/file/811140557/3/ddi8K6x0obQ.34056/a1ca60069b70a81646",
+    "https://core.telegram.org/file/811140594/2/WS2fB3n2UGA.149087/270057ff677339717e",
+    "https://core.telegram.org/file/811140766/2/_wJtf-Zib5I.25531/774eb9b59898526d26",
+    "https://core.telegram.org/file/811140978/1/JoBvEad8JaM.148942/dcd741b65b446781b4",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

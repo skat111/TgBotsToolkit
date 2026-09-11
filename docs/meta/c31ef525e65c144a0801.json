@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_position.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_position.html",
+  "title": "TDLib: updateChatPosition Class Reference",
+  "fetched_at": "2026-09-11T06:16:08Z",
+  "sha256": "1b6a279ca858f82e505465385a82170d6ec485f54e1fc92d0d0ac2d39ae30f3c",
+  "bytes": 20512,
+  "content_type": "text/html",
+  "raw": "docs/raw/c31ef525e65c144a0801.html",
+  "markdown": "docs/pages/c31ef525e65c144a0801.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_position.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_draft_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_last_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_position-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_position.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

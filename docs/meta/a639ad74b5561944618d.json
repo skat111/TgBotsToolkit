@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/InlineBotWebView",
+  "final_url": "https://core.telegram.org/type/InlineBotWebView",
+  "title": "InlineBotWebView",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "3ae45c9370a8b6e1b8f9fca35fa3524cce167cd72470c662a762ff419e6e396a",
+  "bytes": 14727,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a639ad74b5561944618d.html",
+  "markdown": "docs/pages/a639ad74b5561944618d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inlineBotWebView",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InlineBotWebView",
+    "https://core.telegram.org/type/string"
+  ]
+}

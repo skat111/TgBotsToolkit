@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/stories.Albums",
+  "final_url": "https://core.telegram.org/type/stories.Albums",
+  "title": "Stories.Albums",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "2f1a3f520faf4890dfe187673f8cb0203d96f92efb9c1d360708778da1847650",
+  "bytes": 15476,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/14b524921938231722d9.html",
+  "markdown": "docs/pages/14b524921938231722d9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/stories.albums",
+    "https://core.telegram.org/constructor/stories.albumsNotModified",
+    "https://core.telegram.org/method/stories.getAlbums",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/StoryAlbum",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/stories.Albums"
+  ]
+}

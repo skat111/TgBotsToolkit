@@ -1,0 +1,23 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error-members.html
+
+This is the complete list of members for [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) | static |
+| [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#a1456105d4b6c787acbf3807e4aeb0049)() | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) |  |
+| [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#ac244b202bf4b07e34700d92310d9d0e3)(object\_ptr< PassportElementType > &&type\_, string const &message\_, object\_ptr< InputPassportElementErrorSource > &&source\_) | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) |  |
+| [message\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#a44d903a81178bdfff6c6c0c0c72942aa) | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [source\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#ad9231afaf91844ef5fd44f9cd85f817a) | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) | virtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [type\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html#aa9d243cc103a4560bdb3507c2efbd3d1) | [inputPassportElementError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_error.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

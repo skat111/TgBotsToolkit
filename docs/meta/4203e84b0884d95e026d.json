@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_invoice_link.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_invoice_link.html",
+  "title": "TDLib: createInvoiceLink Class Reference",
+  "fetched_at": "2026-09-11T06:13:51Z",
+  "sha256": "af80d0240e377993f03503c99c060954ac8ded0ff443c1a96a3bb015d2caa2a2",
+  "bytes": 21285,
+  "content_type": "text/html",
+  "raw": "docs/raw/4203e84b0884d95e026d.html",
+  "markdown": "docs/pages/4203e84b0884d95e026d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_invoice_link-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_invoice_link.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1http_url.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_invoice.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

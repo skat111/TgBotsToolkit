@@ -1,0 +1,27 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option-members.html
+
+This is the complete list of members for [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a6b93487a4b387e2bf75ec0604b3d8209) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [currency\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#af027d823cea668905ec74448f1099d35) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [discount\_percentage\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a43553d06339f2925ebadf4d46eea8442) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) | static |
+| [month\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a7650c5c484689e444d76aec30eff15cd) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae9de93c8045bb4fcf3c2fe7659fb59a9)() | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#adb535d575870876574f705399c2bcf0b)(string const &currency\_, int53 amount\_, int53 star\_count\_, int32 discount\_percentage\_, int32 month\_count\_, string const &store\_product\_id\_, object\_ptr< sticker > &&sticker\_) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ad508b0848e631be2e72f8b8c664b94c4) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [sticker\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a681634f2c1ba6d856402bcb704471cc4) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) | virtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [store\_product\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae7f1ae5f9ef309db88e242864dc34604) | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

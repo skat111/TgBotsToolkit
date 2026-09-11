@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/ShippingOption",
+  "final_url": "https://core.telegram.org/type/ShippingOption",
+  "title": "ShippingOption",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "480dc9557775a9a6ae2a0a224d6491f6c7b3ced2eade5200552018739feaa9cb",
+  "bytes": 13987,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8de3b86a7c6a768968f8.html",
+  "markdown": "docs/pages/8de3b86a7c6a768968f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/shippingOption",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/LabeledPrice",
+    "https://core.telegram.org/type/ShippingOption",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

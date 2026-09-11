@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-polymorph",
+  "final_url": "https://core.telegram.org/mtproto/TL-polymorph",
+  "title": "﻿Polymorphism in TL",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "b1c577ae75da16cf71e5529919b50e45ef04abc5374c172fd5b9a6f1657a790a",
+  "bytes": 12897,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/820e9692fbd6a1336dd3.html",
+  "markdown": "docs/pages/820e9692fbd6a1336dd3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-polymorph",
+    "https://core.telegram.org/mtproto/TL-types",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/channels.getLeftChannels",
+  "final_url": "https://core.telegram.org/method/channels.getLeftChannels",
+  "title": "channels.getLeftChannels",
+  "fetched_at": "2026-09-11T06:09:24Z",
+  "sha256": "08d187724682a3650ee84870d7c2377d117cf0dbd3a0d84d7c2c4c7d5f64dcbb",
+  "bytes": 16743,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/93fa6b3b1813e28d3c38.html",
+  "markdown": "docs/pages/93fa6b3b1813e28d3c38.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/takeout",
+    "https://core.telegram.org/constructor/messages.chats",
+    "https://core.telegram.org/constructor/messages.chatsSlice",
+    "https://core.telegram.org/method/channels.getLeftChannels",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.Chats"
+  ]
+}

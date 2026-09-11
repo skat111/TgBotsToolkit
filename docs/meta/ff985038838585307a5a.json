@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_levels.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_levels.html",
+  "title": "TDLib: updateGroupCallMessageLevels Class Reference",
+  "fetched_at": "2026-09-11T06:16:10Z",
+  "sha256": "49b138ff6081c281d0a9b2b571d77bbf5e0fa9b4a9b0784a12a9de49c3be6ab8",
+  "bytes": 19207,
+  "content_type": "text/html",
+  "raw": "docs/raw/ff985038838585307a5a.html",
+  "markdown": "docs/pages/ff985038838585307a5a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_message_level.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_levels-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call_message_levels.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

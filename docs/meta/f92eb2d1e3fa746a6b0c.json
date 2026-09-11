@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_background_changed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_background_changed.html",
+  "title": "TDLib: chatEventBackgroundChanged Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "543304ce184633d6c24490d3af3ea8841386a9b5419c480586a375618ec3b3b6",
+  "bytes": 20237,
+  "content_type": "text/html",
+  "raw": "docs/raw/f92eb2d1e3fa746a6b0c.html",
+  "markdown": "docs/pages/f92eb2d1e3fa746a6b0c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_background.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_background_changed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_background_changed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/messages.ComposedMessageWithAI",
+  "final_url": "https://core.telegram.org/type/messages.ComposedMessageWithAI",
+  "title": "Messages.ComposedMessageWithAI",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "cff30e21ccba07650d318e44d0e4b5b8fd7e29d019e90b8a890055f68cf8cd3d",
+  "bytes": 14572,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/be4fa8341d6eed983b71.html",
+  "markdown": "docs/pages/be4fa8341d6eed983b71.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.composedMessageWithAI",
+    "https://core.telegram.org/method/messages.composeMessageWithAI",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/messages.ComposedMessageWithAI"
+  ]
+}

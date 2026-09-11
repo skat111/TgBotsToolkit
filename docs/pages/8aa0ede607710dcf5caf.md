@@ -1,0 +1,23 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale-members.html
+
+This is the complete list of members for [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) | static |
+| [media\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a56b1ac3995577c5b7a5cfc6612670b1f) | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) |  |
+| [message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a946f46ee90c465619214e056e4d91ce4) | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a5b5a0a7104342d1e622ded370311a7cd)() | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) |  |
+| [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a563f0811c3741c070ec1679ea44188e0)(int53 user\_id\_, int53 message\_id\_, array< object\_ptr< PaidMedia >> &&media\_) | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) | virtual |
+| [td::td\_api::StarTransactionType::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::StarTransactionType::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html#a80aca422ea16bbb3ab3b62fafa43af6c) | [starTransactionTypeChannelPaidMediaSale](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_sale.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

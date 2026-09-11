@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.getAllSecureValues",
+  "final_url": "https://core.telegram.org/method/account.getAllSecureValues",
+  "title": "account.getAllSecureValues",
+  "fetched_at": "2026-09-11T06:08:34Z",
+  "sha256": "fe8d8181d5773d0f7105bebb9f6e97644bed495ef426383f76626fb984260680",
+  "bytes": 15220,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ccf9c45c6b04de428ec5.html",
+  "markdown": "docs/pages/ccf9c45c6b04de428ec5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/account.getAllSecureValues",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValue",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

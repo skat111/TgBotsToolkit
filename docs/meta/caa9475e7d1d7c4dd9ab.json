@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_increased_limits.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_increased_limits.html",
+  "title": "TDLib: premiumFeatureIncreasedLimits Class Reference",
+  "fetched_at": "2026-09-11T06:15:09Z",
+  "sha256": "5536ef4cffb64cad99b82690be783031f017cee8f1b29840b83c71ac82e84be6",
+  "bytes": 15605,
+  "content_type": "text/html",
+  "raw": "docs/raw/caa9475e7d1d7c4dd9ab.html",
+  "markdown": "docs/pages/caa9475e7d1d7c4dd9ab.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_increased_limits-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_increased_limits.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

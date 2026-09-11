@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyKeyStatusTimestamp",
+  "final_url": "https://core.telegram.org/constructor/privacyKeyStatusTimestamp",
+  "title": "privacyKeyStatusTimestamp",
+  "fetched_at": "2026-09-11T06:07:25Z",
+  "sha256": "1b6843335493f1c1b7bb5d13bee6ff6a8b5a124b6945f01fc992f6a63e81de79",
+  "bytes": 16918,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f3a9effb48ff7d051e8b.html",
+  "markdown": "docs/pages/f3a9effb48ff7d051e8b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/privacyKeyStatusTimestamp",
+    "https://core.telegram.org/constructor/userStatusLastMonth",
+    "https://core.telegram.org/constructor/userStatusLastWeek",
+    "https://core.telegram.org/constructor/userStatusRecently",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyKey"
+  ]
+}

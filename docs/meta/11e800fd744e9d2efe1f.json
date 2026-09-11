@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updates.differenceTooLong",
+  "final_url": "https://core.telegram.org/constructor/updates.differenceTooLong",
+  "title": "updates.differenceTooLong",
+  "fetched_at": "2026-09-11T06:08:10Z",
+  "sha256": "657bb6fa17d591d4a4dcdef27eb8fffc0c8220c8c714bbec2896d606e9321190",
+  "bytes": 14787,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/11e800fd744e9d2efe1f.html",
+  "markdown": "docs/pages/11e800fd744e9d2efe1f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updates.differenceTooLong",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/updates.Difference"
+  ]
+}

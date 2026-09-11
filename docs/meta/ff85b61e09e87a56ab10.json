@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/method/invokeWithGooglePlayIntegrity",
+  "final_url": "https://core.telegram.org/method/invokeWithGooglePlayIntegrity",
+  "title": "invokeWithGooglePlayIntegrity",
+  "fetched_at": "2026-09-11T06:09:44Z",
+  "sha256": "fe8b9692f44afd45dc294e5cb2e87b9abef19c3416176f3d02031f63991ddc9c",
+  "bytes": 14803,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ff85b61e09e87a56ab10.html",
+  "markdown": "docs/pages/ff85b61e09e87a56ab10.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/invokeWithGooglePlayIntegrity",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/string"
+  ]
+}

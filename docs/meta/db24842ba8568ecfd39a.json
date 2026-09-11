@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1validated_order_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1validated_order_info.html",
+  "title": "TDLib: validatedOrderInfo Class Reference",
+  "fetched_at": "2026-09-11T06:16:21Z",
+  "sha256": "410cde728193e930f01e34c45599344f47d61a5265d62a2202df31449e306a29",
+  "bytes": 20305,
+  "content_type": "text/html",
+  "raw": "docs/raw/db24842ba8568ecfd39a.html",
+  "markdown": "docs/pages/db24842ba8568ecfd39a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1shipping_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1validated_order_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1validated_order_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

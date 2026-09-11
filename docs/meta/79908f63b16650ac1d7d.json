@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html",
+  "title": "TDLib: inputStoryAreaTypeWeather Class Reference",
+  "fetched_at": "2026-09-11T06:14:38Z",
+  "sha256": "dfc67d74e487cd947e1c3f532f3a08d874541532c03f198742161c2de0b50a58",
+  "bytes": 20712,
+  "content_type": "text/html",
+  "raw": "docs/raw/79908f63b16650ac1d7d.html",
+  "markdown": "docs/pages/79908f63b16650ac1d7d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_story_area_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

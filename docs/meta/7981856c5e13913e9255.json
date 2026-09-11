@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updateManagedBot",
+  "final_url": "https://core.telegram.org/constructor/updateManagedBot",
+  "title": "updateManagedBot",
+  "fetched_at": "2026-09-11T06:08:00Z",
+  "sha256": "96430c76f80fb337d55ed26019da0f4e68c7ebd56402e40b9ebb02aa08f14869",
+  "bytes": 15378,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7981856c5e13913e9255.html",
+  "markdown": "docs/pages/7981856c5e13913e9255.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/managed-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateManagedBot",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

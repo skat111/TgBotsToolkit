@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_payment_refunded.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_payment_refunded.html",
+  "title": "TDLib: messagePaymentRefunded Class Reference",
+  "fetched_at": "2026-09-11T06:14:52Z",
+  "sha256": "1c4b5557c37ed42c12be6b5f047664d49fef0dd3cab047cec509c1e07875e2e8",
+  "bytes": 25274,
+  "content_type": "text/html",
+  "raw": "docs/raw/fc5dec92dae73b673597.html",
+  "markdown": "docs/pages/fc5dec92dae73b673597.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_payment_refunded-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_payment_refunded.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

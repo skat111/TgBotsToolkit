@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_state_active.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_state_active.html",
+  "title": "TDLib: auctionStateActive Class Reference",
+  "fetched_at": "2026-09-11T06:13:23Z",
+  "sha256": "c8a2a970061f88b409d18a0f647682b60533a889a25abb1fda2e81aa534c7bd8",
+  "bytes": 36132,
+  "content_type": "text/html",
+  "raw": "docs/raw/f9c9963d986dbe431ea8.html",
+  "markdown": "docs/pages/f9c9963d986dbe431ea8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_auction_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_bid.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_round.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_state_active-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_state_active.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_auction_bid.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

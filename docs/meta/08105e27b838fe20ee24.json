@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_anchor_link.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_anchor_link.html",
+  "title": "TDLib: richTextAnchorLink Class Reference",
+  "fetched_at": "2026-09-11T06:15:27Z",
+  "sha256": "105484d8e7bc3474e3a7f00872edc608f3fa01e7c907fde98fcbd3432d3e3b18",
+  "bytes": 20990,
+  "content_type": "text/html",
+  "raw": "docs/raw/08105e27b838fe20ee24.html",
+  "markdown": "docs/pages/08105e27b838fe20ee24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_rich_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_anchor_link-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_anchor_link.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

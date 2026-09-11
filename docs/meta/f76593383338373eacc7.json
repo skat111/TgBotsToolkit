@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/prepaidGiveaway",
+  "final_url": "https://core.telegram.org/constructor/prepaidGiveaway",
+  "title": "prepaidGiveaway",
+  "fetched_at": "2026-09-11T06:07:23Z",
+  "sha256": "13628dfc26b900de50d65cae541a0ca2a6cfc61a023b5ced34674cf107f50104",
+  "bytes": 15699,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f76593383338373eacc7.html",
+  "markdown": "docs/pages/f76593383338373eacc7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/prepaidGiveaway",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrepaidGiveaway",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

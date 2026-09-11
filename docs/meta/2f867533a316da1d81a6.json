@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/techfaq/mtproto_v1",
+  "final_url": "https://core.telegram.org/techfaq/mtproto_v1",
+  "title": "FAQ for the Technically Inclined (MTProto v.1.0)",
+  "fetched_at": "2026-09-11T06:16:25Z",
+  "sha256": "d3193c51ab109d841efba9c592f4d0110669c3e30d636115bef34806dd89e578",
+  "bytes": 11098,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2f867533a316da1d81a6.html",
+  "markdown": "docs/pages/2f867533a316da1d81a6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end_v1",
+    "https://core.telegram.org/articles/DH_Hash_Collision",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/description_v1",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/techfaq",
+    "https://core.telegram.org/techfaq/mtproto_v1"
+  ]
+}

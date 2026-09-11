@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_users_shared.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_users_shared.html",
+  "title": "TDLib: messageUsersShared Class Reference",
+  "fetched_at": "2026-09-11T06:14:58Z",
+  "sha256": "6ed48e0c687c59e4b8f27420c097bb9f119192962e094c819610b853d95969dc",
+  "bytes": 20004,
+  "content_type": "text/html",
+  "raw": "docs/raw/81045b348bd9e63052b7.html",
+  "markdown": "docs/pages/81045b348bd9e63052b7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_users_shared-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_users_shared.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1shared_user.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

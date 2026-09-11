@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputCheckPasswordEmpty",
+  "final_url": "https://core.telegram.org/constructor/inputCheckPasswordEmpty",
+  "title": "inputCheckPasswordEmpty",
+  "fetched_at": "2026-09-11T06:06:19Z",
+  "sha256": "1f8bdfba9b305acec903bda82d1fbf0a9ec5e3ba2a7728f24cf2ff04ca58bef5",
+  "bytes": 13898,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/44d05137dd4c520a43af.html",
+  "markdown": "docs/pages/44d05137dd4c520a43af.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputCheckPasswordEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCheckPasswordSRP"
+  ]
+}

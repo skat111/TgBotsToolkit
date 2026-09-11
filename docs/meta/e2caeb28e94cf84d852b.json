@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/popularContact",
+  "final_url": "https://core.telegram.org/constructor/popularContact",
+  "title": "popularContact",
+  "fetched_at": "2026-09-11T06:07:22Z",
+  "sha256": "c70be46125330e2c364d693c734174d64ad3d3ecd37560cc6f6c3c9b001f5fe7",
+  "bytes": 14272,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2caeb28e94cf84d852b.html",
+  "markdown": "docs/pages/e2caeb28e94cf84d852b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/popularContact",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PopularContact",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

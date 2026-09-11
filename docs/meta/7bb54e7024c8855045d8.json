@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/bots/api-changelog",
+  "final_url": "https://core.telegram.org/bots/api-changelog",
+  "title": "Bot API changelog",
+  "fetched_at": "2026-09-11T06:05:11Z",
+  "sha256": "df4d995ed7cf786647b10db2ef16edf3684dec5fa0bda9372741b417206bca8d",
+  "bytes": 215396,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7bb54e7024c8855045d8.html",
+  "markdown": "docs/pages/7bb54e7024c8855045d8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/",
+    "https://core.telegram.org/bots/2-0-intro",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/api-changelog",
+    "https://core.telegram.org/bots/faq",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/bots/games",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/tutorial",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/bots/webhooks",
+    "https://core.telegram.org/file/811140015/1734/8VZFkwWXalM.97872/6127fa62d8a0bf2b3c",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/widgets/login"
+  ]
+}

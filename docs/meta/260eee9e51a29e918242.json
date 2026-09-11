@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat_result_option_required.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat_result_option_required.html",
+  "title": "TDLib: reportChatResultOptionRequired Class Reference",
+  "fetched_at": "2026-09-11T06:15:22Z",
+  "sha256": "2410c2fc4c0c4823395ce99c0458ffa7c6c44fc6df790e99de2c5be30e0c34a7",
+  "bytes": 20374,
+  "content_type": "text/html",
+  "raw": "docs/raw/260eee9e51a29e918242.html",
+  "markdown": "docs/pages/260eee9e51a29e918242.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_report_chat_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat_result_option_required-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat_result_option_required.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_option.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

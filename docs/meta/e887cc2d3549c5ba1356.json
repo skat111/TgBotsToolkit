@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_active_usernames.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_active_usernames.html",
+  "title": "TDLib: reorderActiveUsernames Class Reference",
+  "fetched_at": "2026-09-11T06:15:21Z",
+  "sha256": "defe723a2ca94574ddbb0fbd650bcde6e0086acd8a8e42410420e5a3d6e64d64",
+  "bytes": 19884,
+  "content_type": "text/html",
+  "raw": "docs/raw/e887cc2d3549c5ba1356.html",
+  "markdown": "docs/pages/e887cc2d3549c5ba1356.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_active_usernames-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_active_usernames.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

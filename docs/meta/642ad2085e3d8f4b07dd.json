@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_withdrawal.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_withdrawal.html",
+  "title": "TDLib: tonTransactionTypeFragmentWithdrawal Class Reference",
+  "fetched_at": "2026-09-11T06:16:04Z",
+  "sha256": "f8be4996106aca728a110a9e385e13e899aebdd2f30b083dd35651e4d1a14782",
+  "bytes": 19124,
+  "content_type": "text/html",
+  "raw": "docs/raw/642ad2085e3d8f4b07dd.html",
+  "markdown": "docs/pages/642ad2085e3d8f4b07dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_revenue_withdrawal_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_ton_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_withdrawal-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_withdrawal.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

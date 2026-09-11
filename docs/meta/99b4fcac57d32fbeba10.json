@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_invite_link_deleted-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_invite_link_deleted-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:43Z",
+  "sha256": "0a4d5b996f1402479a7145d3c043857aaf16a9e27c1825bbc182eddb97865cd5",
+  "bytes": 10441,
+  "content_type": "text/html",
+  "raw": "docs/raw/99b4fcac57d32fbeba10.html",
+  "markdown": "docs/pages/99b4fcac57d32fbeba10.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_invite_link_deleted.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/stats.loadAsyncGraph",
+  "final_url": "https://core.telegram.org/method/stats.loadAsyncGraph",
+  "title": "stats.loadAsyncGraph",
+  "fetched_at": "2026-09-11T06:11:24Z",
+  "sha256": "560cf1f2e7b011b623f39307738cb5b3bd07359878da31abc879e7c02536ebb9",
+  "bytes": 16991,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cb1bb6ded866ee129f6d.html",
+  "markdown": "docs/pages/cb1bb6ded866ee129f6d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/statsGraph",
+    "https://core.telegram.org/constructor/statsGraphAsync",
+    "https://core.telegram.org/constructor/statsGraphError",
+    "https://core.telegram.org/method/stats.loadAsyncGraph",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/StatsGraph",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

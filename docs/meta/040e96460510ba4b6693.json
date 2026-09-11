@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_id_model.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_id_model.html",
+  "title": "TDLib: upgradedGiftAttributeIdModel Class Reference",
+  "fetched_at": "2026-09-11T06:16:18Z",
+  "sha256": "7133b07cfe14f5637f3878933e520fecccb9a3a7ea28993e6179039acfd92b24",
+  "bytes": 18457,
+  "content_type": "text/html",
+  "raw": "docs/raw/040e96460510ba4b6693.html",
+  "markdown": "docs/pages/040e96460510ba4b6693.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_attribute_id.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_id_model-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_attribute_id_model.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

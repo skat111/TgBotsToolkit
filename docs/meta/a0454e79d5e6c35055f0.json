@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_shareable_chat_folder_count-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_shareable_chat_folder_count-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:13Z",
+  "sha256": "e9005525d5c3f918d50bfc22886733ac352cc94d48838a340abc6c6643857cab",
+  "bytes": 9909,
+  "content_type": "text/html",
+  "raw": "docs/raw/a0454e79d5e6c35055f0.html",
+  "markdown": "docs/pages/a0454e79d5e6c35055f0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_shareable_chat_folder_count.html"
+  ]
+}

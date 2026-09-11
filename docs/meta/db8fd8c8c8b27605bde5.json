@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/help.PromoData",
+  "final_url": "https://core.telegram.org/type/help.PromoData",
+  "title": "help.PromoData",
+  "fetched_at": "2026-09-11T06:17:15Z",
+  "sha256": "b37bc5204b5d598900cdf68a1667c6a71fd5a75b43b84aba7fb4c7312ad0231a",
+  "bytes": 15710,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/db8fd8c8c8b27605bde5.html",
+  "markdown": "docs/pages/db8fd8c8c8b27605bde5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.promoData",
+    "https://core.telegram.org/constructor/help.promoDataEmpty",
+    "https://core.telegram.org/method/help.getPromoData",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PendingSuggestion",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.PromoData",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

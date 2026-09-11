@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateGroupCallParticipants",
+  "final_url": "https://core.telegram.org/constructor/updateGroupCallParticipants",
+  "title": "updateGroupCallParticipants",
+  "fetched_at": "2026-09-11T06:07:59Z",
+  "sha256": "6e38d51492e6770bb012b2b4cf3da8f305d84d0b8c07482f9f5a78c84ab5ed5e",
+  "bytes": 15336,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5f9b5ad169f27e665459.html",
+  "markdown": "docs/pages/5f9b5ad169f27e665459.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateGroupCallParticipants",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/GroupCallParticipant",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

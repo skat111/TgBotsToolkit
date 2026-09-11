@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_phone_number_code.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_phone_number_code.html",
+  "title": "TDLib: checkPhoneNumberCode Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "f692712f0c961ca9ea77770ee4fb8f56416948e96be90db1b3d78adf42a22f5c",
+  "bytes": 19595,
+  "content_type": "text/html",
+  "raw": "docs/raw/2546eda4919364779514.html",
+  "markdown": "docs/pages/2546eda4919364779514.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_phone_number_code-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_phone_number_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

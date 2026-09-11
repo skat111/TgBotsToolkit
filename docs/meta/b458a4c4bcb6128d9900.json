@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/messages.TranslatedText",
+  "final_url": "https://core.telegram.org/type/messages.TranslatedText",
+  "title": "messages.TranslatedText",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "76d7dfdb321f78f9e2ed3b83c6f3ba8b8286424b032b139d4fc97d5d12029218",
+  "bytes": 15573,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b458a4c4bcb6128d9900.html",
+  "markdown": "docs/pages/b458a4c4bcb6128d9900.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/messages.translateResult",
+    "https://core.telegram.org/method/messages.translateText",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.TranslatedText",
+    "https://core.telegram.org/type/string"
+  ]
+}

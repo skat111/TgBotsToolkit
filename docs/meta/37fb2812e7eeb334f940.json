@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_default_background.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_default_background.html",
+  "title": "TDLib: deleteDefaultBackground Class Reference",
+  "fetched_at": "2026-09-11T06:13:55Z",
+  "sha256": "7c4a3ba0627c18ff1e0cf475b4ba08ed26ccd74082b10010ee3021cc5241ab39",
+  "bytes": 19296,
+  "content_type": "text/html",
+  "raw": "docs/raw/37fb2812e7eeb334f940.html",
+  "markdown": "docs/pages/37fb2812e7eeb334f940.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_default_background-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_default_background.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

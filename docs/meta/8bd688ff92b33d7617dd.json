@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteRevoke",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteRevoke",
+  "title": "channelAdminLogEventActionExportedInviteRevoke",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "627773b6fd0c49cb63aae5670214fd5c06bd348a34a2682c8094d29c0e2636d3",
+  "bytes": 14465,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8bd688ff92b33d7617dd.html",
+  "markdown": "docs/pages/8bd688ff92b33d7617dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteRevoke",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ExportedChatInvite"
+  ]
+}

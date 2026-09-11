@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotBusinessConnect",
+  "final_url": "https://core.telegram.org/constructor/updateBotBusinessConnect",
+  "title": "updateBotBusinessConnect",
+  "fetched_at": "2026-09-11T06:07:52Z",
+  "sha256": "c7f2706e27ea69d06403168c5adf2462a5e98e7a6a9d19805323d7ba57889c9a",
+  "bytes": 16709,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/192112f64a9a42179157.html",
+  "markdown": "docs/pages/192112f64a9a42179157.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotBusinessConnect",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotBusinessConnection",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

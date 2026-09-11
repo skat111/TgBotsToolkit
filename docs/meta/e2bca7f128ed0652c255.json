@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/messages.PeerDialogs",
+  "final_url": "https://core.telegram.org/type/messages.PeerDialogs",
+  "title": "Messages.PeerDialogs",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "f9afdd4c33736bd34e629afe6a74be10ab1138712a37e815fe95311de6b5cb84",
+  "bytes": 15291,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2bca7f128ed0652c255.html",
+  "markdown": "docs/pages/e2bca7f128ed0652c255.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.peerDialogs",
+    "https://core.telegram.org/method/messages.getPeerDialogs",
+    "https://core.telegram.org/method/messages.getPinnedDialogs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Dialog",
+    "https://core.telegram.org/type/InputDialogPeer",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.PeerDialogs",
+    "https://core.telegram.org/type/updates.State"
+  ]
+}

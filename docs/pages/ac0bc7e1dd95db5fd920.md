@@ -1,0 +1,32 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info-members.html
+
+This is the complete list of members for [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [bot\_user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a852a1eecf72791be8eb2633ff5dcaec4) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [browser\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a759f9a9f2544bb32d90ff2c9ef5ec8ee) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [domain\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a44b9e1f8a26c08c9dcdb84253d703a9c) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) | static |
+| [ip\_address\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a9b606e23d1355c037e80a6d52b2a0c06) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [location\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a842286abf4d9cc56561cc2c92cdf5dc2) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [match\_code\_first\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a4d968ac01750130a6588099578ef24a2) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [match\_codes\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#aa166d1fcbd70f0e95c0f0831df3ad399) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a89732a75c9160507f47eac6db44b59e2)() | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#ac1a0051d77879ae1fb21a93b42570b76)(int53 user\_id\_, string const &url\_, string const &domain\_, int53 bot\_user\_id\_, bool request\_write\_access\_, bool request\_phone\_number\_access\_, string const &browser\_, string const &platform\_, string const &ip\_address\_, string const &location\_, bool match\_code\_first\_, array< string > &&match\_codes\_) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [platform\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#aa81f06ec384ee696ee72c4714d5f6b33) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [request\_phone\_number\_access\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a83c5c7c1381390a40da992a10535a411) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [request\_write\_access\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a988c6d54fcdb9d5528dc8e2e5a832b05) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) | virtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [url\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a541e0f072a74af71d6978eea722fc5fe) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html#a80aca422ea16bbb3ab3b62fafa43af6c) | [oauthLinkInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1oauth_link_info.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

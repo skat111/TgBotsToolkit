@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_declined.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_declined.html",
+  "title": "TDLib: resetPasswordResultDeclined Class Reference",
+  "fetched_at": "2026-09-11T06:15:26Z",
+  "sha256": "7ee7a28be6a093c136496a335610c2f98a8cf905639e8e91a050390123f44510",
+  "bytes": 18501,
+  "content_type": "text/html",
+  "raw": "docs/raw/25f02904af78fecd3921.html",
+  "markdown": "docs/pages/25f02904af78fecd3921.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reset_password_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_declined-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_declined.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_flash_call.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_flash_call.html",
+  "title": "TDLib: authenticationCodeTypeFlashCall Class Reference",
+  "fetched_at": "2026-09-11T06:13:24Z",
+  "sha256": "44710398fe4a71824201efa49bf390be8d2cd69075ad8e2b850a5d045fe1f1a9",
+  "bytes": 18990,
+  "content_type": "text/html",
+  "raw": "docs/raw/d17152dccba7b3878d25.html",
+  "markdown": "docs/pages/d17152dccba7b3878d25.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_authentication_code_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_flash_call-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_flash_call.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

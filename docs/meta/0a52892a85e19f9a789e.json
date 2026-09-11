@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/JSONValue",
+  "final_url": "https://core.telegram.org/type/JSONValue",
+  "title": "JSONValue",
+  "fetched_at": "2026-09-11T06:17:04Z",
+  "sha256": "596daf320eeeeff2c88275371eda079625a95998cde9266b23b8ff3009721440",
+  "bytes": 16387,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0a52892a85e19f9a789e.html",
+  "markdown": "docs/pages/0a52892a85e19f9a789e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/jsonArray",
+    "https://core.telegram.org/constructor/jsonBool",
+    "https://core.telegram.org/constructor/jsonNull",
+    "https://core.telegram.org/constructor/jsonNumber",
+    "https://core.telegram.org/constructor/jsonObject",
+    "https://core.telegram.org/constructor/jsonString",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/JSONObjectValue",
+    "https://core.telegram.org/type/JSONValue",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/double",
+    "https://core.telegram.org/type/string"
+  ]
+}

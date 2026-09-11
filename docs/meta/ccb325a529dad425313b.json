@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/SavedDialog",
+  "final_url": "https://core.telegram.org/type/SavedDialog",
+  "title": "SavedDialog",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "38a89266239e2f6f3898d9f33b14019b4d74a646593b9db6037aa57902084667",
+  "bytes": 15255,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ccb325a529dad425313b.html",
+  "markdown": "docs/pages/ccb325a529dad425313b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/monoForumDialog",
+    "https://core.telegram.org/constructor/savedDialog",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DraftMessage",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/SavedDialog",
+    "https://core.telegram.org/type/int"
+  ]
+}

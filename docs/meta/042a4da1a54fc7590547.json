@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/phone.saveDefaultSendAs",
+  "final_url": "https://core.telegram.org/method/phone.saveDefaultSendAs",
+  "title": "phone.saveDefaultSendAs",
+  "fetched_at": "2026-09-11T06:11:12Z",
+  "sha256": "2f6bbae5b3e51208eb4af57cf7fbd3a43b8fc3256c0062899b1833e88d5d8cac",
+  "bytes": 15980,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/042a4da1a54fc7590547.html",
+  "markdown": "docs/pages/042a4da1a54fc7590547.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/phone.saveDefaultSendAs",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

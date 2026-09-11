@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyKeyStarGiftsAutoSave",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyKeyStarGiftsAutoSave",
+  "title": "inputPrivacyKeyStarGiftsAutoSave",
+  "fetched_at": "2026-09-11T06:06:32Z",
+  "sha256": "b2e772ced674e919c04d973f765d370f5eb932f7b85d4730e663d17bfd1ddab2",
+  "bytes": 14662,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b73f0db0b2d854095cfb.html",
+  "markdown": "docs/pages/b73f0db0b2d854095cfb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPrivacyKeyStarGiftsAutoSave",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyKey"
+  ]
+}

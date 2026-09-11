@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/payments.StarGiftWithdrawalUrl",
+  "final_url": "https://core.telegram.org/type/payments.StarGiftWithdrawalUrl",
+  "title": "payments.StarGiftWithdrawalUrl",
+  "fetched_at": "2026-09-11T06:17:18Z",
+  "sha256": "fe5f500354aa00e01986f7976d7da659d25f7947aa1723418b65cce182122f89",
+  "bytes": 15012,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4c1884ed64c0206ff66a.html",
+  "markdown": "docs/pages/4c1884ed64c0206ff66a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.starGiftWithdrawalUrl",
+    "https://core.telegram.org/method/payments.getStarGiftWithdrawalUrl",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/InputSavedStarGift",
+    "https://core.telegram.org/type/payments.StarGiftWithdrawalUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

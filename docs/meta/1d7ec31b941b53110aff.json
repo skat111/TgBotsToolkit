@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/payments.checkCanSendGift",
+  "final_url": "https://core.telegram.org/method/payments.checkCanSendGift",
+  "title": "payments.checkCanSendGift",
+  "fetched_at": "2026-09-11T06:10:42Z",
+  "sha256": "bbe99e8719b379c2deb336a534138356f64f3f67d70e53e386d18ceeaa39ce25",
+  "bytes": 15895,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1d7ec31b941b53110aff.html",
+  "markdown": "docs/pages/1d7ec31b941b53110aff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.checkCanSendGiftResultFail",
+    "https://core.telegram.org/constructor/payments.checkCanSendGiftResultOk",
+    "https://core.telegram.org/method/payments.checkCanSendGift",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.CheckCanSendGiftResult"
+  ]
+}

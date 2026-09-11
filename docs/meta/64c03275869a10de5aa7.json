@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/account.PrivacyRules",
+  "final_url": "https://core.telegram.org/type/account.PrivacyRules",
+  "title": "Account.PrivacyRules",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "acbd82b594c8219fb03a8013f57eab55fe6361842d3ac9150cfcb967c193c505",
+  "bytes": 15186,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/64c03275869a10de5aa7.html",
+  "markdown": "docs/pages/64c03275869a10de5aa7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.privacyRules",
+    "https://core.telegram.org/method/account.getPrivacy",
+    "https://core.telegram.org/method/account.setPrivacy",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputPrivacyKey",
+    "https://core.telegram.org/type/InputPrivacyRule",
+    "https://core.telegram.org/type/PrivacyRule",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.PrivacyRules"
+  ]
+}

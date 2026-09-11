@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1leave_group_call-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1leave_group_call-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:46Z",
+  "sha256": "2c862c7e98d3d9ac28be8b2640ca5fe20d5aa27f01f37ebcdab0ed9eea2eac06",
+  "bytes": 10389,
+  "content_type": "text/html",
+  "raw": "docs/raw/42b7d5735fa570894287.html",
+  "markdown": "docs/pages/42b7d5735fa570894287.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1leave_group_call.html"
+  ]
+}

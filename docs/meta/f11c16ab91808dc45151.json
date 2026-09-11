@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_business_connection.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_business_connection.html",
+  "title": "TDLib: getBusinessConnection Class Reference",
+  "fetched_at": "2026-09-11T06:14:08Z",
+  "sha256": "86b6f30820df197d0098899038956dab381e2c418ec8e5a0cdb9ddd5c1065dbd",
+  "bytes": 19703,
+  "content_type": "text/html",
+  "raw": "docs/raw/f11c16ab91808dc45151.html",
+  "markdown": "docs/pages/f11c16ab91808dc45151.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_connection.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_business_connection-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_business_connection.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

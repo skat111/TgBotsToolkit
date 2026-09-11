@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_folder_new_chats.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_folder_new_chats.html",
+  "title": "TDLib: processChatFolderNewChats Class Reference",
+  "fetched_at": "2026-09-11T06:15:11Z",
+  "sha256": "2a9fb7c7e3d51d89584b968f19a9e4b73a1b2cb41d64ede5ea7ae986d9961d4c",
+  "bytes": 21278,
+  "content_type": "text/html",
+  "raw": "docs/raw/e8caa651a1ace9fc3945.html",
+  "markdown": "docs/pages/e8caa651a1ace9fc3945.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_folder_new_chats-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_folder_new_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

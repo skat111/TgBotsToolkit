@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call.html",
+  "title": "TDLib: updateGroupCall Class Reference",
+  "fetched_at": "2026-09-11T06:16:09Z",
+  "sha256": "9081cfcb42a7b7871e1393f9e3dd941b7fa548e3b34b6f0d2f466d8bee3262a6",
+  "bytes": 18444,
+  "content_type": "text/html",
+  "raw": "docs/raw/ef513a639ca724ba8629.html",
+  "markdown": "docs/pages/ef513a639ca724ba8629.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_group_call.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

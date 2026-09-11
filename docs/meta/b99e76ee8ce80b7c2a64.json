@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/account.registerDevice",
+  "final_url": "https://core.telegram.org/method/account.registerDevice",
+  "title": "account.registerDevice",
+  "fetched_at": "2026-09-11T06:08:47Z",
+  "sha256": "52cfde78965cb9c0c8f5e650e670c2a2f3d843ee8e8def5bb0b0fc3452694c8c",
+  "bytes": 17960,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b99e76ee8ce80b7c2a64.html",
+  "markdown": "docs/pages/b99e76ee8ce80b7c2a64.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/push-updates",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.registerDevice",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

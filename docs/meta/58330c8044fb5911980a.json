@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/chatInviteExported",
+  "final_url": "https://core.telegram.org/constructor/chatInviteExported",
+  "title": "chatInviteExported",
+  "fetched_at": "2026-09-11T06:05:52Z",
+  "sha256": "2245927600f1de81e7eab880c35bc7fc4203cf9c49dc6400d02755bc4f395d1a",
+  "bytes": 18812,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/58330c8044fb5911980a.html",
+  "markdown": "docs/pages/58330c8044fb5911980a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/chatInviteExported",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ExportedChatInvite",
+    "https://core.telegram.org/type/StarsSubscriptionPricing",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

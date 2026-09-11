@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+  "title": "secureValueTypeIdentityCard",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "377f8fe427425a69d9181b42144843132b05dda955db583bf6f283c708551be0",
+  "bytes": 13882,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3b5dd7c99efa82fead21.html",
+  "markdown": "docs/pages/3b5dd7c99efa82fead21.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

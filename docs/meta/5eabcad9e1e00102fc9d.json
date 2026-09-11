@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app.html",
+  "title": "TDLib: keyboardButtonTypeWebApp Class Reference",
+  "fetched_at": "2026-09-11T06:14:42Z",
+  "sha256": "2be1ea1f0dc587c31aed893d2ff9a3b3ee67aeabbce88eff8b2139b4f1fdc61f",
+  "bytes": 18763,
+  "content_type": "text/html",
+  "raw": "docs/raw/5eabcad9e1e00102fc9d.html",
+  "markdown": "docs/pages/5eabcad9e1e00102fc9d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_url.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/auth.bindTempAuthKey",
+  "final_url": "https://core.telegram.org/method/auth.bindTempAuthKey",
+  "title": "auth.bindTempAuthKey",
+  "fetched_at": "2026-09-11T06:09:03Z",
+  "sha256": "2ace7f013bfaa641cc73d5611fa75a91826b63e237f8fb64fc443795e5da3a79",
+  "bytes": 21434,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/be6596eb412f443f806a.html",
+  "markdown": "docs/pages/be6596eb412f443f806a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/invoking",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/pfs",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/auth.bindTempAuthKey",
+    "https://core.telegram.org/method/initConnection",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

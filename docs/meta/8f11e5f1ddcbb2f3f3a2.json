@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/account.PaidMessagesRevenue",
+  "final_url": "https://core.telegram.org/type/account.PaidMessagesRevenue",
+  "title": "account.PaidMessagesRevenue",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "1eac884920abb06ffe0fb146e9e9ece7cc1884bc326ebe8e6bc50113eef07138",
+  "bytes": 16589,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8f11e5f1ddcbb2f3f3a2.html",
+  "markdown": "docs/pages/8f11e5f1ddcbb2f3f3a2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/account.paidMessagesRevenue",
+    "https://core.telegram.org/method/account.getPaidMessagesRevenue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/account.PaidMessagesRevenue",
+    "https://core.telegram.org/type/long"
+  ]
+}

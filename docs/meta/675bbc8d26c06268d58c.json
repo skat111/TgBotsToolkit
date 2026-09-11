@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_windows.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_windows.html",
+  "title": "TDLib: sessionTypeWindows Class Reference",
+  "fetched_at": "2026-09-11T06:15:35Z",
+  "sha256": "faded6613b28682c74e8e6e1a98a7145295019bfbef458a8e831c75fa2f7d765",
+  "bytes": 15514,
+  "content_type": "text/html",
+  "raw": "docs/raw/675bbc8d26c06268d58c.html",
+  "markdown": "docs/pages/675bbc8d26c06268d58c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_session_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_windows-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_windows.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

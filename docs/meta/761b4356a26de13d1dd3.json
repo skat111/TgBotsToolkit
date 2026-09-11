@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyKeyVoiceMessages",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyKeyVoiceMessages",
+  "title": "inputPrivacyKeyVoiceMessages",
+  "fetched_at": "2026-09-11T06:06:32Z",
+  "sha256": "7168b71010a7da6ec7dc6881f64b51e469e8a2a76dac0aef3d0e255607108259",
+  "bytes": 14603,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/761b4356a26de13d1dd3.html",
+  "markdown": "docs/pages/761b4356a26de13d1dd3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/inputPrivacyKeyVoiceMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyKey"
+  ]
+}

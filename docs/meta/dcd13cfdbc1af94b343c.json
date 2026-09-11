@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper",
+  "title": "channelAdminLogEventActionChangeWallpaper",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "7c202023c4847976f92fe9888bab5cd029a7bf2b8d88504bec253f5e676badf2",
+  "bytes": 14983,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dcd13cfdbc1af94b343c.html",
+  "markdown": "docs/pages/dcd13cfdbc1af94b343c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/WallPaper"
+  ]
+}

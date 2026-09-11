@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/inputWebFileGeoPointLocation",
+  "final_url": "https://core.telegram.org/constructor/inputWebFileGeoPointLocation",
+  "title": "inputWebFileGeoPointLocation",
+  "fetched_at": "2026-09-11T06:06:40Z",
+  "sha256": "9d936d5aa5b11d5d0407d361d8fd0b17723c609164c09f751df6e026563c194d",
+  "bytes": 16306,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c736f5c0a3768025ac00.html",
+  "markdown": "docs/pages/c736f5c0a3768025ac00.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/geoPoint",
+    "https://core.telegram.org/constructor/inputWebFileGeoPointLocation",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputGeoPoint",
+    "https://core.telegram.org/type/InputWebFileLocation",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

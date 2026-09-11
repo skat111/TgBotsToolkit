@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_authentication_code_missing.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_authentication_code_missing.html",
+  "title": "TDLib: reportAuthenticationCodeMissing Class Reference",
+  "fetched_at": "2026-09-11T06:15:22Z",
+  "sha256": "245812725728673484a7aff8597efc40d656a6624fb284e95771bf6e5e2c5abf",
+  "bytes": 20348,
+  "content_type": "text/html",
+  "raw": "docs/raw/e986782990f709237905.html",
+  "markdown": "docs/pages/e986782990f709237905.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_authentication_code_missing-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_authentication_code_missing.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

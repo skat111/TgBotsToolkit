@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_unread_message_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_unread_message_count.html",
+  "title": "TDLib: updateUnreadMessageCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:18Z",
+  "sha256": "41a216905771cb7e6d18a5edc97ca3df8414ee5d6dc8db77c595d1e0d9db77d9",
+  "bytes": 21416,
+  "content_type": "text/html",
+  "raw": "docs/raw/534b6b57e0009a7ee2c8.html",
+  "markdown": "docs/pages/534b6b57e0009a7ee2c8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_unread_message_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_unread_message_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

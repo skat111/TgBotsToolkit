@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/businessLocation",
+  "final_url": "https://core.telegram.org/constructor/businessLocation",
+  "title": "businessLocation",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "598db823dac327350fc4dcf0a98f0abcf74d9e01c1f711ba8eb07ecaac883678",
+  "bytes": 15334,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4a166cf88df71168ab24.html",
+  "markdown": "docs/pages/4a166cf88df71168ab24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessLocation",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessLocation",
+    "https://core.telegram.org/type/GeoPoint",
+    "https://core.telegram.org/type/string"
+  ]
+}

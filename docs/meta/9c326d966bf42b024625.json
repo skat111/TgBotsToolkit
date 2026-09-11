@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_forehead.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_forehead.html",
+  "title": "TDLib: maskPointForehead Class Reference",
+  "fetched_at": "2026-09-11T06:14:48Z",
+  "sha256": "56c3d05a480d42e7b3e870f21c847bd5e224e958f8bcd1203e09f71ad6598f68",
+  "bytes": 15503,
+  "content_type": "text/html",
+  "raw": "docs/raw/9c326d966bf42b024625.html",
+  "markdown": "docs/pages/9c326d966bf42b024625.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_mask_point.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_forehead-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_forehead.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

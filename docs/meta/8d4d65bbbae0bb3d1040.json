@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/documentAttributeHasStickers",
+  "final_url": "https://core.telegram.org/constructor/documentAttributeHasStickers",
+  "title": "documentAttributeHasStickers",
+  "fetched_at": "2026-09-11T06:06:00Z",
+  "sha256": "fd3051e41ddc43f83029d0bc0852c611a4499db7613f7056eebaf395e99cd1a9",
+  "bytes": 14008,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8d4d65bbbae0bb3d1040.html",
+  "markdown": "docs/pages/8d4d65bbbae0bb3d1040.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/documentAttributeHasStickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DocumentAttribute"
+  ]
+}

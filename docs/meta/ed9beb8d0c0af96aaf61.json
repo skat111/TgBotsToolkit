@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.sentCodeTypeCall",
+  "final_url": "https://core.telegram.org/constructor/auth.sentCodeTypeCall",
+  "title": "auth.sentCodeTypeCall",
+  "fetched_at": "2026-09-11T06:05:35Z",
+  "sha256": "4e0f3d41104960d4a9953282130dd217203ae407e15a788a276b6fb980f8a8d1",
+  "bytes": 14428,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ed9beb8d0c0af96aaf61.html",
+  "markdown": "docs/pages/ed9beb8d0c0af96aaf61.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.sentCodeTypeCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.SentCodeType",
+    "https://core.telegram.org/type/int"
+  ]
+}

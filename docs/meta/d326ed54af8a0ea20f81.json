@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_game.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_game.html",
+  "title": "TDLib: internalLinkTypeGame Class Reference",
+  "fetched_at": "2026-09-11T06:14:39Z",
+  "sha256": "8942ce2335aafeb0b56b6d99c7f384fa6ec02b16a801e253bf35616ef6b62cb8",
+  "bytes": 20676,
+  "content_type": "text/html",
+  "raw": "docs/raw/d326ed54af8a0ea20f81.html",
+  "markdown": "docs/pages/d326ed54af8a0ea20f81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_game.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_game-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_game.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

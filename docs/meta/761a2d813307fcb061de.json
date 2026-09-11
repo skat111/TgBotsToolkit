@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_away_message_schedule-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_away_message_schedule-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:12:52Z",
+  "sha256": "367c48024eecf14e4829528dbee0971a207b4e6b3d1ae5d5af69bfdaaa976006",
+  "bytes": 9143,
+  "content_type": "text/html",
+  "raw": "docs/raw/761a2d813307fcb061de.html",
+  "markdown": "docs/pages/761a2d813307fcb061de.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_away_message_schedule.html"
+  ]
+}

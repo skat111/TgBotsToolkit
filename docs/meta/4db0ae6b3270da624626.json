@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantUnmute",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantUnmute",
+  "title": "channelAdminLogEventActionParticipantUnmute",
+  "fetched_at": "2026-09-11T06:05:47Z",
+  "sha256": "310557eadcf6c262e3d03733be60743f244526bc590faa61f46cbe9bd68771d8",
+  "bytes": 14469,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4db0ae6b3270da624626.html",
+  "markdown": "docs/pages/4db0ae6b3270da624626.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantUnmute",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/GroupCallParticipant"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1alternative_video.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1alternative_video.html",
+  "title": "TDLib: alternativeVideo Class Reference",
+  "fetched_at": "2026-09-11T06:13:20Z",
+  "sha256": "5335c1afbcd3f26a0431e154c071ccc006bd0fe1b3ec22526ec160a3bdb80cbb",
+  "bytes": 25041,
+  "content_type": "text/html",
+  "raw": "docs/raw/46ad12719d5f5f2e284e.html",
+  "markdown": "docs/pages/46ad12719d5f5f2e284e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1alternative_video-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1alternative_video.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

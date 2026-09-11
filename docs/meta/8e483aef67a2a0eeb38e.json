@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/mediaAreaStarGift",
+  "final_url": "https://core.telegram.org/constructor/mediaAreaStarGift",
+  "title": "mediaAreaStarGift",
+  "fetched_at": "2026-09-11T06:06:44Z",
+  "sha256": "9eda5af94304583d7f448d6afd28e4ddb6e1558d4be9b831d6d717e9d8c755d1",
+  "bytes": 15646,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8e483aef67a2a0eeb38e.html",
+  "markdown": "docs/pages/8e483aef67a2a0eeb38e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/mediaAreaStarGift",
+    "https://core.telegram.org/constructor/starGiftAttributeModel",
+    "https://core.telegram.org/constructor/starGiftUnique",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MediaArea",
+    "https://core.telegram.org/type/MediaAreaCoordinates",
+    "https://core.telegram.org/type/string"
+  ]
+}

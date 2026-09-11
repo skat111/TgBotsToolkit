@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMediaPhotoExternal",
+  "final_url": "https://core.telegram.org/constructor/inputMediaPhotoExternal",
+  "title": "inputMediaPhotoExternal",
+  "fetched_at": "2026-09-11T06:06:25Z",
+  "sha256": "2fb50eab00cdd34766baeb0e6e0e6221566d35d16ce1712d80253b0d0fa5b517",
+  "bytes": 15271,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ac35acd31f6fa305e392.html",
+  "markdown": "docs/pages/ac35acd31f6fa305e392.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputMediaPhotoExternal",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

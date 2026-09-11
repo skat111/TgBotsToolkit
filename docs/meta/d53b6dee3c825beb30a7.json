@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/bots.addPreviewMedia",
+  "final_url": "https://core.telegram.org/method/bots.addPreviewMedia",
+  "title": "bots.addPreviewMedia",
+  "fetched_at": "2026-09-11T06:09:09Z",
+  "sha256": "025243aef9acafd164423304dcfcf96e6913761c55d774c949eaea763f14efab",
+  "bytes": 17190,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d53b6dee3c825beb30a7.html",
+  "markdown": "docs/pages/d53b6dee3c825beb30a7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botPreviewMedia",
+    "https://core.telegram.org/method/bots.addPreviewMedia",
+    "https://core.telegram.org/method/invokeWithBusinessConnection",
+    "https://core.telegram.org/method/messages.uploadMedia",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotPreviewMedia",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/MessageMedia",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

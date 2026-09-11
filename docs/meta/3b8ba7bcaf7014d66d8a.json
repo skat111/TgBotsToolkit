@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/channels.deleteParticipantHistory",
+  "final_url": "https://core.telegram.org/method/channels.deleteParticipantHistory",
+  "title": "channels.deleteParticipantHistory",
+  "fetched_at": "2026-09-11T06:09:20Z",
+  "sha256": "d538980f5ec151c2da69c7da596066a55089263f78f5796126afa334c4fb5220",
+  "bytes": 16021,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3b8ba7bcaf7014d66d8a.html",
+  "markdown": "docs/pages/3b8ba7bcaf7014d66d8a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.affectedHistory",
+    "https://core.telegram.org/method/channels.deleteParticipantHistory",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AffectedHistory"
+  ]
+}

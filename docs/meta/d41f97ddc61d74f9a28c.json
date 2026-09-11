@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.setContentSettings",
+  "final_url": "https://core.telegram.org/method/account.setContentSettings",
+  "title": "account.setContentSettings",
+  "fetched_at": "2026-09-11T06:08:53Z",
+  "sha256": "8923b12c4edf54d82964aae94dad3d2af731571d2685adc8cbf62ec0d4888800",
+  "bytes": 15371,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d41f97ddc61d74f9a28c.html",
+  "markdown": "docs/pages/d41f97ddc61d74f9a28c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.setContentSettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

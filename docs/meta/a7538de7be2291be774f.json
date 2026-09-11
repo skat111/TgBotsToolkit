@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/account.Passkeys",
+  "final_url": "https://core.telegram.org/type/account.Passkeys",
+  "title": "Account.Passkeys",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "58e0bb06326f6784ac20437f59d5ef983824f196e6dab78287a6bf24756a6890",
+  "bytes": 15208,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a7538de7be2291be774f.html",
+  "markdown": "docs/pages/a7538de7be2291be774f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/passkeys",
+    "https://core.telegram.org/constructor/account.passkeys",
+    "https://core.telegram.org/method/account.getPasskeys",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Passkey",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.Passkeys"
+  ]
+}

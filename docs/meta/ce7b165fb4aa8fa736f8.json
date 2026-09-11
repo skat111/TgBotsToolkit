@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/photos.Photo",
+  "final_url": "https://core.telegram.org/type/photos.Photo",
+  "title": "photos.Photo",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "b3f48a34d40f7dfb22215117cef953e6a7e9db1c89082b9296f1480e7b0d4e50",
+  "bytes": 16299,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ce7b165fb4aa8fa736f8.html",
+  "markdown": "docs/pages/ce7b165fb4aa8fa736f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/photos.photo",
+    "https://core.telegram.org/method/photos.updateProfilePhoto",
+    "https://core.telegram.org/method/photos.uploadContactProfilePhoto",
+    "https://core.telegram.org/method/photos.uploadProfilePhoto",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputFile",
+    "https://core.telegram.org/type/InputPhoto",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/Photo",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/VideoSize",
+    "https://core.telegram.org/type/double",
+    "https://core.telegram.org/type/photos.Photo"
+  ]
+}

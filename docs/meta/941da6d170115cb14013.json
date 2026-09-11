@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_phone_number.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_phone_number.html",
+  "title": "TDLib: passportElementPhoneNumber Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "2cbae959fb2a21aa8a700e265a4ddb0cb9c8628b659678a6f01dcd40fb5f017b",
+  "bytes": 18462,
+  "content_type": "text/html",
+  "raw": "docs/raw/941da6d170115cb14013.html",
+  "markdown": "docs/pages/941da6d170115cb14013.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_phone_number-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

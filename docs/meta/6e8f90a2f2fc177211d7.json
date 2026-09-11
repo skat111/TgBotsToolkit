@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.setAuthorizationTTL",
+  "final_url": "https://core.telegram.org/method/account.setAuthorizationTTL",
+  "title": "account.setAuthorizationTTL",
+  "fetched_at": "2026-09-11T06:08:53Z",
+  "sha256": "734c3445dff77f1e37d673fdd4cb4b9bdab7dcd47e9a9eafe99434b4eaec07ce",
+  "bytes": 15170,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6e8f90a2f2fc177211d7.html",
+  "markdown": "docs/pages/6e8f90a2f2fc177211d7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.setAuthorizationTTL",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/int"
+  ]
+}

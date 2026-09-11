@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/chatInviteAlready",
+  "final_url": "https://core.telegram.org/constructor/chatInviteAlready",
+  "title": "chatInviteAlready",
+  "fetched_at": "2026-09-11T06:05:52Z",
+  "sha256": "feb5fba55866aed5e8a5d9500955c6708f5959236fed8579f3c3a4668cd08e74",
+  "bytes": 14147,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8c411a007ae4607750bc.html",
+  "markdown": "docs/pages/8c411a007ae4607750bc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatInviteAlready",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ChatInvite"
+  ]
+}

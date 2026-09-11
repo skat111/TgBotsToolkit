@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/widgets/posts",
+  "final_url": "https://core.telegram.org/widgets/post",
+  "title": "Post Widget",
+  "fetched_at": "2026-09-11T06:17:21Z",
+  "sha256": "f78420c8befadf5c2bf6d411b0f932eb3eb1423de9360cf12c00f2c0bec55902",
+  "bytes": 12316,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f2b8a755c8c3cd392274.html",
+  "markdown": "docs/pages/f2b8a755c8c3cd392274.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/811140747/166d/MNEJA3BlETo.107862/6fe98d36f382b03091",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/widgets",
+    "https://core.telegram.org/widgets/post"
+  ]
+}

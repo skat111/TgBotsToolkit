@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/stories.getPinnedStories",
+  "final_url": "https://core.telegram.org/method/stories.getPinnedStories",
+  "title": "stories.getPinnedStories",
+  "fetched_at": "2026-09-11T06:11:31Z",
+  "sha256": "36c2e632b715b90baa8d4c9a1d67cd20a34b9d6f0445aad42b5b535123c5daf1",
+  "bytes": 16768,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9754dca68bc5da5de0ea.html",
+  "markdown": "docs/pages/9754dca68bc5da5de0ea.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/stories.stories",
+    "https://core.telegram.org/method/stories.getPinnedStories",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/StoryItem",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/stories.Stories"
+  ]
+}

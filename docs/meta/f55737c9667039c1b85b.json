@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/game",
+  "final_url": "https://core.telegram.org/constructor/game",
+  "title": "game",
+  "fetched_at": "2026-09-11T06:06:06Z",
+  "sha256": "c6f72681b4ea3d2755bf1fa46c9ddc6fac7bba039114eef248faae0525d908c5",
+  "bytes": 15450,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f55737c9667039c1b85b.html",
+  "markdown": "docs/pages/f55737c9667039c1b85b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/game",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/Game",
+    "https://core.telegram.org/type/Photo",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

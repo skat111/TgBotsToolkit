@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_affiliate_program_sort_order.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_affiliate_program_sort_order.html",
+  "title": "TDLib: AffiliateProgramSortOrder Class Reference",
+  "fetched_at": "2026-09-11T06:11:57Z",
+  "sha256": "06b06387b1659f63f978e008f79177fa869eafd456efa547c564b2e6ccb02c13",
+  "bytes": 12728,
+  "content_type": "text/html",
+  "raw": "docs/raw/c5ea681ec94de47af63a.html",
+  "markdown": "docs/pages/c5ea681ec94de47af63a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_affiliate_program_sort_order-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_affiliate_program_sort_order.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1affiliate_program_sort_order_creation_date.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1affiliate_program_sort_order_profitability.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1affiliate_program_sort_order_revenue.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

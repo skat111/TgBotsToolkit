@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+  "title": "keyboardButtonRequestPeer",
+  "fetched_at": "2026-09-11T06:06:42Z",
+  "sha256": "dc70cb44f1d5da561dcd393cfab465cb84869f97feff1a56c601ce7b6e38abd0",
+  "bytes": 17326,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b6d224ba1260a834f26c.html",
+  "markdown": "docs/pages/b6d224ba1260a834f26c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/replyKeyboardMarkup",
+    "https://core.telegram.org/method/messages.sendBotRequestedPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/RequestPeerType",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

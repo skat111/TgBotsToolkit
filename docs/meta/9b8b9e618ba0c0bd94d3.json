@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/api/bots%2Fids",
+  "final_url": "https://core.telegram.org/api/bots%2Fids",
+  "title": "Bot API dialog IDs",
+  "fetched_at": "2026-09-11T06:05:23Z",
+  "sha256": "d6c393c4df8037e6a3cd3bb6e505196ffee6309b740b12a3fa5d98912ea3ddc4",
+  "bytes": 11681,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9b8b9e618ba0c0bd94d3.html",
+  "markdown": "docs/pages/9b8b9e618ba0c0bd94d3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots%2Fids",
+    "https://core.telegram.org/api/end-to-end",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/constructor/channel",
+    "https://core.telegram.org/constructor/chat",
+    "https://core.telegram.org/constructor/user",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

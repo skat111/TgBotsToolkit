@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/photoSizeProgressive",
+  "final_url": "https://core.telegram.org/constructor/photoSizeProgressive",
+  "title": "photoSizeProgressive",
+  "fetched_at": "2026-09-11T06:07:21Z",
+  "sha256": "a2a92f827106a14f63eb5751c5bf87bf1b5dc942407147f29f3470c5b58ce85d",
+  "bytes": 15509,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b506df7fd5b75db602a9.html",
+  "markdown": "docs/pages/b506df7fd5b75db602a9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/photoSizeProgressive",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PhotoSize",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

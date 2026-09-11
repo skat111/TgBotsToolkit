@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.saveAutoDownloadSettings",
+  "final_url": "https://core.telegram.org/method/account.saveAutoDownloadSettings",
+  "title": "account.saveAutoDownloadSettings",
+  "fetched_at": "2026-09-11T06:08:50Z",
+  "sha256": "0c619aa5829a7f2f5abf2a55ebbe008187594507bd8cb825f6c55e20faf7a4ac",
+  "bytes": 15446,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b8171a7fd166de51a352.html",
+  "markdown": "docs/pages/b8171a7fd166de51a352.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.saveAutoDownloadSettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/AutoDownloadSettings",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

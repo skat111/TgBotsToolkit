@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1phone_number_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1phone_number_info.html",
+  "title": "TDLib: phoneNumberInfo Class Reference",
+  "fetched_at": "2026-09-11T06:15:08Z",
+  "sha256": "c08ec2dff9ee1a6a0f8f1a6580057c7f7711e0f2b26f4acd40c2931bc4d2b838",
+  "bytes": 23013,
+  "content_type": "text/html",
+  "raw": "docs/raw/81846490f3d9ead0a08b.html",
+  "markdown": "docs/pages/81846490f3d9ead0a08b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1country_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_collectible_item_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1phone_number_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1phone_number_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

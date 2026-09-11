@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_supergroup.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_supergroup.html",
+  "title": "TDLib: updateSupergroup Class Reference",
+  "fetched_at": "2026-09-11T06:16:17Z",
+  "sha256": "55ae0d7369c47ee2a549599bdbd9ec25a5e7e0d5964fceec051ca90cf50ece23",
+  "bytes": 18777,
+  "content_type": "text/html",
+  "raw": "docs/raw/6ab96e091e50f854233d.html",
+  "markdown": "docs/pages/6ab96e091e50f854233d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_supergroup-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_supergroup.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

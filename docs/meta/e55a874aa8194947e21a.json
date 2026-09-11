@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_superscript.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_superscript.html",
+  "title": "TDLib: richTextSuperscript Class Reference",
+  "fetched_at": "2026-09-11T06:15:28Z",
+  "sha256": "1ae71b76819f942a423cc0393d4d5d7fabb0f23636f40c26ac882488097de8ef",
+  "bytes": 18392,
+  "content_type": "text/html",
+  "raw": "docs/raw/e55a874aa8194947e21a.html",
+  "markdown": "docs/pages/e55a874aa8194947e21a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_rich_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_superscript-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rich_text_superscript.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

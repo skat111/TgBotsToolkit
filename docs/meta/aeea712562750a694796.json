@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.reportProfilePhoto",
+  "final_url": "https://core.telegram.org/method/account.reportProfilePhoto",
+  "title": "account.reportProfilePhoto",
+  "fetched_at": "2026-09-11T06:08:47Z",
+  "sha256": "b4a2936a07b1018f7b62fdc2e582c8dd29672bc311467daa4c4043097fefadd8",
+  "bytes": 15544,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/aeea712562750a694796.html",
+  "markdown": "docs/pages/aeea712562750a694796.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.reportProfilePhoto",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputPhoto",
+    "https://core.telegram.org/type/ReportReason",
+    "https://core.telegram.org/type/string"
+  ]
+}

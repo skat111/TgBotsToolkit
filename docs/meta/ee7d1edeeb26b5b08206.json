@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/account.emojiStatusesNotModified",
+  "final_url": "https://core.telegram.org/constructor/account.emojiStatusesNotModified",
+  "title": "account.emojiStatusesNotModified",
+  "fetched_at": "2026-09-11T06:05:15Z",
+  "sha256": "9bd8b5992a8aa89f33aa43bf4b1a43a2d403a76104e026d472574564dced857b",
+  "bytes": 14524,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ee7d1edeeb26b5b08206.html",
+  "markdown": "docs/pages/ee7d1edeeb26b5b08206.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.emojiStatusesNotModified",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/account.EmojiStatuses"
+  ]
+}

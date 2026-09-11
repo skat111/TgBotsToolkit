@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_poll.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_poll.html",
+  "title": "TDLib: updatePoll Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "90774c1de9256ce9b2d5d2a8ec4f6ea000fd9ae2fcddfd52338595a4806e4493",
+  "bytes": 18245,
+  "content_type": "text/html",
+  "raw": "docs/raw/6a63703606da96af3ad6.html",
+  "markdown": "docs/pages/6a63703606da96af3ad6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1poll.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_poll-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_poll.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

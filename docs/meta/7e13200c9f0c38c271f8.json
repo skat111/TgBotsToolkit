@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/account.getContactSignUpNotification",
+  "final_url": "https://core.telegram.org/method/account.getContactSignUpNotification",
+  "title": "account.getContactSignUpNotification",
+  "fetched_at": "2026-09-11T06:08:39Z",
+  "sha256": "82e3aad012e4e4b440ba81b4762b47f9c7e6aaee6f1c2e8830aa1f4e4b7b8f63",
+  "bytes": 14460,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7e13200c9f0c38c271f8.html",
+  "markdown": "docs/pages/7e13200c9f0c38c271f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.getContactSignUpNotification",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

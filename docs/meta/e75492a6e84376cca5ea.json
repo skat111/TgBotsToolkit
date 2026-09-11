@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/mtproto/description_v1",
+  "final_url": "https://core.telegram.org/mtproto/description_v1",
+  "title": "Mobile Protocol: Detailed Description (v.1.0, DEPRECATED)",
+  "fetched_at": "2026-09-11T06:11:41Z",
+  "sha256": "7ecf32d34a2a64e51b8190642b194b3977b5261d9c5edf1c7cdb8fe9573252df",
+  "bytes": 21849,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e75492a6e84376cca5ea.html",
+  "markdown": "docs/pages/e75492a6e84376cca5ea.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/811140187/1/sfBQV3Trp80/3a3c48bad836b853ed",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/auth_key",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/mtproto/description_v1",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/schema"
+  ]
+}

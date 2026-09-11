@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1firebase_authentication_settings_ios.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1firebase_authentication_settings_ios.html",
+  "title": "TDLib: firebaseAuthenticationSettingsIos Class Reference",
+  "fetched_at": "2026-09-11T06:14:04Z",
+  "sha256": "2fc3a5b704450695ce5392e90962ba5bdf8c0f50084306e5c05538a5da674708",
+  "bytes": 19699,
+  "content_type": "text/html",
+  "raw": "docs/raw/4b0e5db2a0080a74483c.html",
+  "markdown": "docs/pages/4b0e5db2a0080a74483c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_firebase_authentication_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1firebase_authentication_settings_ios-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1firebase_authentication_settings_ios.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.getAutoSaveSettings",
+  "final_url": "https://core.telegram.org/method/account.getAutoSaveSettings",
+  "title": "account.getAutoSaveSettings",
+  "fetched_at": "2026-09-11T06:08:37Z",
+  "sha256": "fa1757538ea972bf8e14d40a6247428801f5a26010196c44ff30aced44510440",
+  "bytes": 14828,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/44904f77635cfa96cb4d.html",
+  "markdown": "docs/pages/44904f77635cfa96cb4d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.autoSaveSettings",
+    "https://core.telegram.org/method/account.getAutoSaveSettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AutoSaveException",
+    "https://core.telegram.org/type/AutoSaveSettings",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.AutoSaveSettings"
+  ]
+}

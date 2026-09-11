@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionStopPoll",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionStopPoll",
+  "title": "channelAdminLogEventActionStopPoll",
+  "fetched_at": "2026-09-11T06:05:47Z",
+  "sha256": "c6eaebe73565dbebdefcb671e2d9673685f31d0a0fdc07164a05bd0c35a873ce",
+  "bytes": 14285,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/90985676044dfaa45174.html",
+  "markdown": "docs/pages/90985676044dfaa45174.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionStopPoll",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/Message"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_rtmp_url.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_rtmp_url.html",
+  "title": "TDLib: getLiveStoryRtmpUrl Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "bc4078c25c2a9f2ff17c23547afc15958a7aee6ddbb5651d5c7e5f453fa366fc",
+  "bytes": 19608,
+  "content_type": "text/html",
+  "raw": "docs/raw/2c32ebfd4235753ae349.html",
+  "markdown": "docs/pages/2c32ebfd4235753ae349.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_rtmp_url-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_live_story_rtmp_url.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1rtmp_url.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

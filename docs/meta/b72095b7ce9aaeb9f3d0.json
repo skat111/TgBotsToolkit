@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_offline.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_offline.html",
+  "title": "TDLib: userStatusOffline Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "4fa09ea48de2b002e2ada48d85c7846a6382d5245cae567daa9c3d74ae82cf22",
+  "bytes": 18203,
+  "content_type": "text/html",
+  "raw": "docs/raw/b72095b7ce9aaeb9f3d0.html",
+  "markdown": "docs/pages/b72095b7ce9aaeb9f3d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_offline-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_status_offline.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

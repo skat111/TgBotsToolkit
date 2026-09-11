@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/messages.getArchivedStickers",
+  "final_url": "https://core.telegram.org/method/messages.getArchivedStickers",
+  "title": "messages.getArchivedStickers",
+  "fetched_at": "2026-09-11T06:10:01Z",
+  "sha256": "c8a99868c5d35fabd6a2baa208e452b8fbeea6dad2b5e46de67fc9eedbd254ad",
+  "bytes": 16738,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a6248a7c3cb16df20346.html",
+  "markdown": "docs/pages/a6248a7c3cb16df20346.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/messages.archivedStickers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.getArchivedStickers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StickerSetCovered",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.ArchivedStickers"
+  ]
+}

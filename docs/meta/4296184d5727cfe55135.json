@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoiceBusinessBotTransferStars",
+  "final_url": "https://core.telegram.org/constructor/inputInvoiceBusinessBotTransferStars",
+  "title": "inputInvoiceBusinessBotTransferStars",
+  "fetched_at": "2026-09-11T06:06:22Z",
+  "sha256": "42e34812d77987699e09fa659fcda415af9190df8cae0cfbb66adcf58e30c964",
+  "bytes": 16235,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4296184d5727cfe55135.html",
+  "markdown": "docs/pages/4296184d5727cfe55135.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/inputInvoiceBusinessBotTransferStars",
+    "https://core.telegram.org/constructor/inputUserSelf",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/long"
+  ]
+}

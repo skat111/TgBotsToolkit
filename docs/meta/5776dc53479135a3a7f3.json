@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/encryptedMessage",
+  "final_url": "https://core.telegram.org/constructor/encryptedMessage",
+  "title": "encryptedMessage",
+  "fetched_at": "2026-09-11T06:06:04Z",
+  "sha256": "c22f6b52ad631d0bc9958b5761bc7dee804fdfb95734811b30fc8c04d88b6e34",
+  "bytes": 15757,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5776dc53479135a3a7f3.html",
+  "markdown": "docs/pages/5776dc53479135a3a7f3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/encryptedMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessage",
+    "https://core.telegram.org/type/EncryptedFile",
+    "https://core.telegram.org/type/EncryptedMessage",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

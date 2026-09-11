@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/businessAwayMessage",
+  "final_url": "https://core.telegram.org/constructor/businessAwayMessage",
+  "title": "businessAwayMessage",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "54bcf5b7f154c0595709ea03bac212760f6e5edf2dbd1b10e2fca43794fa80d6",
+  "bytes": 16625,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8ceaedfac12e1fe07dc2.html",
+  "markdown": "docs/pages/8ceaedfac12e1fe07dc2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessAwayMessage",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessAwayMessage",
+    "https://core.telegram.org/type/BusinessAwayMessageSchedule",
+    "https://core.telegram.org/type/BusinessRecipients",
+    "https://core.telegram.org/type/int"
+  ]
+}

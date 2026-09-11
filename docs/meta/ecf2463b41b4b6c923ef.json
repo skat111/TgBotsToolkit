@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_premium_gift_codes.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_premium_gift_codes.html",
+  "title": "TDLib: telegramPaymentPurposePremiumGiftCodes Class Reference",
+  "fetched_at": "2026-09-11T06:15:58Z",
+  "sha256": "c848b040d6d4e950f6455117a14e9d81682d49cf84a90152f5dbacb8d8991bd3",
+  "bytes": 26813,
+  "content_type": "text/html",
+  "raw": "docs/raw/ecf2463b41b4b6c923ef.html",
+  "markdown": "docs/pages/ecf2463b41b4b6c923ef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_telegram_payment_purpose.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_premium_gift_codes-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_premium_gift_codes.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

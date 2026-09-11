@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_slot.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_slot.html",
+  "title": "TDLib: chatBoostSlot Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "4419fcc2359cbba523beacaecf184129d67b57d44738f1d4af4bae38ed8a68c1",
+  "bytes": 23410,
+  "content_type": "text/html",
+  "raw": "docs/raw/05d2464060f4e9b17687.html",
+  "markdown": "docs/pages/05d2464060f4e9b17687.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_slot-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_slot.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

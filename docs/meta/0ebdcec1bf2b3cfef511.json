@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_telegram_ads_withdrawal-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_telegram_ads_withdrawal-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:52Z",
+  "sha256": "17196771952aa3be8689eb1e084c43e532f9763563dd311a9700717dff0ef618",
+  "bytes": 9907,
+  "content_type": "text/html",
+  "raw": "docs/raw/0ebdcec1bf2b3cfef511.html",
+  "markdown": "docs/pages/0ebdcec1bf2b3cfef511.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_telegram_ads_withdrawal.html"
+  ]
+}

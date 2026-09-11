@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/e2e.chain.changeSetGroupState",
+  "final_url": "https://core.telegram.org/constructor/e2e.chain.changeSetGroupState",
+  "title": "e2e.chain.changeSetGroupState",
+  "fetched_at": "2026-09-11T06:06:01Z",
+  "sha256": "94d2c91833988933004d4f25276ae761246590d4c61750f4d7c025498449513e",
+  "bytes": 6820,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7176e1024ff912698e53.html",
+  "markdown": "docs/pages/7176e1024ff912698e53.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.chain.changeSetGroupState",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/e2e.chain.Change",
+    "https://core.telegram.org/type/e2e.chain.GroupState"
+  ]
+}

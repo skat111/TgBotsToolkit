@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/gateway/api",
+  "final_url": "https://core.telegram.org/gateway/api",
+  "title": "Telegram Gateway API",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "290c10a3641a01578c60c3f352c7b551c6e9e64c3f13469225e5d3fd1b11f33b",
+  "bytes": 22720,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2a6a7babac6d5727097a.html",
+  "markdown": "docs/pages/2a6a7babac6d5727097a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/gateway",
+    "https://core.telegram.org/gateway/api",
+    "https://core.telegram.org/gateway/verification-tutorial",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/monoForumDialog",
+  "final_url": "https://core.telegram.org/constructor/monoForumDialog",
+  "title": "monoForumDialog",
+  "fetched_at": "2026-09-11T06:07:06Z",
+  "sha256": "164e454a8b7c38933dce8bc93a5cdc523501b7d51e8dbe0e2aecbea6a57a4bd0",
+  "bytes": 17902,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4347bab6e97d70e57d85.html",
+  "markdown": "docs/pages/4347bab6e97d70e57d85.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/drafts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/constructor/monoForumDialog",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.toggleNoPaidMessagesException",
+    "https://core.telegram.org/method/messages.markDialogUnread",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DraftMessage",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/SavedDialog",
+    "https://core.telegram.org/type/int"
+  ]
+}

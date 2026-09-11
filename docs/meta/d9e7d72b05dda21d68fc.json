@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleBan",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleBan",
+  "title": "channelAdminLogEventActionParticipantToggleBan",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "8ffbd2b209489500c2f5d85d234dcf1e8b4fb251599c88b8dd498504bf7721cf",
+  "bytes": 15248,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d9e7d72b05dda21d68fc.html",
+  "markdown": "docs/pages/d9e7d72b05dda21d68fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rights",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleBan",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ChannelParticipant"
+  ]
+}

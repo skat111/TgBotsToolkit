@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputSavedStarGiftSlug",
+  "final_url": "https://core.telegram.org/constructor/inputSavedStarGiftSlug",
+  "title": "inputSavedStarGiftSlug",
+  "fetched_at": "2026-09-11T06:06:35Z",
+  "sha256": "246a1dd80813b6ba7046b6f755017a296b1dc54f78e5dbdbdde562d7a4d1ef5e",
+  "bytes": 14791,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d7b77fcbb75454d5485f.html",
+  "markdown": "docs/pages/d7b77fcbb75454d5485f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/inputSavedStarGiftSlug",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputSavedStarGift",
+    "https://core.telegram.org/type/string"
+  ]
+}

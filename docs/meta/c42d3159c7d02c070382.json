@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/widgets/share",
+  "final_url": "https://core.telegram.org/widgets/share",
+  "title": "Sharing Button",
+  "fetched_at": "2026-09-11T06:17:21Z",
+  "sha256": "fd23679d913983d717ca9b6c6e08bb02aa1f8f1f1f4b952441252c0623f6507b",
+  "bytes": 13669,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c42d3159c7d02c070382.html",
+  "markdown": "docs/pages/c42d3159c7d02c070382.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/464001274/2/e1tzJ2HkJOk.156878/ca3fda3984e764eee4",
+    "https://core.telegram.org/file/464001548/2/Ug-7BpYHOGI.51801/f0095722cd99a34a46",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/widgets",
+    "https://core.telegram.org/widgets/share"
+  ]
+}

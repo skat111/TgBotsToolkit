@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/mtproto/samples-auth_key",
+  "final_url": "https://core.telegram.org/mtproto/samples-auth_key",
+  "title": "Auth key generation example",
+  "fetched_at": "2026-09-11T06:11:42Z",
+  "sha256": "2b3546d80cdbb79bd0d786b95c96a2e2bf8b0ffca2811d337c5dac7d463f2efa",
+  "bytes": 50478,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/25043b900eb62cabcad0.html",
+  "markdown": "docs/pages/25043b900eb62cabcad0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/auth_key",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/mtproto/mtproto-transports",
+    "https://core.telegram.org/mtproto/samples-auth_key",
+    "https://core.telegram.org/schema"
+  ]
+}

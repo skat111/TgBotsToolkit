@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/chatAdminRights",
+  "final_url": "https://core.telegram.org/constructor/chatAdminRights",
+  "title": "chatAdminRights",
+  "fetched_at": "2026-09-11T06:05:51Z",
+  "sha256": "4d173f486bf98ba1edd5b6a31f9e03619659355dbd782ec84e8851d7d7c35e31",
+  "bytes": 23146,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fb3c03b3a78e78124357.html",
+  "markdown": "docs/pages/fb3c03b3a78e78124357.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/api/recent-actions",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/api/suggested-posts",
+    "https://core.telegram.org/constructor/chatAdminRights",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatAdminRights"
+  ]
+}

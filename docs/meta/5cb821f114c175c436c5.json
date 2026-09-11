@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1email_address_reset_state_pending.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1email_address_reset_state_pending.html",
+  "title": "TDLib: emailAddressResetStatePending Class Reference",
+  "fetched_at": "2026-09-11T06:14:00Z",
+  "sha256": "e1d7fb7f2083583325e46300c90940f65c5cda24acbfe9b56742ac6a73141147",
+  "bytes": 19343,
+  "content_type": "text/html",
+  "raw": "docs/raw/5cb821f114c175c436c5.html",
+  "markdown": "docs/pages/5cb821f114c175c436c5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_email_address_reset_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1email_address_reset_state_pending-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1email_address_reset_state_pending.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_authentication_email_address.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_authorization_state.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

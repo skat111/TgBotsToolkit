@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/structtd_1_1_client_manager_1_1_response.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/structtd_1_1_client_manager_1_1_response.html",
+  "title": "TDLib: ClientManager::Response Struct Reference",
+  "fetched_at": "2026-09-11T06:16:24Z",
+  "sha256": "8bfd61144f887ff459f012b1c4a5a7a64178e6cdefc4f053f3fda66207d12bc5",
+  "bytes": 10092,
+  "content_type": "text/html",
+  "raw": "docs/raw/beec761a512fc8ff4e6d.html",
+  "markdown": "docs/pages/beec761a512fc8ff4e6d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_client_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client_manager.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_manager_1_1_response-members.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_manager_1_1_response.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html"
+  ]
+}

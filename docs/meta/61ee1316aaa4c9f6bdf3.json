@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/updateContactsReset",
+  "final_url": "https://core.telegram.org/constructor/updateContactsReset",
+  "title": "updateContactsReset",
+  "fetched_at": "2026-09-11T06:07:57Z",
+  "sha256": "78478d96363d875cec1e74c037e50c9b175c251d756f249ef8e8ee385a28081d",
+  "bytes": 13826,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/61ee1316aaa4c9f6bdf3.html",
+  "markdown": "docs/pages/61ee1316aaa4c9f6bdf3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateContactsReset",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

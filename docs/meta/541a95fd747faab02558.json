@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotGuestChatQuery",
+  "final_url": "https://core.telegram.org/constructor/updateBotGuestChatQuery",
+  "title": "updateBotGuestChatQuery",
+  "fetched_at": "2026-09-11T06:07:53Z",
+  "sha256": "cb1f311f43b777c8b9e86d03368451d26d399770e935038fff1754472a06ddca",
+  "bytes": 17164,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/541a95fd747faab02558.html",
+  "markdown": "docs/pages/541a95fd747faab02558.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/guest-mode",
+    "https://core.telegram.org/api/content-protection",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotGuestChatQuery",
+    "https://core.telegram.org/method/messages.setBotGuestChatResult",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

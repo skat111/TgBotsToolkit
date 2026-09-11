@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_autosave_settings-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_autosave_settings-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:07Z",
+  "sha256": "b14eafa43b31d33480b72c952a9cccb1f5eb560dc743dce5ea45551c49e04ef3",
+  "bytes": 9846,
+  "content_type": "text/html",
+  "raw": "docs/raw/728ab28e9f078f125db9.html",
+  "markdown": "docs/pages/728ab28e9f078f125db9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_autosave_settings.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/api/file-references%2Fdb-schema",
+  "final_url": "https://core.telegram.org/api/file-references%2Fdb-schema",
+  "title": "DB schema",
+  "fetched_at": "2026-09-11T06:05:43Z",
+  "sha256": "f83fc2bae973f6ba2c9062eb2aef28e5a1ea7cfeefddcce35949f5c386f74392",
+  "bytes": 7466,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/31fe1318c0f4768b23ec.html",
+  "markdown": "docs/pages/31fe1318c0f4768b23ec.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/file-references",
+    "https://core.telegram.org/api/file-references%2Fdb-schema",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/True"
+  ]
+}

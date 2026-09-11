@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_resale-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_resale-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:22Z",
+  "sha256": "d8d656ca9bd76afac4d0ae99017780e790eaf71e69e6e780da1c59836a1fdb05",
+  "bytes": 10380,
+  "content_type": "text/html",
+  "raw": "docs/raw/fe37f57cc32121fef6db.html",
+  "markdown": "docs/pages/fe37f57cc32121fef6db.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_resale.html"
+  ]
+}

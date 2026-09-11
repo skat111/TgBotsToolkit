@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/chatParticipantsForbidden",
+  "final_url": "https://core.telegram.org/constructor/chatParticipantsForbidden",
+  "title": "chatParticipantsForbidden",
+  "fetched_at": "2026-09-11T06:05:53Z",
+  "sha256": "1bd3f81bd03fe6b4aedb8218a34727774119b10345972c10dbe8eb64a6f4b663",
+  "bytes": 15553,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9287a8452800e211f66f.html",
+  "markdown": "docs/pages/9287a8452800e211f66f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatParticipantsForbidden",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatParticipant",
+    "https://core.telegram.org/type/ChatParticipants",
+    "https://core.telegram.org/type/long"
+  ]
+}

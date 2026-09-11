@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/bots.getPopularAppBots",
+  "final_url": "https://core.telegram.org/method/bots.getPopularAppBots",
+  "title": "bots.getPopularAppBots",
+  "fetched_at": "2026-09-11T06:09:13Z",
+  "sha256": "794f9ddf5b1be06f68b92dbe69b9e3890c8adca947d4dd39748415b0b85a4d20",
+  "bytes": 16266,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/904152db87138eb6de16.html",
+  "markdown": "docs/pages/904152db87138eb6de16.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/search",
+    "https://core.telegram.org/constructor/bots.popularAppBots",
+    "https://core.telegram.org/method/bots.getPopularAppBots",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bots.PopularAppBots",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

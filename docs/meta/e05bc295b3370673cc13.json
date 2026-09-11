@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_story_suggested_reaction_area_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_story_suggested_reaction_area_count.html",
+  "title": "TDLib: premiumLimitTypeStorySuggestedReactionAreaCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:10Z",
+  "sha256": "daf821417e4dfde11688da75d685312efb4e0dda20ba7a98ee2f37886a2c4b91",
+  "bytes": 15933,
+  "content_type": "text/html",
+  "raw": "docs/raw/e05bc295b3370673cc13.html",
+  "markdown": "docs/pages/e05bc295b3370673cc13.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_story_suggested_reaction_area_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_story_suggested_reaction_area_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

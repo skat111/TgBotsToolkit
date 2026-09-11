@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/passport/sdk-android",
+  "final_url": "https://core.telegram.org/passport/sdk-android",
+  "title": "Android SDK",
+  "fetched_at": "2026-09-11T06:11:45Z",
+  "sha256": "cc5a0b7448c22ccf98ff051da5fa906915f7d8c5c06d887915916deeebd67e5c",
+  "bytes": 10495,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/75f8eefb722297abe7ef.html",
+  "markdown": "docs/pages/75f8eefb722297abe7ef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/sdk-android",
+    "https://core.telegram.org/schema"
+  ]
+}

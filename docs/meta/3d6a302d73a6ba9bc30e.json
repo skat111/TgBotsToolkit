@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/inputThemeSettings",
+  "final_url": "https://core.telegram.org/constructor/inputThemeSettings",
+  "title": "inputThemeSettings",
+  "fetched_at": "2026-09-11T06:06:39Z",
+  "sha256": "15acd9bf798c9b45813540b2bcb49026648cf57b1a0ddf685c262964303572f4",
+  "bytes": 18012,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3d6a302d73a6ba9bc30e.html",
+  "markdown": "docs/pages/3d6a302d73a6ba9bc30e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/inputThemeSettings",
+    "https://core.telegram.org/constructor/inputWallPaper",
+    "https://core.telegram.org/constructor/inputWallPaperNoFile",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.saveWallPaper",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BaseTheme",
+    "https://core.telegram.org/type/InputThemeSettings",
+    "https://core.telegram.org/type/InputWallPaper",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/WallPaperSettings",
+    "https://core.telegram.org/type/int"
+  ]
+}

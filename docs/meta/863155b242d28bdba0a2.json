@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_invite_group_call_participant_result.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_invite_group_call_participant_result.html",
+  "title": "TDLib: InviteGroupCallParticipantResult Class Reference",
+  "fetched_at": "2026-09-11T06:12:18Z",
+  "sha256": "457256327e13e1a0eaef217436b7da1dd685f8deb52cfecbfe30540caa60b0eb",
+  "bytes": 13003,
+  "content_type": "text/html",
+  "raw": "docs/raw/863155b242d28bdba0a2.html",
+  "markdown": "docs/pages/863155b242d28bdba0a2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_invite_group_call_participant_result-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_invite_group_call_participant_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_success.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_user_already_participant.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_user_privacy_restricted.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_user_was_banned.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

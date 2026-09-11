@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_anonymous.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_anonymous.html",
+  "title": "TDLib: paidReactionTypeAnonymous Class Reference",
+  "fetched_at": "2026-09-11T06:15:02Z",
+  "sha256": "f3cbb38c88ae66b566c7ff768f8a138f65697d5a65fc8b4e5fe29eeca004ad05",
+  "bytes": 15580,
+  "content_type": "text/html",
+  "raw": "docs/raw/97cb76dc66dfcb5da487.html",
+  "markdown": "docs/pages/97cb76dc66dfcb5da487.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_paid_reaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_anonymous-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_anonymous.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

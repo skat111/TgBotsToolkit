@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/channels.getGroupsForDiscussion",
+  "final_url": "https://core.telegram.org/method/channels.getGroupsForDiscussion",
+  "title": "channels.getGroupsForDiscussion",
+  "fetched_at": "2026-09-11T06:09:24Z",
+  "sha256": "ae41f9f630caf79b70fdd57988238aa3078806d8ef0aec1172194a9bdc05e8ee",
+  "bytes": 16801,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/341a7e3c9cc38bc3a530.html",
+  "markdown": "docs/pages/341a7e3c9cc38bc3a530.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/discussion",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.chats",
+    "https://core.telegram.org/constructor/messages.chatsSlice",
+    "https://core.telegram.org/method/channels.getGroupsForDiscussion",
+    "https://core.telegram.org/method/channels.togglePreHistoryHidden",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.Chats"
+  ]
+}

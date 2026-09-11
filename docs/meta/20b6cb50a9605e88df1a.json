@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/mtproto/transports",
+  "final_url": "https://core.telegram.org/mtproto/transports",
+  "title": "Transport protocols",
+  "fetched_at": "2026-09-11T06:11:43Z",
+  "sha256": "41c412484e78fe6ca874e9fb6da6ef1b82437c7bab4b5a2245791deb00759e8d",
+  "bytes": 16126,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/20b6cb50a9605e88df1a.html",
+  "markdown": "docs/pages/20b6cb50a9605e88df1a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/constructor/config",
+    "https://core.telegram.org/constructor/dcOption",
+    "https://core.telegram.org/method/help.getConfig",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/mtproto-transports",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/mtproto/transports",
+    "https://core.telegram.org/schema"
+  ]
+}

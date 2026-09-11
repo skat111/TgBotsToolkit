@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonSwitchInline",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonSwitchInline",
+  "title": "keyboardButtonSwitchInline",
+  "fetched_at": "2026-09-11T06:06:42Z",
+  "sha256": "839b71471e29ae92e6c4a8314ad956da89e4a0b8880062f9d970e40d4498050b",
+  "bytes": 17184,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a83920c344732841ebae.html",
+  "markdown": "docs/pages/a83920c344732841ebae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/bots/inline",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonSwitchInline",
+    "https://core.telegram.org/constructor/replyInlineMarkup",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InlineQueryPeerType",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

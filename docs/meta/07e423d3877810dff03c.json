@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/botInlineMessageMediaInvoice",
+  "final_url": "https://core.telegram.org/constructor/botInlineMessageMediaInvoice",
+  "title": "botInlineMessageMediaInvoice",
+  "fetched_at": "2026-09-11T06:05:39Z",
+  "sha256": "2d0361b7a7a081909f7aa77a0d6b6c37ddaa19d4d89647aa2311fd3f437d18a0",
+  "bytes": 17295,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/07e423d3877810dff03c.html",
+  "markdown": "docs/pages/07e423d3877810dff03c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/botInlineMessageMediaInvoice",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BotInlineMessage",
+    "https://core.telegram.org/type/ReplyMarkup",
+    "https://core.telegram.org/type/WebDocument",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

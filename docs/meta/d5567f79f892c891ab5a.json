@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/ChannelParticipant",
+  "final_url": "https://core.telegram.org/type/ChannelParticipant",
+  "title": "ChannelParticipant",
+  "fetched_at": "2026-09-11T06:16:26Z",
+  "sha256": "92993b6f76c8e281d25d690b763ff2b6e8ef265c62283febd2c2eb08d6ee4054",
+  "bytes": 16763,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d5567f79f892c891ab5a.html",
+  "markdown": "docs/pages/d5567f79f892c891ab5a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelParticipant",
+    "https://core.telegram.org/constructor/channelParticipantAdmin",
+    "https://core.telegram.org/constructor/channelParticipantBanned",
+    "https://core.telegram.org/constructor/channelParticipantCreator",
+    "https://core.telegram.org/constructor/channelParticipantLeft",
+    "https://core.telegram.org/constructor/channelParticipantSelf",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelParticipant",
+    "https://core.telegram.org/type/ChatAdminRights",
+    "https://core.telegram.org/type/ChatBannedRights",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

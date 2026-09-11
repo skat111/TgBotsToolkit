@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionSuggestBirthday",
+  "final_url": "https://core.telegram.org/constructor/messageActionSuggestBirthday",
+  "title": "messageActionSuggestBirthday",
+  "fetched_at": "2026-09-11T06:06:50Z",
+  "sha256": "67c9c0ffc99c8fef8ae3fd3bdc3867120b8a3cc81f74361b177d3d5866930ef3",
+  "bytes": 15245,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/11f16e2da8ca6efe0e18.html",
+  "markdown": "docs/pages/11f16e2da8ca6efe0e18.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/messageActionSuggestBirthday",
+    "https://core.telegram.org/method/users.suggestBirthday",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Birthday",
+    "https://core.telegram.org/type/MessageAction"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/requestPeerTypeBroadcast",
+  "final_url": "https://core.telegram.org/constructor/requestPeerTypeBroadcast",
+  "title": "requestPeerTypeBroadcast",
+  "fetched_at": "2026-09-11T06:07:29Z",
+  "sha256": "60e44fc86999cc361a25bee2f757c016d124e6e7005585deb9c6d9521b11d5fe",
+  "bytes": 15975,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/686dcf0378d6cd54ce85.html",
+  "markdown": "docs/pages/686dcf0378d6cd54ce85.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/requestPeerTypeBroadcast",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChatAdminRights",
+    "https://core.telegram.org/type/RequestPeerType"
+  ]
+}

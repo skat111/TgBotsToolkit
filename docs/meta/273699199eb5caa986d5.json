@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_bank_statement-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_bank_statement-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:07Z",
+  "sha256": "ee07a62d7e2d086dbcb8d5791ac91ebdf889453ca0d8efd2500b4985c403d6a7",
+  "bytes": 9779,
+  "content_type": "text/html",
+  "raw": "docs/raw/273699199eb5caa986d5.html",
+  "markdown": "docs/pages/273699199eb5caa986d5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_bank_statement.html"
+  ]
+}

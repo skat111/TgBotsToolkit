@@ -1,0 +1,163 @@
+# phone.inviteToGroupCall
+
+Source: https://core.telegram.org/method/phone.inviteToGroupCall
+
+Invite a set of users to a [video chat/livestream »](https://core.telegram.org/api/group-calls#video-chats-livestreams); cannot be used for [live stories »](https://core.telegram.org/api/group-calls#live-stories) or [conference calls »](https://core.telegram.org/api/group-calls#conference-calls).
+
+* [Layer 223](https://core.telegram.org/method/phone.inviteToGroupCall#) 
+  + [1 – Base layer](https://core.telegram.org/method/phone.inviteToGroupCall?layer=1)
+  + [2 – New userpic notifications](https://core.telegram.org/method/phone.inviteToGroupCall?layer=2)
+  + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.inviteToGroupCall?layer=3)
+  + [4 – Check-in chats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=4)
+  + [5 – Localized SMS, localized notifications](https://core.telegram.org/method/phone.inviteToGroupCall?layer=5)
+  + [6 – Foursquare integration](https://core.telegram.org/method/phone.inviteToGroupCall?layer=6)
+  + [7 – Added wallPaperSolid](https://core.telegram.org/method/phone.inviteToGroupCall?layer=7)
+  + [8 – Added end-to-end encryption](https://core.telegram.org/method/phone.inviteToGroupCall?layer=8)
+  + [9 – Improved big files upload perfomance](https://core.telegram.org/method/phone.inviteToGroupCall?layer=9)
+  + [10 – Improved chat participants updates](https://core.telegram.org/method/phone.inviteToGroupCall?layer=10)
+  + [11 – Improved secret chats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=11)
+  + [12 – New dynamic support](https://core.telegram.org/method/phone.inviteToGroupCall?layer=12)
+  + [13 – Audio, video MIME; contacts import retry; new secret actions](https://core.telegram.org/method/phone.inviteToGroupCall?layer=13)
+  + [14 – Notify settings sync, blacklist sync](https://core.telegram.org/method/phone.inviteToGroupCall?layer=14)
+  + [15 – Modified getHistory offset behaviour](https://core.telegram.org/method/phone.inviteToGroupCall?layer=15)
+  + [16 – Split sendCode into 2 parts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=16)
+  + [17 – Added custom typing, introduced message flags](https://core.telegram.org/method/phone.inviteToGroupCall?layer=17)
+  + [18 – Added usernames](https://core.telegram.org/method/phone.inviteToGroupCall?layer=18)
+  + [23 – Stickers for secret chats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=23)
+  + [105 – Scheduled messages, Cloud themes](https://core.telegram.org/method/phone.inviteToGroupCall?layer=105)
+  + [108 – Login with QR code](https://core.telegram.org/method/phone.inviteToGroupCall?layer=108)
+  + [109 – Polls v2](https://core.telegram.org/method/phone.inviteToGroupCall?layer=109)
+  + [110 – People Nearby 2.0, Bank card entity](https://core.telegram.org/method/phone.inviteToGroupCall?layer=110)
+  + [111 – Folders, Broadcast Stats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=111)
+  + [112 – Old featured stickers, generic dice, poll timer, poll solution](https://core.telegram.org/method/phone.inviteToGroupCall?layer=112)
+  + [113 – PSA](https://core.telegram.org/method/phone.inviteToGroupCall?layer=113)
+  + [114 – Video thumbs for GIFs](https://core.telegram.org/method/phone.inviteToGroupCall?layer=114)
+  + [115 – Peek Channel Invite](https://core.telegram.org/method/phone.inviteToGroupCall?layer=115)
+  + [116 – Group Stats, Profile Videos](https://core.telegram.org/method/phone.inviteToGroupCall?layer=116)
+  + [117 – WebRTC Phone Calls](https://core.telegram.org/method/phone.inviteToGroupCall?layer=117)
+  + [118 – Callback with 2FA, Countries list](https://core.telegram.org/method/phone.inviteToGroupCall?layer=118)
+  + [119 – Comments in channels, Threads, Anonymous Admins](https://core.telegram.org/method/phone.inviteToGroupCall?layer=119)
+  + [120 – Multipins, Message Stats, GeoLive v2](https://core.telegram.org/method/phone.inviteToGroupCall?layer=120)
+  + [121 – SVG-based Outlines for Stickers](https://core.telegram.org/method/phone.inviteToGroupCall?layer=121)
+  + [122 – Voice Chats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=122)
+  + [123 – Voice Chat improvements](https://core.telegram.org/method/phone.inviteToGroupCall?layer=123)
+  + [124 – Expiring Invite links](https://core.telegram.org/method/phone.inviteToGroupCall?layer=124)
+  + [125 – Voice Chats in Broadcasts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=125)
+  + [126 – Ban channels in channels](https://core.telegram.org/method/phone.inviteToGroupCall?layer=126)
+  + [127 – Payments in channels](https://core.telegram.org/method/phone.inviteToGroupCall?layer=127)
+  + [128 – Microthumbs for User/Chat profile photos](https://core.telegram.org/method/phone.inviteToGroupCall?layer=128)
+  + [129 – Video Chats](https://core.telegram.org/method/phone.inviteToGroupCall?layer=129)
+  + [130 – Custom placeholder for bot reply keyboards](https://core.telegram.org/method/phone.inviteToGroupCall?layer=130)
+  + [131 – Reset 2FA Password after a week](https://core.telegram.org/method/phone.inviteToGroupCall?layer=131)
+  + [132 – Chat themes](https://core.telegram.org/method/phone.inviteToGroupCall?layer=132)
+  + [133 – 64-bit IDs for User/Chat](https://core.telegram.org/method/phone.inviteToGroupCall?layer=133)
+  + [134 – Chat Requests, Shared Media Calendar](https://core.telegram.org/method/phone.inviteToGroupCall?layer=134)
+  + [135 – Send Message As a Channel](https://core.telegram.org/method/phone.inviteToGroupCall?layer=135)
+  + [136 – Reactions](https://core.telegram.org/method/phone.inviteToGroupCall?layer=136)
+  + [137 – Translations](https://core.telegram.org/method/phone.inviteToGroupCall?layer=137)
+  + [138 – GIF Sticker Packs](https://core.telegram.org/method/phone.inviteToGroupCall?layer=138)
+  + [139 – RTMP streaming](https://core.telegram.org/method/phone.inviteToGroupCall?layer=139)
+  + [140 – WebApps, Cloud Ringtones](https://core.telegram.org/method/phone.inviteToGroupCall?layer=140)
+  + [142 – TCP Reflectors](https://core.telegram.org/method/phone.inviteToGroupCall?layer=142)
+  + [143 – Premium Subscription, Cloud Invoices](https://core.telegram.org/method/phone.inviteToGroupCall?layer=143)
+  + [144 – Premium as a Gift, Custom Emoji](https://core.telegram.org/method/phone.inviteToGroupCall?layer=144)
+  + [145 – Custom Reactions, Statuses, Sign In with email](https://core.telegram.org/method/phone.inviteToGroupCall?layer=145)
+  + [147 – Keywords for stickers and emojis](https://core.telegram.org/method/phone.inviteToGroupCall?layer=147)
+  + [148 – Forums, collectible usernames](https://core.telegram.org/method/phone.inviteToGroupCall?layer=148)
+  + [150 – Pinned forum topics, general topic](https://core.telegram.org/method/phone.inviteToGroupCall?layer=150)
+  + [151 – Media spoilers, suggested profile photos](https://core.telegram.org/method/phone.inviteToGroupCall?layer=151)
+  + [152 – Real-time translations, Firebase SMS authentication](https://core.telegram.org/method/phone.inviteToGroupCall?layer=152)
+  + [153 – Modify created stickersets](https://core.telegram.org/method/phone.inviteToGroupCall?layer=153)
+  + [155 – Dates for reactions](https://core.telegram.org/method/phone.inviteToGroupCall?layer=155)
+  + [158 – Shared folders, per-chat wallpapers](https://core.telegram.org/method/phone.inviteToGroupCall?layer=158)
+  + [159 – Anonymous votes](https://core.telegram.org/method/phone.inviteToGroupCall?layer=159)
+  + [160 – Stories](https://core.telegram.org/method/phone.inviteToGroupCall?layer=160)
+  + [164 – Stories in Channels](https://core.telegram.org/method/phone.inviteToGroupCall?layer=164)
+  + [166 – Giveaways in channels](https://core.telegram.org/method/phone.inviteToGroupCall?layer=166)
+  + [167 – Similar channels](https://core.telegram.org/method/phone.inviteToGroupCall?layer=167)
+  + [168 – Channel colors](https://core.telegram.org/method/phone.inviteToGroupCall?layer=168)
+  + [169 – Multiselection of chats for bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=169)
+  + [170 – Saved Messages 2.0](https://core.telegram.org/method/phone.inviteToGroupCall?layer=170)
+  + [171 – Saved Messages 2.0](https://core.telegram.org/method/phone.inviteToGroupCall?layer=171)
+  + [174 – Group boosts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=174)
+  + [176 – Business](https://core.telegram.org/method/phone.inviteToGroupCall?layer=176)
+  + [177 – Business Bots, Birthdays](https://core.telegram.org/method/phone.inviteToGroupCall?layer=177)
+  + [178 – Saved Personal channel, Reactions notifications](https://core.telegram.org/method/phone.inviteToGroupCall?layer=178)
+  + [179 – Channel revenue stats, phrases in SMS](https://core.telegram.org/method/phone.inviteToGroupCall?layer=179)
+  + [180 – Message Effects, Hashtags](https://core.telegram.org/method/phone.inviteToGroupCall?layer=180)
+  + [181 – Stars](https://core.telegram.org/method/phone.inviteToGroupCall?layer=181)
+  + [182 – Stars Revenue](https://core.telegram.org/method/phone.inviteToGroupCall?layer=182)
+  + [183 – Paid posts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=183)
+  + [184 – Stars Refunds](https://core.telegram.org/method/phone.inviteToGroupCall?layer=184)
+  + [185 – MiniApp Store, Star Gifts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=185)
+  + [186 – Channel Subscriptions for Stars](https://core.telegram.org/method/phone.inviteToGroupCall?layer=186)
+  + [187 – Stars Giveaways](https://core.telegram.org/method/phone.inviteToGroupCall?layer=187)
+  + [189 – Stars Gifts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=189)
+  + [192 – Video Qualities, Ads in bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=192)
+  + [194 – Stars Subscription for Bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=194)
+  + [195 – Affiliate Programs for Bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=195)
+  + [196 – Collectible gifts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=196)
+  + [197 – Similar Bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=197)
+  + [198 – Collectibles as emoji statuses](https://core.telegram.org/method/phone.inviteToGroupCall?layer=198)
+  + [200 – Paid Messages](https://core.telegram.org/method/phone.inviteToGroupCall?layer=200)
+  + [202 – Conference calls](https://core.telegram.org/method/phone.inviteToGroupCall?layer=202)
+  + [203 – Resell collectible gifts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=203)
+  + [204 – Monoforums](https://core.telegram.org/method/phone.inviteToGroupCall?layer=204)
+  + [205 – TODO lists](https://core.telegram.org/method/phone.inviteToGroupCall?layer=205)
+  + [207 – Suggested channel posts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=207)
+  + [210 – Star gift collections, rating](https://core.telegram.org/method/phone.inviteToGroupCall?layer=210)
+  + [211 – Story Albums](https://core.telegram.org/method/phone.inviteToGroupCall?layer=211)
+  + [212 – Prepaid gift upgrades](https://core.telegram.org/method/phone.inviteToGroupCall?layer=212)
+  + [213 – Music in profile](https://core.telegram.org/method/phone.inviteToGroupCall?layer=213)
+  + [214 – Chat Themes with collectible gifts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=214)
+  + [215 – Chat Gift Themes](https://core.telegram.org/method/phone.inviteToGroupCall?layer=215)
+  + [216 – Threaded view for Bots](https://core.telegram.org/method/phone.inviteToGroupCall?layer=216)
+  + [217 – Live Stories](https://core.telegram.org/method/phone.inviteToGroupCall?layer=217)
+  + [218 – Gift Auctions](https://core.telegram.org/method/phone.inviteToGroupCall?layer=218)
+  + [219 – Passkeys](https://core.telegram.org/method/phone.inviteToGroupCall?layer=219)
+  + [220 – Gift Offers](https://core.telegram.org/method/phone.inviteToGroupCall?layer=220)
+  + [222 – Gift Crafts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=222)
+  + [**223 – User tags in groups**](https://core.telegram.org/method/phone.inviteToGroupCall?layer=223)
+  + [More...](https://core.telegram.org/api/layers)
+
+```
+updatesTooLong#e317af7e = Updates;
+updateShortMessage#313bc7f8 flags:# out:flags.1?true mentioned:flags.4?true media_unread:flags.5?true silent:flags.13?true id:int user_id:long message:string pts:int pts_count:int date:int fwd_from:flags.2?MessageFwdHeader via_bot_id:flags.11?long reply_to:flags.3?MessageReplyHeader entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+updateShortChatMessage#4d6deea5 flags:# out:flags.1?true mentioned:flags.4?true media_unread:flags.5?true silent:flags.13?true id:int from_id:long chat_id:long message:string pts:int pts_count:int date:int fwd_from:flags.2?MessageFwdHeader via_bot_id:flags.11?long reply_to:flags.3?MessageReplyHeader entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+updateShort#78d4dec1 update:Update date:int = Updates;
+updatesCombined#725b04c3 updates:Vector<Update> users:Vector<User> chats:Vector<Chat> date:int seq_start:int seq:int = Updates;
+updates#74ae4240 updates:Vector<Update> users:Vector<User> chats:Vector<Chat> date:int seq:int = Updates;
+updateShortSentMessage#9015e101 flags:# out:flags.1?true id:int pts:int pts_count:int date:int media:flags.9?MessageMedia entities:flags.7?Vector<MessageEntity> ttl_period:flags.25?int = Updates;
+---functions---
+phone.inviteToGroupCall#7b393160 call:InputGroupCall users:Vector<InputUser> = Updates;
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| **call** | [InputGroupCall](https://core.telegram.org/type/InputGroupCall) | The [video chat/livestream »](https://core.telegram.org/api/group-calls#video-chats-livestreams) |
+| **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[InputUser](https://core.telegram.org/type/InputUser)> | The users to invite. |
+
+### Result
+
+[Updates](https://core.telegram.org/type/Updates)
+
+### Only users can use this method
+
+### Possible errors
+
+| Code | Type | Description |
+| --- | --- | --- |
+| 403 | CHAT\_TYPE\_INVALID | The specified user type is invalid. |
+| 403 | GROUPCALL\_FORBIDDEN | The specified group call cannot be used in this context. |
+| 400 | GROUPCALL\_INVALID | The specified group call is invalid. |
+| 400 | INVITE\_FORBIDDEN\_WITH\_JOINAS | If the user has anonymously joined a group call as a channel, they can't invite other users to the group call because that would cause deanonymization, because the invite would be sent using the original user ID, not the anonymized channel ID. |
+| 400 | USER\_ALREADY\_INVITED | You have already invited this user. |
+| 403 | USER\_NOT\_PARTICIPANT | You're not a member of this supergroup/channel. |
+
+### Related pages
+
+#### [Group calls](https://core.telegram.org/api/group-calls)
+
+How to start, join and manage group calls and video chats.

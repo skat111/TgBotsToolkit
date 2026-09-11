@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/help.deepLinkInfoEmpty",
+  "final_url": "https://core.telegram.org/constructor/help.deepLinkInfoEmpty",
+  "title": "help.deepLinkInfoEmpty",
+  "fetched_at": "2026-09-11T06:06:09Z",
+  "sha256": "3beab53ac5e91b0d11d7e9bb57bc8d0a149e986fdd5c87888c41dbfa5d401f37",
+  "bytes": 13876,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/19b3a1a906d9ea4aeac9.html",
+  "markdown": "docs/pages/19b3a1a906d9ea4aeac9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.deepLinkInfoEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/help.DeepLinkInfo"
+  ]
+}

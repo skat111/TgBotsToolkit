@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateStickerSets",
+  "final_url": "https://core.telegram.org/constructor/updateStickerSets",
+  "title": "updateStickerSets",
+  "fetched_at": "2026-09-11T06:08:07Z",
+  "sha256": "99d99e4bce83bf275e1a8f79a8c2cd55b328db9d2c095fb29fe15ee0003b9944",
+  "bytes": 15600,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ee6e3175a784f416e8f0.html",
+  "markdown": "docs/pages/ee6e3175a784f416e8f0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateStickerSets",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Update"
+  ]
+}

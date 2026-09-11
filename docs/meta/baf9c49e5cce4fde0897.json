@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/help.getAppConfig",
+  "final_url": "https://core.telegram.org/method/help.getAppConfig",
+  "title": "help.getAppConfig",
+  "fetched_at": "2026-09-11T06:09:39Z",
+  "sha256": "8cf525cf8310cdebfbe6c2a74b4d7da2c08d85eda1df16b40fb2541e36574839",
+  "bytes": 16020,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/baf9c49e5cce4fde0897.html",
+  "markdown": "docs/pages/baf9c49e5cce4fde0897.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/help.appConfig",
+    "https://core.telegram.org/constructor/help.appConfigNotModified",
+    "https://core.telegram.org/method/help.getAppConfig",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/JSONValue",
+    "https://core.telegram.org/type/help.AppConfig",
+    "https://core.telegram.org/type/int"
+  ]
+}

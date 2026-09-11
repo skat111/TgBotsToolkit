@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/KeyboardButtonStyle",
+  "final_url": "https://core.telegram.org/type/KeyboardButtonStyle",
+  "title": "KeyboardButtonStyle",
+  "fetched_at": "2026-09-11T06:17:04Z",
+  "sha256": "7bbcfe66153e9391659e7931a38c489294bafc80d49957f4a840409bb35db999",
+  "bytes": 14935,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ca7fa106849163f89ea6.html",
+  "markdown": "docs/pages/ca7fa106849163f89ea6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonStyle",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/long"
+  ]
+}

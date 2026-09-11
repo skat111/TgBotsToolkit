@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/reportResultAddComment",
+  "final_url": "https://core.telegram.org/constructor/reportResultAddComment",
+  "title": "reportResultAddComment",
+  "fetched_at": "2026-09-11T06:07:29Z",
+  "sha256": "0eb69f8c1a11fe08b446797e148bb60964d39ea7554dee4478a8accbbd7ab55b",
+  "bytes": 15780,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bda480ccaeee8d73481b.html",
+  "markdown": "docs/pages/bda480ccaeee8d73481b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/reportResultAddComment",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.report",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ReportResult",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

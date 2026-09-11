@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stop_business_poll.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stop_business_poll.html",
+  "title": "TDLib: stopBusinessPoll Class Reference",
+  "fetched_at": "2026-09-11T06:15:50Z",
+  "sha256": "5890565f5c693ddea92c8a57eba6426434dae50faf42f5598c3e623a06f5aee7",
+  "bytes": 23726,
+  "content_type": "text/html",
+  "raw": "docs/raw/9e13efb4f1353d819d2b.html",
+  "markdown": "docs/pages/9e13efb4f1353d819d2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reply_markup.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stop_business_poll-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stop_business_poll.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

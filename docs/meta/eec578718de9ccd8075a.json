@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_automatic_translation_toggled.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_automatic_translation_toggled.html",
+  "title": "TDLib: chatEventAutomaticTranslationToggled Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "1427ac87c3c900a426ecff2c777a178bfe2a033eae5ed2e187c6ee414412b23f",
+  "bytes": 18511,
+  "content_type": "text/html",
+  "raw": "docs/raw/eec578718de9ccd8075a.html",
+  "markdown": "docs/pages/eec578718de9ccd8075a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_automatic_translation_toggled-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_automatic_translation_toggled.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

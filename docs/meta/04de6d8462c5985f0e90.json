@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_transfer_ownership_result_ok.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_transfer_ownership_result_ok.html",
+  "title": "TDLib: canTransferOwnershipResultOk Class Reference",
+  "fetched_at": "2026-09-11T06:13:33Z",
+  "sha256": "c4e571797731ecf9d235e0f7be45caff66cde0eec22fd35197ff7d4fb38b1b4e",
+  "bytes": 15638,
+  "content_type": "text/html",
+  "raw": "docs/raw/04de6d8462c5985f0e90.html",
+  "markdown": "docs/pages/04de6d8462c5985f0e90.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_transfer_ownership_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_transfer_ownership_result_ok-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_transfer_ownership_result_ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

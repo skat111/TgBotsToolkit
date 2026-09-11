@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/messages.requestSimpleWebView",
+  "final_url": "https://core.telegram.org/method/messages.requestSimpleWebView",
+  "title": "messages.requestSimpleWebView",
+  "fetched_at": "2026-09-11T06:10:25Z",
+  "sha256": "24f333e2512412e73ea595de4e8b354b422a906bd44f5c2967b8f8f7dce20495",
+  "bytes": 18915,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1426600c092cc82bc422.html",
+  "markdown": "docs/pages/1426600c092cc82bc422.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/attach",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/webViewResultUrl",
+    "https://core.telegram.org/method/messages.getInlineBotResults",
+    "https://core.telegram.org/method/messages.requestSimpleWebView",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/WebViewResult",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

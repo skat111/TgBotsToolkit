@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/StarsTransactionPeer",
+  "final_url": "https://core.telegram.org/type/StarsTransactionPeer",
+  "title": "StarsTransactionPeer",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "1e0d0a8eb85aa9f74534f7accd22c90afb30e5921809327f98e4435db136b9ce",
+  "bytes": 18161,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bf0e66f7ac5079e10f17.html",
+  "markdown": "docs/pages/bf0e66f7ac5079e10f17.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/bots/faq",
+    "https://core.telegram.org/constructor/inputInvoiceStars",
+    "https://core.telegram.org/constructor/starsTransactionPeer",
+    "https://core.telegram.org/constructor/starsTransactionPeerAPI",
+    "https://core.telegram.org/constructor/starsTransactionPeerAds",
+    "https://core.telegram.org/constructor/starsTransactionPeerAppStore",
+    "https://core.telegram.org/constructor/starsTransactionPeerFragment",
+    "https://core.telegram.org/constructor/starsTransactionPeerPlayMarket",
+    "https://core.telegram.org/constructor/starsTransactionPeerPremiumBot",
+    "https://core.telegram.org/constructor/starsTransactionPeerUnsupported",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/StarsTransactionPeer"
+  ]
+}

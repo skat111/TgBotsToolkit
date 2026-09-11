@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_copy_options.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_copy_options.html",
+  "title": "TDLib: messageCopyOptions Class Reference",
+  "fetched_at": "2026-09-11T06:14:50Z",
+  "sha256": "e83785d0d0c5976b870bf3283100093f311fea319821820d66c85b4ebc6e1a6c",
+  "bytes": 24122,
+  "content_type": "text/html",
+  "raw": "docs/raw/cd5b43de8b927f7b55a6.html",
+  "markdown": "docs/pages/cd5b43de8b927f7b55a6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_copy_options-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_copy_options.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_giveaway.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_giveaway_winners.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_invoice.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_paid_media.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

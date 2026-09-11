@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/phone.getGroupCallJoinAs",
+  "final_url": "https://core.telegram.org/method/phone.getGroupCallJoinAs",
+  "title": "phone.getGroupCallJoinAs",
+  "fetched_at": "2026-09-11T06:11:06Z",
+  "sha256": "ac0ecc75007b10f916fe24f417f9d3043671e19bd1c6466a80f7b086ad2343c1",
+  "bytes": 18440,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ca9eb8151887c73925be.html",
+  "markdown": "docs/pages/ca9eb8151887c73925be.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/groupCall",
+    "https://core.telegram.org/constructor/phone.joinAsPeers",
+    "https://core.telegram.org/method/channels.getSendAs",
+    "https://core.telegram.org/method/phone.getGroupCallJoinAs",
+    "https://core.telegram.org/method/phone.sendGroupCallMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/phone.JoinAsPeers"
+  ]
+}

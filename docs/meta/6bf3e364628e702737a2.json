@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1secret_chat_state_pending.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1secret_chat_state_pending.html",
+  "title": "TDLib: secretChatStatePending Class Reference",
+  "fetched_at": "2026-09-11T06:15:30Z",
+  "sha256": "9abec5579f4feb5619d7f8ed2eca911e7c56459cd9b2606520a255221851f160",
+  "bytes": 15645,
+  "content_type": "text/html",
+  "raw": "docs/raw/6bf3e364628e702737a2.html",
+  "markdown": "docs/pages/6bf3e364628e702737a2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_secret_chat_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1secret_chat_state_pending-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1secret_chat_state_pending.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

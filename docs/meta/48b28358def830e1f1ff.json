@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.deleteSecureValue",
+  "final_url": "https://core.telegram.org/method/account.deleteSecureValue",
+  "title": "account.deleteSecureValue",
+  "fetched_at": "2026-09-11T06:08:32Z",
+  "sha256": "b7d4d96aaa0f2611184d5e99b6385a6ad6e4eab22c4fa31c159c3e44a6696b0b",
+  "bytes": 15691,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/48b28358def830e1f1ff.html",
+  "markdown": "docs/pages/48b28358def830e1f1ff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.deleteSecureValue",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

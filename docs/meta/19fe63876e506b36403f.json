@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/method/invokeWithReCaptcha",
+  "final_url": "https://core.telegram.org/method/invokeWithReCaptcha",
+  "title": "invokeWithReCaptcha",
+  "fetched_at": "2026-09-11T06:09:45Z",
+  "sha256": "1d6b514ad940642946527b489d5715e710914a08995f091e7eaf4994f4bfb18e",
+  "bytes": 15058,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/19fe63876e506b36403f.html",
+  "markdown": "docs/pages/19fe63876e506b36403f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/invokeWithReCaptcha",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/string"
+  ]
+}

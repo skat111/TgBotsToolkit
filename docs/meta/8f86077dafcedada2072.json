@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/businessGreetingMessage",
+  "final_url": "https://core.telegram.org/constructor/businessGreetingMessage",
+  "title": "businessGreetingMessage",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "390b590fca8abe81d8f894889e4f32ecb3f653d395f9d606a9172ef6c1b1a93a",
+  "bytes": 15864,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8f86077dafcedada2072.html",
+  "markdown": "docs/pages/8f86077dafcedada2072.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessGreetingMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BusinessGreetingMessage",
+    "https://core.telegram.org/type/BusinessRecipients",
+    "https://core.telegram.org/type/int"
+  ]
+}

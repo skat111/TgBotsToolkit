@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/decryptedMessageMediaVideo",
+  "final_url": "https://core.telegram.org/constructor/decryptedMessageMediaVideo",
+  "title": "decryptedMessageMediaVideo",
+  "fetched_at": "2026-09-11T06:11:55Z",
+  "sha256": "f22b22d79496d93f632bb9852d54478faf148b04fa98289795be06baa19764ac",
+  "bytes": 17209,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d7af23bff21812471bed.html",
+  "markdown": "docs/pages/d7af23bff21812471bed.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/decryptedMessageMediaVideo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageMedia",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

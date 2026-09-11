@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_premium_gift_code-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_premium_gift_code-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:52Z",
+  "sha256": "4d768bce2873bd31a41ab460f5757c0f223d9b475014b7407585a60fd0c81184",
+  "bytes": 10547,
+  "content_type": "text/html",
+  "raw": "docs/raw/1ff14c3dafd25d7a93f7.html",
+  "markdown": "docs/pages/1ff14c3dafd25d7a93f7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_premium_gift_code.html"
+  ]
+}

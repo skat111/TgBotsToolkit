@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/bots.accessSettings",
+  "final_url": "https://core.telegram.org/constructor/bots.accessSettings",
+  "title": "bots.accessSettings",
+  "fetched_at": "2026-09-11T06:05:40Z",
+  "sha256": "63b326bb2876507317438c56f3c417e8bb11250b152b5a54d236abc3135ce170",
+  "bytes": 15385,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/365853e64c2744dcbae5.html",
+  "markdown": "docs/pages/365853e64c2744dcbae5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/managed-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/bots.accessSettings",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bots.AccessSettings"
+  ]
+}

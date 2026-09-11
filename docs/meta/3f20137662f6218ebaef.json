@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_gifts.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_gifts.html",
+  "title": "TDLib: availableGifts Class Reference",
+  "fetched_at": "2026-09-11T06:13:25Z",
+  "sha256": "ac435483e1ad1e783b252db26805475ba01922e6b1d96ca9356b91ef7d266154",
+  "bytes": 18758,
+  "content_type": "text/html",
+  "raw": "docs/raw/3f20137662f6218ebaef.html",
+  "markdown": "docs/pages/3f20137662f6218ebaef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_gifts-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_gifts.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

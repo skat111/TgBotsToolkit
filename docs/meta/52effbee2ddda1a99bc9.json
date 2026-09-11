@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.reportSponsoredMessage",
+  "final_url": "https://core.telegram.org/method/messages.reportSponsoredMessage",
+  "title": "messages.reportSponsoredMessage",
+  "fetched_at": "2026-09-11T06:10:22Z",
+  "sha256": "b8deb6ee40a14684a46665a5744bcabe15a49df9e6bb2e28a29dd84cdc3e5d33",
+  "bytes": 16782,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/52effbee2ddda1a99bc9.html",
+  "markdown": "docs/pages/52effbee2ddda1a99bc9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/sponsored-messages",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultAdsHidden",
+    "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultChooseOption",
+    "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultReported",
+    "https://core.telegram.org/method/messages.reportSponsoredMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SponsoredMessageReportOption",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/channels.SponsoredMessageReportResult",
+    "https://core.telegram.org/type/string"
+  ]
+}

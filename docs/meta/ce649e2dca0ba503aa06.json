@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_recent_speaker.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_recent_speaker.html",
+  "title": "TDLib: groupCallRecentSpeaker Class Reference",
+  "fetched_at": "2026-09-11T06:14:29Z",
+  "sha256": "124b1a0464ae66a5946eb56d434dce4213e4adbb2e95e6bdd34da5a70382ec1a",
+  "bytes": 19645,
+  "content_type": "text/html",
+  "raw": "docs/raw/ce649e2dca0ba503aa06.html",
+  "markdown": "docs/pages/ce649e2dca0ba503aa06.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_recent_speaker-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1group_call_recent_speaker.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

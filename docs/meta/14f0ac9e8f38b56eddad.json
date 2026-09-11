@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_custom_emoji.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_custom_emoji.html",
+  "title": "TDLib: premiumFeatureCustomEmoji Class Reference",
+  "fetched_at": "2026-09-11T06:15:09Z",
+  "sha256": "d4be7057f6eaee3a37bbc3346ff519065ddee3695c9f6b5548a5a15cae7b85b3",
+  "bytes": 15657,
+  "content_type": "text/html",
+  "raw": "docs/raw/14f0ac9e8f38b56eddad.html",
+  "markdown": "docs/pages/14f0ac9e8f38b56eddad.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_custom_emoji-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_custom_emoji.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

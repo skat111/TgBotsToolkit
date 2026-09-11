@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reaction_type.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reaction_type.html",
+  "title": "TDLib: ReactionType Class Reference",
+  "fetched_at": "2026-09-11T06:13:15Z",
+  "sha256": "effd772b629208063fd5d003c86930766292d28f630f64afc7907d7508275d9d",
+  "bytes": 12534,
+  "content_type": "text/html",
+  "raw": "docs/raw/5e823421af31657cace9.html",
+  "markdown": "docs/pages/5e823421af31657cace9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reaction_type-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_emoji.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_paid.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_gifted_stars.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_gifted_stars.html",
+  "title": "TDLib: messageGiftedStars Class Reference",
+  "fetched_at": "2026-09-11T06:14:51Z",
+  "sha256": "345b7ff68ecac6b41f1d16aebba2fd9620e9425b72c93313ed5f3d91a2c1cb8f",
+  "bytes": 29313,
+  "content_type": "text/html",
+  "raw": "docs/raw/53afb03aba92a2e57b24.html",
+  "markdown": "docs/pages/53afb03aba92a2e57b24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_gifted_stars-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_gifted_stars.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

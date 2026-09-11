@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/ChannelLocation",
+  "final_url": "https://core.telegram.org/type/ChannelLocation",
+  "title": "ChannelLocation",
+  "fetched_at": "2026-09-11T06:16:25Z",
+  "sha256": "d645b025d55d3e44c8ae53bd52d745d31d77ebd30ea71b261e1f81c4e6f3c1f7",
+  "bytes": 14329,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a3f14e8be2cd6b341384.html",
+  "markdown": "docs/pages/a3f14e8be2cd6b341384.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelLocation",
+    "https://core.telegram.org/constructor/channelLocationEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelLocation",
+    "https://core.telegram.org/type/GeoPoint",
+    "https://core.telegram.org/type/string"
+  ]
+}

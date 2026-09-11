@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/contacts.deleteByPhones",
+  "final_url": "https://core.telegram.org/method/contacts.deleteByPhones",
+  "title": "contacts.deleteByPhones",
+  "fetched_at": "2026-09-11T06:09:33Z",
+  "sha256": "947fc37da4545d200e9ed6158b178067f258fc77334522f7302968e1e0564594",
+  "bytes": 14636,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8fcf0fdd6dd8cf80f4ba.html",
+  "markdown": "docs/pages/8fcf0fdd6dd8cf80f4ba.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/contacts.deleteByPhones",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

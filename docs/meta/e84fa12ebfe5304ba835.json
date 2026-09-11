@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/secureFile",
+  "final_url": "https://core.telegram.org/constructor/secureFile",
+  "title": "secureFile",
+  "fetched_at": "2026-09-11T06:07:31Z",
+  "sha256": "f4a90fac1cd106184ff30e1d293cc35640a4a552c0f2b15a06b86cfb1376f64a",
+  "bytes": 16005,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e84fa12ebfe5304ba835.html",
+  "markdown": "docs/pages/e84fa12ebfe5304ba835.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureFile",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureFile",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

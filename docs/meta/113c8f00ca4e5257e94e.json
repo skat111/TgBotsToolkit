@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/account.changeAuthorizationSettings",
+  "final_url": "https://core.telegram.org/method/account.changeAuthorizationSettings",
+  "title": "account.changeAuthorizationSettings",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "2add7bda41b843e9ca7b0c947583247e0829800c4f82fb2ec89d7ef80a73f3e6",
+  "bytes": 17286,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/113c8f00ca4e5257e94e.html",
+  "markdown": "docs/pages/113c8f00ca4e5257e94e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/authorization",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/account.changeAuthorizationSettings",
+    "https://core.telegram.org/method/account.getAuthorizations",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/long"
+  ]
+}

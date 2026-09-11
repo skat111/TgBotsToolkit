@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/api/account-deletion",
+  "final_url": "https://core.telegram.org/api/account-deletion",
+  "title": "Account deletion",
+  "fetched_at": "2026-09-11T06:04:43Z",
+  "sha256": "f80ec11801928ab7828b63b0f07d9a41796955a389d27888be2ebdc0e956b67b",
+  "bytes": 9174,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c8aa8c9d9bbe196046e8.html",
+  "markdown": "docs/pages/c8aa8c9d9bbe196046e8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/account-deletion",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/updateServiceNotification",
+    "https://core.telegram.org/method/account.confirmPhone",
+    "https://core.telegram.org/method/account.deleteAccount",
+    "https://core.telegram.org/method/account.sendConfirmPhoneCode",
+    "https://core.telegram.org/method/auth.cancelCode",
+    "https://core.telegram.org/method/auth.resendCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/CodeSettings",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/auth.SentCode",
+    "https://core.telegram.org/type/string"
+  ]
+}

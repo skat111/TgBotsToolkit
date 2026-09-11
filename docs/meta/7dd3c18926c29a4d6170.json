@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_reason_custom.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_reason_custom.html",
+  "title": "TDLib: reportReasonCustom Class Reference",
+  "fetched_at": "2026-09-11T06:15:25Z",
+  "sha256": "b1e9ce9340ae62b97ddb61e84b3885cbf41458d13a84fe306d14eea0c5593070",
+  "bytes": 15504,
+  "content_type": "text/html",
+  "raw": "docs/raw/7dd3c18926c29a4d6170.html",
+  "markdown": "docs/pages/7dd3c18926c29a4d6170.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_report_reason.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_reason_custom-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_reason_custom.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

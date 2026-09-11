@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStorePaymentPremiumSubscription",
+  "final_url": "https://core.telegram.org/constructor/inputStorePaymentPremiumSubscription",
+  "title": "inputStorePaymentPremiumSubscription",
+  "fetched_at": "2026-09-11T06:06:38Z",
+  "sha256": "61ad90a39f888e009beb1f272a870e33249e18c41c03c1cd38919aedc21c1850",
+  "bytes": 15010,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/10a10f9407c58a8af2b8.html",
+  "markdown": "docs/pages/10a10f9407c58a8af2b8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputStorePaymentPremiumSubscription",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputStorePaymentPurpose"
+  ]
+}

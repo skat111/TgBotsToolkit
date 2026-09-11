@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_stake_dice_stake-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_stake_dice_stake-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:06Z",
+  "sha256": "ffd5734db8a5d203887d5772070d7eac4f0cce36b16e0e9499b717a768b69b1c",
+  "bytes": 9785,
+  "content_type": "text/html",
+  "raw": "docs/raw/3444ca1149deec866e3d.html",
+  "markdown": "docs/pages/3444ca1149deec866e3d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_stake_dice_stake.html"
+  ]
+}

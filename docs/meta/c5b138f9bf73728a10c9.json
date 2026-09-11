@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.togglePaidReactionPrivacy",
+  "final_url": "https://core.telegram.org/method/messages.togglePaidReactionPrivacy",
+  "title": "messages.togglePaidReactionPrivacy",
+  "fetched_at": "2026-09-11T06:10:34Z",
+  "sha256": "33c9895ae25cf9658a0c05671e15bc9568106b1e8325c37582d4259bbf53ed7b",
+  "bytes": 16210,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c5b138f9bf73728a10c9.html",
+  "markdown": "docs/pages/c5b138f9bf73728a10c9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.togglePaidReactionPrivacy",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/PaidReactionPrivacy",
+    "https://core.telegram.org/type/int"
+  ]
+}

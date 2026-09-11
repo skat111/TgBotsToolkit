@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePtsChanged",
+  "final_url": "https://core.telegram.org/constructor/updatePtsChanged",
+  "title": "updatePtsChanged",
+  "fetched_at": "2026-09-11T06:08:04Z",
+  "sha256": "b5b13a3c25c81a1203f8a7a0344d84b16807bc52a697e921f2bffa6258464e9f",
+  "bytes": 14463,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ad64766a4773133e2d3e.html",
+  "markdown": "docs/pages/ad64766a4773133e2d3e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updatePtsChanged",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/emojiLanguage",
+  "final_url": "https://core.telegram.org/constructor/emojiLanguage",
+  "title": "emojiLanguage",
+  "fetched_at": "2026-09-11T06:06:03Z",
+  "sha256": "4e2bf68ee946baa6d6f9e6d253922d41849971b70bee41830118286358dbf87a",
+  "bytes": 14062,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b44a6439501cd244e3b8.html",
+  "markdown": "docs/pages/b44a6439501cd244e3b8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emojiLanguage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiLanguage",
+    "https://core.telegram.org/type/string"
+  ]
+}

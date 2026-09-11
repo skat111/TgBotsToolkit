@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChatParticipantRank",
+  "final_url": "https://core.telegram.org/constructor/updateChatParticipantRank",
+  "title": "updateChatParticipantRank",
+  "fetched_at": "2026-09-11T06:07:56Z",
+  "sha256": "1791115c022b2a83639ab269603a02972b8ce536f418f0af710951a4fbcc53b5",
+  "bytes": 16367,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/eda77c3f444995f51497.html",
+  "markdown": "docs/pages/eda77c3f444995f51497.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/constructor/updateChatParticipantRank",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_saved_animation_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_saved_animation_count.html",
+  "title": "TDLib: premiumLimitTypeSavedAnimationCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:10Z",
+  "sha256": "55894da2616e8a77042139792d461b4ac7689551ea996a454a62afd6ef363306",
+  "bytes": 15737,
+  "content_type": "text/html",
+  "raw": "docs/raw/012cec8f736b06c8aa7d.html",
+  "markdown": "docs/pages/012cec8f736b06c8aa7d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_saved_animation_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_saved_animation_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

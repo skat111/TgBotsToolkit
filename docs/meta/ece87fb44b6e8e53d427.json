@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.getEmojiURL",
+  "final_url": "https://core.telegram.org/method/messages.getEmojiURL",
+  "title": "messages.getEmojiURL",
+  "fetched_at": "2026-09-11T06:10:05Z",
+  "sha256": "1a1024d3153dbb29669a978b9963dfd43e3930c322f1973c6bb09736c8e2aed5",
+  "bytes": 15419,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ece87fb44b6e8e53d427.html",
+  "markdown": "docs/pages/ece87fb44b6e8e53d427.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emojiURL",
+    "https://core.telegram.org/method/messages.getEmojiURL",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiURL",
+    "https://core.telegram.org/type/string"
+  ]
+}

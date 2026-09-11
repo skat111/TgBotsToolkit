@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputGeoPointEmpty",
+  "final_url": "https://core.telegram.org/constructor/inputGeoPointEmpty",
+  "title": "inputGeoPointEmpty",
+  "fetched_at": "2026-09-11T06:06:22Z",
+  "sha256": "134531d6ed686b287aab5f9351c5ad38d8f62da9f6093136955d83f5d0557998",
+  "bytes": 13853,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/16a52eb898bda38ad5c0.html",
+  "markdown": "docs/pages/16a52eb898bda38ad5c0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputGeoPointEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputGeoPoint"
+  ]
+}

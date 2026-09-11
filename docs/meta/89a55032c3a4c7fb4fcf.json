@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_freeze_state-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_freeze_state-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:13Z",
+  "sha256": "1104865cf1b52ec41b833ae34fd419a0e7505b6b24922ca8f87da59a2bcaa02b",
+  "bytes": 11078,
+  "content_type": "text/html",
+  "raw": "docs/raw/89a55032c3a4c7fb4fcf.html",
+  "markdown": "docs/pages/89a55032c3a4c7fb4fcf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_freeze_state.html"
+  ]
+}

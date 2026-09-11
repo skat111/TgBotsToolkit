@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/contacts.ContactBirthdays",
+  "final_url": "https://core.telegram.org/type/contacts.ContactBirthdays",
+  "title": "contacts.ContactBirthdays",
+  "fetched_at": "2026-09-11T06:17:13Z",
+  "sha256": "4471051c2c471cee6e37d05c28943f272f1c59bedbcb46497ab484d43c3c86c1",
+  "bytes": 15112,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c3f4718ab8cac8f7105b.html",
+  "markdown": "docs/pages/c3f4718ab8cac8f7105b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/contacts.contactBirthdays",
+    "https://core.telegram.org/constructor/user",
+    "https://core.telegram.org/method/contacts.getBirthdays",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ContactBirthday",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.ContactBirthdays"
+  ]
+}

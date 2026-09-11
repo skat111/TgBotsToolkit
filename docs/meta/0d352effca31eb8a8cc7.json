@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/updateReadFeaturedStickers",
+  "final_url": "https://core.telegram.org/constructor/updateReadFeaturedStickers",
+  "title": "updateReadFeaturedStickers",
+  "fetched_at": "2026-09-11T06:08:05Z",
+  "sha256": "af73352517bbdf9fec3ee974d4d3d47c50f0a54172080ebe33829e76634fcb95",
+  "bytes": 13926,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0d352effca31eb8a8cc7.html",
+  "markdown": "docs/pages/0d352effca31eb8a8cc7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateReadFeaturedStickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

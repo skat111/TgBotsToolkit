@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending.html",
+  "title": "TDLib: callStatePending Class Reference",
+  "fetched_at": "2026-09-11T06:13:30Z",
+  "sha256": "dc29561cc06604fc4f74ea3b99fccd84e9d2a213bf977fa6dee25e6b9bd2b510",
+  "bytes": 19045,
+  "content_type": "text/html",
+  "raw": "docs/raw/9a50bd42cac38e64d468.html",
+  "markdown": "docs/pages/9a50bd42cac38e64d468.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

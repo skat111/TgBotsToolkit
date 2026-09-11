@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/account.getContentSettings",
+  "final_url": "https://core.telegram.org/method/account.getContentSettings",
+  "title": "account.getContentSettings",
+  "fetched_at": "2026-09-11T06:08:39Z",
+  "sha256": "f4fd68a3e8a4b667fcfb03ff003a1d958d921cd7e926d39d695d6736ff950e49",
+  "bytes": 14435,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/668716f4b052d90d8ec6.html",
+  "markdown": "docs/pages/668716f4b052d90d8ec6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.contentSettings",
+    "https://core.telegram.org/method/account.getContentSettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/account.ContentSettings"
+  ]
+}

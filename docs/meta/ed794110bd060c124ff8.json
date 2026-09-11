@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/textItalic",
+  "final_url": "https://core.telegram.org/constructor/textItalic",
+  "title": "textItalic",
+  "fetched_at": "2026-09-11T06:07:49Z",
+  "sha256": "efb4b9db2ce230e2b85bab4cf3eb6edc98f2cc80e90a7bac01f9316a6cf986e9",
+  "bytes": 14010,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ed794110bd060c124ff8.html",
+  "markdown": "docs/pages/ed794110bd060c124ff8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textItalic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateDialogUnreadMark",
+  "final_url": "https://core.telegram.org/constructor/updateDialogUnreadMark",
+  "title": "updateDialogUnreadMark",
+  "fetched_at": "2026-09-11T06:07:58Z",
+  "sha256": "68a9c2ecd8cdf06300f5257a223be2ab651d21314ca7ec9875fee3871f4edff8",
+  "bytes": 15493,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a5d413c5a6a8eee98d79.html",
+  "markdown": "docs/pages/a5d413c5a6a8eee98d79.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateDialogUnreadMark",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DialogPeer",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update"
+  ]
+}

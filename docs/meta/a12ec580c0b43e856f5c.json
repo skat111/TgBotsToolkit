@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_is_marked_as_unread-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_is_marked_as_unread-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:03Z",
+  "sha256": "34e0ec78295abafa73593030b24928015995d02dc6f6dcf09892395c38e1719a",
+  "bytes": 11052,
+  "content_type": "text/html",
+  "raw": "docs/raw/a12ec580c0b43e856f5c.html",
+  "markdown": "docs/pages/a12ec580c0b43e856f5c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_is_marked_as_unread.html"
+  ]
+}

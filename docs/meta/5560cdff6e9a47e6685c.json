@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/api/end-to-end%2Fseq_no",
+  "final_url": "https://core.telegram.org/api/end-to-end%2Fseq_no",
+  "title": "Sequence numbers in Secret Chats",
+  "fetched_at": "2026-09-11T06:05:26Z",
+  "sha256": "4b736507fa93a9919424cdb56d64243848be513e90f862586dd33b7e5d8a1657",
+  "bytes": 15447,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5560cdff6e9a47e6685c.html",
+  "markdown": "docs/pages/5560cdff6e9a47e6685c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end",
+    "https://core.telegram.org/api/end-to-end%2Fseq_no",
+    "https://core.telegram.org/constructor/decryptedMessageActionResend",
+    "https://core.telegram.org/constructor/decryptedMessageLayer",
+    "https://core.telegram.org/method/invokeAfterMsgs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

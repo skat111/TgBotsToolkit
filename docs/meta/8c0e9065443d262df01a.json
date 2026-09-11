@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/help.termsOfServiceUpdateEmpty",
+  "final_url": "https://core.telegram.org/constructor/help.termsOfServiceUpdateEmpty",
+  "title": "help.termsOfServiceUpdateEmpty",
+  "fetched_at": "2026-09-11T06:06:11Z",
+  "sha256": "033ba52cacc9b6d99fe72cbc1431364ee0b54b1dc8602e03a1ce92caa357c811",
+  "bytes": 14907,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8c0e9065443d262df01a.html",
+  "markdown": "docs/pages/8c0e9065443d262df01a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.termsOfServiceUpdateEmpty",
+    "https://core.telegram.org/method/help.getTermsOfServiceUpdate",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/help.TermsOfServiceUpdate",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPrivacyKeyNoPaidMessages",
+  "final_url": "https://core.telegram.org/constructor/inputPrivacyKeyNoPaidMessages",
+  "title": "inputPrivacyKeyNoPaidMessages",
+  "fetched_at": "2026-09-11T06:06:31Z",
+  "sha256": "6ad64ed2b4cd4021b7313895ddaa9e5cca9cd2f4f9d7975df40623956e6d772c",
+  "bytes": 14597,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/955a0cd6b7333b957769.html",
+  "markdown": "docs/pages/955a0cd6b7333b957769.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/constructor/inputPrivacyKeyNoPaidMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPrivacyKey"
+  ]
+}

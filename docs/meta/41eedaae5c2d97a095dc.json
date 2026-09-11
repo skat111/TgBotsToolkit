@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/auctionBidLevel",
+  "final_url": "https://core.telegram.org/constructor/auctionBidLevel",
+  "title": "auctionBidLevel",
+  "fetched_at": "2026-09-11T06:05:33Z",
+  "sha256": "b4c71ad9788e52d77cea8f81aec27744b76d9e48c07cf7f5162ec7e0a414ea51",
+  "bytes": 15373,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/41eedaae5c2d97a095dc.html",
+  "markdown": "docs/pages/41eedaae5c2d97a095dc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auctions",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/auctionBidLevel",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AuctionBidLevel",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

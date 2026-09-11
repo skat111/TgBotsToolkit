@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_audio.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_audio.html",
+  "title": "TDLib: linkPreviewTypeAudio Class Reference",
+  "fetched_at": "2026-09-11T06:14:45Z",
+  "sha256": "5b2b360e856a7df31115fa0f1bff2eecbe1678ebd24b95936b20dd3dc521987c",
+  "bytes": 18471,
+  "content_type": "text/html",
+  "raw": "docs/raw/3bdf5f03f41a73793c6e.html",
+  "markdown": "docs/pages/3bdf5f03f41a73793c6e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_link_preview_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1audio.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_audio-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_audio.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

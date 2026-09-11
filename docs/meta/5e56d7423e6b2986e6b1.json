@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateGroupCallConnection",
+  "final_url": "https://core.telegram.org/constructor/updateGroupCallConnection",
+  "title": "updateGroupCallConnection",
+  "fetched_at": "2026-09-11T06:07:59Z",
+  "sha256": "67aa33ecb6234ae19f1669d84ec67601b4061faee6486f9de0b8d0e7467462c2",
+  "bytes": 16539,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5e56d7423e6b2986e6b1.html",
+  "markdown": "docs/pages/5e56d7423e6b2986e6b1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateGroupCallConnection",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/Update"
+  ]
+}

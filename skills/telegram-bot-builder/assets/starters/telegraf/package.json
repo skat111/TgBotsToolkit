@@ -1,0 +1,8 @@
+{
+  "name": "telegram-bot-telegraf-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {"start":"node --env-file=.env src/index.js","check":"node --check src/index.js","test":"node --test"},
+  "dependencies": {"telegraf":"^4.0.0"},
+  "engines": {"node":">=20"}
+}

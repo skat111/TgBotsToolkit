@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_vector_int.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_vector_int.html",
+  "title": "TDLib: testVectorInt Class Reference",
+  "fetched_at": "2026-09-11T06:15:59Z",
+  "sha256": "136477dc46cd640f4b4914407089ffc4a9308c8382898a64632959cbbdc16888",
+  "bytes": 18437,
+  "content_type": "text/html",
+  "raw": "docs/raw/51eef8542f6eaef483c3.html",
+  "markdown": "docs/pages/51eef8542f6eaef483c3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_vector_int-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_vector_int.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

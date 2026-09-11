@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call.html",
+  "title": "TDLib: call Class Reference",
+  "fetched_at": "2026-09-11T06:13:29Z",
+  "sha256": "a8a4ae60206fbe342eb48a3105992b4b2de89e975eae02edab38e72aa3039e7a",
+  "bytes": 23791,
+  "content_type": "text/html",
+  "raw": "docs/raw/f2bdf049ca36be37f122.html",
+  "markdown": "docs/pages/f2bdf049ca36be37f122.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

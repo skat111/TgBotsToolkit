@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_all_draft_messages.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_all_draft_messages.html",
+  "title": "TDLib: clearAllDraftMessages Class Reference",
+  "fetched_at": "2026-09-11T06:13:49Z",
+  "sha256": "9c3afc12b628204aca9362fb00083134c0d06e3250ae064a0c5a81621c23f036",
+  "bytes": 19281,
+  "content_type": "text/html",
+  "raw": "docs/raw/f5f094f25c02dbc0dae5.html",
+  "markdown": "docs/pages/f5f094f25c02dbc0dae5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_all_draft_messages-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_all_draft_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

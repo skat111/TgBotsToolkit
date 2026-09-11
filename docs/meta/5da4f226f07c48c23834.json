@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/emojiStatusEmpty",
+  "final_url": "https://core.telegram.org/constructor/emojiStatusEmpty",
+  "title": "emojiStatusEmpty",
+  "fetched_at": "2026-09-11T06:06:03Z",
+  "sha256": "7ec1ae01eb32c427017bb3a0535674d17b4d09e71b9beca7c4a03e44cc560b01",
+  "bytes": 13816,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5da4f226f07c48c23834.html",
+  "markdown": "docs/pages/5da4f226f07c48c23834.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emojiStatusEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiStatus"
+  ]
+}

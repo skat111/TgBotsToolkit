@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateSavedDialogPinned",
+  "final_url": "https://core.telegram.org/constructor/updateSavedDialogPinned",
+  "title": "updateSavedDialogPinned",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "317bdd64597aea8bd74c9bb7efbc6c32cde208afb148cd069460818008b31abf",
+  "bytes": 15183,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2ee44058afa59be6cd1c.html",
+  "markdown": "docs/pages/2ee44058afa59be6cd1c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateSavedDialogPinned",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DialogPeer",
+    "https://core.telegram.org/type/Update"
+  ]
+}

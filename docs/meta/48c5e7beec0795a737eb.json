@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_part_precision_none.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_part_precision_none.html",
+  "title": "TDLib: dateTimePartPrecisionNone Class Reference",
+  "fetched_at": "2026-09-11T06:13:51Z",
+  "sha256": "1496b823b36d99815430745cac97b3edb9b92bc567bd1171a6a0ad96aabada34",
+  "bytes": 15601,
+  "content_type": "text/html",
+  "raw": "docs/raw/48c5e7beec0795a737eb.html",
+  "markdown": "docs/pages/48c5e7beec0795a737eb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_date_time_part_precision.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_part_precision_none-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_part_precision_none.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

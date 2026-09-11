@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_upgrade_premium.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_upgrade_premium.html",
+  "title": "TDLib: suggestedActionUpgradePremium Class Reference",
+  "fetched_at": "2026-09-11T06:15:55Z",
+  "sha256": "47f6a62c95f13908bd79fed4c694c459a9d679f75fc554890a5cfa6ac61e5b31",
+  "bytes": 15763,
+  "content_type": "text/html",
+  "raw": "docs/raw/896500a4550186b5f964.html",
+  "markdown": "docs/pages/896500a4550186b5f964.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_suggested_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_upgrade_premium-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_upgrade_premium.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

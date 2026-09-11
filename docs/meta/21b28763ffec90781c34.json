@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/InputBotInlineResult",
+  "final_url": "https://core.telegram.org/type/InputBotInlineResult",
+  "title": "InputBotInlineResult",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "76d9f776630f1e1b98d2a4b79a4d8dfd86f6ee53860360297bd8fa624005134f",
+  "bytes": 16042,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/21b28763ffec90781c34.html",
+  "markdown": "docs/pages/21b28763ffec90781c34.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputBotInlineResult",
+    "https://core.telegram.org/constructor/inputBotInlineResultDocument",
+    "https://core.telegram.org/constructor/inputBotInlineResultGame",
+    "https://core.telegram.org/constructor/inputBotInlineResultPhoto",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputBotInlineMessage",
+    "https://core.telegram.org/type/InputBotInlineResult",
+    "https://core.telegram.org/type/InputDocument",
+    "https://core.telegram.org/type/InputPhoto",
+    "https://core.telegram.org/type/InputWebDocument",
+    "https://core.telegram.org/type/string"
+  ]
+}

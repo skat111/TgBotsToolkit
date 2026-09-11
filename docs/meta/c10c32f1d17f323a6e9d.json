@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/todoCompletion",
+  "final_url": "https://core.telegram.org/constructor/todoCompletion",
+  "title": "todoCompletion",
+  "fetched_at": "2026-09-11T06:07:50Z",
+  "sha256": "23fccc5bbdc0b9677140089721773d09935f49265673489b1c3dcc606e641abd",
+  "bytes": 15020,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c10c32f1d17f323a6e9d.html",
+  "markdown": "docs/pages/c10c32f1d17f323a6e9d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/todo",
+    "https://core.telegram.org/constructor/todoCompletion",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/TodoCompletion",
+    "https://core.telegram.org/type/int"
+  ]
+}

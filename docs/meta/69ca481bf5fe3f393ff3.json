@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/VideoSize",
+  "final_url": "https://core.telegram.org/type/VideoSize",
+  "title": "VideoSize",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "972056d1b16dc9c86019ca1d706f5e535d5ec9e2852df67f5dd5a7077240350e",
+  "bytes": 15245,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/69ca481bf5fe3f393ff3.html",
+  "markdown": "docs/pages/69ca481bf5fe3f393ff3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/videoSize",
+    "https://core.telegram.org/constructor/videoSizeEmojiMarkup",
+    "https://core.telegram.org/constructor/videoSizeStickerMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputStickerSet",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/VideoSize",
+    "https://core.telegram.org/type/double",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

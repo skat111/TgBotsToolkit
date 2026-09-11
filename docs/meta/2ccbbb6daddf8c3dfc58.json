@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/phone.joinAsPeers",
+  "final_url": "https://core.telegram.org/constructor/phone.joinAsPeers",
+  "title": "phone.joinAsPeers",
+  "fetched_at": "2026-09-11T06:07:19Z",
+  "sha256": "dbcb3d4487c0283bc9047a1d94d02df433c3cb8a86d0c2b286be82f0922cb336",
+  "bytes": 15476,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2ccbbb6daddf8c3dfc58.html",
+  "markdown": "docs/pages/2ccbbb6daddf8c3dfc58.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phone.joinAsPeers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/phone.JoinAsPeers"
+  ]
+}

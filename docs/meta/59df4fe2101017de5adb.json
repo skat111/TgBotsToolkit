@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.getMultiWallPapers",
+  "final_url": "https://core.telegram.org/method/account.getMultiWallPapers",
+  "title": "account.getMultiWallPapers",
+  "fetched_at": "2026-09-11T06:08:41Z",
+  "sha256": "12cda4bf92457bcc91b32c0f2ac510ac2849c28b47c1f8c6ced59a7ffd384256",
+  "bytes": 15466,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/59df4fe2101017de5adb.html",
+  "markdown": "docs/pages/59df4fe2101017de5adb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/method/account.getMultiWallPapers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputWallPaper",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/WallPaper"
+  ]
+}

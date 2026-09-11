@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/textConcat",
+  "final_url": "https://core.telegram.org/constructor/textConcat",
+  "title": "textConcat",
+  "fetched_at": "2026-09-11T06:07:49Z",
+  "sha256": "d0866c308d107edbd74b225b06e6dc69c0678aba9397e5297ba0e802226b08d3",
+  "bytes": 14161,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fde356fe071bb7b243fc.html",
+  "markdown": "docs/pages/fde356fe071bb7b243fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textConcat",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

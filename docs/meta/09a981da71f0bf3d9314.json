@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_file.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_file.html",
+  "title": "TDLib: InputFile Class Reference",
+  "fetched_at": "2026-09-11T06:12:13Z",
+  "sha256": "8705e4119ef13cc14eb392cd358841595d9aa48751628a032b458ef7b62b236b",
+  "bytes": 12561,
+  "content_type": "text/html",
+  "raw": "docs/raw/09a981da71f0bf3d9314.html",
+  "markdown": "docs/pages/09a981da71f0bf3d9314.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_file-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_file.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_generated.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_id.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_local.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_remote.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

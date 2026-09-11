@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/messages.deleteParticipantReactions",
+  "final_url": "https://core.telegram.org/method/messages.deleteParticipantReactions",
+  "title": "messages.deleteParticipantReactions",
+  "fetched_at": "2026-09-11T06:09:52Z",
+  "sha256": "4798cd97fbdb650b89970c23e6a836605163d29fec8f2db2119df63ebdb7acc6",
+  "bytes": 15618,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9dc8dea47b8a658dced3.html",
+  "markdown": "docs/pages/9dc8dea47b8a658dced3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/method/messages.deleteParticipantReactions",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

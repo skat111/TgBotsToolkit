@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.sentCodeTypeFirebaseSms",
+  "final_url": "https://core.telegram.org/constructor/auth.sentCodeTypeFirebaseSms",
+  "title": "auth.sentCodeTypeFirebaseSms",
+  "fetched_at": "2026-09-11T06:05:35Z",
+  "sha256": "9643028f3154c98f3cfb04facac894c1b4b91acf1f0ee285ec871dd8bcd64e2f",
+  "bytes": 17284,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6096b628df8e18fad25e.html",
+  "markdown": "docs/pages/6096b628df8e18fad25e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.sentCodeTypeFirebaseSms",
+    "https://core.telegram.org/method/auth.resendCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/auth.SentCodeType",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

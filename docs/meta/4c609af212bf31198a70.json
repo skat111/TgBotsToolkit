@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/PollAnswerVoters",
+  "final_url": "https://core.telegram.org/type/PollAnswerVoters",
+  "title": "PollAnswerVoters",
+  "fetched_at": "2026-09-11T06:17:06Z",
+  "sha256": "78ae650312ddae85fe4b4e1fa6212a735686fa97b4d62dc20db1e192c6560987",
+  "bytes": 14077,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4c609af212bf31198a70.html",
+  "markdown": "docs/pages/4c609af212bf31198a70.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/pollAnswerVoters",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PollAnswerVoters",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

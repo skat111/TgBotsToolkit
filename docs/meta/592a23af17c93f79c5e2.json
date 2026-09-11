@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/account.Password",
+  "final_url": "https://core.telegram.org/type/account.Password",
+  "title": "account.Password",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "b4d333411f801a09fa199fbf4db0338d75d76d7e5f1761e72e585904c8dfecfb",
+  "bytes": 15207,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/592a23af17c93f79c5e2.html",
+  "markdown": "docs/pages/592a23af17c93f79c5e2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.password",
+    "https://core.telegram.org/method/account.getPassword",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PasswordKdfAlgo",
+    "https://core.telegram.org/type/SecurePasswordKdfAlgo",
+    "https://core.telegram.org/type/account.Password",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

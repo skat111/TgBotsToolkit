@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/phone.saveCallDebug",
+  "final_url": "https://core.telegram.org/method/phone.saveCallDebug",
+  "title": "phone.saveCallDebug",
+  "fetched_at": "2026-09-11T06:11:11Z",
+  "sha256": "0e7cc620596082c882d2eda2d304e6b9cc16fce41ec2af2f5a02777d76694fd7",
+  "bytes": 15636,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dcf3004c27077d39a318.html",
+  "markdown": "docs/pages/dcf3004c27077d39a318.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/phone.saveCallDebug",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputPhoneCall"
+  ]
+}

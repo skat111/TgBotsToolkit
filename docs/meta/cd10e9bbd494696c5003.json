@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_quick_reply_shortcut_deleted-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_quick_reply_shortcut_deleted-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:17Z",
+  "sha256": "35fe4a56acc000aedc691957a39c775be6873b495a9e8fd66b38f9cdb9ae3484",
+  "bytes": 10494,
+  "content_type": "text/html",
+  "raw": "docs/raw/cd10e9bbd494696c5003.html",
+  "markdown": "docs/pages/cd10e9bbd494696c5003.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_quick_reply_shortcut_deleted.html"
+  ]
+}

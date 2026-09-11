@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_poll_type-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_poll_type-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:16Z",
+  "sha256": "57ee45a40a1aa9cbbaa33bbb6fc2bbf33dcfcecb98f93f36234294544478c134",
+  "bytes": 9044,
+  "content_type": "text/html",
+  "raw": "docs/raw/7ad7fc215b1215a3c5cd.html",
+  "markdown": "docs/pages/7ad7fc215b1215a3c5cd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_poll_type.html"
+  ]
+}

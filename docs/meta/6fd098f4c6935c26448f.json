@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/messages.AvailableReactions",
+  "final_url": "https://core.telegram.org/type/messages.AvailableReactions",
+  "title": "messages.AvailableReactions",
+  "fetched_at": "2026-09-11T06:17:15Z",
+  "sha256": "a46807aed169314643b822b800a684da92897fb4b3206e1b511e669ceb64a03a",
+  "bytes": 15805,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6fd098f4c6935c26448f.html",
+  "markdown": "docs/pages/6fd098f4c6935c26448f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/messages.availableReactions",
+    "https://core.telegram.org/constructor/messages.availableReactionsNotModified",
+    "https://core.telegram.org/method/messages.getAvailableReactions",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AvailableReaction",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AvailableReactions"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_regular.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_regular.html",
+  "title": "TDLib: paidReactionTypeRegular Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "9022969e21a7b99e893b4d81e491d629edaa0a3ce1348903174e4e89f503c08a",
+  "bytes": 15597,
+  "content_type": "text/html",
+  "raw": "docs/raw/df94ccc4e8b9a62245fc.html",
+  "markdown": "docs/pages/df94ccc4e8b9a62245fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_paid_reaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_regular-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reaction_type_regular.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

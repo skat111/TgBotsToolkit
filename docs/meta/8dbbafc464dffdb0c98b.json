@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPeerPhotoFileLocation",
+  "final_url": "https://core.telegram.org/constructor/inputPeerPhotoFileLocation",
+  "title": "inputPeerPhotoFileLocation",
+  "fetched_at": "2026-09-11T06:06:30Z",
+  "sha256": "e7a5e814b160fc725162687257ad7b48e71d93df28b40b89f1e98449d5087f5d",
+  "bytes": 15018,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8dbbafc464dffdb0c98b.html",
+  "markdown": "docs/pages/8dbbafc464dffdb0c98b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPeerPhotoFileLocation",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputFileLocation",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/phoneCallWaiting",
+  "final_url": "https://core.telegram.org/constructor/phoneCallWaiting",
+  "title": "phoneCallWaiting",
+  "fetched_at": "2026-09-11T06:07:20Z",
+  "sha256": "efae04c17a70594a1636560c8ac1efeba4868321fd9a48ae1e0c7c8e7233b271",
+  "bytes": 16262,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fa45e862fb67e66d4057.html",
+  "markdown": "docs/pages/fa45e862fb67e66d4057.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phoneCallWaiting",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PhoneCall",
+    "https://core.telegram.org/type/PhoneCallProtocol",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/messageMediaGiveaway",
+  "final_url": "https://core.telegram.org/constructor/messageMediaGiveaway",
+  "title": "messageMediaGiveaway",
+  "fetched_at": "2026-09-11T06:06:54Z",
+  "sha256": "c4efa4779406bd88d72475570974001cb8cec2cc258b90ca90ed1ba681285ca2",
+  "bytes": 19070,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/69e9ce81aed504b75562.html",
+  "markdown": "docs/pages/69e9ce81aed504b75562.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/messageMediaGiveaway",
+    "https://core.telegram.org/constructor/messageMediaGiveawayResults",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageMedia",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

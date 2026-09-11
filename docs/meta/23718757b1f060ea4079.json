@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1point.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1point.html",
+  "title": "TDLib: point Class Reference",
+  "fetched_at": "2026-09-11T06:15:08Z",
+  "sha256": "962c2cf6b6392c7df04272f52f83bdc0373c15509369221665f8d0e773c912d0",
+  "bytes": 18521,
+  "content_type": "text/html",
+  "raw": "docs/raw/23718757b1f060ea4079.html",
+  "markdown": "docs/pages/23718757b1f060ea4079.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1point-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1point.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

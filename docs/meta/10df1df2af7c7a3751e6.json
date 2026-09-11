@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/attachMenuBot",
+  "final_url": "https://core.telegram.org/constructor/attachMenuBot",
+  "title": "attachMenuBot",
+  "fetched_at": "2026-09-11T06:05:32Z",
+  "sha256": "7af8bd7d824497315871832d96936cc48fa9fe5a14fbc983c5a5a20f401183d1",
+  "bytes": 19106,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/10df1df2af7c7a3751e6.html",
+  "markdown": "docs/pages/10df1df2af7c7a3751e6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/attach",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/attachMenuBot",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.toggleBotInAttachMenu",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/AttachMenuBot",
+    "https://core.telegram.org/type/AttachMenuBotIcon",
+    "https://core.telegram.org/type/AttachMenuPeerType",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

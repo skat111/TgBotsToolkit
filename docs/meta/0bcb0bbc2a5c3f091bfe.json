@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.updateBusinessIntro",
+  "final_url": "https://core.telegram.org/method/account.updateBusinessIntro",
+  "title": "account.updateBusinessIntro",
+  "fetched_at": "2026-09-11T06:08:56Z",
+  "sha256": "7ab1a87e356e12a3b855d020fd8d8adc831ece017766e20e93f290e8d9a8465d",
+  "bytes": 15651,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0bcb0bbc2a5c3f091bfe.html",
+  "markdown": "docs/pages/0bcb0bbc2a5c3f091bfe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.updateBusinessIntro",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputBusinessIntro"
+  ]
+}

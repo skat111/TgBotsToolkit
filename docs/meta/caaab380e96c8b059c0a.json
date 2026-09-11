@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/BusinessWorkHours",
+  "final_url": "https://core.telegram.org/type/BusinessWorkHours",
+  "title": "BusinessWorkHours",
+  "fetched_at": "2026-09-11T06:16:25Z",
+  "sha256": "3f7d9d2790b027a43c7b328cf79007af1b1c224ed2c4187a076abd2177c9e1d7",
+  "bytes": 14820,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/caaab380e96c8b059c0a.html",
+  "markdown": "docs/pages/caaab380e96c8b059c0a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessWorkHours",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessWeeklyOpen",
+    "https://core.telegram.org/type/BusinessWorkHours",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

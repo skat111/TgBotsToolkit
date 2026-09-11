@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/storage.FileType",
+  "final_url": "https://core.telegram.org/type/storage.FileType",
+  "title": "storage.FileType",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "677ea66eb58f7e834e82ad31220b6850c675f5bf819013c1207ce59b34f2ab97",
+  "bytes": 16525,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7011e0cdb63fc7369a29.html",
+  "markdown": "docs/pages/7011e0cdb63fc7369a29.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/storage.fileGif",
+    "https://core.telegram.org/constructor/storage.fileJpeg",
+    "https://core.telegram.org/constructor/storage.fileMov",
+    "https://core.telegram.org/constructor/storage.fileMp3",
+    "https://core.telegram.org/constructor/storage.fileMp4",
+    "https://core.telegram.org/constructor/storage.filePartial",
+    "https://core.telegram.org/constructor/storage.filePdf",
+    "https://core.telegram.org/constructor/storage.filePng",
+    "https://core.telegram.org/constructor/storage.fileUnknown",
+    "https://core.telegram.org/constructor/storage.fileWebp",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/storage.FileType"
+  ]
+}

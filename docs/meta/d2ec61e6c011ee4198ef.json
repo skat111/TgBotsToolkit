@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_button_style.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_button_style.html",
+  "title": "TDLib: ButtonStyle Class Reference",
+  "fetched_at": "2026-09-11T06:11:59Z",
+  "sha256": "a415d9d9dcbd15d18a713f1c7b2bf5b7221e341b67127ef8d87af94d065d8e29",
+  "bytes": 12608,
+  "content_type": "text/html",
+  "raw": "docs/raw/d2ec61e6c011ee4198ef.html",
+  "markdown": "docs/pages/d2ec61e6c011ee4198ef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_button_style-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_button_style.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1button_style_danger.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1button_style_default.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1button_style_primary.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1button_style_success.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMediaStakeDice",
+  "final_url": "https://core.telegram.org/constructor/inputMediaStakeDice",
+  "title": "inputMediaStakeDice",
+  "fetched_at": "2026-09-11T06:06:25Z",
+  "sha256": "627204a8a8f852fef945a6ddf705e73fba323b3d1c875e31bba62b87bd320061",
+  "bytes": 14457,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c321ea9014ba2a453812.html",
+  "markdown": "docs/pages/c321ea9014ba2a453812.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputMediaStakeDice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

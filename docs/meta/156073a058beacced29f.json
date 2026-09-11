@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/businessWeeklyOpen",
+  "final_url": "https://core.telegram.org/constructor/businessWeeklyOpen",
+  "title": "businessWeeklyOpen",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "080a3c720a2c82c5b07dc3c8410c9e1a0259cde36dda602553b235bc12881092",
+  "bytes": 15678,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/156073a058beacced29f.html",
+  "markdown": "docs/pages/156073a058beacced29f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessWeeklyOpen",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BusinessWeeklyOpen",
+    "https://core.telegram.org/type/int"
+  ]
+}

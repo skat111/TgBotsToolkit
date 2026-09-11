@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-tl",
+  "final_url": "https://core.telegram.org/mtproto/TL-tl",
+  "title": "﻿TL schema for serialization of TL schemas",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "9e06197c16d71a3a4fc902c7140f4b2029a7aa35b2db6f189dcb0c549877ea3d",
+  "bytes": 22040,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9cd9b37b0eae186fd0f9.html",
+  "markdown": "docs/pages/9cd9b37b0eae186fd0f9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-tl",
+    "https://core.telegram.org/schema"
+  ]
+}

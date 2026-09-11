@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/AiComposeToneExample",
+  "final_url": "https://core.telegram.org/type/AiComposeToneExample",
+  "title": "AiComposeToneExample",
+  "fetched_at": "2026-09-11T06:11:50Z",
+  "sha256": "9b52579d596ef65b997e6f5baed94e90caa3db3f880c388409e58c0c209a9880",
+  "bytes": 15087,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6a35d5652fc9ab77cf00.html",
+  "markdown": "docs/pages/6a35d5652fc9ab77cf00.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/aiComposeToneExample",
+    "https://core.telegram.org/method/aicompose.getToneExample",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AiComposeToneExample"
+  ]
+}

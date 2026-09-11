@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonCallback",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonCallback",
+  "title": "keyboardButtonCallback",
+  "fetched_at": "2026-09-11T06:06:41Z",
+  "sha256": "386c74affc9298cf218c4d0e5410732837768207f4d15570e1b567d82f1d5f71",
+  "bytes": 17260,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/30192bc4bc5d953d15a3.html",
+  "markdown": "docs/pages/30192bc4bc5d953d15a3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/keyboardButtonCallback",
+    "https://core.telegram.org/constructor/replyInlineMarkup",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.getBotCallbackAnswer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

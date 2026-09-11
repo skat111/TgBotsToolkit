@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/payments.StarsRevenueWithdrawalUrl",
+  "final_url": "https://core.telegram.org/type/payments.StarsRevenueWithdrawalUrl",
+  "title": "payments.StarsRevenueWithdrawalUrl",
+  "fetched_at": "2026-09-11T06:17:18Z",
+  "sha256": "d09eae9015909999817cc1e28b6af8813311fa12fa72055de4b6c558a4141f44",
+  "bytes": 15759,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c30a67e4c90637d3b8a0.html",
+  "markdown": "docs/pages/c30a67e4c90637d3b8a0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/payments.starsRevenueWithdrawalUrl",
+    "https://core.telegram.org/method/payments.getStarsRevenueWithdrawalUrl",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.StarsRevenueWithdrawalUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

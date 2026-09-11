@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1_client.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1_client.html",
+  "title": "TDLib: Client Class Reference",
+  "fetched_at": "2026-09-11T06:11:47Z",
+  "sha256": "473a08663b293ad0831163a6c98fe927db3e8ea555c44684ca1e940e2775c642",
+  "bytes": 20104,
+  "content_type": "text/html",
+  "raw": "docs/raw/cbfca17ade86a4f380b8.html",
+  "markdown": "docs/pages/cbfca17ade86a4f380b8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_client_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_response.html"
+  ]
+}

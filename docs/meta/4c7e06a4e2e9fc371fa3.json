@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/channels.deactivateAllUsernames",
+  "final_url": "https://core.telegram.org/method/channels.deactivateAllUsernames",
+  "title": "channels.deactivateAllUsernames",
+  "fetched_at": "2026-09-11T06:09:20Z",
+  "sha256": "b663a5c1b2cddfd23ac04a173616e1265dab6badffd462f44049d26d27bbff13",
+  "bytes": 15072,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4c7e06a4e2e9fc371fa3.html",
+  "markdown": "docs/pages/4c7e06a4e2e9fc371fa3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/channels.deactivateAllUsernames",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChannel"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_google_play-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_google_play-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:54Z",
+  "sha256": "efe062ff57aabca87c0752b71fef0e89f7f4cab55bfbdb9e57e0c52a97b3c923",
+  "bytes": 11097,
+  "content_type": "text/html",
+  "raw": "docs/raw/d2fa7966f6389b9c90c4.html",
+  "markdown": "docs/pages/d2fa7966f6389b9c90c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_google_play.html"
+  ]
+}

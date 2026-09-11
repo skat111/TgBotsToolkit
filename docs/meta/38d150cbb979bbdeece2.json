@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.unregisterDevice",
+  "final_url": "https://core.telegram.org/method/account.unregisterDevice",
+  "title": "account.unregisterDevice",
+  "fetched_at": "2026-09-11T06:08:55Z",
+  "sha256": "fd1a8e1416154094799c6269ca37cb5d8029bd1c5aedbe0df7bffe18605c2649",
+  "bytes": 16146,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/38d150cbb979bbdeece2.html",
+  "markdown": "docs/pages/38d150cbb979bbdeece2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/push-updates",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.unregisterDevice",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

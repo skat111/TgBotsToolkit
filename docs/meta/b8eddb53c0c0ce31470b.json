@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_source_public_service_announcement.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_source_public_service_announcement.html",
+  "title": "TDLib: chatSourcePublicServiceAnnouncement Class Reference",
+  "fetched_at": "2026-09-11T06:13:46Z",
+  "sha256": "fbc3710ba8637ce5854a7d9a2ada6cd31fce1e25c514d43df97e0774457f5d72",
+  "bytes": 19784,
+  "content_type": "text/html",
+  "raw": "docs/raw/b8eddb53c0c0ce31470b.html",
+  "markdown": "docs/pages/b8eddb53c0c0ce31470b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_source_public_service_announcement-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_source_public_service_announcement.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

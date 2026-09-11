@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_list_chat_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_list_chat_count.html",
+  "title": "TDLib: updateStoryListChatCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:17Z",
+  "sha256": "edbc83fe709584fd8296d3ad1064791722d88066d8f093247d99291af6e0f03e",
+  "bytes": 19860,
+  "content_type": "text/html",
+  "raw": "docs/raw/2254192ac6be3cb974e7.html",
+  "markdown": "docs/pages/2254192ac6be3cb974e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_list_chat_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_list_chat_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

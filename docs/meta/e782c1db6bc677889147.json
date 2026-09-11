@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantLeave",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantLeave",
+  "title": "channelAdminLogEventActionParticipantLeave",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "40c1417a5a27497540c84fa3b08717fd7718bed35f2ea6db08b0ead681df6e5c",
+  "bytes": 14324,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e782c1db6bc677889147.html",
+  "markdown": "docs/pages/e782c1db6bc677889147.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantLeave",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction"
+  ]
+}

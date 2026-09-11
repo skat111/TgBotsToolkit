@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/reactionCount",
+  "final_url": "https://core.telegram.org/constructor/reactionCount",
+  "title": "reactionCount",
+  "fetched_at": "2026-09-11T06:07:28Z",
+  "sha256": "da7f12c436fe2365e161057f9f557a39ce8091bbf6459b196855014d5b99db7e",
+  "bytes": 14902,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/38a2c4ab79f8748906fb.html",
+  "markdown": "docs/pages/38a2c4ab79f8748906fb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/reactionCount",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Reaction",
+    "https://core.telegram.org/type/ReactionCount",
+    "https://core.telegram.org/type/int"
+  ]
+}

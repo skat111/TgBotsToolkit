@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_elements_with_errors.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_elements_with_errors.html",
+  "title": "TDLib: passportElementsWithErrors Class Reference",
+  "fetched_at": "2026-09-11T06:15:06Z",
+  "sha256": "e0c36aa63825a03026cb318106dc43c75ace7df44731da98d0a8e6bc154bb978",
+  "bytes": 20891,
+  "content_type": "text/html",
+  "raw": "docs/raw/5575447fb55164fa4d6e.html",
+  "markdown": "docs/pages/5575447fb55164fa4d6e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_error.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_elements_with_errors-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_elements_with_errors.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

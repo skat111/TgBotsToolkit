@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/FactCheck",
+  "final_url": "https://core.telegram.org/type/FactCheck",
+  "title": "FactCheck",
+  "fetched_at": "2026-09-11T06:17:00Z",
+  "sha256": "d6458048f41f558e45161816c52310470bc5b88c41f985aa65f06073caa6a38f",
+  "bytes": 14618,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9e4a45b4b4f2e9fbcc81.html",
+  "markdown": "docs/pages/9e4a45b4b4f2e9fbcc81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/factcheck",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/factCheck",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/FactCheck",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

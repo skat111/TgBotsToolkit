@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/updates.getState",
+  "final_url": "https://core.telegram.org/method/updates.getState",
+  "title": "updates.getState",
+  "fetched_at": "2026-09-11T06:11:36Z",
+  "sha256": "8a452a41b6046aec7dff8c81d7ecd0521381d36e85307a69b7e427d39e1821eb",
+  "bytes": 14417,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/56344850c0d325e3dd9d.html",
+  "markdown": "docs/pages/56344850c0d325e3dd9d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updates.state",
+    "https://core.telegram.org/method/updates.getState",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/updates.State"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonRequestGeoLocation",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonRequestGeoLocation",
+  "title": "keyboardButtonRequestGeoLocation",
+  "fetched_at": "2026-09-11T06:06:41Z",
+  "sha256": "8db9d1a1f50f51154247f981f0ba1064e2597ded4edffb26a50e714eb71bbbce",
+  "bytes": 15890,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7c7a442ac0d43ded848f.html",
+  "markdown": "docs/pages/7c7a442ac0d43ded848f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonRequestGeoLocation",
+    "https://core.telegram.org/constructor/replyKeyboardMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/string"
+  ]
+}

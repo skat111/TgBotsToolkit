@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/InputPhoneCall",
+  "final_url": "https://core.telegram.org/type/InputPhoneCall",
+  "title": "InputPhoneCall",
+  "fetched_at": "2026-09-11T06:17:03Z",
+  "sha256": "564f91f6668775d4f2bc20ad77ad9ffeb8d0761f95b9d2e96c746fac9d935609",
+  "bytes": 13901,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/66ec6b9d2d428ff86730.html",
+  "markdown": "docs/pages/66ec6b9d2d428ff86730.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPhoneCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPhoneCall",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_query_result_animation.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_query_result_animation.html",
+  "title": "TDLib: inlineQueryResultAnimation Class Reference",
+  "fetched_at": "2026-09-11T06:14:30Z",
+  "sha256": "7cd4dd1a21f3d633b0cdf8954402b0384adaa3cff618d6906ca98edb04ef5ebb",
+  "bytes": 21064,
+  "content_type": "text/html",
+  "raw": "docs/raw/4c90c06db2ef792a5d86.html",
+  "markdown": "docs/pages/4c90c06db2ef792a5d86.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_inline_query_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1animation.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_query_result_animation-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_query_result_animation.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

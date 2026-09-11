@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_group_call_recording.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_group_call_recording.html",
+  "title": "TDLib: startGroupCallRecording Class Reference",
+  "fetched_at": "2026-09-11T06:15:49Z",
+  "sha256": "a76a6f5a520824301cc033b1859df9ceafcf8c254724768b9db4a517b3bd95b5",
+  "bytes": 23186,
+  "content_type": "text/html",
+  "raw": "docs/raw/ac2033c5343537a45d49.html",
+  "markdown": "docs/pages/ac2033c5343537a45d49.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_group_call_recording-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1start_group_call_recording.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

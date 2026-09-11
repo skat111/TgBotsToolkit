@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/DialogFilter",
+  "final_url": "https://core.telegram.org/type/DialogFilter",
+  "title": "DialogFilter",
+  "fetched_at": "2026-09-11T06:16:57Z",
+  "sha256": "fb3806df581355bdb15f2b3e5a7f1c544484a592ac6a119eb45db52ebe57f5b4",
+  "bytes": 16263,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/56fde8839434ab728b4d.html",
+  "markdown": "docs/pages/56fde8839434ab728b4d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/dialogFilter",
+    "https://core.telegram.org/constructor/dialogFilterChatlist",
+    "https://core.telegram.org/constructor/dialogFilterDefault",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DialogFilter",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

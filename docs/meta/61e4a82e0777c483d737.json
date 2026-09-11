@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/reactionsNotifySettings",
+  "final_url": "https://core.telegram.org/constructor/reactionsNotifySettings",
+  "title": "reactionsNotifySettings",
+  "fetched_at": "2026-09-11T06:07:28Z",
+  "sha256": "c24ff4007968fc95a71b2e267e5cbd95bee9ea686056490cda31264a04f088c6",
+  "bytes": 17773,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/61e4a82e0777c483d737.html",
+  "markdown": "docs/pages/61e4a82e0777c483d737.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/api/push-updates",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/api/ringtones",
+    "https://core.telegram.org/constructor/reactionsNotifySettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/NotificationSound",
+    "https://core.telegram.org/type/ReactionNotificationsFrom",
+    "https://core.telegram.org/type/ReactionsNotifySettings"
+  ]
+}

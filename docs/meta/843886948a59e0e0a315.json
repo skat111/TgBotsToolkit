@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/bots.answerWebhookJSONQuery",
+  "final_url": "https://core.telegram.org/method/bots.answerWebhookJSONQuery",
+  "title": "bots.answerWebhookJSONQuery",
+  "fetched_at": "2026-09-11T06:09:09Z",
+  "sha256": "78fc49f9875f39a1c0ff13448915994894372381f0c946675b26193fc1897544",
+  "bytes": 15351,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/843886948a59e0e0a315.html",
+  "markdown": "docs/pages/843886948a59e0e0a315.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/bots.answerWebhookJSONQuery",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/long"
+  ]
+}

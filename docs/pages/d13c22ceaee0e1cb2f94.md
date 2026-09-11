@@ -1,0 +1,26 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article-members.html
+
+This is the complete list of members for [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [author\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a1a43939226448d9f70ce934a25d926de) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [description\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a2ede4e2e992f532781b20e6023f35d95) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) | static |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a1249e02ea69541264593d30b35a21ddf)() | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#ab59c11ae2f799e32965fe7c5cf869240)(string const &url\_, string const &title\_, string const &description\_, object\_ptr< photo > &&photo\_, string const &author\_, int32 publish\_date\_) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [photo\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a5d6612801828f3aa6c4fd52b34cf17ca) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [publish\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a0eb211f579ee7c2064d180ae54bd985d) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) | virtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [title\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#ae49b8c94dab3e85761dd65876260deb9) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [url\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html#a541e0f072a74af71d6978eea722fc5fe) | [pageBlockRelatedArticle](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

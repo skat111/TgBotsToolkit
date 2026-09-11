@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.paymentReceiptStars",
+  "final_url": "https://core.telegram.org/constructor/payments.paymentReceiptStars",
+  "title": "payments.paymentReceiptStars",
+  "fetched_at": "2026-09-11T06:07:13Z",
+  "sha256": "6f3ff0bb48e0d6f639275e26079f0c4d10eeae5bc8fb90dd4410325a405d5ee5",
+  "bytes": 16967,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8b6f2d793c8dc866c422.html",
+  "markdown": "docs/pages/8b6f2d793c8dc866c422.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/payments.paymentReceiptStars",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Invoice",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/WebDocument",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.PaymentReceipt",
+    "https://core.telegram.org/type/string"
+  ]
+}

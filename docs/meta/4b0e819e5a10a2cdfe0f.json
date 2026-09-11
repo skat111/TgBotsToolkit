@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_source_giveaway-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_source_giveaway-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:42Z",
+  "sha256": "744c586e2434394b10205e6b98b6aa66c325710b1580dc3fcb9669a71427b486",
+  "bytes": 11641,
+  "content_type": "text/html",
+  "raw": "docs/raw/4b0e819e5a10a2cdfe0f.html",
+  "markdown": "docs/pages/4b0e819e5a10a2cdfe0f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost_source_giveaway.html"
+  ]
+}

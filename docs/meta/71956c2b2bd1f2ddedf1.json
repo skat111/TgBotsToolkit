@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/sendMessageCancelAction",
+  "final_url": "https://core.telegram.org/constructor/sendMessageCancelAction",
+  "title": "sendMessageCancelAction",
+  "fetched_at": "2026-09-11T06:07:35Z",
+  "sha256": "11d7a8becec132b648168c2b4a3fc6580fe5f99091c33a52f84ed22c3e069a75",
+  "bytes": 14656,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/71956c2b2bd1f2ddedf1.html",
+  "markdown": "docs/pages/71956c2b2bd1f2ddedf1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendMessageCancelAction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/type/SendMessageAction"
+  ]
+}

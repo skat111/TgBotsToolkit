@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/messages.PreparedInlineMessage",
+  "final_url": "https://core.telegram.org/type/messages.PreparedInlineMessage",
+  "title": "Messages.PreparedInlineMessage",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "93163d3aba20ef5afd2a53bf03281b945c76e79570ff5958ccbeeac616a0659d",
+  "bytes": 16156,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/81eb37ce7e5fae735c96.html",
+  "markdown": "docs/pages/81eb37ce7e5fae735c96.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/inline",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/web-events",
+    "https://core.telegram.org/constructor/messages.preparedInlineMessage",
+    "https://core.telegram.org/method/messages.getPreparedInlineMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotInlineResult",
+    "https://core.telegram.org/type/InlineQueryPeerType",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.PreparedInlineMessage",
+    "https://core.telegram.org/type/string"
+  ]
+}

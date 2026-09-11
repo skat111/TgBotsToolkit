@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/profileTabLinks",
+  "final_url": "https://core.telegram.org/constructor/profileTabLinks",
+  "title": "profileTabLinks",
+  "fetched_at": "2026-09-11T06:07:27Z",
+  "sha256": "688a804fab0a6394bf53553dd082beceabddedc1519e18a279ea0cb388968c66",
+  "bytes": 14042,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1e3bc354c1f25c77264b.html",
+  "markdown": "docs/pages/1e3bc354c1f25c77264b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/profileTabLinks",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_other.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_other.html",
+  "title": "TDLib: paymentProviderOther Class Reference",
+  "fetched_at": "2026-09-11T06:15:08Z",
+  "sha256": "27169e07add70903e30f1f5efd3b3ba78ab4326f31d1741b51d2ef846711731a",
+  "bytes": 18337,
+  "content_type": "text/html",
+  "raw": "docs/raw/5e0c2615e5a8d7127711.html",
+  "markdown": "docs/pages/5e0c2615e5a8d7127711.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_payment_provider.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_other-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_other.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

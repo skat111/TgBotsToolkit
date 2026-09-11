@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPaymentSent",
+  "final_url": "https://core.telegram.org/constructor/messageActionPaymentSent",
+  "title": "messageActionPaymentSent",
+  "fetched_at": "2026-09-11T06:06:48Z",
+  "sha256": "29ae0f1b1c3663f1fef629f71f5e38e3e7f0273d6884cc2ceed9435dd2f6ff2b",
+  "bytes": 17755,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8f6e12cfba3333086aa8.html",
+  "markdown": "docs/pages/8f6e12cfba3333086aa8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/messageActionPaymentSent",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

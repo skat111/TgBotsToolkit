@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:25Z",
+  "sha256": "7186924b0d5b946f9e906d5b602a580b8a6cfda99d9870f1bb38b85b4a935acd",
+  "bytes": 11699,
+  "content_type": "text/html",
+  "raw": "docs/raw/51a13db8d73abd8d8b3c.html",
+  "markdown": "docs/pages/51a13db8d73abd8d8b3c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html"
+  ]
+}

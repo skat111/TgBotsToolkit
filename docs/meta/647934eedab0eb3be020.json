@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueErrorReverseSide",
+  "final_url": "https://core.telegram.org/constructor/secureValueErrorReverseSide",
+  "title": "secureValueErrorReverseSide",
+  "fetched_at": "2026-09-11T06:07:33Z",
+  "sha256": "ab961ea4ac4d9ac7362a753d8cbe3c6695795d449e103d575d9767a868292978",
+  "bytes": 15786,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/647934eedab0eb3be020.html",
+  "markdown": "docs/pages/647934eedab0eb3be020.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueErrorReverseSide",
+    "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+    "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/storage.filePdf",
+  "final_url": "https://core.telegram.org/constructor/storage.filePdf",
+  "title": "storage.filePdf",
+  "fetched_at": "2026-09-11T06:07:45Z",
+  "sha256": "dcbf58c4a23c00146a659f1256ee0ab025f520e4576e265d9916523c4a0166a9",
+  "bytes": 13917,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/214d9a8923b9346812c6.html",
+  "markdown": "docs/pages/214d9a8923b9346812c6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/storage.filePdf",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/storage.FileType"
+  ]
+}

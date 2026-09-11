@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/method/messages.getSplitRanges",
+  "final_url": "https://core.telegram.org/method/messages.getSplitRanges",
+  "title": "messages.getSplitRanges",
+  "fetched_at": "2026-09-11T06:10:17Z",
+  "sha256": "288362a867987b189447bfbf731079c601a68a80cb72974e6ae7ae6e0582c54a",
+  "bytes": 14281,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1df16a9f3e6a68db1236.html",
+  "markdown": "docs/pages/1df16a9f3e6a68db1236.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/messages.getSplitRanges",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageRange",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

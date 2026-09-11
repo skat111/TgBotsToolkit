@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotEditBusinessMessage",
+  "final_url": "https://core.telegram.org/constructor/updateBotEditBusinessMessage",
+  "title": "updateBotEditBusinessMessage",
+  "fetched_at": "2026-09-11T06:07:53Z",
+  "sha256": "6179dcd927b094c82137d27fcf40f56c892e6bebf2817ca955d63823049d91e0",
+  "bytes": 16123,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b92b51b8e0e89aa3f68d.html",
+  "markdown": "docs/pages/b92b51b8e0e89aa3f68d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotEditBusinessMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

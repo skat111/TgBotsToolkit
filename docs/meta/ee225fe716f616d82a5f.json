@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html",
+  "title": "TDLib: pageBlockRelatedArticle Class Reference",
+  "fetched_at": "2026-09-11T06:15:01Z",
+  "sha256": "14d115d5e5ca1bc3f30855ea363fd55eae13dff8e841b6c0b9702bb436c44080",
+  "bytes": 24992,
+  "content_type": "text/html",
+  "raw": "docs/raw/ee225fe716f616d82a5f.html",
+  "markdown": "docs/pages/ee225fe716f616d82a5f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_related_article.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1photo.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

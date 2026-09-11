@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/peerBlocked",
+  "final_url": "https://core.telegram.org/constructor/peerBlocked",
+  "title": "peerBlocked",
+  "fetched_at": "2026-09-11T06:07:16Z",
+  "sha256": "dd089548821dc03199ff8a6b0e0dcb5f97c1bd6691f089884fffa8fed4a24e6e",
+  "bytes": 14253,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4e50ccbac22956b5d8cc.html",
+  "markdown": "docs/pages/4e50ccbac22956b5d8cc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/peerBlocked",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PeerBlocked",
+    "https://core.telegram.org/type/int"
+  ]
+}

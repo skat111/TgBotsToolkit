@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_storage_statistics_fast.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_storage_statistics_fast.html",
+  "title": "TDLib: getStorageStatisticsFast Class Reference",
+  "fetched_at": "2026-09-11T06:14:21Z",
+  "sha256": "8c4af26574fc1175ba551a4d991abe49e91d1b9679437983376c53bf83d77fd4",
+  "bytes": 16845,
+  "content_type": "text/html",
+  "raw": "docs/raw/909f562b38f0ad92cf34.html",
+  "markdown": "docs/pages/909f562b38f0ad92cf34.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_storage_statistics_fast-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_storage_statistics_fast.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1storage_statistics_fast.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

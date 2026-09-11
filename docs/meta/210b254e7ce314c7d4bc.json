@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/paymentCharge",
+  "final_url": "https://core.telegram.org/constructor/paymentCharge",
+  "title": "paymentCharge",
+  "fetched_at": "2026-09-11T06:07:12Z",
+  "sha256": "966918c36673231b9cf0bb26a97cb8ab38835e03935986d89479ee48bd8d683d",
+  "bytes": 14293,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/210b254e7ce314c7d4bc.html",
+  "markdown": "docs/pages/210b254e7ce314c7d4bc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/paymentCharge",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PaymentCharge",
+    "https://core.telegram.org/type/string"
+  ]
+}

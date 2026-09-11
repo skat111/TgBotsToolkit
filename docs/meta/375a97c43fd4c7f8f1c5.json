@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_supergroup_full_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_supergroup_full_info.html",
+  "title": "TDLib: getSupergroupFullInfo Class Reference",
+  "fetched_at": "2026-09-11T06:14:22Z",
+  "sha256": "6bcd79bb84e20ed90a4c3e73301696138a4db4bcde174223c4196899b55f5e6f",
+  "bytes": 19721,
+  "content_type": "text/html",
+  "raw": "docs/raw/375a97c43fd4c7f8f1c5.html",
+  "markdown": "docs/pages/375a97c43fd4c7f8f1c5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_supergroup_full_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_supergroup_full_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup_full_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputReportReasonSpam",
+  "final_url": "https://core.telegram.org/constructor/inputReportReasonSpam",
+  "title": "inputReportReasonSpam",
+  "fetched_at": "2026-09-11T06:06:35Z",
+  "sha256": "c4f1560a5b7bd8e214e0ad3cc156987228db096ee82e3bba20fa83df3a653d99",
+  "bytes": 13833,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/133508678ff383d9bbee.html",
+  "markdown": "docs/pages/133508678ff383d9bbee.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputReportReasonSpam",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ReportReason"
+  ]
+}

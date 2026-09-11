@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_parameters.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_parameters.html",
+  "title": "TDLib: giveawayParameters Class Reference",
+  "fetched_at": "2026-09-11T06:14:28Z",
+  "sha256": "93371ee190310c9f9138bc038e22b68d70cd3314b430f9082ddd39fa48d2acce",
+  "bytes": 28834,
+  "content_type": "text/html",
+  "raw": "docs/raw/d05e99d605e657734be7.html",
+  "markdown": "docs/pages/d05e99d605e657734be7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_parameters-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_parameters.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

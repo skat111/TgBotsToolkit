@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/messages.deleteChat",
+  "final_url": "https://core.telegram.org/method/messages.deleteChat",
+  "title": "messages.deleteChat",
+  "fetched_at": "2026-09-11T06:09:50Z",
+  "sha256": "17595638bcfe1ea62d9e30212c96be5dc06d8ad7c4b4b52c0dbc56e585f9e8e8",
+  "bytes": 15581,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c95e469ba45038689770.html",
+  "markdown": "docs/pages/c95e469ba45038689770.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.deleteChat",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/help.inviteText",
+  "final_url": "https://core.telegram.org/constructor/help.inviteText",
+  "title": "help.inviteText",
+  "fetched_at": "2026-09-11T06:06:09Z",
+  "sha256": "31633396b563565b123964b5013f6e8d3589ab06c24e9e0961b62d397b39027b",
+  "bytes": 14230,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2fe4713efde60d830a4c.html",
+  "markdown": "docs/pages/2fe4713efde60d830a4c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.inviteText",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/help.InviteText",
+    "https://core.telegram.org/type/string"
+  ]
+}

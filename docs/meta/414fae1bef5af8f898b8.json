@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_emoji_status.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_emoji_status.html",
+  "title": "TDLib: businessFeatureEmojiStatus Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "3e171530bf760a73eeeb0c59503d75ba30e072da5d617fb828efeb863686845b",
+  "bytes": 15667,
+  "content_type": "text/html",
+  "raw": "docs/raw/414fae1bef5af8f898b8.html",
+  "markdown": "docs/pages/414fae1bef5af8f898b8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_emoji_status-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_emoji_status.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

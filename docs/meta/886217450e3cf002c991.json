@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_join_requests.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_join_requests.html",
+  "title": "TDLib: getChatJoinRequests Class Reference",
+  "fetched_at": "2026-09-11T06:14:09Z",
+  "sha256": "8c7b46766960bef21271114c2081dd8443b3c31d3927f8b1088753ef6a992ef2",
+  "bytes": 25461,
+  "content_type": "text/html",
+  "raw": "docs/raw/886217450e3cf002c991.html",
+  "markdown": "docs/pages/886217450e3cf002c991.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_join_request.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_join_requests.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_join_requests-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_join_requests.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

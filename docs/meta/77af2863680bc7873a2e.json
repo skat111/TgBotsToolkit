@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_web_app.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_web_app.html",
+  "title": "TDLib: searchWebApp Class Reference",
+  "fetched_at": "2026-09-11T06:15:30Z",
+  "sha256": "50d4c922ad9cd9bea673c3a7ec75dd64682fc943717688127eda009428a51524",
+  "bytes": 20680,
+  "content_type": "text/html",
+  "raw": "docs/raw/77af2863680bc7873a2e.html",
+  "markdown": "docs/pages/77af2863680bc7873a2e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_web_app.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_web_app-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_web_app.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

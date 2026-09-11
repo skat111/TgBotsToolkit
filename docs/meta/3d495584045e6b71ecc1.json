@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/topPeerCategoryForwardUsers",
+  "final_url": "https://core.telegram.org/constructor/topPeerCategoryForwardUsers",
+  "title": "topPeerCategoryForwardUsers",
+  "fetched_at": "2026-09-11T06:07:52Z",
+  "sha256": "f9c50534db75a7d546cc5abdcd07f33819e250cd23e17456c2b8cf90ea005ec2",
+  "bytes": 13995,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3d495584045e6b71ecc1.html",
+  "markdown": "docs/pages/3d495584045e6b71ecc1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/topPeerCategoryForwardUsers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/TopPeerCategory"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChatParticipantDelete",
+  "final_url": "https://core.telegram.org/constructor/updateChatParticipantDelete",
+  "title": "updateChatParticipantDelete",
+  "fetched_at": "2026-09-11T06:07:56Z",
+  "sha256": "bed0f41d8ed13fa251f6398f8a3fd518ebfcb89d068b813ac78a1a205cbad207",
+  "bytes": 15739,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/81bee0070da567b5a317.html",
+  "markdown": "docs/pages/81bee0070da567b5a317.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/updateChatParticipantDelete",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/messages.ChatInviteImporters",
+  "final_url": "https://core.telegram.org/type/messages.ChatInviteImporters",
+  "title": "messages.ChatInviteImporters",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "9d8ddf6b4294216bb244649f7b7af219610564803f67c8d2b024e5c3ba76700c",
+  "bytes": 15360,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9d2656af311112630d0a.html",
+  "markdown": "docs/pages/9d2656af311112630d0a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.chatInviteImporters",
+    "https://core.telegram.org/method/messages.getChatInviteImporters",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatInviteImporter",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.ChatInviteImporters",
+    "https://core.telegram.org/type/string"
+  ]
+}

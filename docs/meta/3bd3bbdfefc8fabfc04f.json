@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_active_live_location_messages.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_active_live_location_messages.html",
+  "title": "TDLib: updateActiveLiveLocationMessages Class Reference",
+  "fetched_at": "2026-09-11T06:16:07Z",
+  "sha256": "7d52bf404fd6a701ea669aad5dca334afaf99d0ba2497e0fe36a6cc04785dfca",
+  "bytes": 19514,
+  "content_type": "text/html",
+  "raw": "docs/raw/3bd3bbdfefc8fabfc04f.html",
+  "markdown": "docs/pages/3bd3bbdfefc8fabfc04f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_active_live_location_messages-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_active_live_location_messages.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

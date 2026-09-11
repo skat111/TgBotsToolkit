@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_owner_after_leaving.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_owner_after_leaving.html",
+  "title": "TDLib: getChatOwnerAfterLeaving Class Reference",
+  "fetched_at": "2026-09-11T06:14:09Z",
+  "sha256": "9ae91ee3b585a81df95ac7d57dba7fc022522cb1c4d89d01faeaa541fe9bde0a",
+  "bytes": 20176,
+  "content_type": "text/html",
+  "raw": "docs/raw/7c6f2d257719a275d358.html",
+  "markdown": "docs/pages/7c6f2d257719a275d358.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_owner_after_leaving-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_owner_after_leaving.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

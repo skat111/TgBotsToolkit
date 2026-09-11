@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:55Z",
+  "sha256": "078c07ef7c726560b4a9333c7907ca32fc8efbd2ae76be724dd8f6f0205c7f09",
+  "bytes": 10368,
+  "content_type": "text/html",
+  "raw": "docs/raw/27f921452b1ed2bf9ff5.html",
+  "markdown": "docs/pages/27f921452b1ed2bf9ff5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html"
+  ]
+}

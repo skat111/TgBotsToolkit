@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_available_message_effects.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_available_message_effects.html",
+  "title": "TDLib: updateAvailableMessageEffects Class Reference",
+  "fetched_at": "2026-09-11T06:16:07Z",
+  "sha256": "62ff22916c9b580c0036c44a1ce18a1d7096f56d116567345e9b4bb4642d29bc",
+  "bytes": 20427,
+  "content_type": "text/html",
+  "raw": "docs/raw/873453383bfdfd5fdab4.html",
+  "markdown": "docs/pages/873453383bfdfd5fdab4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_available_message_effects-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_available_message_effects.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

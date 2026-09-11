@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionGiftTon",
+  "final_url": "https://core.telegram.org/constructor/messageActionGiftTon",
+  "title": "messageActionGiftTon",
+  "fetched_at": "2026-09-11T06:06:46Z",
+  "sha256": "eb3e9d39893254676926cd2172e60a089a1ad033152356628cbd5d6bbf8de9b1",
+  "bytes": 16918,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a1fe55eb52393d348cfb.html",
+  "markdown": "docs/pages/a1fe55eb52393d348cfb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/inputStickerSetTonGifts",
+    "https://core.telegram.org/constructor/messageActionGiftTon",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

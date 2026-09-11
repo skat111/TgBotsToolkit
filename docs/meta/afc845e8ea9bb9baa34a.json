@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html",
+  "title": "TDLib: canSendGift Class Reference",
+  "fetched_at": "2026-09-11T06:13:33Z",
+  "sha256": "08ffe96b19926ad70e799079620ac3c357521aa535928474d87f8869ceef4b52",
+  "bytes": 19401,
+  "content_type": "text/html",
+  "raw": "docs/raw/afc845e8ea9bb9baa34a.html",
+  "markdown": "docs/pages/afc845e8ea9bb9baa34a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_gift_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

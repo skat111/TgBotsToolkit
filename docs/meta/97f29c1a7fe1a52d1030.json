@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/account.resetPasswordOk",
+  "final_url": "https://core.telegram.org/constructor/account.resetPasswordOk",
+  "title": "account.resetPasswordOk",
+  "fetched_at": "2026-09-11T06:05:17Z",
+  "sha256": "3a186e36024afbb7ca8e5eb71bfca6065716ca62b317a803f93ea7e47f0020c5",
+  "bytes": 13983,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/97f29c1a7fe1a52d1030.html",
+  "markdown": "docs/pages/97f29c1a7fe1a52d1030.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.resetPasswordOk",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/account.ResetPasswordResult"
+  ]
+}

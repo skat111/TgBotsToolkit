@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_failed_to_send.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_failed_to_send.html",
+  "title": "TDLib: searchMessagesFilterFailedToSend Class Reference",
+  "fetched_at": "2026-09-11T06:15:29Z",
+  "sha256": "54195cb490b66c9f71649c40fb67ca09f34b534980e0c747d386383d64f7fb9f",
+  "bytes": 15830,
+  "content_type": "text/html",
+  "raw": "docs/raw/eaf6a123140175d7e18c.html",
+  "markdown": "docs/pages/eaf6a123140175d7e18c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_failed_to_send-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_failed_to_send.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

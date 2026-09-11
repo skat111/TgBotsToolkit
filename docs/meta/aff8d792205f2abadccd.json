@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sponsored_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sponsored_message.html",
+  "title": "TDLib: sponsoredMessage Class Reference",
+  "fetched_at": "2026-09-11T06:15:45Z",
+  "sha256": "9bab76270ee67e501c206da2303c095659c75b4157cafc28395a7bc3bb5ec228",
+  "bytes": 31589,
+  "content_type": "text/html",
+  "raw": "docs/raw/aff8d792205f2abadccd.html",
+  "markdown": "docs/pages/aff8d792205f2abadccd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1advertisement_sponsor.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_animation.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_photo.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_video.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat_sponsored_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sponsored_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sponsored_message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

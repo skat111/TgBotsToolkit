@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/userStatusRecently",
+  "final_url": "https://core.telegram.org/constructor/userStatusRecently",
+  "title": "userStatusRecently",
+  "fetched_at": "2026-09-11T06:08:12Z",
+  "sha256": "b297f6ec08d83d2f7a2c824435200ff1993596ba71f896deda760fcac8d35463",
+  "bytes": 16229,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/183f2e371f99f07d9605.html",
+  "markdown": "docs/pages/183f2e371f99f07d9605.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/privacyKeyStatusTimestamp",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/userStatusLastMonth",
+    "https://core.telegram.org/constructor/userStatusLastWeek",
+    "https://core.telegram.org/constructor/userStatusRecently",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/UserStatus"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_round-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_round-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:25Z",
+  "sha256": "10f0bb5dd5e2bb5e17a1c5345abfbbe1acca6f25ede5a84463334fab0874483d",
+  "bytes": 10884,
+  "content_type": "text/html",
+  "raw": "docs/raw/0eaf334ee98b31f9472b.html",
+  "markdown": "docs/pages/0eaf334ee98b31f9472b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1auction_round.html"
+  ]
+}

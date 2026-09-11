@@ -1,0 +1,49 @@
+{
+  "saved": 9737,
+  "fetch_errors": [
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_list_filter.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_list_filter.html"
+    },
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_is_blocked.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_is_blocked.html"
+    },
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_message_ttl.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_message_ttl.html"
+    }
+  ],
+  "raw_bytes": 208585586,
+  "groups": {
+    "animated_stickers": 1,
+    "api": 159,
+    "articles": 1,
+    "bots": 21,
+    "bug-bounty": 1,
+    "cdn": 3,
+    "constructor": 1615,
+    "file": 99,
+    "gateway": 3,
+    "home": 1,
+    "import-stickers": 1,
+    "method": 787,
+    "methods": 1,
+    "mtproto": 22,
+    "mtproto_v1": 1,
+    "myapp": 1,
+    "passport": 6,
+    "reproducible-builds": 1,
+    "schema": 6,
+    "stickers": 2,
+    "tdlib": 4,
+    "tdlib/docs": 6370,
+    "techfaq": 2,
+    "themes": 1,
+    "type": 620,
+    "webapps": 1,
+    "widgets": 7
+  },
+  "verification_failures": [],
+  "bot_api_sections": 601
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1_log.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1_log.html",
+  "title": "TDLib: Log Class Reference",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "406d05a49bb521f386bb86ff112641f2332a728c0bf824894712130b4c0f41fc",
+  "bytes": 16179,
+  "content_type": "text/html",
+  "raw": "docs/raw/5f7380aff1d025d3b120.html",
+  "markdown": "docs/pages/5f7380aff1d025d3b120.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_log_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_log-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_log.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_verbosity_level.html"
+  ]
+}

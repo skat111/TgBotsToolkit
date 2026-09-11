@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeBankStatement",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeBankStatement",
+  "title": "secureValueTypeBankStatement",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "754789a5d12ad3868fc34250f850451c3a9a8a3ae473c61e7569ef54acfa4773",
+  "bytes": 13891,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/874c935c6211ad000097.html",
+  "markdown": "docs/pages/874c935c6211ad000097.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeBankStatement",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

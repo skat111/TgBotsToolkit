@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_secret_chat-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_secret_chat-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:54Z",
+  "sha256": "aa141c0762302f985bc85d1ae7e07998801d5af92f054252c297bb49f1db2729",
+  "bytes": 10516,
+  "content_type": "text/html",
+  "raw": "docs/raw/d0b203028b6e5e391b3e.html",
+  "markdown": "docs/pages/d0b203028b6e5e391b3e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_secret_chat.html"
+  ]
+}

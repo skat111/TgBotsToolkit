@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_revenue_transaction_type.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_revenue_transaction_type.html",
+  "title": "TDLib: ChatRevenueTransactionType Class Reference",
+  "fetched_at": "2026-09-11T06:12:00Z",
+  "sha256": "71d5cf95328190edeadf5c8439342e7a2b07b01d2a18aa4cf4c5d8a840e89370",
+  "bytes": 13109,
+  "content_type": "text/html",
+  "raw": "docs/raw/863a9ee0a2ed7a4b28c0.html",
+  "markdown": "docs/pages/863a9ee0a2ed7a4b28c0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_revenue_transaction_type-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_revenue_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_transaction_type_fragment_refund.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_transaction_type_fragment_withdrawal.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_transaction_type_sponsored_message_earnings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_transaction_type_suggested_post_earnings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_transaction_type_unsupported.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

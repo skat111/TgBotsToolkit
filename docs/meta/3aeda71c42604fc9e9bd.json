@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangePeerColor",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangePeerColor",
+  "title": "channelAdminLogEventActionChangePeerColor",
+  "fetched_at": "2026-09-11T06:05:44Z",
+  "sha256": "fa916ea29ff28e952ea2a2f9baa410f97c82f5c051bf44db5f96c05eb704e608",
+  "bytes": 15052,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3aeda71c42604fc9e9bd.html",
+  "markdown": "docs/pages/3aeda71c42604fc9e9bd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/colors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionChangePeerColor",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/PeerColor"
+  ]
+}

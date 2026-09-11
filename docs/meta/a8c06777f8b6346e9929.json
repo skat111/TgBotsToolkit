@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/PaymentRequestedInfo",
+  "final_url": "https://core.telegram.org/type/PaymentRequestedInfo",
+  "title": "PaymentRequestedInfo",
+  "fetched_at": "2026-09-11T06:17:06Z",
+  "sha256": "1d4cf7c88025a8ff524fce256e86a24e0bd60e7881c48f9b206da3e6f8e99a3d",
+  "bytes": 14159,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a8c06777f8b6346e9929.html",
+  "markdown": "docs/pages/a8c06777f8b6346e9929.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/paymentRequestedInfo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PaymentRequestedInfo",
+    "https://core.telegram.org/type/PostAddress",
+    "https://core.telegram.org/type/string"
+  ]
+}

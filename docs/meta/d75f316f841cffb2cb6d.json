@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_payment_receipt.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_payment_receipt.html",
+  "title": "TDLib: getPaymentReceipt Class Reference",
+  "fetched_at": "2026-09-11T06:14:19Z",
+  "sha256": "309c8fef9252c09f39ecc8e0598f551b814188b4520902a83103e491354d9344",
+  "bytes": 20759,
+  "content_type": "text/html",
+  "raw": "docs/raw/d75f316f841cffb2cb6d.html",
+  "markdown": "docs/pages/d75f316f841cffb2cb6d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_payment_receipt-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_payment_receipt.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_payment_successful.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_receipt.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

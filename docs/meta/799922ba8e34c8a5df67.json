@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/bots.setCustomVerification",
+  "final_url": "https://core.telegram.org/method/bots.setCustomVerification",
+  "title": "bots.setCustomVerification",
+  "fetched_at": "2026-09-11T06:09:18Z",
+  "sha256": "bc967d78a4563bc363e8235c2fe243a0710d72e271b782c04cf7e5f2607b97bc",
+  "bytes": 17633,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/799922ba8e34c8a5df67.html",
+  "markdown": "docs/pages/799922ba8e34c8a5df67.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/verification",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/bots.setCustomVerification",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/string"
+  ]
+}

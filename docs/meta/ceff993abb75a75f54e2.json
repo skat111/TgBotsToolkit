@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.codeTypeFlashCall",
+  "final_url": "https://core.telegram.org/constructor/auth.codeTypeFlashCall",
+  "title": "auth.codeTypeFlashCall",
+  "fetched_at": "2026-09-11T06:05:33Z",
+  "sha256": "11f14a88d7d09c03f4a9093d1ed18b2403b20da82327161c8546122c30aa6aa4",
+  "bytes": 14097,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ceff993abb75a75f54e2.html",
+  "markdown": "docs/pages/ceff993abb75a75f54e2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.codeTypeFlashCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.CodeType"
+  ]
+}

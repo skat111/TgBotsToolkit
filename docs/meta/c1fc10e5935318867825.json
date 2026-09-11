@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/MessageRange",
+  "final_url": "https://core.telegram.org/type/MessageRange",
+  "title": "MessageRange",
+  "fetched_at": "2026-09-11T06:17:05Z",
+  "sha256": "d9133d7bf984ad53ac732b8bd7b5124b3d1ed26fa9e5843f6d02dc1bebe35fca",
+  "bytes": 13929,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c1fc10e5935318867825.html",
+  "markdown": "docs/pages/c1fc10e5935318867825.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageRange",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageRange",
+    "https://core.telegram.org/type/int"
+  ]
+}

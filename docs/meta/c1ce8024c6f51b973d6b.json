@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/boolTrue",
+  "final_url": "https://core.telegram.org/constructor/boolTrue",
+  "title": "boolTrue",
+  "fetched_at": "2026-09-11T06:05:37Z",
+  "sha256": "8092cff8fc98c62b68860b0b71603465218759d598cf5bca2f2bfb2efce42cb8",
+  "bytes": 13870,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c1ce8024c6f51b973d6b.html",
+  "markdown": "docs/pages/c1ce8024c6f51b973d6b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

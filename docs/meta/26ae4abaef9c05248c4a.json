@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/autoSaveSettings",
+  "final_url": "https://core.telegram.org/constructor/autoSaveSettings",
+  "title": "autoSaveSettings",
+  "fetched_at": "2026-09-11T06:05:36Z",
+  "sha256": "f6be57d405650718a7a45a4988587036632039a680ec41e7fd0fe55d7f85afaa",
+  "bytes": 15002,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/26ae4abaef9c05248c4a.html",
+  "markdown": "docs/pages/26ae4abaef9c05248c4a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/autoSaveSettings",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/AutoSaveSettings",
+    "https://core.telegram.org/type/long"
+  ]
+}

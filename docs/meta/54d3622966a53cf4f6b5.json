@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionGameScore",
+  "final_url": "https://core.telegram.org/constructor/messageActionGameScore",
+  "title": "messageActionGameScore",
+  "fetched_at": "2026-09-11T06:06:46Z",
+  "sha256": "ebabe178a6f8e5c07fded85ea3a8cf489bee9f180e6182475d21d8190871667e",
+  "bytes": 14296,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/54d3622966a53cf4f6b5.html",
+  "markdown": "docs/pages/54d3622966a53cf4f6b5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionGameScore",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

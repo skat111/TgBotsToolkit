@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/aicompose.deleteTone",
+  "final_url": "https://core.telegram.org/method/aicompose.deleteTone",
+  "title": "aicompose.deleteTone",
+  "fetched_at": "2026-09-11T06:09:01Z",
+  "sha256": "d95c0f2fbe27645b2c9dd70b793e709ff9b114cee52ffa2088ee9c709ffea9ff",
+  "bytes": 15186,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/322fd513f59bdbb4f841.html",
+  "markdown": "docs/pages/322fd513f59bdbb4f841.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/aicompose.deleteTone",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputAiComposeTone"
+  ]
+}

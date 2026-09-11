@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChat",
+  "final_url": "https://core.telegram.org/constructor/updateChat",
+  "title": "updateChat",
+  "fetched_at": "2026-09-11T06:07:55Z",
+  "sha256": "9fc9d41367f3116abdbfb82031bb13a6c0ad02257e4894b94a4c3b9fbdc72568",
+  "bytes": 16951,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5b7942c09e8c45a19c76.html",
+  "markdown": "docs/pages/5b7942c09e8c45a19c76.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/chat",
+    "https://core.telegram.org/constructor/chatFull",
+    "https://core.telegram.org/constructor/updateChat",
+    "https://core.telegram.org/constructor/updates",
+    "https://core.telegram.org/constructor/updatesCombined",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long"
+  ]
+}

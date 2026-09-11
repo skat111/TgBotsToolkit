@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionEditTopic",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionEditTopic",
+  "title": "channelAdminLogEventActionEditTopic",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "3639a994687a711a9206171086893166e00a094e4ba4eba4f354dd4f6575b9cb",
+  "bytes": 14938,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b3c15a7d7c586ceead62.html",
+  "markdown": "docs/pages/b3c15a7d7c586ceead62.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionEditTopic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ForumTopic"
+  ]
+}

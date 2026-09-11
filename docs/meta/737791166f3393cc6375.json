@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_photo_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_photo_info.html",
+  "title": "TDLib: chatPhotoInfo Class Reference",
+  "fetched_at": "2026-09-11T06:13:45Z",
+  "sha256": "8470804b9862469f6bf4adde79425deda3693b7480f037fa6a80479c795c4495",
+  "bytes": 23830,
+  "content_type": "text/html",
+  "raw": "docs/raw/737791166f3393cc6375.html",
+  "markdown": "docs/pages/737791166f3393cc6375.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_photo_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_photo_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1minithumbnail.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

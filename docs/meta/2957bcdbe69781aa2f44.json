@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePendingJoinRequests",
+  "final_url": "https://core.telegram.org/constructor/updatePendingJoinRequests",
+  "title": "updatePendingJoinRequests",
+  "fetched_at": "2026-09-11T06:08:03Z",
+  "sha256": "178db5651cb5cefc370b9ed242adfee85001f90bda947d3c893c6acd02a02d6c",
+  "bytes": 15244,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2957bcdbe69781aa2f44.html",
+  "markdown": "docs/pages/2957bcdbe69781aa2f44.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updatePendingJoinRequests",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

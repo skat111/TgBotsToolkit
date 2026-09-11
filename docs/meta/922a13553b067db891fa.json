@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messageEntityBankCard",
+  "final_url": "https://core.telegram.org/constructor/messageEntityBankCard",
+  "title": "messageEntityBankCard",
+  "fetched_at": "2026-09-11T06:06:51Z",
+  "sha256": "d1264081e95b924ba8e4c20ab82b4d04a52037115a2cb012fd3535393dd4dd55",
+  "bytes": 14930,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/922a13553b067db891fa.html",
+  "markdown": "docs/pages/922a13553b067db891fa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageEntityBankCard",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/int"
+  ]
+}

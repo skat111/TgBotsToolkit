@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_animation-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_animation-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:17Z",
+  "sha256": "51f132efabf986a7fc0e32ac803aa26cbb62b2539e913fe15168b715d10992da",
+  "bytes": 11104,
+  "content_type": "text/html",
+  "raw": "docs/raw/c46ff6cc0036f5ace30f.html",
+  "markdown": "docs/pages/c46ff6cc0036f5ace30f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_animation.html"
+  ]
+}

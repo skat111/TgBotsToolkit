@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/contacts.exportContactToken",
+  "final_url": "https://core.telegram.org/method/contacts.exportContactToken",
+  "title": "contacts.exportContactToken",
+  "fetched_at": "2026-09-11T06:09:34Z",
+  "sha256": "ca32ae951fbb9826bb03ca490069e9916b80a643f97affed86955f426f882e93",
+  "bytes": 14996,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f08f070efb5f77028d09.html",
+  "markdown": "docs/pages/f08f070efb5f77028d09.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/exportedContactToken",
+    "https://core.telegram.org/method/contacts.exportContactToken",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ExportedContactToken",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

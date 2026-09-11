@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_dice.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_dice.html",
+  "title": "TDLib: messageDice Class Reference",
+  "fetched_at": "2026-09-11T06:14:50Z",
+  "sha256": "99cb900e92d8ca10690efa49425c518268cacc697b1e71c326bd5e1e71d7acad",
+  "bytes": 25035,
+  "content_type": "text/html",
+  "raw": "docs/raw/7776b09a85e937414f3c.html",
+  "markdown": "docs/pages/7776b09a85e937414f3c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_dice_stickers.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_dice-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_dice.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_send_succeeded.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

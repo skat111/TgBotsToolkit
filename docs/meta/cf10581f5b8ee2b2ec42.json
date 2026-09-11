@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/pageBlockSubtitle",
+  "final_url": "https://core.telegram.org/constructor/pageBlockSubtitle",
+  "title": "pageBlockSubtitle",
+  "fetched_at": "2026-09-11T06:07:10Z",
+  "sha256": "7255bf37774ee1d901ba23e2902c84946153acb7e2aa633311a0b69c74eace20",
+  "bytes": 14045,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cf10581f5b8ee2b2ec42.html",
+  "markdown": "docs/pages/cf10581f5b8ee2b2ec42.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/pageBlockSubtitle",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PageBlock",
+    "https://core.telegram.org/type/RichText"
+  ]
+}

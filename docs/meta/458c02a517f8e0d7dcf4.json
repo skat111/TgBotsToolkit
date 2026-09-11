@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.getEmojiKeywordsLanguages",
+  "final_url": "https://core.telegram.org/method/messages.getEmojiKeywordsLanguages",
+  "title": "messages.getEmojiKeywordsLanguages",
+  "fetched_at": "2026-09-11T06:10:05Z",
+  "sha256": "6571d505a2b9b79994dc0aede839e73d7cc27c882fb5d29dfd70afa07ac9e0a0",
+  "bytes": 15723,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/458c02a517f8e0d7dcf4.html",
+  "markdown": "docs/pages/458c02a517f8e0d7dcf4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/messages.getEmojiKeywordsLanguages",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiLanguage",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

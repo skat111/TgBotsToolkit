@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/notificationSoundRingtone",
+  "final_url": "https://core.telegram.org/constructor/notificationSoundRingtone",
+  "title": "notificationSoundRingtone",
+  "fetched_at": "2026-09-11T06:07:07Z",
+  "sha256": "23fc27834ee5b455de84a0aa690bb408c5916bc26752581da71107a5f251be1b",
+  "bytes": 14908,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/028c675a2fa19c7e56bd.html",
+  "markdown": "docs/pages/028c675a2fa19c7e56bd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/notificationSoundRingtone",
+    "https://core.telegram.org/method/account.saveRingtone",
+    "https://core.telegram.org/method/account.uploadRingtone",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/NotificationSound",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelParticipantsContacts",
+  "final_url": "https://core.telegram.org/constructor/channelParticipantsContacts",
+  "title": "channelParticipantsContacts",
+  "fetched_at": "2026-09-11T06:05:50Z",
+  "sha256": "ad1f2bd58d6503180546642ee13963f857e4bfdab455a963b8f058f1f556ced9",
+  "bytes": 14339,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0e180d82750339ef7554.html",
+  "markdown": "docs/pages/0e180d82750339ef7554.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelParticipantsContacts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelParticipantsFilter",
+    "https://core.telegram.org/type/string"
+  ]
+}

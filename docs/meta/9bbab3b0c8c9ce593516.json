@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_discard_reason_missed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_discard_reason_missed.html",
+  "title": "TDLib: callDiscardReasonMissed Class Reference",
+  "fetched_at": "2026-09-11T06:13:29Z",
+  "sha256": "b22839a678028a55b4c763e10ef52df548b1da2c2005623e24118f99bc3c1bc8",
+  "bytes": 15728,
+  "content_type": "text/html",
+  "raw": "docs/raw/9bbab3b0c8c9ce593516.html",
+  "markdown": "docs/pages/9bbab3b0c8c9ce593516.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_discard_reason_missed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_discard_reason_missed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

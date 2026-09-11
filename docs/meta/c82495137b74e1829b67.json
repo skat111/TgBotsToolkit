@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-abstract-types",
+  "final_url": "https://core.telegram.org/mtproto/TL-abstract-types",
+  "title": "Binary serialization and abstract TL types",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "3e567f40a95eda1a5af9f477ad934992eebf3ec9d4840516324211f287753608",
+  "bytes": 23466,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c82495137b74e1829b67.html",
+  "markdown": "docs/pages/c82495137b74e1829b67.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-abstract-types",
+    "https://core.telegram.org/mtproto/TL-optargs",
+    "https://core.telegram.org/mtproto/serialize",
+    "https://core.telegram.org/schema"
+  ]
+}

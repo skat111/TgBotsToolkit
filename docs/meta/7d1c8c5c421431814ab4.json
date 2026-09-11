@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_share_phone_number.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_share_phone_number.html",
+  "title": "TDLib: chatActionBarSharePhoneNumber Class Reference",
+  "fetched_at": "2026-09-11T06:13:34Z",
+  "sha256": "b300364df687f04479e54a5299344a45e456fc545491f42d9de87e8164d4653e",
+  "bytes": 16032,
+  "content_type": "text/html",
+  "raw": "docs/raw/7d1c8c5c421431814ab4.html",
+  "markdown": "docs/pages/7d1c8c5c421431814ab4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_share_phone_number-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_share_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1share_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

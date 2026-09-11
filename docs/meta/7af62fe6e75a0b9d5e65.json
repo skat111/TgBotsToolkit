@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/aicompose.tonesNotModified",
+  "final_url": "https://core.telegram.org/constructor/aicompose.tonesNotModified",
+  "title": "aicompose.tonesNotModified",
+  "fetched_at": "2026-09-11T06:05:32Z",
+  "sha256": "fbeb225125861dbce376643c2a6a015124176c3bb6829b86e29b8393d2b490cf",
+  "bytes": 14995,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7af62fe6e75a0b9d5e65.html",
+  "markdown": "docs/pages/7af62fe6e75a0b9d5e65.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/aicompose.tonesNotModified",
+    "https://core.telegram.org/method/aicompose.getTones",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/aicompose.Tones"
+  ]
+}

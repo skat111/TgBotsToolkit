@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_type_bot.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_type_bot.html",
+  "title": "TDLib: userTypeBot Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "7e4db20d7cd7ecf100aa39477f0aeb99b641597a6e37934348f61372f22b3c94",
+  "bytes": 32296,
+  "content_type": "text/html",
+  "raw": "docs/raw/5a57104af6c704d70044.html",
+  "markdown": "docs/pages/5a57104af6c704d70044.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_bot_active_usernames.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_bot_info_description.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_bot_info_short_description.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_bot_name.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_bot_profile_photo.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_bot_username_is_active.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_type_bot-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_type_bot.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

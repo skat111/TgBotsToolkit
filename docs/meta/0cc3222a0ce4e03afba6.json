@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/postAddress",
+  "final_url": "https://core.telegram.org/constructor/postAddress",
+  "title": "postAddress",
+  "fetched_at": "2026-09-11T06:07:22Z",
+  "sha256": "ab7b6f2b2b7f76179f2b3cb6003b20265810999dd44154a86bf960137c184e7f",
+  "bytes": 15046,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0cc3222a0ce4e03afba6.html",
+  "markdown": "docs/pages/0cc3222a0ce4e03afba6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/postAddress",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PostAddress",
+    "https://core.telegram.org/type/string"
+  ]
+}

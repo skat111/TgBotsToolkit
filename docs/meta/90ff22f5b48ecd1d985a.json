@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/starsTransactionPeerUnsupported",
+  "final_url": "https://core.telegram.org/constructor/starsTransactionPeerUnsupported",
+  "title": "starsTransactionPeerUnsupported",
+  "fetched_at": "2026-09-11T06:07:42Z",
+  "sha256": "702e99bf821bdf06255cb197ec9c37e07da95eac0afb9de859f43920b62451b4",
+  "bytes": 14692,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/90ff22f5b48ecd1d985a.html",
+  "markdown": "docs/pages/90ff22f5b48ecd1d985a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/starsTransactionPeerUnsupported",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StarsTransactionPeer"
+  ]
+}

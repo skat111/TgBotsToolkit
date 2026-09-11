@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionManagedBotCreated",
+  "final_url": "https://core.telegram.org/constructor/messageActionManagedBotCreated",
+  "title": "messageActionManagedBotCreated",
+  "fetched_at": "2026-09-11T06:06:47Z",
+  "sha256": "c94e62b4bd396933a0b6c7e979d0fdfb2b0942450fd3c2485cfb8106dab26806",
+  "bytes": 16530,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1568ecd986f8fbf827c2.html",
+  "markdown": "docs/pages/1568ecd986f8fbf827c2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/bots/managed-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/messageActionManagedBotCreated",
+    "https://core.telegram.org/constructor/requestPeerTypeCreateBot",
+    "https://core.telegram.org/method/messages.sendBotRequestedPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1cancel_recovery_email_address_verification-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1cancel_recovery_email_address_verification-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:34Z",
+  "sha256": "e5397e723596e060e36ca94de9cc848ca01581284851cac69b76b5cd642fd1ce",
+  "bytes": 10208,
+  "content_type": "text/html",
+  "raw": "docs/raw/9261d6568a4a54e355cf.html",
+  "markdown": "docs/pages/9261d6568a4a54e355cf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1cancel_recovery_email_address_verification.html"
+  ]
+}

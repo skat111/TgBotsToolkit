@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/messages.SavedReactionTags",
+  "final_url": "https://core.telegram.org/type/messages.SavedReactionTags",
+  "title": "messages.SavedReactionTags",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "89d7ffa2bd24454d68455c795281c1b213ff6b13687d329e96a7a457f8776c43",
+  "bytes": 16019,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/34b33d2941e240ef0e52.html",
+  "markdown": "docs/pages/34b33d2941e240ef0e52.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/messages.savedReactionTags",
+    "https://core.telegram.org/constructor/messages.savedReactionTagsNotModified",
+    "https://core.telegram.org/method/messages.getSavedReactionTags",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/SavedReactionTag",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.SavedReactionTags"
+  ]
+}

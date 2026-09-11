@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/animated_stickers",
+  "final_url": "https://core.telegram.org/stickers#animated-stickers",
+  "title": "Telegram Stickers",
+  "fetched_at": "2026-09-11T06:14:42Z",
+  "sha256": "a6151971f7822b40dc70bfab12d3cda4fd4d312fe8bcc42781b753ad85ce9d8c",
+  "bytes": 18206,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/75186dd880196136a379.html",
+  "markdown": "docs/pages/75186dd880196136a379.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/400780400573/3/qdOfJMeSZIg.197837/18645b86150901e026",
+    "https://core.telegram.org/import-stickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/stickers",
+    "https://core.telegram.org/stickers/webm-vp9-encoding"
+  ]
+}

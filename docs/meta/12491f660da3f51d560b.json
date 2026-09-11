@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_bot_rights.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_bot_rights.html",
+  "title": "TDLib: businessBotRights Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "5d9cfaacadc6810370767abbc99aa6c1ecc4bdbbba6d43511663802ea047cd47",
+  "bytes": 33038,
+  "content_type": "text/html",
+  "raw": "docs/raw/12491f660da3f51d560b.html",
+  "markdown": "docs/pages/12491f660da3f51d560b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_bot_rights-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_bot_rights.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

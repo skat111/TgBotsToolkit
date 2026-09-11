@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/bots/payments",
+  "final_url": "https://core.telegram.org/bots/payments",
+  "title": "Bot Payments API",
+  "fetched_at": "2026-09-11T06:05:11Z",
+  "sha256": "d0d4806029d94974dbc63c962ed500c7fd22d2be808cc16c3529b381d28619cf",
+  "bytes": 40411,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7377dd4893c3fe57a5cf.html",
+  "markdown": "docs/pages/7377dd4893c3fe57a5cf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/payments",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/faq",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments-stars",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/file/464001162/3/C2wdLOXaMA0.97425/32091afe52ef0e59f2",
+    "https://core.telegram.org/file/464001285/4/UBRF1ViiEOU.106159/0bbcdcb7f5af77a782",
+    "https://core.telegram.org/file/464001648/1/1-P1Pb7TusA.105628/b9cb2cf4c7427302c0",
+    "https://core.telegram.org/file/464001701/6/-BJZJqe9VeA.70226/75a192d58d76dc96c1",
+    "https://core.telegram.org/file/464001836/2/rwUQeqMOsnI.31142/b0cc9d885ccb78ab39",
+    "https://core.telegram.org/file/464001896/2/9gTF8_aGQkE.45826/d5b11a999a40a1a6d9",
+    "https://core.telegram.org/file/811140227/2/ZTXUngAbELM.193805/ba6aa233d1d4206207",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

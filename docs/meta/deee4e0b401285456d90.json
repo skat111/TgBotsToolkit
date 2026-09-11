@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyKeyProfilePhoto",
+  "final_url": "https://core.telegram.org/constructor/privacyKeyProfilePhoto",
+  "title": "privacyKeyProfilePhoto",
+  "fetched_at": "2026-09-11T06:07:24Z",
+  "sha256": "baf7cc0e6ab830a4ef12605e388104c773b7bdf7360b188b753eccca691ac006",
+  "bytes": 13938,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/deee4e0b401285456d90.html",
+  "markdown": "docs/pages/deee4e0b401285456d90.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/privacyKeyProfilePhoto",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyKey"
+  ]
+}

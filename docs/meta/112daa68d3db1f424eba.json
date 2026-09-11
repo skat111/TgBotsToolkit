@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_success.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_success.html",
+  "title": "TDLib: inviteGroupCallParticipantResultSuccess Class Reference",
+  "fetched_at": "2026-09-11T06:14:41Z",
+  "sha256": "20c5d8803aeaf20a1a3b073b5e87c88b83fb4347a8ecb57061a60d7191ffb997",
+  "bytes": 20727,
+  "content_type": "text/html",
+  "raw": "docs/raw/112daa68d3db1f424eba.html",
+  "markdown": "docs/pages/112daa68d3db1f424eba.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_invite_group_call_participant_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1decline_group_call_invitation.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_success-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invite_group_call_participant_result_success.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_group_call.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

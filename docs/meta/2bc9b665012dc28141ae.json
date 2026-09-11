@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_link.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_link.html",
+  "title": "TDLib: getUserLink Class Reference",
+  "fetched_at": "2026-09-11T06:14:25Z",
+  "sha256": "da280b2df8f8f1233318bc639988f3eda363b9910f81957407189e430023e6cd",
+  "bytes": 16606,
+  "content_type": "text/html",
+  "raw": "docs/raw/2bc9b665012dc28141ae.html",
+  "markdown": "docs/pages/2bc9b665012dc28141ae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_link-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_link.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_link.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

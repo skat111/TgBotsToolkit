@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-combinators",
+  "final_url": "https://core.telegram.org/mtproto/TL-combinators",
+  "title": "Formal description of TL combinators",
+  "fetched_at": "2026-09-11T06:11:41Z",
+  "sha256": "aa21c35f351cdf6091eca9a9dcf0f8626b0a33b9fc43085186bae036877a3d38",
+  "bytes": 16659,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1ae64cf8da72857193d0.html",
+  "markdown": "docs/pages/1ae64cf8da72857193d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/mtproto/TL-formal",
+    "https://core.telegram.org/schema"
+  ]
+}

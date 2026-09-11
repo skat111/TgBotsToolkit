@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_formatting_type_relative.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_formatting_type_relative.html",
+  "title": "TDLib: dateTimeFormattingTypeRelative Class Reference",
+  "fetched_at": "2026-09-11T06:13:51Z",
+  "sha256": "5665ac015eea900848c7d724c390276bc649208a81baee37cde8ce13839f268b",
+  "bytes": 15833,
+  "content_type": "text/html",
+  "raw": "docs/raw/cb9de0af4dc115a51f9a.html",
+  "markdown": "docs/pages/cb9de0af4dc115a51f9a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_date_time_formatting_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_formatting_type_relative-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1date_time_formatting_type_relative.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

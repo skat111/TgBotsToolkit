@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_has_paid_messages.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_has_paid_messages.html",
+  "title": "TDLib: canSendMessageToUserResultUserHasPaidMessages Class Reference",
+  "fetched_at": "2026-09-11T06:13:33Z",
+  "sha256": "ddafb3e79f5f0a06f8199baa52ce6d906da85e5771946d61057693c66d27d2df",
+  "bytes": 19098,
+  "content_type": "text/html",
+  "raw": "docs/raw/ff0437fab397d550cf82.html",
+  "markdown": "docs/pages/ff0437fab397d550cf82.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_message_to_user_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_has_paid_messages-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_has_paid_messages.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

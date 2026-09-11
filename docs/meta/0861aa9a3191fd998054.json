@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/attachMenuPeerTypePM",
+  "final_url": "https://core.telegram.org/constructor/attachMenuPeerTypePM",
+  "title": "attachMenuPeerTypePM",
+  "fetched_at": "2026-09-11T06:05:33Z",
+  "sha256": "aa92a1345bbc87b2429b23a04261450f02c589ff197f641a492ec616e3bc0286",
+  "bytes": 14067,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0861aa9a3191fd998054.html",
+  "markdown": "docs/pages/0861aa9a3191fd998054.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/attachMenuPeerTypePM",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AttachMenuPeerType"
+  ]
+}

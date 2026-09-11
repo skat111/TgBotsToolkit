@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/users.getRequirementsToContact",
+  "final_url": "https://core.telegram.org/method/users.getRequirementsToContact",
+  "title": "users.getRequirementsToContact",
+  "fetched_at": "2026-09-11T06:11:39Z",
+  "sha256": "73389c01264c31af1bf8a9dd8e4912cfbba703d701043a236eb44d5977ede316",
+  "bytes": 16335,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1b8145a3d4d5dfc923e3.html",
+  "markdown": "docs/pages/1b8145a3d4d5dfc923e3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/api/privacy",
+    "https://core.telegram.org/method/users.getRequirementsToContact",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/RequirementToContact",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

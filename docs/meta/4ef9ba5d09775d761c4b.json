@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_attachment_menu_bots.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_attachment_menu_bots.html",
+  "title": "TDLib: updateAttachmentMenuBots Class Reference",
+  "fetched_at": "2026-09-11T06:16:07Z",
+  "sha256": "575ea9109f3cfd20d473c43508f5ebec5fbcd2461f18146b06db27a13d8c5a5d",
+  "bytes": 19073,
+  "content_type": "text/html",
+  "raw": "docs/raw/4ef9ba5d09775d761c4b.html",
+  "markdown": "docs/pages/4ef9ba5d09775d761c4b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1attachment_menu_bot.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_attachment_menu_bots-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_attachment_menu_bots.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/users.savedMusic",
+  "final_url": "https://core.telegram.org/constructor/users.savedMusic",
+  "title": "users.savedMusic",
+  "fetched_at": "2026-09-11T06:08:12Z",
+  "sha256": "a8d6b9bac6b279def3cf68031487d03e93395821426a1f435fce4a9067f9be86",
+  "bytes": 15129,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b027934a88c852cf581e.html",
+  "markdown": "docs/pages/b027934a88c852cf581e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/users.savedMusic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/users.SavedMusic"
+  ]
+}

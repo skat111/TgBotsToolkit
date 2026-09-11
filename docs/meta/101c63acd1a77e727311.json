@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/phone.exportedGroupCallInvite",
+  "final_url": "https://core.telegram.org/constructor/phone.exportedGroupCallInvite",
+  "title": "phone.exportedGroupCallInvite",
+  "fetched_at": "2026-09-11T06:07:18Z",
+  "sha256": "36988744f940be3c3e21d62c1fca21d038e563af4a8f8e7c22f9e0b3d7a42718",
+  "bytes": 14301,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/101c63acd1a77e727311.html",
+  "markdown": "docs/pages/101c63acd1a77e727311.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phone.exportedGroupCallInvite",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/phone.ExportedGroupCallInvite",
+    "https://core.telegram.org/type/string"
+  ]
+}

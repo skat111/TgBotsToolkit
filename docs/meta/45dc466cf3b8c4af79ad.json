@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.starGiftCollectionsNotModified",
+  "final_url": "https://core.telegram.org/constructor/payments.starGiftCollectionsNotModified",
+  "title": "payments.starGiftCollectionsNotModified",
+  "fetched_at": "2026-09-11T06:07:15Z",
+  "sha256": "cfd27b007a5687b890c93d1b351eaf0b56c9ca23df4cca237ca9f985651dfbe4",
+  "bytes": 14737,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/45dc466cf3b8c4af79ad.html",
+  "markdown": "docs/pages/45dc466cf3b8c4af79ad.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.starGiftCollectionsNotModified",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/payments.StarGiftCollections"
+  ]
+}

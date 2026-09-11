@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_accent_colors.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_accent_colors.html",
+  "title": "TDLib: updateChatAccentColors Class Reference",
+  "fetched_at": "2026-09-11T06:16:07Z",
+  "sha256": "8461c538b8f91f0c0f3bce11c535ed80543f66863e00f9a69ccb530983905890",
+  "bytes": 25700,
+  "content_type": "text/html",
+  "raw": "docs/raw/85f795b90127e81a64e7.html",
+  "markdown": "docs/pages/85f795b90127e81a64e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_accent_colors-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_accent_colors.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_colors.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

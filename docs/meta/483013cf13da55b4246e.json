@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_resale_price.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_resale_price.html",
+  "title": "TDLib: GiftResalePrice Class Reference",
+  "fetched_at": "2026-09-11T06:12:08Z",
+  "sha256": "bea15ebb4074fb3cf99196ff7b538795229fbcc455b6288903e5dee840540b02",
+  "bytes": 12455,
+  "content_type": "text/html",
+  "raw": "docs/raw/483013cf13da55b4246e.html",
+  "markdown": "docs/pages/483013cf13da55b4246e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_resale_price-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_resale_price.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_resale_price_star.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_resale_price_ton.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

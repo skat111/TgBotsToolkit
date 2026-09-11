@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionDeleteTopic",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionDeleteTopic",
+  "title": "channelAdminLogEventActionDeleteTopic",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "9b0af3fa5c17a6dc36383d4c7438d7f84aff59a963ce944e221605a5040b1294",
+  "bytes": 14778,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6bef8d41f930496181a9.html",
+  "markdown": "docs/pages/6bef8d41f930496181a9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionDeleteTopic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ForumTopic"
+  ]
+}

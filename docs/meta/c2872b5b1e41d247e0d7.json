@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/gateway/verification-tutorial",
+  "final_url": "https://core.telegram.org/gateway/verification-tutorial",
+  "title": "Authorization via Telegram Gateway: Quick-start Guide",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "3cb5ccabd09ffdee182e116d053e05d9668e65cb463c203055f3a9af7d0fd4c2",
+  "bytes": 16206,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c2872b5b1e41d247e0d7.html",
+  "markdown": "docs/pages/c2872b5b1e41d247e0d7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/gateway",
+    "https://core.telegram.org/gateway/api",
+    "https://core.telegram.org/gateway/verification-tutorial",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

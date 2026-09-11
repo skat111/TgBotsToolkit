@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invoice.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invoice.html",
+  "title": "TDLib: invoice Class Reference",
+  "fetched_at": "2026-09-11T06:14:41Z",
+  "sha256": "4375fff4ff299a17ce98f98a8b8da0c274c62b4bf55d8ea09240acb146a65f82",
+  "bytes": 36248,
+  "content_type": "text/html",
+  "raw": "docs/raw/65ae16aefb7178006afe.html",
+  "markdown": "docs/pages/65ae16aefb7178006afe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invoice-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invoice.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1labeled_price_part.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

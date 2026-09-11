@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_voice_note.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_voice_note.html",
+  "title": "TDLib: messageVoiceNote Class Reference",
+  "fetched_at": "2026-09-11T06:14:59Z",
+  "sha256": "c4a5c6502402fc3d2b6768a4a1a0b6078358c5ae514a9b6e95930b87b93cf88e",
+  "bytes": 20961,
+  "content_type": "text/html",
+  "raw": "docs/raw/0dfc490b5c74a024be91.html",
+  "markdown": "docs/pages/0dfc490b5c74a024be91.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_voice_note-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_voice_note.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1voice_note.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

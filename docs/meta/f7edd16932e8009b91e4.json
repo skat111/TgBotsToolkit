@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_username_changed-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_username_changed-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:44Z",
+  "sha256": "31cba897ebe0f4771f0351b705a187f41422d776fbf247ab63381f64c6a22c3d",
+  "bytes": 10669,
+  "content_type": "text/html",
+  "raw": "docs/raw/f7edd16932e8009b91e4.html",
+  "markdown": "docs/pages/f7edd16932e8009b91e4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_username_changed.html"
+  ]
+}

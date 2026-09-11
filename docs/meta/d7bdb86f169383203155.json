@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.declinePasswordReset",
+  "final_url": "https://core.telegram.org/method/account.declinePasswordReset",
+  "title": "account.declinePasswordReset",
+  "fetched_at": "2026-09-11T06:08:31Z",
+  "sha256": "8b5368613056cef38287551616979491fbef4ce9da44f29c6547e96ce0d5d44f",
+  "bytes": 15224,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d7bdb86f169383203155.html",
+  "markdown": "docs/pages/d7bdb86f169383203155.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.declinePasswordReset",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

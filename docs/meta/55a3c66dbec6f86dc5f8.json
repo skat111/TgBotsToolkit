@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/help.getPeerProfileColors",
+  "final_url": "https://core.telegram.org/method/help.getPeerProfileColors",
+  "title": "help.getPeerProfileColors",
+  "fetched_at": "2026-09-11T06:09:40Z",
+  "sha256": "4ac9db30acdfcf36c5e8425317399175145fac5417113a64504e2992f5e4a008",
+  "bytes": 15767,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/55a3c66dbec6f86dc5f8.html",
+  "markdown": "docs/pages/55a3c66dbec6f86dc5f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/colors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/help.peerColors",
+    "https://core.telegram.org/constructor/help.peerColorsNotModified",
+    "https://core.telegram.org/method/help.getPeerProfileColors",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.PeerColorOption",
+    "https://core.telegram.org/type/help.PeerColors",
+    "https://core.telegram.org/type/int"
+  ]
+}

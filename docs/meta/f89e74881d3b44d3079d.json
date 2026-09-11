@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_saved_messages_topics.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_saved_messages_topics.html",
+  "title": "TDLib: loadSavedMessagesTopics Class Reference",
+  "fetched_at": "2026-09-11T06:14:48Z",
+  "sha256": "be5dcbc1b0dd4dd900af718e19d1b42f226933bc85c8496a8e2c74a447a6c505",
+  "bytes": 20550,
+  "content_type": "text/html",
+  "raw": "docs/raw/f89e74881d3b44d3079d.html",
+  "markdown": "docs/pages/f89e74881d3b44d3079d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_saved_messages_topics-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_saved_messages_topics.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

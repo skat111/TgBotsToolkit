@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sponsored_messages.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sponsored_messages.html",
+  "title": "TDLib: getChatSponsoredMessages Class Reference",
+  "fetched_at": "2026-09-11T06:14:09Z",
+  "sha256": "c3f8f7c877c0b23ec64a451871ebfbafbc88cf2c24731af31ec8e7d02d39e584",
+  "bytes": 19704,
+  "content_type": "text/html",
+  "raw": "docs/raw/c47d251d8d0b40b05582.html",
+  "markdown": "docs/pages/c47d251d8d0b40b05582.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sponsored_messages-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sponsored_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sponsored_messages.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

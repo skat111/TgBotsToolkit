@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPaidMessagesPrice",
+  "final_url": "https://core.telegram.org/constructor/messageActionPaidMessagesPrice",
+  "title": "messageActionPaidMessagesPrice",
+  "fetched_at": "2026-09-11T06:06:47Z",
+  "sha256": "81f383a4a6a8680111136c7ff3d2064040a8290526758df236238b553e421672",
+  "bytes": 16421,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3175ffe2b2deb94729b3.html",
+  "markdown": "docs/pages/3175ffe2b2deb94729b3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/messageActionPaidMessagesPrice",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long"
+  ]
+}

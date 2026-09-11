@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_password_recovery_code.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_password_recovery_code.html",
+  "title": "TDLib: checkPasswordRecoveryCode Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "6e74a2c6fd19dae3f27219abe671fcc5fcc748f1ae85f9246800255b54cdf354",
+  "bytes": 19701,
+  "content_type": "text/html",
+  "raw": "docs/raw/25e455c731821a4edfff.html",
+  "markdown": "docs/pages/25e455c731821a4edfff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_password_recovery_code-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_password_recovery_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

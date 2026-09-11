@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateNewQuickReply",
+  "final_url": "https://core.telegram.org/constructor/updateNewQuickReply",
+  "title": "updateNewQuickReply",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "b6154f107939f6a1583e3b149393f1431de784e068b307533d4f69dc80b0d672",
+  "bytes": 14772,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/691414e1d132cc0cb8c0.html",
+  "markdown": "docs/pages/691414e1d132cc0cb8c0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateNewQuickReply",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/QuickReply",
+    "https://core.telegram.org/type/Update"
+  ]
+}

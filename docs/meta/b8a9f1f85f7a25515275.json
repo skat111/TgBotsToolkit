@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_bytes.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_bytes.html",
+  "title": "TDLib: testCallBytes Class Reference",
+  "fetched_at": "2026-09-11T06:15:58Z",
+  "sha256": "698c50543cd0471834a44782f30d36b7a44d3930f8140cf85c2f07fd9ba93722",
+  "bytes": 19463,
+  "content_type": "text/html",
+  "raw": "docs/raw/b8a9f1f85f7a25515275.html",
+  "markdown": "docs/pages/b8a9f1f85f7a25515275.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_bytes.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_bytes-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_call_bytes.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

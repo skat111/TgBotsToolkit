@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateNewStoryReaction",
+  "final_url": "https://core.telegram.org/constructor/updateNewStoryReaction",
+  "title": "updateNewStoryReaction",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "c19b77b50c8e9a2cbfd0fcaec7cb640971ceb9f4966482e7aad9e6b593cfec40",
+  "bytes": 15331,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3b8c07c7e33ca7df59ef.html",
+  "markdown": "docs/pages/3b8c07c7e33ca7df59ef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/updateNewStoryReaction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Reaction",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

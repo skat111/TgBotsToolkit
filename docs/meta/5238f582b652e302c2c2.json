@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleNoForwards",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleNoForwards",
+  "title": "channelAdminLogEventActionToggleNoForwards",
+  "fetched_at": "2026-09-11T06:05:48Z",
+  "sha256": "3cb2c0d0bbe77f2f23250d0f7821f1af9f2d8a1586a371983a1e3176dddfda99",
+  "bytes": 14362,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5238f582b652e302c2c2.html",
+  "markdown": "docs/pages/5238f582b652e302c2c2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionToggleNoForwards",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.exportedAuthorization",
+  "final_url": "https://core.telegram.org/constructor/auth.exportedAuthorization",
+  "title": "auth.exportedAuthorization",
+  "fetched_at": "2026-09-11T06:05:34Z",
+  "sha256": "8bb331fa076b9db0a0a46e4d76aaac96672dd65c0ca4fe55a79cef2a4d636f65",
+  "bytes": 14492,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4853b1935dbc5efdd67f.html",
+  "markdown": "docs/pages/4853b1935dbc5efdd67f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.exportedAuthorization",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.ExportedAuthorization",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

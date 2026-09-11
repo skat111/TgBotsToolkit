@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/updateShortChatMessage",
+  "final_url": "https://core.telegram.org/constructor/updateShortChatMessage",
+  "title": "updateShortChatMessage",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "502ee1a9192b94beef9d577f8a8b6558a51869d593a93c1fb85f9e0826d5bf6e",
+  "bytes": 19194,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e48e8ad920b48f9821d3.html",
+  "markdown": "docs/pages/e48e8ad920b48f9821d3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateShortChatMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/MessageFwdHeader",
+    "https://core.telegram.org/type/MessageReplyHeader",
+    "https://core.telegram.org/type/Updates",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

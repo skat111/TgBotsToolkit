@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/bankCardOpenUrl",
+  "final_url": "https://core.telegram.org/constructor/bankCardOpenUrl",
+  "title": "bankCardOpenUrl",
+  "fetched_at": "2026-09-11T06:05:36Z",
+  "sha256": "aa0e4cabc77b24f9d47691be764f79d606d0fcdb3a9a82cd7eceed6d071c143f",
+  "bytes": 14321,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8fc64473fe02210db437.html",
+  "markdown": "docs/pages/8fc64473fe02210db437.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/bankCardOpenUrl",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BankCardOpenUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

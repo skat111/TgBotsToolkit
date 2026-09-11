@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/statsGroupTopAdmin",
+  "final_url": "https://core.telegram.org/constructor/statsGroupTopAdmin",
+  "title": "statsGroupTopAdmin",
+  "fetched_at": "2026-09-11T06:07:44Z",
+  "sha256": "2526329011956ae48df07035249d6698e6b8cec38c9d064658cf0502f7d789d5",
+  "bytes": 15330,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9225596c507b02a95591.html",
+  "markdown": "docs/pages/9225596c507b02a95591.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/statsGroupTopAdmin",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsGroupTopAdmin",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

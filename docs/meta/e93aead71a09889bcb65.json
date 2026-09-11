@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateSmsJob",
+  "final_url": "https://core.telegram.org/constructor/updateSmsJob",
+  "title": "updateSmsJob",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "03743ffd947bcb4b4e6fea949c9fd768b2cf01f73c7184bcf3963588a9920b58",
+  "bytes": 14051,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e93aead71a09889bcb65.html",
+  "markdown": "docs/pages/e93aead71a09889bcb65.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateSmsJob",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/string"
+  ]
+}

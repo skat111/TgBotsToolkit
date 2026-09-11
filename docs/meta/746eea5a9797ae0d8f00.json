@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_add_block.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_add_block.html",
+  "title": "TDLib: chatActionBarReportAddBlock Class Reference",
+  "fetched_at": "2026-09-11T06:13:33Z",
+  "sha256": "b07c82175073f448e2faa7bda2887ce0cf1efb9af66b66c6de5647b490824c3a",
+  "bytes": 22049,
+  "content_type": "text/html",
+  "raw": "docs/raw/746eea5a9797ae0d8f00.html",
+  "markdown": "docs/pages/746eea5a9797ae0d8f00.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action_bar.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1account_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_chat_to_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_contact.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_add_block-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_report_add_block.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1report_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_notification_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_message_sender_block_list.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

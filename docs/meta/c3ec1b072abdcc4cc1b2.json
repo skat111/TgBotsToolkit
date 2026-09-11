@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/aiComposeTone",
+  "final_url": "https://core.telegram.org/constructor/aiComposeTone",
+  "title": "aiComposeTone",
+  "fetched_at": "2026-09-11T06:05:31Z",
+  "sha256": "4defb574b4abfa693d5adde3a977e728bb8422c3869df3f20cf32b199fc4ac0d",
+  "bytes": 18641,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c3ec1b072abdcc4cc1b2.html",
+  "markdown": "docs/pages/c3ec1b072abdcc4cc1b2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/aiComposeTone",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/aicompose.getToneExample",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/AiComposeTone",
+    "https://core.telegram.org/type/AiComposeToneExample",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

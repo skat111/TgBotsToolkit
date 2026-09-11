@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/InputChatlist",
+  "final_url": "https://core.telegram.org/type/InputChatlist",
+  "title": "InputChatlist",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "3222c629bcbd296aa39a3572150262eaaaf2939e750c463faaa9335fe7948d2b",
+  "bytes": 13885,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e3ca95fbe5290df7f2fc.html",
+  "markdown": "docs/pages/e3ca95fbe5290df7f2fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputChatlistDialogFilter",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputChatlist",
+    "https://core.telegram.org/type/int"
+  ]
+}

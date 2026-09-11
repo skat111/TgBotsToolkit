@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/ChatBannedRights",
+  "final_url": "https://core.telegram.org/type/ChatBannedRights",
+  "title": "ChatBannedRights",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "d7275eebd68390182f2db95b44a71d9b50261152298bb2e23e47f99b2d14b4d9",
+  "bytes": 15354,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/40f1e3208829c5f0df98.html",
+  "markdown": "docs/pages/40f1e3208829c5f0df98.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatBannedRights",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatBannedRights",
+    "https://core.telegram.org/type/int"
+  ]
+}

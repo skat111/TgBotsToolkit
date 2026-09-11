@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantEditRank",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantEditRank",
+  "title": "channelAdminLogEventActionParticipantEditRank",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "0e9886a0ab7186a6468a219643a860f2f53eed5da7629cf0709035a82a944c05",
+  "bytes": 15290,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/91ba82e69f3aa3f9476e.html",
+  "markdown": "docs/pages/91ba82e69f3aa3f9476e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantEditRank",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

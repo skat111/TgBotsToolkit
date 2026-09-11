@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_custom_emoji_sticker_set_changed.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_custom_emoji_sticker_set_changed.html",
+  "title": "TDLib: chatEventCustomEmojiStickerSetChanged Class Reference",
+  "fetched_at": "2026-09-11T06:13:36Z",
+  "sha256": "957d5271d3ace86f45ccdb385dcb0850ef7ea0741113893b10f2f0fd6f130f67",
+  "bytes": 20065,
+  "content_type": "text/html",
+  "raw": "docs/raw/c6bf276500bdeaf55dc6.html",
+  "markdown": "docs/pages/c6bf276500bdeaf55dc6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_event_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_custom_emoji_sticker_set_changed-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_custom_emoji_sticker_set_changed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMediaTodo",
+  "final_url": "https://core.telegram.org/constructor/inputMediaTodo",
+  "title": "inputMediaTodo",
+  "fetched_at": "2026-09-11T06:06:26Z",
+  "sha256": "9c2944065c492f274cf6fef202657e685311dcc3f730919a008158114b92de03",
+  "bytes": 14601,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/81c7e6b8a1c3aee55669.html",
+  "markdown": "docs/pages/81c7e6b8a1c3aee55669.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/todo",
+    "https://core.telegram.org/constructor/inputMediaTodo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/TodoList"
+  ]
+}

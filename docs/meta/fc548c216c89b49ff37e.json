@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.getUnreadPollVotes",
+  "final_url": "https://core.telegram.org/method/messages.getUnreadPollVotes",
+  "title": "messages.getUnreadPollVotes",
+  "fetched_at": "2026-09-11T06:10:17Z",
+  "sha256": "f8d315bd45ca3f794d2008711d85fc633287298f78c33bc481eb34ba3114da4d",
+  "bytes": 16864,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fc548c216c89b49ff37e.html",
+  "markdown": "docs/pages/fc548c216c89b49ff37e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/method/messages.getUnreadPollVotes",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.Messages"
+  ]
+}

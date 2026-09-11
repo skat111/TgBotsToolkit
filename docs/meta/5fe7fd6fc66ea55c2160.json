@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/decryptedMessageMediaContact",
+  "final_url": "https://core.telegram.org/constructor/decryptedMessageMediaContact",
+  "title": "decryptedMessageMediaContact",
+  "fetched_at": "2026-09-11T06:11:54Z",
+  "sha256": "3461edba7ac2c1a417b89719688768d0509ae81f893588939984730f72b43912",
+  "bytes": 14876,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5fe7fd6fc66ea55c2160.html",
+  "markdown": "docs/pages/5fe7fd6fc66ea55c2160.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/decryptedMessageMediaContact",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageMedia",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

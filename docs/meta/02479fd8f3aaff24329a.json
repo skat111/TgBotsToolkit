@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/payments.ExportedInvoice",
+  "final_url": "https://core.telegram.org/type/payments.ExportedInvoice",
+  "title": "payments.ExportedInvoice",
+  "fetched_at": "2026-09-11T06:17:18Z",
+  "sha256": "1e6aa3b4810535c0316290feb30efc20c50895ea81f979c9992eb8277ef5ddc0",
+  "bytes": 14650,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/02479fd8f3aaff24329a.html",
+  "markdown": "docs/pages/02479fd8f3aaff24329a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/payments.exportedInvoice",
+    "https://core.telegram.org/method/payments.exportInvoice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/payments.ExportedInvoice",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_email_address_verification_code.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_email_address_verification_code.html",
+  "title": "TDLib: sendEmailAddressVerificationCode Class Reference",
+  "fetched_at": "2026-09-11T06:15:31Z",
+  "sha256": "a8577755f53c16665411ed2909b367b6a97603f9652b79e843c2a171249c545e",
+  "bytes": 19962,
+  "content_type": "text/html",
+  "raw": "docs/raw/0e6d8a64ce6c7bc13700.html",
+  "markdown": "docs/pages/0e6d8a64ce6c7bc13700.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1email_address_authentication_code_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_email_address_verification_code-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_email_address_verification_code.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

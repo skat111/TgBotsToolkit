@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/StarsGiveawayWinnersOption",
+  "final_url": "https://core.telegram.org/type/StarsGiveawayWinnersOption",
+  "title": "StarsGiveawayWinnersOption",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "8ff64b9be023b011e555f6872ac8e3ebaa8711b8e635bfad566ec202d0b18507",
+  "bytes": 14282,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b314545e9777f976e5da.html",
+  "markdown": "docs/pages/b314545e9777f976e5da.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/starsGiveawayWinnersOption",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StarsGiveawayWinnersOption",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

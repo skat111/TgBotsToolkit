@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/PublicForward",
+  "final_url": "https://core.telegram.org/type/PublicForward",
+  "title": "PublicForward",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "39a72b998f25f1021c70bdb544b6435b0fc6e616b6051f80e1e5c2cde6aa97fe",
+  "bytes": 15052,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a863ff1dc7f2989a2b9a.html",
+  "markdown": "docs/pages/a863ff1dc7f2989a2b9a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/publicForwardMessage",
+    "https://core.telegram.org/constructor/publicForwardStory",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PublicForward",
+    "https://core.telegram.org/type/StoryItem"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_positions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_positions.html",
+  "title": "TDLib: messagePositions Class Reference",
+  "fetched_at": "2026-09-11T06:14:55Z",
+  "sha256": "8b1c34cd566aaf64953ab28406a0cccc64b3ef38b9546772f7ac4a087263b8ea",
+  "bytes": 19888,
+  "content_type": "text/html",
+  "raw": "docs/raw/e12e677fe7673c04b7bb.html",
+  "markdown": "docs/pages/e12e677fe7673c04b7bb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_position.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_positions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_positions.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

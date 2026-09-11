@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/help.CountriesList",
+  "final_url": "https://core.telegram.org/type/help.CountriesList",
+  "title": "help.CountriesList",
+  "fetched_at": "2026-09-11T06:17:14Z",
+  "sha256": "1fb5e5a8069f039c00d8ef24c65f1fbbf21c020de67c188dac964e7828753421",
+  "bytes": 15261,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a58418bbfc24251c8afe.html",
+  "markdown": "docs/pages/a58418bbfc24251c8afe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.countriesList",
+    "https://core.telegram.org/constructor/help.countriesListNotModified",
+    "https://core.telegram.org/method/help.getCountriesList",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.CountriesList",
+    "https://core.telegram.org/type/help.Country",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

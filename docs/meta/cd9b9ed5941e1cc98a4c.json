@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist.html",
+  "title": "TDLib: checklist Class Reference",
+  "fetched_at": "2026-09-11T06:13:49Z",
+  "sha256": "6e0e7246857808d8bb329bdc01992203588b6004c653f7fc3dee4fce2b4228da",
+  "bytes": 24977,
+  "content_type": "text/html",
+  "raw": "docs/raw/cd9b9ed5941e1cc98a4c.html",
+  "markdown": "docs/pages/cd9b9ed5941e1cc98a4c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

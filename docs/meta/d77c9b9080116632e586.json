@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.toggleBotInAttachMenu",
+  "final_url": "https://core.telegram.org/method/messages.toggleBotInAttachMenu",
+  "title": "messages.toggleBotInAttachMenu",
+  "fetched_at": "2026-09-11T06:10:34Z",
+  "sha256": "2f447fda84e2429a5ddf4f067529bff82377355283258723acbd9b51bd974650",
+  "bytes": 16754,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d77c9b9080116632e586.html",
+  "markdown": "docs/pages/d77c9b9080116632e586.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/attach",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/attachMenuBot",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.toggleBotInAttachMenu",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputUser"
+  ]
+}

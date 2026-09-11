@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/account.resetNotifySettings",
+  "final_url": "https://core.telegram.org/method/account.resetNotifySettings",
+  "title": "account.resetNotifySettings",
+  "fetched_at": "2026-09-11T06:08:49Z",
+  "sha256": "02b340260c2975c395da08458720017e9582089fb03af30fd4a53e2d3099550d",
+  "bytes": 14367,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a0df7efe09b40aff62bb.html",
+  "markdown": "docs/pages/a0df7efe09b40aff62bb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.resetNotifySettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

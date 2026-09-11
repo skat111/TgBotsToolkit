@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_craft-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_craft-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:22Z",
+  "sha256": "2d63e33354c33b28d3ee5f90e226f4afde35fe376cd18a193e7d96f1b00b487e",
+  "bytes": 9634,
+  "content_type": "text/html",
+  "raw": "docs/raw/1dc5b5640ac1133ddd6f.html",
+  "markdown": "docs/pages/1dc5b5640ac1133ddd6f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_craft.html"
+  ]
+}

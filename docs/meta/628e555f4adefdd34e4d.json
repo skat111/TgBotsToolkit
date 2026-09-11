@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/phone.sendGroupCallEncryptedMessage",
+  "final_url": "https://core.telegram.org/method/phone.sendGroupCallEncryptedMessage",
+  "title": "phone.sendGroupCallEncryptedMessage",
+  "fetched_at": "2026-09-11T06:11:13Z",
+  "sha256": "19c18c026221b2c2eb21954c0b5f1cd8f79cc5111e6f2edcd65313bee1c568fe",
+  "bytes": 16407,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/628e555f4adefdd34e4d.html",
+  "markdown": "docs/pages/628e555f4adefdd34e4d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/phone.sendGroupCallEncryptedMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

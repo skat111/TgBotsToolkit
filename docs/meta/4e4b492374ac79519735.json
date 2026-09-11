@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_origin.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_origin.html",
+  "title": "TDLib: UpgradedGiftOrigin Class Reference",
+  "fetched_at": "2026-09-11T06:13:18Z",
+  "sha256": "c8dddd59c7504c1fa63e6d696f9e11ba20d33acf5a775aaa3f417f6618a3329e",
+  "bytes": 13075,
+  "content_type": "text/html",
+  "raw": "docs/raw/4e4b492374ac79519735.html",
+  "markdown": "docs/pages/4e4b492374ac79519735.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_origin-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_origin.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_blockchain.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_craft.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_offer.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_prepaid_upgrade.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_resale.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_transfer.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_upgrade.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

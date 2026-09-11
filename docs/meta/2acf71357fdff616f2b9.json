@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient.html",
+  "title": "TDLib: backgroundFillGradient Class Reference",
+  "fetched_at": "2026-09-11T06:13:26Z",
+  "sha256": "8ffa887171b9963bf8b56acf95f6e9a4cd6b28429ea897f6e64db5b2cd43fb56",
+  "bytes": 20980,
+  "content_type": "text/html",
+  "raw": "docs/raw/2acf71357fdff616f2b9.html",
+  "markdown": "docs/pages/2acf71357fdff616f2b9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_fill.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

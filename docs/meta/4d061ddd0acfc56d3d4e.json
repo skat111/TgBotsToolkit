@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/ContactStatus",
+  "final_url": "https://core.telegram.org/type/ContactStatus",
+  "title": "ContactStatus",
+  "fetched_at": "2026-09-11T06:16:55Z",
+  "sha256": "6d05b992da711288ebb31affc7811be2c5e49b09be05fc023894494e812e6fe5",
+  "bytes": 13953,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4d061ddd0acfc56d3d4e.html",
+  "markdown": "docs/pages/4d061ddd0acfc56d3d4e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contactStatus",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ContactStatus",
+    "https://core.telegram.org/type/UserStatus",
+    "https://core.telegram.org/type/long"
+  ]
+}

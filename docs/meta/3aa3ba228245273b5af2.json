@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/pollAnswerVoters",
+  "final_url": "https://core.telegram.org/constructor/pollAnswerVoters",
+  "title": "pollAnswerVoters",
+  "fetched_at": "2026-09-11T06:07:22Z",
+  "sha256": "1cd394bdbe62aff59110ac826b57d9766ef7a0813ac2350f4401074b81357f7c",
+  "bytes": 16696,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3aa3ba228245273b5af2.html",
+  "markdown": "docs/pages/3aa3ba228245273b5af2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/constructor/poll",
+    "https://core.telegram.org/constructor/pollAnswerVoters",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.saveDefaultSendAs",
+    "https://core.telegram.org/method/messages.sendVote",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PollAnswerVoters",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

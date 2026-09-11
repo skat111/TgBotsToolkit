@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_chat_boosts.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_chat_boosts.html",
+  "title": "TDLib: foundChatBoosts Class Reference",
+  "fetched_at": "2026-09-11T06:14:05Z",
+  "sha256": "4fee35abe0456652f2220cb7fd8bea8808bcbc8522d9987d35bba346400ae67b",
+  "bytes": 21235,
+  "content_type": "text/html",
+  "raw": "docs/raw/ea5fffe7830ca7d0cc02.html",
+  "markdown": "docs/pages/ea5fffe7830ca7d0cc02.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_boost.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_chat_boosts-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1found_chat_boosts.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

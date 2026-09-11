@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/inputGroupCallInviteMessage",
+  "final_url": "https://core.telegram.org/constructor/inputGroupCallInviteMessage",
+  "title": "inputGroupCallInviteMessage",
+  "fetched_at": "2026-09-11T06:06:22Z",
+  "sha256": "93bb8b8b254869e13b96d9d1825e8875c36f188c007007bd83802e6d374d9bd2",
+  "bytes": 15733,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/42b5bd2774c48dfd647c.html",
+  "markdown": "docs/pages/42b5bd2774c48dfd647c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputGroupCallInviteMessage",
+    "https://core.telegram.org/constructor/messageActionConferenceCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/int"
+  ]
+}

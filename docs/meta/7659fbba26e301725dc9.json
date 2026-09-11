@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_upgraded_gift_purchase_offer_rejected.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_upgraded_gift_purchase_offer_rejected.html",
+  "title": "TDLib: messageUpgradedGiftPurchaseOfferRejected Class Reference",
+  "fetched_at": "2026-09-11T06:14:58Z",
+  "sha256": "6e8ae5db897da8fabb2af230a5090bcdac53b98fd75e4e66740a12cddeb03cb9",
+  "bytes": 23161,
+  "content_type": "text/html",
+  "raw": "docs/raw/7659fbba26e301725dc9.html",
+  "markdown": "docs/pages/7659fbba26e301725dc9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_resale_price.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_upgraded_gift_purchase_offer_rejected-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_upgraded_gift_purchase_offer_rejected.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/storage.fileGif",
+  "final_url": "https://core.telegram.org/constructor/storage.fileGif",
+  "title": "storage.fileGif",
+  "fetched_at": "2026-09-11T06:07:45Z",
+  "sha256": "0f133634790a630465d9feddc240d579e2e2813fabdd2c91688d027a7873f927",
+  "bytes": 13872,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c19aa6594c1de185b2b3.html",
+  "markdown": "docs/pages/c19aa6594c1de185b2b3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/storage.fileGif",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/storage.FileType"
+  ]
+}

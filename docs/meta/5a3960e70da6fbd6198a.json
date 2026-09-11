@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/updates.differenceSlice",
+  "final_url": "https://core.telegram.org/constructor/updates.differenceSlice",
+  "title": "updates.differenceSlice",
+  "fetched_at": "2026-09-11T06:08:10Z",
+  "sha256": "d418c92f67022f96012bc132df2f6f1fab283d308d50ffdf36305cb4e4fe9979",
+  "bytes": 16205,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5a3960e70da6fbd6198a.html",
+  "markdown": "docs/pages/5a3960e70da6fbd6198a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updates.differenceSlice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/EncryptedMessage",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/updates.Difference",
+    "https://core.telegram.org/type/updates.State"
+  ]
+}

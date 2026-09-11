@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_allow_bots.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_allow_bots.html",
+  "title": "TDLib: userPrivacySettingRuleAllowBots Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "8e2ceeb5be1d77d62fe7acd8999b284cd2b976adb78ad6ef093949dab0433afb",
+  "bytes": 15707,
+  "content_type": "text/html",
+  "raw": "docs/raw/f9a847453c10b0f33e9c.html",
+  "markdown": "docs/pages/f9a847453c10b0f33e9c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_privacy_setting_rule.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_allow_bots-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_rule_allow_bots.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

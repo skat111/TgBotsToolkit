@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteEdit",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteEdit",
+  "title": "channelAdminLogEventActionExportedInviteEdit",
+  "fetched_at": "2026-09-11T06:05:46Z",
+  "sha256": "bd365dad191725e24c1b68385bccf24d0a83e3e5be88c94e4a1290e32fc766be",
+  "bytes": 14683,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1a0800ab6aa4bae37f88.html",
+  "markdown": "docs/pages/1a0800ab6aa4bae37f88.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteEdit",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ExportedChatInvite"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/updateConfig",
+  "final_url": "https://core.telegram.org/constructor/updateConfig",
+  "title": "updateConfig",
+  "fetched_at": "2026-09-11T06:07:57Z",
+  "sha256": "f1c306446ec7ec2d8df3cf15336a3b4da16710535a17636610ae169b700b4135",
+  "bytes": 14859,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e47542fed7fde14e300e.html",
+  "markdown": "docs/pages/e47542fed7fde14e300e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateConfig",
+    "https://core.telegram.org/method/help.getAppConfig",
+    "https://core.telegram.org/method/help.getConfig",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

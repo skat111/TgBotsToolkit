@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:35Z",
+  "sha256": "957272a40211bf8fcd5792e188aa9748e06a78c4e8c7908afdefe7281e3feb97",
+  "bytes": 9505,
+  "content_type": "text/html",
+  "raw": "docs/raw/17d676485ba28f6f96e8.html",
+  "markdown": "docs/pages/17d676485ba28f6f96e8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_cancel.html"
+  ]
+}

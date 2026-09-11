@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/botMenuButton",
+  "final_url": "https://core.telegram.org/constructor/botMenuButton",
+  "title": "botMenuButton",
+  "fetched_at": "2026-09-11T06:05:39Z",
+  "sha256": "b36ca72bc72da2a76b7fa1e6c378b737896bfa853100ab687959487772ce69b8",
+  "bytes": 15203,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/04a3d41fe2c2193dbc71.html",
+  "markdown": "docs/pages/04a3d41fe2c2193dbc71.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/menu",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botMenuButton",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotMenuButton",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/PeerStories",
+  "final_url": "https://core.telegram.org/type/PeerStories",
+  "title": "PeerStories",
+  "fetched_at": "2026-09-11T06:17:06Z",
+  "sha256": "21a28501331481d3ae2cfb4307c9de71d90edfdee03fee376d7f436e094783a0",
+  "bytes": 14486,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dd41d7116bce84adef5d.html",
+  "markdown": "docs/pages/dd41d7116bce84adef5d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/peerStories",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PeerStories",
+    "https://core.telegram.org/type/StoryItem",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

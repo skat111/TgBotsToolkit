@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_purchase_offer_state.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_purchase_offer_state.html",
+  "title": "TDLib: GiftPurchaseOfferState Class Reference",
+  "fetched_at": "2026-09-11T06:12:08Z",
+  "sha256": "c80ae112bae6cbd32a51a6ddfb44305153f75eb2011de33e833856d726b1cf0f",
+  "bytes": 12665,
+  "content_type": "text/html",
+  "raw": "docs/raw/b802b5176f589566e3d8.html",
+  "markdown": "docs/pages/b802b5176f589566e3d8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_purchase_offer_state-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_purchase_offer_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_purchase_offer_state_accepted.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_purchase_offer_state_pending.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_purchase_offer_state_rejected.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

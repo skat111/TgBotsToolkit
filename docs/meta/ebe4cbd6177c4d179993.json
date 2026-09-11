@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic_count.html",
+  "title": "TDLib: updateSavedMessagesTopicCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "0f17bdabeb47b15733259fa85f5f155536fa1b417c3e1aad1cf3b3fc6908c39a",
+  "bytes": 18495,
+  "content_type": "text/html",
+  "raw": "docs/raw/ebe4cbd6177c4d179993.html",
+  "markdown": "docs/pages/ebe4cbd6177c4d179993.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

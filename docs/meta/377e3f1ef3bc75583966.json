@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStickerSetEmojiDefaultStatuses",
+  "final_url": "https://core.telegram.org/constructor/inputStickerSetEmojiDefaultStatuses",
+  "title": "inputStickerSetEmojiDefaultStatuses",
+  "fetched_at": "2026-09-11T06:06:37Z",
+  "sha256": "91d7f7dc03ee6a5fef2ec07789ae09b1521e53fbd3fd7a0be86da2e45cb56f95",
+  "bytes": 14468,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/377e3f1ef3bc75583966.html",
+  "markdown": "docs/pages/377e3f1ef3bc75583966.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputStickerSetEmojiDefaultStatuses",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputStickerSet"
+  ]
+}

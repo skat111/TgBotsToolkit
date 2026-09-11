@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/channelParticipantBanned",
+  "final_url": "https://core.telegram.org/constructor/channelParticipantBanned",
+  "title": "channelParticipantBanned",
+  "fetched_at": "2026-09-11T06:05:49Z",
+  "sha256": "1fd06ad0c4a88f31b386abd541a503f41842994bba8eeb145710e8f030078abf",
+  "bytes": 16402,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1d7300470f8366d1a679.html",
+  "markdown": "docs/pages/1d7300470f8366d1a679.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/api/rights",
+    "https://core.telegram.org/constructor/channelParticipantBanned",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelParticipant",
+    "https://core.telegram.org/type/ChatBannedRights",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

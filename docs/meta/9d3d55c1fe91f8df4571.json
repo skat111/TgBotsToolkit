@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accent_color-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accent_color-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:21Z",
+  "sha256": "1c933cc0fdaabd582159d1692880af0d6ddf72e3336a54752b7935750895002e",
+  "bytes": 11278,
+  "content_type": "text/html",
+  "raw": "docs/raw/9d3d55c1fe91f8df4571.html",
+  "markdown": "docs/pages/9d3d55c1fe91f8df4571.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accent_color.html"
+  ]
+}

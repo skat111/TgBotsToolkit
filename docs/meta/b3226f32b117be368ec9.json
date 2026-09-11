@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reactor.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reactor.html",
+  "title": "TDLib: paidReactor Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "6ca8a8dd3b10e1e2c92c41478a6d9efcf4481a4a9e47a623cea554cf34bd9c5f",
+  "bytes": 23025,
+  "content_type": "text/html",
+  "raw": "docs/raw/b3226f32b117be368ec9.html",
+  "markdown": "docs/pages/b3226f32b117be368ec9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reactor-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reactor.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

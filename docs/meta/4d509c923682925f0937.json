@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/mediaAreaWeather",
+  "final_url": "https://core.telegram.org/constructor/mediaAreaWeather",
+  "title": "mediaAreaWeather",
+  "fetched_at": "2026-09-11T06:06:44Z",
+  "sha256": "4cd7d1bafb08cbf3c31f9e2dcfc9f5e7217e48b9d81fbe3aaae4fabbf962ca24",
+  "bytes": 15607,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4d509c923682925f0937.html",
+  "markdown": "docs/pages/4d509c923682925f0937.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/animated-emojis",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/mediaAreaWeather",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MediaArea",
+    "https://core.telegram.org/type/MediaAreaCoordinates",
+    "https://core.telegram.org/type/double",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

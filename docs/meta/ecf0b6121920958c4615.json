@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup_members_filter_restricted.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup_members_filter_restricted.html",
+  "title": "TDLib: supergroupMembersFilterRestricted Class Reference",
+  "fetched_at": "2026-09-11T06:15:57Z",
+  "sha256": "3ea2e54c1dc2e50ff8ea090dd268272976d2fae11d3bf2f81101fd4fbc8da084",
+  "bytes": 18631,
+  "content_type": "text/html",
+  "raw": "docs/raw/ecf0b6121920958c4615.html",
+  "markdown": "docs/pages/ecf0b6121920958c4615.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_supergroup_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup_members_filter_restricted-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1supergroup_members_filter_restricted.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

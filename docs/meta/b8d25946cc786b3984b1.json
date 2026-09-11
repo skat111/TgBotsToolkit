@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_tags.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_tags.html",
+  "title": "TDLib: getLogTags Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "8b87db9c1bca1bb0edbaba94e00dbee37405b76b82636a824d49a760df2b2f2e",
+  "bytes": 16839,
+  "content_type": "text/html",
+  "raw": "docs/raw/b8d25946cc786b3984b1.html",
+  "markdown": "docs/pages/b8d25946cc786b3984b1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_tags-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_log_tags.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1log_tags.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

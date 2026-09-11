@@ -1,0 +1,19 @@
+Source: https://core.telegram.org/bots/api#inlinequeryresultvoice
+Snapshot: 2026-09-11T06:04:42Z
+
+#### InlineQueryResultVoice
+
+Represents a link to a voice recording in an .OGG container encoded with OPUS. By default, this voice recording will be sent by the user. Alternatively, you can use *input_message_content* to send a message with the specified content instead of the the voice message.
+
+| Field | Type | Description |
+| --- | --- | --- |
+| type | String | Type of the result, must be *voice* |
+| id | String | Unique identifier for this result, 1-64 bytes |
+| voice_url | String | A valid URL for the voice recording |
+| title | String | Recording title |
+| caption | String | *Optional*. Caption, 0-1024 characters after entities parsing |
+| parse_mode | String | *Optional*. Mode for parsing entities in the voice message caption. See [formatting options](https://core.telegram.org/bots/api#formatting-options) for more details. |
+| caption_entities | Array of [MessageEntity](https://core.telegram.org/bots/api#messageentity) | *Optional*. List of special entities that appear in the caption, which can be specified instead of *parse_mode* |
+| voice_duration | Integer | *Optional*. Recording duration in seconds |
+| reply_markup | [InlineKeyboardMarkup](https://core.telegram.org/bots/api#inlinekeyboardmarkup) | *Optional*. [Inline keyboard](https://core.telegram.org/bots/features#inline-keyboards) attached to the message |
+| input_message_content | [InputMessageContent](https://core.telegram.org/bots/api#inputmessagecontent) | *Optional*. Content of the message to be sent instead of the voice recording |

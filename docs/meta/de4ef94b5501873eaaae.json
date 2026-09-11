@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.acceptAuthorization",
+  "final_url": "https://core.telegram.org/method/account.acceptAuthorization",
+  "title": "account.acceptAuthorization",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "62e9f8fb081524d47bd62cc917dd277ef1c9e4344a7122c162c2312b60b7d595",
+  "bytes": 16196,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/de4ef94b5501873eaaae.html",
+  "markdown": "docs/pages/de4ef94b5501873eaaae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.acceptAuthorization",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/SecureCredentialsEncrypted",
+    "https://core.telegram.org/type/SecureValueHash",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

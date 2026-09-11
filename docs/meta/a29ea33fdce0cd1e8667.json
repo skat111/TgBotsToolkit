@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/ReportResult",
+  "final_url": "https://core.telegram.org/type/ReportResult",
+  "title": "ReportResult",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "6fb4a441919b3ca1c2d7a2e48086d9aa202457785db098857be75d0b0b006f0e",
+  "bytes": 16424,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a29ea33fdce0cd1e8667.html",
+  "markdown": "docs/pages/a29ea33fdce0cd1e8667.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/reportResultAddComment",
+    "https://core.telegram.org/constructor/reportResultChooseOption",
+    "https://core.telegram.org/constructor/reportResultReported",
+    "https://core.telegram.org/method/messages.report",
+    "https://core.telegram.org/method/stories.report",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/MessageReportOption",
+    "https://core.telegram.org/type/ReportResult",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoiceStarGift",
+  "final_url": "https://core.telegram.org/constructor/inputInvoiceStarGift",
+  "title": "inputInvoiceStarGift",
+  "fetched_at": "2026-09-11T06:06:23Z",
+  "sha256": "d283948fc1bd12c27141fc947a90f6157cf52e522174d6f0ec84f5eeee582064",
+  "bytes": 17060,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8f06a941efd5233d128f.html",
+  "markdown": "docs/pages/8f06a941efd5233d128f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputInvoiceStarGift",
+    "https://core.telegram.org/constructor/starGift",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/long"
+  ]
+}

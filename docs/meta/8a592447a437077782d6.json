@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-dependent",
+  "final_url": "https://core.telegram.org/mtproto/TL-dependent",
+  "title": "TL dependent types",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "e6e07b95422b20c1c8099722c721179d2acf5c3026a4317b2cd1c1fc4b1cefd8",
+  "bytes": 16775,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8a592447a437077782d6.html",
+  "markdown": "docs/pages/8a592447a437077782d6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-dependent",
+    "https://core.telegram.org/mtproto/TL-optargs",
+    "https://core.telegram.org/schema"
+  ]
+}

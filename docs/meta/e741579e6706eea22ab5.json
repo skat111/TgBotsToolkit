@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/SecureValueError",
+  "final_url": "https://core.telegram.org/type/SecureValueError",
+  "title": "SecureValueError",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "a80619958b12b6792e023b163c213c81cd3e0f5fb15736c6eb7d00d810a49eaa",
+  "bytes": 18627,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e741579e6706eea22ab5.html",
+  "markdown": "docs/pages/e741579e6706eea22ab5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueError",
+    "https://core.telegram.org/constructor/secureValueErrorData",
+    "https://core.telegram.org/constructor/secureValueErrorFile",
+    "https://core.telegram.org/constructor/secureValueErrorFiles",
+    "https://core.telegram.org/constructor/secureValueErrorFrontSide",
+    "https://core.telegram.org/constructor/secureValueErrorReverseSide",
+    "https://core.telegram.org/constructor/secureValueErrorSelfie",
+    "https://core.telegram.org/constructor/secureValueErrorTranslationFile",
+    "https://core.telegram.org/constructor/secureValueErrorTranslationFiles",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

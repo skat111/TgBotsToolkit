@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_voice.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_voice.html",
+  "title": "TDLib: profileTabVoice Class Reference",
+  "fetched_at": "2026-09-11T06:15:15Z",
+  "sha256": "3f8b8cae199f7ded94610018f14ec823d1da82268b1cf3be2267751c6ab65c20",
+  "bytes": 15479,
+  "content_type": "text/html",
+  "raw": "docs/raw/d4c4f348e5573b2a4691.html",
+  "markdown": "docs/pages/d4c4f348e5573b2a4691.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_profile_tab.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_voice-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_voice.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

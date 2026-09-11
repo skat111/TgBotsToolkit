@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/DraftMessage",
+  "final_url": "https://core.telegram.org/type/DraftMessage",
+  "title": "DraftMessage",
+  "fetched_at": "2026-09-11T06:16:58Z",
+  "sha256": "5f85944245900076ef4848f056610c2648f61211391878d13d87a6e288d4c5a3",
+  "bytes": 15067,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9276e08e01456358a074.html",
+  "markdown": "docs/pages/9276e08e01456358a074.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/drafts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/draftMessage",
+    "https://core.telegram.org/constructor/draftMessageEmpty",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DraftMessage",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/InputReplyTo",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/SuggestedPost",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

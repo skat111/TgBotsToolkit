@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/emailVerificationApple",
+  "final_url": "https://core.telegram.org/constructor/emailVerificationApple",
+  "title": "emailVerificationApple",
+  "fetched_at": "2026-09-11T06:06:02Z",
+  "sha256": "9fe31f8b76311e6d51a9a7b19b08e772de9ffbd08521e4e6af5d6d0a186c2c8f",
+  "bytes": 14181,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9217be2cae4c269d1006.html",
+  "markdown": "docs/pages/9217be2cae4c269d1006.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emailVerificationApple",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmailVerification",
+    "https://core.telegram.org/type/string"
+  ]
+}

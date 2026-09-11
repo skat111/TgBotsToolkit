@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.reorderStickerSets",
+  "final_url": "https://core.telegram.org/method/messages.reorderStickerSets",
+  "title": "messages.reorderStickerSets",
+  "fetched_at": "2026-09-11T06:10:21Z",
+  "sha256": "a006698f403c29ebad1070f77ff17e7327f5c47b7de8d7ada7ec507693e8c68a",
+  "bytes": 15811,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/baf6f4fec129ecd69978.html",
+  "markdown": "docs/pages/baf6f4fec129ecd69978.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.reorderStickerSets",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

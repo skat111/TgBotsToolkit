@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-formal",
+  "final_url": "https://core.telegram.org/mtproto/TL-formal",
+  "title": "Formal TL declaration",
+  "fetched_at": "2026-09-11T06:11:40Z",
+  "sha256": "dc5f2177f727d8cab687fa3580dbc3ca65db36607e3140174878aceddaadba09",
+  "bytes": 21039,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/65705fb1061bcfeab291.html",
+  "markdown": "docs/pages/65705fb1061bcfeab291.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/mtproto/TL-formal",
+    "https://core.telegram.org/mtproto/TL-patterns",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_current_weather.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_current_weather.html",
+  "title": "TDLib: getCurrentWeather Class Reference",
+  "fetched_at": "2026-09-11T06:14:10Z",
+  "sha256": "02a89b33ee145661cc2e39359bded81c8d9f5909011c6b1434637a44cbdd1c92",
+  "bytes": 19667,
+  "content_type": "text/html",
+  "raw": "docs/raw/d504f3c8f49d666870cb.html",
+  "markdown": "docs/pages/d504f3c8f49d666870cb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1current_weather.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_current_weather-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_current_weather.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

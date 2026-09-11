@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/updateMonoForumNoPaidException",
+  "final_url": "https://core.telegram.org/constructor/updateMonoForumNoPaidException",
+  "title": "updateMonoForumNoPaidException",
+  "fetched_at": "2026-09-11T06:08:01Z",
+  "sha256": "0e48332caebc6b7683732cf22e6f9486505e9b9a6056b08fed90619a9f2ea862",
+  "bytes": 16172,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4d03477b562442e807a8.html",
+  "markdown": "docs/pages/4d03477b562442e807a8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateMonoForumNoPaidException",
+    "https://core.telegram.org/method/account.toggleNoPaidMessagesException",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_giveaway_payment_options.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_giveaway_payment_options.html",
+  "title": "TDLib: getPremiumGiveawayPaymentOptions Class Reference",
+  "fetched_at": "2026-09-11T06:14:19Z",
+  "sha256": "43be50863563383fd4b00eef8076e138a0eacedae2e305548fdbeab96d5b3a6a",
+  "bytes": 20336,
+  "content_type": "text/html",
+  "raw": "docs/raw/26dc8a440947094dfd3e.html",
+  "markdown": "docs/pages/26dc8a440947094dfd3e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_giveaway_payment_options-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_premium_giveaway_payment_options.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_giveaway_payment_options.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

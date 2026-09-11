@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_scope_notification_settings.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_scope_notification_settings.html",
+  "title": "TDLib: getScopeNotificationSettings Class Reference",
+  "fetched_at": "2026-09-11T06:14:21Z",
+  "sha256": "f3356fcbdb9bcac4e3b2cc1fb0c613b07b405a57feca5723e8a67122f8410357",
+  "bytes": 20202,
+  "content_type": "text/html",
+  "raw": "docs/raw/8deef519f2ae40755b10.html",
+  "markdown": "docs/pages/8deef519f2ae40755b10.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_notification_settings_scope.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_scope_notification_settings-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_scope_notification_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1scope_notification_settings.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

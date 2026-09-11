@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/passport/sdk-javascript",
+  "final_url": "https://core.telegram.org/passport/sdk-javascript",
+  "title": "Javascript SDK",
+  "fetched_at": "2026-09-11T06:11:45Z",
+  "sha256": "d9007c32f5a7f3c7e0c08f1d79f2a432ac9aa5c54e7d0c2c4d4574405cce50a4",
+  "bytes": 11999,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f950a25faaded030c166.html",
+  "markdown": "docs/pages/f950a25faaded030c166.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/sdk-javascript",
+    "https://core.telegram.org/schema"
+  ]
+}

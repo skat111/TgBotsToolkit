@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.cancelPasswordEmail",
+  "final_url": "https://core.telegram.org/method/account.cancelPasswordEmail",
+  "title": "account.cancelPasswordEmail",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "ecbbd767cf60f8f63b0603f1ca69b904de9ef3e2e644acb8bd9df40d3ea06d5e",
+  "bytes": 15239,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e5407c326b0bbb67a020.html",
+  "markdown": "docs/pages/e5407c326b0bbb67a020.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.cancelPasswordEmail",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_statistics.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_statistics.html",
+  "title": "TDLib: starRevenueStatistics Class Reference",
+  "fetched_at": "2026-09-11T06:15:46Z",
+  "sha256": "398a18ca7a19585a798e91d76032a9ae6d65e5181b715fb247db34930d58dd7b",
+  "bytes": 21338,
+  "content_type": "text/html",
+  "raw": "docs/raw/00dce64a08b29d4e07c4.html",
+  "markdown": "docs/pages/00dce64a08b29d4e07c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_statistical_graph.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_statistics-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_statistics.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

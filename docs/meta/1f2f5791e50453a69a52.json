@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/stories.updateAlbum",
+  "final_url": "https://core.telegram.org/method/stories.updateAlbum",
+  "title": "stories.updateAlbum",
+  "fetched_at": "2026-09-11T06:11:35Z",
+  "sha256": "8892b7af51a5d71da8155386fb10fa0609c195094b3748f135f01bcbbbde525a",
+  "bytes": 17418,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1f2f5791e50453a69a52.html",
+  "markdown": "docs/pages/1f2f5791e50453a69a52.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/storyAlbum",
+    "https://core.telegram.org/method/stories.updateAlbum",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Photo",
+    "https://core.telegram.org/type/StoryAlbum",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

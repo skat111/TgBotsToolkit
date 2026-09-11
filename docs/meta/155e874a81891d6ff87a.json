@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/stats.publicForwards",
+  "final_url": "https://core.telegram.org/constructor/stats.publicForwards",
+  "title": "stats.publicForwards",
+  "fetched_at": "2026-09-11T06:07:43Z",
+  "sha256": "38bf8b92eec3d69dece0f1c19f9afe2b56ecd9c2497bd16a59ab9cf00761630f",
+  "bytes": 16470,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/155e874a81891d6ff87a.html",
+  "markdown": "docs/pages/155e874a81891d6ff87a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/stats.publicForwards",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/PublicForward",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/stats.PublicForwards",
+    "https://core.telegram.org/type/string"
+  ]
+}

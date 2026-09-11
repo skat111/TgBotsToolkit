@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/payments.canPurchaseStore",
+  "final_url": "https://core.telegram.org/method/payments.canPurchaseStore",
+  "title": "payments.canPurchaseStore",
+  "fetched_at": "2026-09-11T06:10:41Z",
+  "sha256": "ebeba7df143692753da390bec62400f2935f478f1775cbd06e7359e86e2b1548",
+  "bytes": 15694,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/adde913f68a56c7cd400.html",
+  "markdown": "docs/pages/adde913f68a56c7cd400.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/payments.canPurchaseStore",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputStorePaymentPurpose"
+  ]
+}

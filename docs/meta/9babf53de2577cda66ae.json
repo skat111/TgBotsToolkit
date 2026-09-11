@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1scope_autosave_settings.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1scope_autosave_settings.html",
+  "title": "TDLib: scopeAutosaveSettings Class Reference",
+  "fetched_at": "2026-09-11T06:15:28Z",
+  "sha256": "4f191ed7b93ade9c72df551a06e6911c893afd5b336b1a4c4c36a686f0695abf",
+  "bytes": 20499,
+  "content_type": "text/html",
+  "raw": "docs/raw/9babf53de2577cda66ae.html",
+  "markdown": "docs/pages/9babf53de2577cda66ae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1scope_autosave_settings-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1scope_autosave_settings.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

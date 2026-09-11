@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/payments.getPremiumGiftCodeOptions",
+  "final_url": "https://core.telegram.org/method/payments.getPremiumGiftCodeOptions",
+  "title": "payments.getPremiumGiftCodeOptions",
+  "fetched_at": "2026-09-11T06:10:46Z",
+  "sha256": "25464d3789b6082c154471b1b3f8e6eb26c6bbc2830179fcec2a56af54349604",
+  "bytes": 15598,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c6393307e9c55550aae3.html",
+  "markdown": "docs/pages/c6393307e9c55550aae3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/payments.getPremiumGiftCodeOptions",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/PremiumGiftCodeOption",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

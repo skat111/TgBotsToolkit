@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/chatlists.deleteExportedInvite",
+  "final_url": "https://core.telegram.org/method/chatlists.deleteExportedInvite",
+  "title": "chatlists.deleteExportedInvite",
+  "fetched_at": "2026-09-11T06:09:32Z",
+  "sha256": "af665d48b787e7003699921c75c95628ed1b94c403f07042f7dba01b147ad798",
+  "bytes": 16132,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c4b344816eaacbe0f602.html",
+  "markdown": "docs/pages/c4b344816eaacbe0f602.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/chatlists.deleteExportedInvite",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChatlist",
+    "https://core.telegram.org/type/string"
+  ]
+}

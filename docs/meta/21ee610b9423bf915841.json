@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/profileTabPosts",
+  "final_url": "https://core.telegram.org/constructor/profileTabPosts",
+  "title": "profileTabPosts",
+  "fetched_at": "2026-09-11T06:07:27Z",
+  "sha256": "f6a5059bd90b161a61b58feba7c55278cfb2fe61a1df3a05bb3a00adfcb8d345",
+  "bytes": 14292,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/21ee610b9423bf915841.html",
+  "markdown": "docs/pages/21ee610b9423bf915841.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/profileTabPosts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/requirementToContactPremium",
+  "final_url": "https://core.telegram.org/constructor/requirementToContactPremium",
+  "title": "requirementToContactPremium",
+  "fetched_at": "2026-09-11T06:07:30Z",
+  "sha256": "b7f44d5ed9bc3495cfabb10d548e936d0900d25991567353569ae688da98587a",
+  "bytes": 14606,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bda8bb04c66bc5010814.html",
+  "markdown": "docs/pages/bda8bb04c66bc5010814.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/requirementToContactPremium",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RequirementToContact"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_driver_license.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_driver_license.html",
+  "title": "TDLib: passportElementDriverLicense Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "e648de8ab455f24ab82e7437970a206dd3961a54835ee0899bbed8cf55d89e32",
+  "bytes": 18815,
+  "content_type": "text/html",
+  "raw": "docs/raw/6c208ea04f121be592e9.html",
+  "markdown": "docs/pages/6c208ea04f121be592e9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1identity_document.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_driver_license-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_driver_license.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,145 @@
+# businessAwayMessage
+
+Source: https://core.telegram.org/constructor/businessAwayMessage
+
+Describes a [Telegram Business away message](https://core.telegram.org/api/business#away-messages), automatically sent to users writing to us when we're offline, during closing hours, while we're on vacation, or in some other custom time period when we cannot immediately answer to the user.
+
+* [Layer 223](https://core.telegram.org/constructor/businessAwayMessage#) 
+  + [1 – Base layer](https://core.telegram.org/constructor/businessAwayMessage?layer=1)
+  + [2 – New userpic notifications](https://core.telegram.org/constructor/businessAwayMessage?layer=2)
+  + [3 – Send message can trigger link change](https://core.telegram.org/constructor/businessAwayMessage?layer=3)
+  + [4 – Check-in chats](https://core.telegram.org/constructor/businessAwayMessage?layer=4)
+  + [5 – Localized SMS, localized notifications](https://core.telegram.org/constructor/businessAwayMessage?layer=5)
+  + [6 – Foursquare integration](https://core.telegram.org/constructor/businessAwayMessage?layer=6)
+  + [7 – Added wallPaperSolid](https://core.telegram.org/constructor/businessAwayMessage?layer=7)
+  + [8 – Added end-to-end encryption](https://core.telegram.org/constructor/businessAwayMessage?layer=8)
+  + [9 – Improved big files upload perfomance](https://core.telegram.org/constructor/businessAwayMessage?layer=9)
+  + [10 – Improved chat participants updates](https://core.telegram.org/constructor/businessAwayMessage?layer=10)
+  + [11 – Improved secret chats](https://core.telegram.org/constructor/businessAwayMessage?layer=11)
+  + [12 – New dynamic support](https://core.telegram.org/constructor/businessAwayMessage?layer=12)
+  + [13 – Audio, video MIME; contacts import retry; new secret actions](https://core.telegram.org/constructor/businessAwayMessage?layer=13)
+  + [14 – Notify settings sync, blacklist sync](https://core.telegram.org/constructor/businessAwayMessage?layer=14)
+  + [15 – Modified getHistory offset behaviour](https://core.telegram.org/constructor/businessAwayMessage?layer=15)
+  + [16 – Split sendCode into 2 parts](https://core.telegram.org/constructor/businessAwayMessage?layer=16)
+  + [17 – Added custom typing, introduced message flags](https://core.telegram.org/constructor/businessAwayMessage?layer=17)
+  + [18 – Added usernames](https://core.telegram.org/constructor/businessAwayMessage?layer=18)
+  + [23 – Stickers for secret chats](https://core.telegram.org/constructor/businessAwayMessage?layer=23)
+  + [105 – Scheduled messages, Cloud themes](https://core.telegram.org/constructor/businessAwayMessage?layer=105)
+  + [108 – Login with QR code](https://core.telegram.org/constructor/businessAwayMessage?layer=108)
+  + [109 – Polls v2](https://core.telegram.org/constructor/businessAwayMessage?layer=109)
+  + [110 – People Nearby 2.0, Bank card entity](https://core.telegram.org/constructor/businessAwayMessage?layer=110)
+  + [111 – Folders, Broadcast Stats](https://core.telegram.org/constructor/businessAwayMessage?layer=111)
+  + [112 – Old featured stickers, generic dice, poll timer, poll solution](https://core.telegram.org/constructor/businessAwayMessage?layer=112)
+  + [113 – PSA](https://core.telegram.org/constructor/businessAwayMessage?layer=113)
+  + [114 – Video thumbs for GIFs](https://core.telegram.org/constructor/businessAwayMessage?layer=114)
+  + [115 – Peek Channel Invite](https://core.telegram.org/constructor/businessAwayMessage?layer=115)
+  + [116 – Group Stats, Profile Videos](https://core.telegram.org/constructor/businessAwayMessage?layer=116)
+  + [117 – WebRTC Phone Calls](https://core.telegram.org/constructor/businessAwayMessage?layer=117)
+  + [118 – Callback with 2FA, Countries list](https://core.telegram.org/constructor/businessAwayMessage?layer=118)
+  + [119 – Comments in channels, Threads, Anonymous Admins](https://core.telegram.org/constructor/businessAwayMessage?layer=119)
+  + [120 – Multipins, Message Stats, GeoLive v2](https://core.telegram.org/constructor/businessAwayMessage?layer=120)
+  + [121 – SVG-based Outlines for Stickers](https://core.telegram.org/constructor/businessAwayMessage?layer=121)
+  + [122 – Voice Chats](https://core.telegram.org/constructor/businessAwayMessage?layer=122)
+  + [123 – Voice Chat improvements](https://core.telegram.org/constructor/businessAwayMessage?layer=123)
+  + [124 – Expiring Invite links](https://core.telegram.org/constructor/businessAwayMessage?layer=124)
+  + [125 – Voice Chats in Broadcasts](https://core.telegram.org/constructor/businessAwayMessage?layer=125)
+  + [126 – Ban channels in channels](https://core.telegram.org/constructor/businessAwayMessage?layer=126)
+  + [127 – Payments in channels](https://core.telegram.org/constructor/businessAwayMessage?layer=127)
+  + [128 – Microthumbs for User/Chat profile photos](https://core.telegram.org/constructor/businessAwayMessage?layer=128)
+  + [129 – Video Chats](https://core.telegram.org/constructor/businessAwayMessage?layer=129)
+  + [130 – Custom placeholder for bot reply keyboards](https://core.telegram.org/constructor/businessAwayMessage?layer=130)
+  + [131 – Reset 2FA Password after a week](https://core.telegram.org/constructor/businessAwayMessage?layer=131)
+  + [132 – Chat themes](https://core.telegram.org/constructor/businessAwayMessage?layer=132)
+  + [133 – 64-bit IDs for User/Chat](https://core.telegram.org/constructor/businessAwayMessage?layer=133)
+  + [134 – Chat Requests, Shared Media Calendar](https://core.telegram.org/constructor/businessAwayMessage?layer=134)
+  + [135 – Send Message As a Channel](https://core.telegram.org/constructor/businessAwayMessage?layer=135)
+  + [136 – Reactions](https://core.telegram.org/constructor/businessAwayMessage?layer=136)
+  + [137 – Translations](https://core.telegram.org/constructor/businessAwayMessage?layer=137)
+  + [138 – GIF Sticker Packs](https://core.telegram.org/constructor/businessAwayMessage?layer=138)
+  + [139 – RTMP streaming](https://core.telegram.org/constructor/businessAwayMessage?layer=139)
+  + [140 – WebApps, Cloud Ringtones](https://core.telegram.org/constructor/businessAwayMessage?layer=140)
+  + [142 – TCP Reflectors](https://core.telegram.org/constructor/businessAwayMessage?layer=142)
+  + [143 – Premium Subscription, Cloud Invoices](https://core.telegram.org/constructor/businessAwayMessage?layer=143)
+  + [144 – Premium as a Gift, Custom Emoji](https://core.telegram.org/constructor/businessAwayMessage?layer=144)
+  + [145 – Custom Reactions, Statuses, Sign In with email](https://core.telegram.org/constructor/businessAwayMessage?layer=145)
+  + [147 – Keywords for stickers and emojis](https://core.telegram.org/constructor/businessAwayMessage?layer=147)
+  + [148 – Forums, collectible usernames](https://core.telegram.org/constructor/businessAwayMessage?layer=148)
+  + [150 – Pinned forum topics, general topic](https://core.telegram.org/constructor/businessAwayMessage?layer=150)
+  + [151 – Media spoilers, suggested profile photos](https://core.telegram.org/constructor/businessAwayMessage?layer=151)
+  + [152 – Real-time translations, Firebase SMS authentication](https://core.telegram.org/constructor/businessAwayMessage?layer=152)
+  + [153 – Modify created stickersets](https://core.telegram.org/constructor/businessAwayMessage?layer=153)
+  + [155 – Dates for reactions](https://core.telegram.org/constructor/businessAwayMessage?layer=155)
+  + [158 – Shared folders, per-chat wallpapers](https://core.telegram.org/constructor/businessAwayMessage?layer=158)
+  + [159 – Anonymous votes](https://core.telegram.org/constructor/businessAwayMessage?layer=159)
+  + [160 – Stories](https://core.telegram.org/constructor/businessAwayMessage?layer=160)
+  + [164 – Stories in Channels](https://core.telegram.org/constructor/businessAwayMessage?layer=164)
+  + [166 – Giveaways in channels](https://core.telegram.org/constructor/businessAwayMessage?layer=166)
+  + [167 – Similar channels](https://core.telegram.org/constructor/businessAwayMessage?layer=167)
+  + [168 – Channel colors](https://core.telegram.org/constructor/businessAwayMessage?layer=168)
+  + [169 – Multiselection of chats for bots](https://core.telegram.org/constructor/businessAwayMessage?layer=169)
+  + [170 – Saved Messages 2.0](https://core.telegram.org/constructor/businessAwayMessage?layer=170)
+  + [171 – Saved Messages 2.0](https://core.telegram.org/constructor/businessAwayMessage?layer=171)
+  + [174 – Group boosts](https://core.telegram.org/constructor/businessAwayMessage?layer=174)
+  + [176 – Business](https://core.telegram.org/constructor/businessAwayMessage?layer=176)
+  + [177 – Business Bots, Birthdays](https://core.telegram.org/constructor/businessAwayMessage?layer=177)
+  + [178 – Saved Personal channel, Reactions notifications](https://core.telegram.org/constructor/businessAwayMessage?layer=178)
+  + [179 – Channel revenue stats, phrases in SMS](https://core.telegram.org/constructor/businessAwayMessage?layer=179)
+  + [180 – Message Effects, Hashtags](https://core.telegram.org/constructor/businessAwayMessage?layer=180)
+  + [181 – Stars](https://core.telegram.org/constructor/businessAwayMessage?layer=181)
+  + [182 – Stars Revenue](https://core.telegram.org/constructor/businessAwayMessage?layer=182)
+  + [183 – Paid posts](https://core.telegram.org/constructor/businessAwayMessage?layer=183)
+  + [184 – Stars Refunds](https://core.telegram.org/constructor/businessAwayMessage?layer=184)
+  + [185 – MiniApp Store, Star Gifts](https://core.telegram.org/constructor/businessAwayMessage?layer=185)
+  + [186 – Channel Subscriptions for Stars](https://core.telegram.org/constructor/businessAwayMessage?layer=186)
+  + [187 – Stars Giveaways](https://core.telegram.org/constructor/businessAwayMessage?layer=187)
+  + [189 – Stars Gifts](https://core.telegram.org/constructor/businessAwayMessage?layer=189)
+  + [192 – Video Qualities, Ads in bots](https://core.telegram.org/constructor/businessAwayMessage?layer=192)
+  + [194 – Stars Subscription for Bots](https://core.telegram.org/constructor/businessAwayMessage?layer=194)
+  + [195 – Affiliate Programs for Bots](https://core.telegram.org/constructor/businessAwayMessage?layer=195)
+  + [196 – Collectible gifts](https://core.telegram.org/constructor/businessAwayMessage?layer=196)
+  + [197 – Similar Bots](https://core.telegram.org/constructor/businessAwayMessage?layer=197)
+  + [198 – Collectibles as emoji statuses](https://core.telegram.org/constructor/businessAwayMessage?layer=198)
+  + [200 – Paid Messages](https://core.telegram.org/constructor/businessAwayMessage?layer=200)
+  + [202 – Conference calls](https://core.telegram.org/constructor/businessAwayMessage?layer=202)
+  + [203 – Resell collectible gifts](https://core.telegram.org/constructor/businessAwayMessage?layer=203)
+  + [204 – Monoforums](https://core.telegram.org/constructor/businessAwayMessage?layer=204)
+  + [205 – TODO lists](https://core.telegram.org/constructor/businessAwayMessage?layer=205)
+  + [207 – Suggested channel posts](https://core.telegram.org/constructor/businessAwayMessage?layer=207)
+  + [210 – Star gift collections, rating](https://core.telegram.org/constructor/businessAwayMessage?layer=210)
+  + [211 – Story Albums](https://core.telegram.org/constructor/businessAwayMessage?layer=211)
+  + [212 – Prepaid gift upgrades](https://core.telegram.org/constructor/businessAwayMessage?layer=212)
+  + [213 – Music in profile](https://core.telegram.org/constructor/businessAwayMessage?layer=213)
+  + [214 – Chat Themes with collectible gifts](https://core.telegram.org/constructor/businessAwayMessage?layer=214)
+  + [215 – Chat Gift Themes](https://core.telegram.org/constructor/businessAwayMessage?layer=215)
+  + [216 – Threaded view for Bots](https://core.telegram.org/constructor/businessAwayMessage?layer=216)
+  + [217 – Live Stories](https://core.telegram.org/constructor/businessAwayMessage?layer=217)
+  + [218 – Gift Auctions](https://core.telegram.org/constructor/businessAwayMessage?layer=218)
+  + [219 – Passkeys](https://core.telegram.org/constructor/businessAwayMessage?layer=219)
+  + [220 – Gift Offers](https://core.telegram.org/constructor/businessAwayMessage?layer=220)
+  + [222 – Gift Crafts](https://core.telegram.org/constructor/businessAwayMessage?layer=222)
+  + [**223 – User tags in groups**](https://core.telegram.org/constructor/businessAwayMessage?layer=223)
+  + [More...](https://core.telegram.org/api/layers)
+
+```
+businessAwayMessage#ef156a5c flags:# offline_only:flags.0?true shortcut_id:int schedule:BusinessAwayMessageSchedule recipients:BusinessRecipients = BusinessAwayMessage;
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
+| **offline\_only** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, the messages will not be sent if the account was online in the last 10 minutes. |
+| **shortcut\_id** | [int](https://core.telegram.org/type/int) | ID of a [quick reply shorcut, containing the away messages to send, see here » for more info](https://core.telegram.org/api/business#quick-reply-shortcuts). |
+| **schedule** | [BusinessAwayMessageSchedule](https://core.telegram.org/type/BusinessAwayMessageSchedule) | Specifies when should the away messages be sent. |
+| **recipients** | [BusinessRecipients](https://core.telegram.org/type/BusinessRecipients) | Allowed recipients for the away messages. |
+
+### Type
+
+[BusinessAwayMessage](https://core.telegram.org/type/BusinessAwayMessage)
+
+### Related pages
+
+#### [Telegram Business](https://core.telegram.org/api/business)
+
+Users can turn their Telegram account into a business account, gaining access to business features such as opening hours, location, quick replies, automated messages, custom start pages, chatbot support, and more.

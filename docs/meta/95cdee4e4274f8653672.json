@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/account.passkeyRegistrationOptions",
+  "final_url": "https://core.telegram.org/constructor/account.passkeyRegistrationOptions",
+  "title": "account.passkeyRegistrationOptions",
+  "fetched_at": "2026-09-11T06:05:15Z",
+  "sha256": "db0f480c1327215c252d4c02d2f59c2640cb6a0f4726c701869ca6a71e8b67e4",
+  "bytes": 15125,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/95cdee4e4274f8653672.html",
+  "markdown": "docs/pages/95cdee4e4274f8653672.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/passkeys",
+    "https://core.telegram.org/constructor/account.passkeyRegistrationOptions",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/account.PasskeyRegistrationOptions"
+  ]
+}

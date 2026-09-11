@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_received.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_received.html",
+  "title": "TDLib: messagePassportDataReceived Class Reference",
+  "fetched_at": "2026-09-11T06:14:52Z",
+  "sha256": "264ff17f23a28f8468aa95c21f3308bbf84f3f57fa81d5b4402c4b90f78fcdec",
+  "bytes": 20646,
+  "content_type": "text/html",
+  "raw": "docs/raw/7bb19c2e9025277d4dd3.html",
+  "markdown": "docs/pages/7bb19c2e9025277d4dd3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1encrypted_credentials.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1encrypted_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_received-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_received.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

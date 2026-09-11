@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/requirementToContactPaidMessages",
+  "final_url": "https://core.telegram.org/constructor/requirementToContactPaidMessages",
+  "title": "requirementToContactPaidMessages",
+  "fetched_at": "2026-09-11T06:07:30Z",
+  "sha256": "4bbf8b0d9f873c9f67604d715d6939a81482755677e871e21a70415e1cf015e5",
+  "bytes": 15520,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a32a3955aa4ac5b75ca2.html",
+  "markdown": "docs/pages/a32a3955aa4ac5b75ca2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/requirementToContactPaidMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RequirementToContact",
+    "https://core.telegram.org/type/long"
+  ]
+}

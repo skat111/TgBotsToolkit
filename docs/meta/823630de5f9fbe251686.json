@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypeRentalAgreement",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypeRentalAgreement",
+  "title": "secureValueTypeRentalAgreement",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "02566b247d03e832dcee5b4dd4491df9bd3beb34693a0579056d4cb54ff8cfe5",
+  "bytes": 13912,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/823630de5f9fbe251686.html",
+  "markdown": "docs/pages/823630de5f9fbe251686.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypeRentalAgreement",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

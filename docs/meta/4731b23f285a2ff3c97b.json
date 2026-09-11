@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_form_type_regular.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_form_type_regular.html",
+  "title": "TDLib: paymentFormTypeRegular Class Reference",
+  "fetched_at": "2026-09-11T06:15:08Z",
+  "sha256": "759f5a05f8efbaa6988d3dfcf23181de5ff7be515a395e8dfaec57be3dc495c7",
+  "bytes": 29294,
+  "content_type": "text/html",
+  "raw": "docs/raw/4731b23f285a2ff3c97b.html",
+  "markdown": "docs/pages/4731b23f285a2ff3c97b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_payment_form_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_payment_provider.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1invoice.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1order_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_form_type_regular-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_form_type_regular.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_credentials.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/bots/inline",
+  "final_url": "https://core.telegram.org/bots/inline",
+  "title": "Inline Bots",
+  "fetched_at": "2026-09-11T06:05:10Z",
+  "sha256": "611cb37e6d5faba18b71df76c40a52d79cc3fc8e940a75c2f73c626c959e5159",
+  "bytes": 12882,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/acde71cf1d08fd9eaf94.html",
+  "markdown": "docs/pages/acde71cf1d08fd9eaf94.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/file/811140016/2/2b_B7nq9OQA/161b06d38843930fe5",
+    "https://core.telegram.org/file/811140049/2/M2mzqjZoiUw/2d872f0df2aed182d6",
+    "https://core.telegram.org/file/811140221/1/fW9vnLya4Fg/e2b5c530c7b0e019c4",
+    "https://core.telegram.org/file/811140592/2/P4-tFhmBsCg/57418af08f1a252d45",
+    "https://core.telegram.org/file/811140680/2/P3E5RVFzGZ8/5ae6f9c9610b0cbace",
+    "https://core.telegram.org/file/811140951/1/FD93gAgDVDI/8d8bdd16e6a7b40c12",
+    "https://core.telegram.org/file/811140994/2/fvw-q_CRaBQ/c618325e119b0a8229",
+    "https://core.telegram.org/file/811140995/1/I-wubuXAnzk/2e39739d0ac6bd5458",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

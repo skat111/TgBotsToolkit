@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotChatInviteRequester",
+  "final_url": "https://core.telegram.org/constructor/updateBotChatInviteRequester",
+  "title": "updateBotChatInviteRequester",
+  "fetched_at": "2026-09-11T06:07:53Z",
+  "sha256": "a054661e2e6c62815d50b91b33c969f8fe15c344b4523d137c96e7f25260a805",
+  "bytes": 16642,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e11b996e2fea9c6494ec.html",
+  "markdown": "docs/pages/e11b996e2fea9c6494ec.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotChatInviteRequester",
+    "https://core.telegram.org/constructor/updatePendingJoinRequests",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ExportedChatInvite",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

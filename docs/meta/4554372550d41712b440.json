@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.deleteSavedHistory",
+  "final_url": "https://core.telegram.org/method/messages.deleteSavedHistory",
+  "title": "messages.deleteSavedHistory",
+  "fetched_at": "2026-09-11T06:09:56Z",
+  "sha256": "4ff49ea42e5db31ad297f200b7e47e0c8ad17411cfbcb3e10fc109187b24148c",
+  "bytes": 17760,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4554372550d41712b440.html",
+  "markdown": "docs/pages/4554372550d41712b440.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/messages.affectedHistory",
+    "https://core.telegram.org/method/messages.deleteSavedHistory",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AffectedHistory"
+  ]
+}

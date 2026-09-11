@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type.html",
+  "title": "TDLib: KeyboardButtonType Class Reference",
+  "fetched_at": "2026-09-11T06:12:19Z",
+  "sha256": "f0e16b18616cef95aefb21902e20453e5e07f2f5e3a524cda02099b1422e9e0e",
+  "bytes": 13099,
+  "content_type": "text/html",
+  "raw": "docs/raw/48c956c1bbc1da1d9829.html",
+  "markdown": "docs/pages/48c956c1bbc1da1d9829.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_location.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_poll.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_users.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_source_search.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_source_search.html",
+  "title": "TDLib: emojiCategorySourceSearch Class Reference",
+  "fetched_at": "2026-09-11T06:14:00Z",
+  "sha256": "3ead4939769bba888e77b9e5e1962323f174b2ab72709f87449ac1563ef82f6a",
+  "bytes": 19999,
+  "content_type": "text/html",
+  "raw": "docs/raw/525e374d3d55e1a388ba.html",
+  "markdown": "docs/pages/525e374d3d55e1a388ba.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_emoji_category_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_source_search-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_category_source_search.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_inline_query_results.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_stickers.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_stickers.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

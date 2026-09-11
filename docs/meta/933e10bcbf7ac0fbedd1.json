@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueTypePhone",
+  "final_url": "https://core.telegram.org/constructor/secureValueTypePhone",
+  "title": "secureValueTypePhone",
+  "fetched_at": "2026-09-11T06:07:34Z",
+  "sha256": "d018480394a7bc7374a43b07e2020563503828450a772ad1bdb7b30dd84e6c1a",
+  "bytes": 13809,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/933e10bcbf7ac0fbedd1.html",
+  "markdown": "docs/pages/933e10bcbf7ac0fbedd1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueTypePhone",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueType"
+  ]
+}

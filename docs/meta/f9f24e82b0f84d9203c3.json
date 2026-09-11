@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/api/file-references/map-schema",
+  "final_url": "https://core.telegram.org/api/file-references/map-schema",
+  "title": "File reference map file schema",
+  "fetched_at": "2026-09-11T06:05:27Z",
+  "sha256": "d6abbf30383df6b078ecefaf56dfb5115666ad70eb4c3f7a1347a364c3d5c757",
+  "bytes": 10390,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f9f24e82b0f84d9203c3.html",
+  "markdown": "docs/pages/f9f24e82b0f84d9203c3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/file-references",
+    "https://core.telegram.org/api/file-references%2Fmap-schema",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/True"
+  ]
+}

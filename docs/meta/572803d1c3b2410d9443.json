@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannelMessageForwards",
+  "final_url": "https://core.telegram.org/constructor/updateChannelMessageForwards",
+  "title": "updateChannelMessageForwards",
+  "fetched_at": "2026-09-11T06:07:55Z",
+  "sha256": "8abc00ca76689df6e6c6350c141eddb0e3796e85283279d836ef4d8506873228",
+  "bytes": 14603,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/572803d1c3b2410d9443.html",
+  "markdown": "docs/pages/572803d1c3b2410d9443.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateChannelMessageForwards",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

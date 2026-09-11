@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_authentication_premium_purchase_transaction-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_authentication_premium_purchase_transaction-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:36Z",
+  "sha256": "1fe68639e6f85479027a28121f829c415b31770405df09467a3081b07aa76339",
+  "bytes": 12332,
+  "content_type": "text/html",
+  "raw": "docs/raw/b76926b10776a9602a4f.html",
+  "markdown": "docs/pages/b76926b10776a9602a4f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_authentication_premium_purchase_transaction.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.savedDialogs",
+  "final_url": "https://core.telegram.org/constructor/messages.savedDialogs",
+  "title": "messages.savedDialogs",
+  "fetched_at": "2026-09-11T06:07:03Z",
+  "sha256": "a826e55437d5cbc154e9ff09ac575ff3af6e781cfb8569be4d9c7ec8c6bedc0c",
+  "bytes": 15738,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7a62c91600cffe048b28.html",
+  "markdown": "docs/pages/7a62c91600cffe048b28.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/messages.savedDialogs",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/SavedDialog",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/messages.SavedDialogs"
+  ]
+}

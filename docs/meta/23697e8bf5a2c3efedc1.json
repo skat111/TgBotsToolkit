@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.getRecentReactions",
+  "final_url": "https://core.telegram.org/method/messages.getRecentReactions",
+  "title": "messages.getRecentReactions",
+  "fetched_at": "2026-09-11T06:10:15Z",
+  "sha256": "6c575394031e976a21aaa3f81d0da17b478289d210e9fd39b2e83b2e9fe85f90",
+  "bytes": 15891,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/23697e8bf5a2c3efedc1.html",
+  "markdown": "docs/pages/23697e8bf5a2c3efedc1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/messages.reactions",
+    "https://core.telegram.org/constructor/messages.reactionsNotModified",
+    "https://core.telegram.org/method/messages.getRecentReactions",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Reaction",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.Reactions"
+  ]
+}

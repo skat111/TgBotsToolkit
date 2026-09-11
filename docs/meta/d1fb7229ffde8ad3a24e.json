@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.messageReactionsList",
+  "final_url": "https://core.telegram.org/constructor/messages.messageReactionsList",
+  "title": "messages.messageReactionsList",
+  "fetched_at": "2026-09-11T06:07:02Z",
+  "sha256": "ac78722ffbf00fa2e7a97866734b830ce9bfe091ec90e4c99486d422eaf23689",
+  "bytes": 16394,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d1fb7229ffde8ad3a24e.html",
+  "markdown": "docs/pages/d1fb7229ffde8ad3a24e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/messages.messageReactionsList",
+    "https://core.telegram.org/method/messages.getMessageReactionsList",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/MessagePeerReaction",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.MessageReactionsList",
+    "https://core.telegram.org/type/string"
+  ]
+}

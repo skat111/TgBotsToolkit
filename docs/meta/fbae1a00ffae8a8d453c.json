@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_inline_query_result_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_inline_query_result_message.html",
+  "title": "TDLib: sendInlineQueryResultMessage Class Reference",
+  "fetched_at": "2026-09-11T06:15:31Z",
+  "sha256": "d1a0e25263ac109b5914196f353978567f9b33c4f4f98ccd3bcec670f27415fc",
+  "bytes": 29245,
+  "content_type": "text/html",
+  "raw": "docs/raw/fbae1a00ffae8a8d453c.html",
+  "markdown": "docs/pages/fbae1a00ffae8a8d453c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_message_reply_to.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_send_options.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_inline_query_result_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_inline_query_result_message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

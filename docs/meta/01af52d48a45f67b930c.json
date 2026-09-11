@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.toggleDialogFilterTags",
+  "final_url": "https://core.telegram.org/method/messages.toggleDialogFilterTags",
+  "title": "messages.toggleDialogFilterTags",
+  "fetched_at": "2026-09-11T06:10:34Z",
+  "sha256": "c9975b3ab0cc6088ecf08fb0c828e337521260cf62888118ead7d38c822552b1",
+  "bytes": 15499,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/01af52d48a45f67b930c.html",
+  "markdown": "docs/pages/01af52d48a45f67b930c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.toggleDialogFilterTags",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

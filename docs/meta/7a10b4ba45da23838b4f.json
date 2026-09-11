@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.updateBirthday",
+  "final_url": "https://core.telegram.org/method/account.updateBirthday",
+  "title": "account.updateBirthday",
+  "fetched_at": "2026-09-11T06:08:55Z",
+  "sha256": "c35226d572941093cb9198b700f1a10e2d74dfd9e2fc814222f22d0e34cef2d8",
+  "bytes": 15694,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7a10b4ba45da23838b4f.html",
+  "markdown": "docs/pages/7a10b4ba45da23838b4f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.updateBirthday",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Birthday",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/messages.SearchCounter",
+  "final_url": "https://core.telegram.org/type/messages.SearchCounter",
+  "title": "Messages.SearchCounter",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "16986a5343353f39dba178966128da3aff9fc13e3e6df9d0b99e3074affb3e50",
+  "bytes": 14266,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9d061108f488d6d786ee.html",
+  "markdown": "docs/pages/9d061108f488d6d786ee.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.searchCounter",
+    "https://core.telegram.org/method/messages.search",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessagesFilter",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.SearchCounter"
+  ]
+}

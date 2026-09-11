@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/smsjobs.isEligibleToJoin",
+  "final_url": "https://core.telegram.org/method/smsjobs.isEligibleToJoin",
+  "title": "smsjobs.isEligibleToJoin",
+  "fetched_at": "2026-09-11T06:11:21Z",
+  "sha256": "290890813eadd4639d5ea6768281016db79368c83ecf4701dc74fb0eecf59d42",
+  "bytes": 14900,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/492f116ab38333aac78d.html",
+  "markdown": "docs/pages/492f116ab38333aac78d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/smsjobs.eligibleToJoin",
+    "https://core.telegram.org/method/smsjobs.isEligibleToJoin",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/smsjobs.EligibilityToJoin",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_contacts.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_contacts.html",
+  "title": "TDLib: chatMembersFilterContacts Class Reference",
+  "fetched_at": "2026-09-11T06:13:45Z",
+  "sha256": "ab381825eda08274403bdd708b2e8e78a4d90b52bb0d1c6dd6d8ecbb2b0b5aa5",
+  "bytes": 15588,
+  "content_type": "text/html",
+  "raw": "docs/raw/0e3ee8044a4f55079f81.html",
+  "markdown": "docs/pages/0e3ee8044a4f55079f81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_contacts-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_contacts.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateUserStatus",
+  "final_url": "https://core.telegram.org/constructor/updateUserStatus",
+  "title": "updateUserStatus",
+  "fetched_at": "2026-09-11T06:08:08Z",
+  "sha256": "bc08ccdaa5c0ae3a510c03e132514edc0e9dc3a33c37646e0472b595c7bc66e4",
+  "bytes": 14262,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/988a28951b063d65f230.html",
+  "markdown": "docs/pages/988a28951b063d65f230.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateUserStatus",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/UserStatus",
+    "https://core.telegram.org/type/long"
+  ]
+}

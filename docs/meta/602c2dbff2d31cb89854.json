@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_bots.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_bots.html",
+  "title": "TDLib: chatMembersFilterBots Class Reference",
+  "fetched_at": "2026-09-11T06:13:45Z",
+  "sha256": "8b8ae7f4572beb18f25178a1afdca28349197b9bb414ed18f9f63481e625a692",
+  "bytes": 15547,
+  "content_type": "text/html",
+  "raw": "docs/raw/602c2dbff2d31cb89854.html",
+  "markdown": "docs/pages/602c2dbff2d31cb89854.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_bots-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_bots.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

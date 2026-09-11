@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/stats.megagroupStats",
+  "final_url": "https://core.telegram.org/constructor/stats.megagroupStats",
+  "title": "stats.megagroupStats",
+  "fetched_at": "2026-09-11T06:07:43Z",
+  "sha256": "4e2292b026adc0dee12dcf4ca1fd3710a77e3855a8958eb4df9a931f029270dd",
+  "bytes": 19099,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/65e38e115b3bff8f1b58.html",
+  "markdown": "docs/pages/65e38e115b3bff8f1b58.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/stats.megagroupStats",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsAbsValueAndPrev",
+    "https://core.telegram.org/type/StatsDateRangeDays",
+    "https://core.telegram.org/type/StatsGraph",
+    "https://core.telegram.org/type/StatsGroupTopAdmin",
+    "https://core.telegram.org/type/StatsGroupTopInviter",
+    "https://core.telegram.org/type/StatsGroupTopPoster",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/stats.MegagroupStats"
+  ]
+}

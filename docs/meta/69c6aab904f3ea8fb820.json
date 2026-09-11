@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/contacts.Blocked",
+  "final_url": "https://core.telegram.org/type/contacts.Blocked",
+  "title": "contacts.Blocked",
+  "fetched_at": "2026-09-11T06:17:13Z",
+  "sha256": "a42555595dca3fcc5b31332d91160cfc539a74374673051268b461ab992d7649",
+  "bytes": 15486,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/69c6aab904f3ea8fb820.html",
+  "markdown": "docs/pages/69c6aab904f3ea8fb820.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.blocked",
+    "https://core.telegram.org/constructor/contacts.blockedSlice",
+    "https://core.telegram.org/method/contacts.getBlocked",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/PeerBlocked",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.Blocked",
+    "https://core.telegram.org/type/int"
+  ]
+}

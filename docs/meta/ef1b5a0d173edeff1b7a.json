@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/messages.InactiveChats",
+  "final_url": "https://core.telegram.org/type/messages.InactiveChats",
+  "title": "messages.InactiveChats",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "e40a1067fe88042d69b387bb9799d5a487ac4357b30694135429f10694860273",
+  "bytes": 14732,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ef1b5a0d173edeff1b7a.html",
+  "markdown": "docs/pages/ef1b5a0d173edeff1b7a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.inactiveChats",
+    "https://core.telegram.org/method/channels.getInactiveChannels",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.InactiveChats"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message.html",
+  "title": "TDLib: businessFeatureAwayMessage Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "975ab93377744c59d31ffb7a8453153358453aac26aa48a93fcf5eb880a21de1",
+  "bytes": 15613,
+  "content_type": "text/html",
+  "raw": "docs/raw/093d2b0fdf575562d3dd.html",
+  "markdown": "docs/pages/093d2b0fdf575562d3dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_away_message.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultAdsHidden",
+  "final_url": "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultAdsHidden",
+  "title": "channels.sponsoredMessageReportResultAdsHidden",
+  "fetched_at": "2026-09-11T06:05:51Z",
+  "sha256": "2f36b9e5e221687322a5803e4c24c62539d0d096bb6267da8798ab90d1731e68",
+  "bytes": 14235,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/56fb529dcbcf2970ed9b.html",
+  "markdown": "docs/pages/56fb529dcbcf2970ed9b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channels.sponsoredMessageReportResultAdsHidden",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/channels.SponsoredMessageReportResult"
+  ]
+}

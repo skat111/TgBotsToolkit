@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.savedInfo",
+  "final_url": "https://core.telegram.org/constructor/payments.savedInfo",
+  "title": "payments.savedInfo",
+  "fetched_at": "2026-09-11T06:07:14Z",
+  "sha256": "901a37f70f9f5bf0f5607a29322bb9de16ba245d2865dc9ac892e138e1211cbf",
+  "bytes": 14866,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d3ab15e32f12e9c8536f.html",
+  "markdown": "docs/pages/d3ab15e32f12e9c8536f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.savedInfo",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PaymentRequestedInfo",
+    "https://core.telegram.org/type/payments.SavedInfo"
+  ]
+}

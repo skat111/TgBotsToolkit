@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_chin.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_chin.html",
+  "title": "TDLib: maskPointChin Class Reference",
+  "fetched_at": "2026-09-11T06:14:48Z",
+  "sha256": "7f42bdf40022c36f57617fb3a5eb47c6c358a94363a96cf132913c55d3d59c99",
+  "bytes": 15446,
+  "content_type": "text/html",
+  "raw": "docs/raw/085703180f61ee1e1a68.html",
+  "markdown": "docs/pages/085703180f61ee1e1a68.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_mask_point.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_chin-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1mask_point_chin.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

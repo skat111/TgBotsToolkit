@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_sticker_set.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_sticker_set.html",
+  "title": "TDLib: createNewStickerSet Class Reference",
+  "fetched_at": "2026-09-11T06:13:51Z",
+  "sha256": "ce7af7b552b16f587257a05d69e7522d745d9b32551485071fe206a03172333e",
+  "bytes": 29139,
+  "content_type": "text/html",
+  "raw": "docs/raw/ca27e07b09e24a51794c.html",
+  "markdown": "docs/pages/ca27e07b09e24a51794c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_sticker_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_sticker_set-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1create_new_sticker_set.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_suggested_sticker_set_name.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_sticker.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_set.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upload_sticker_file.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

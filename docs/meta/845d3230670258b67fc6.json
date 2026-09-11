@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_error-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_error-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:46Z",
+  "sha256": "486bde5b9cec89454276d712d1e38fba3ca339c408b98aa376422ec74c19f56b",
+  "bytes": 10468,
+  "content_type": "text/html",
+  "raw": "docs/raw/845d3230670258b67fc6.html",
+  "markdown": "docs/pages/845d3230670258b67fc6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1speech_recognition_result_error.html"
+  ]
+}

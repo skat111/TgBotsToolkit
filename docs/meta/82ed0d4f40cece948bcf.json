@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/channels.getParticipant",
+  "final_url": "https://core.telegram.org/method/channels.getParticipant",
+  "title": "channels.getParticipant",
+  "fetched_at": "2026-09-11T06:09:24Z",
+  "sha256": "97078dbbd3ec9afc6e6e511e22a0804134b4d323685e15c172d0f32df3fdedce",
+  "bytes": 16739,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/82ed0d4f40cece948bcf.html",
+  "markdown": "docs/pages/82ed0d4f40cece948bcf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channels.channelParticipant",
+    "https://core.telegram.org/method/channels.getParticipant",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelParticipant",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/channels.ChannelParticipant"
+  ]
+}

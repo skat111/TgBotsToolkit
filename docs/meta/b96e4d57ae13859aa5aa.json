@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionSuggestedPostSuccess",
+  "final_url": "https://core.telegram.org/constructor/messageActionSuggestedPostSuccess",
+  "title": "messageActionSuggestedPostSuccess",
+  "fetched_at": "2026-09-11T06:06:50Z",
+  "sha256": "a8ec48d9a66ff80a1e74bbcb3cfd7ec913e83704436b740ab0e12c094c6478d8",
+  "bytes": 14883,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b96e4d57ae13859aa5aa.html",
+  "markdown": "docs/pages/b96e4d57ae13859aa5aa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/suggested-posts",
+    "https://core.telegram.org/constructor/messageActionSuggestedPostSuccess",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/StarsAmount"
+  ]
+}

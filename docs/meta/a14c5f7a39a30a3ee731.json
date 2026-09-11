@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/ReactionsNotifySettings",
+  "final_url": "https://core.telegram.org/type/ReactionsNotifySettings",
+  "title": "ReactionsNotifySettings",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "c8f07ee823248d92a953e9090f83f23ef56e29d05be62088770e32c788dbf515",
+  "bytes": 16173,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a14c5f7a39a30a3ee731.html",
+  "markdown": "docs/pages/a14c5f7a39a30a3ee731.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/reactionsNotifySettings",
+    "https://core.telegram.org/method/account.getReactionsNotifySettings",
+    "https://core.telegram.org/method/account.setReactionsNotifySettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/NotificationSound",
+    "https://core.telegram.org/type/ReactionNotificationsFrom",
+    "https://core.telegram.org/type/ReactionsNotifySettings"
+  ]
+}

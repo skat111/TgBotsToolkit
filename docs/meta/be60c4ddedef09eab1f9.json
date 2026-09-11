@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey",
+  "final_url": "https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey",
+  "title": "inputPasskeyCredentialPublicKey",
+  "fetched_at": "2026-09-11T06:06:29Z",
+  "sha256": "e72dda1b2cf548ad9c162fa8cdfc6f2cc59b289a138d81169653f03e70fa4193",
+  "bytes": 15944,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/be60c4ddedef09eab1f9.html",
+  "markdown": "docs/pages/be60c4ddedef09eab1f9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/passkeys",
+    "https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPasskeyCredential",
+    "https://core.telegram.org/type/InputPasskeyResponse",
+    "https://core.telegram.org/type/string"
+  ]
+}

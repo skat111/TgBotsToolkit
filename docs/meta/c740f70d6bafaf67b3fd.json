@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/updateTranscribedAudio",
+  "final_url": "https://core.telegram.org/constructor/updateTranscribedAudio",
+  "title": "updateTranscribedAudio",
+  "fetched_at": "2026-09-11T06:08:08Z",
+  "sha256": "ddde9669cd775907695bc3586324983523d74dff10f1cd80adfdfa76ef5e7781",
+  "bytes": 16659,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c740f70d6bafaf67b3fd.html",
+  "markdown": "docs/pages/c740f70d6bafaf67b3fd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/transcribe",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateTranscribedAudio",
+    "https://core.telegram.org/method/messages.transcribeAudio",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

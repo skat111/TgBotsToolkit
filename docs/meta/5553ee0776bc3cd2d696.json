@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_set_birthdate-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_set_birthdate-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:56Z",
+  "sha256": "2ea341cc9e752abc22ddcfda7b0a4de8821b7b900d617772ee937e49767b4df2",
+  "bytes": 9688,
+  "content_type": "text/html",
+  "raw": "docs/raw/5553ee0776bc3cd2d696.html",
+  "markdown": "docs/pages/5553ee0776bc3cd2d696.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1suggested_action_set_birthdate.html"
+  ]
+}

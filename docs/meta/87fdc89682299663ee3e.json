@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/StickerSetCovered",
+  "final_url": "https://core.telegram.org/type/StickerSetCovered",
+  "title": "StickerSetCovered",
+  "fetched_at": "2026-09-11T06:17:10Z",
+  "sha256": "563e5b128bbb22a05e1e58d832b5f955b148ccd94206e291500a80a258d29a35",
+  "bytes": 15658,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/87fdc89682299663ee3e.html",
+  "markdown": "docs/pages/87fdc89682299663ee3e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/stickerSetCovered",
+    "https://core.telegram.org/constructor/stickerSetFullCovered",
+    "https://core.telegram.org/constructor/stickerSetMultiCovered",
+    "https://core.telegram.org/constructor/stickerSetNoCovered",
+    "https://core.telegram.org/method/messages.getStickerSet",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/StickerKeyword",
+    "https://core.telegram.org/type/StickerPack",
+    "https://core.telegram.org/type/StickerSet",
+    "https://core.telegram.org/type/StickerSetCovered",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

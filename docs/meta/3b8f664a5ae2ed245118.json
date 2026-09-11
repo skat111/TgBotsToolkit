@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/statsGroupTopInviter",
+  "final_url": "https://core.telegram.org/constructor/statsGroupTopInviter",
+  "title": "statsGroupTopInviter",
+  "fetched_at": "2026-09-11T06:07:44Z",
+  "sha256": "4d182413e5984f53258da6375510ac7f49ce55adea0d071d4d197df9c6a79193",
+  "bytes": 14862,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3b8f664a5ae2ed245118.html",
+  "markdown": "docs/pages/3b8f664a5ae2ed245118.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/statsGroupTopInviter",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsGroupTopInviter",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

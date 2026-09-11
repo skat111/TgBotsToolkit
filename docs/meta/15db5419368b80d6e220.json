@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_occupied.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_occupied.html",
+  "title": "TDLib: checkChatUsernameResultUsernameOccupied Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "c9bc4f3dc53e3e3cb9807c7e4be8daf8c125ff5663f752b7d18e6e62319637af",
+  "bytes": 15773,
+  "content_type": "text/html",
+  "raw": "docs/raw/15db5419368b80d6e220.html",
+  "markdown": "docs/pages/15db5419368b80d6e220.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_check_chat_username_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_occupied-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_occupied.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

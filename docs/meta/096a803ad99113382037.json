@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_invalid_gift.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_invalid_gift.html",
+  "title": "TDLib: craftGiftResultInvalidGift Class Reference",
+  "fetched_at": "2026-09-11T06:13:50Z",
+  "sha256": "d08182df3f685fc1d6d3597c6b073cfef44b67a3fb67059d827efbdae6a26521",
+  "bytes": 15698,
+  "content_type": "text/html",
+  "raw": "docs/raw/096a803ad99113382037.html",
+  "markdown": "docs/pages/096a803ad99113382037.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_craft_gift_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_invalid_gift-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_invalid_gift.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

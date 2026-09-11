@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionChatDeleteUser",
+  "final_url": "https://core.telegram.org/constructor/messageActionChatDeleteUser",
+  "title": "messageActionChatDeleteUser",
+  "fetched_at": "2026-09-11T06:06:45Z",
+  "sha256": "abb4b992a32e9e9ab90d12b20c5c2d7097b6045d9506ff193ae5975477a29d81",
+  "bytes": 14168,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/75a07bda4ee802362c18.html",
+  "markdown": "docs/pages/75a07bda4ee802362c18.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionChatDeleteUser",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long"
+  ]
+}

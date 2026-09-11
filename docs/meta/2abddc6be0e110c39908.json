@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/messagePeerVote",
+  "final_url": "https://core.telegram.org/constructor/messagePeerVote",
+  "title": "messagePeerVote",
+  "fetched_at": "2026-09-11T06:06:56Z",
+  "sha256": "a6400db3d28cd22f2cfc7b21e1e9eb8e333257b7b3381df1bd46d37017c95d1f",
+  "bytes": 14472,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2abddc6be0e110c39908.html",
+  "markdown": "docs/pages/2abddc6be0e110c39908.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messagePeerVote",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessagePeerVote",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command_scope_all_private_chats.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command_scope_all_private_chats.html",
+  "title": "TDLib: botCommandScopeAllPrivateChats Class Reference",
+  "fetched_at": "2026-09-11T06:13:27Z",
+  "sha256": "d7319e18f8a13939927a886e482d839fe64b675b7fdcf81b66c48d4813709f9e",
+  "bytes": 15668,
+  "content_type": "text/html",
+  "raw": "docs/raw/15cc014a61fb3e7e1302.html",
+  "markdown": "docs/pages/15cc014a61fb3e7e1302.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_bot_command_scope.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command_scope_all_private_chats-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_command_scope_all_private_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

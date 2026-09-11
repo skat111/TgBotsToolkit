@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/messages.MessageEditData",
+  "final_url": "https://core.telegram.org/type/messages.MessageEditData",
+  "title": "Messages.MessageEditData",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "94294e3bed131393d158ce691f3f3b4b821a48179f56a76a63e71082317d745b",
+  "bytes": 14686,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e5737047217d5e92565d.html",
+  "markdown": "docs/pages/e5737047217d5e92565d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.messageEditData",
+    "https://core.telegram.org/method/messages.getMessageEditData",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.MessageEditData"
+  ]
+}

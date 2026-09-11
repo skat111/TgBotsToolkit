@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyKeyPhoneP2P",
+  "final_url": "https://core.telegram.org/constructor/privacyKeyPhoneP2P",
+  "title": "privacyKeyPhoneP2P",
+  "fetched_at": "2026-09-11T06:07:24Z",
+  "sha256": "31b7738c0f95c34cd17bf9444f6d09826bfe492da472308235070a8415f3238b",
+  "bytes": 13955,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7239c454fee7f4e513fe.html",
+  "markdown": "docs/pages/7239c454fee7f4e513fe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/privacyKeyPhoneP2P",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyKey"
+  ]
+}

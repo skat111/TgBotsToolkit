@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_links_and_formatting.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_links_and_formatting.html",
+  "title": "TDLib: premiumStoryFeatureLinksAndFormatting Class Reference",
+  "fetched_at": "2026-09-11T06:15:11Z",
+  "sha256": "e909adcac4af0edfbbcb51adb6a0fbbbb36c87e677449d404105dddb642bf707",
+  "bytes": 16038,
+  "content_type": "text/html",
+  "raw": "docs/raw/13a7f601f06a3dbdba0f.html",
+  "markdown": "docs/pages/13a7f601f06a3dbdba0f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_story_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_links_and_formatting-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_links_and_formatting.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

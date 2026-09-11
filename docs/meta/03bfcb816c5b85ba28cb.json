@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyValueAllowAll",
+  "final_url": "https://core.telegram.org/constructor/privacyValueAllowAll",
+  "title": "privacyValueAllowAll",
+  "fetched_at": "2026-09-11T06:07:25Z",
+  "sha256": "ed4c342fa1c88ef34b5dc349f2c3cc0e474bd3145382410f3eff8a60b08e4824",
+  "bytes": 13822,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/03bfcb816c5b85ba28cb.html",
+  "markdown": "docs/pages/03bfcb816c5b85ba28cb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/privacyValueAllowAll",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyRule"
+  ]
+}

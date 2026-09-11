@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_star_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_star_count.html",
+  "title": "TDLib: updateOwnedStarCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "2c37e22f969dc66c2b7fddbc7ff02dce56b62826366fddfa63368d73f53a8b2a",
+  "bytes": 18651,
+  "content_type": "text/html",
+  "raw": "docs/raw/e558de0e14b9a1d72df1.html",
+  "markdown": "docs/pages/e558de0e14b9a1d72df1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_star_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_star_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

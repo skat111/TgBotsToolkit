@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotPurchasedPaidMedia",
+  "final_url": "https://core.telegram.org/constructor/updateBotPurchasedPaidMedia",
+  "title": "updateBotPurchasedPaidMedia",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "5452b6facd2c4bc6ae29abc3ae99d38230b6259875496ac1c29036c589756b64",
+  "bytes": 15790,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5f762af270bfcb96ce12.html",
+  "markdown": "docs/pages/5f762af270bfcb96ce12.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-media",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/inputMediaPaidMedia",
+    "https://core.telegram.org/constructor/updateBotPurchasedPaidMedia",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

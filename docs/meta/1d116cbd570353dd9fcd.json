@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePhoneCallSignalingData",
+  "final_url": "https://core.telegram.org/constructor/updatePhoneCallSignalingData",
+  "title": "updatePhoneCallSignalingData",
+  "fetched_at": "2026-09-11T06:08:03Z",
+  "sha256": "601ac667ef2f597ef8e0823f5a7117a0bf4474419e87929506b5754e0c5f868d",
+  "bytes": 14385,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1d116cbd570353dd9fcd.html",
+  "markdown": "docs/pages/1d116cbd570353dd9fcd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updatePhoneCallSignalingData",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

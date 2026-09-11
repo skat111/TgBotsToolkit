@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_built_in_theme.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_built_in_theme.html",
+  "title": "TDLib: BuiltInTheme Class Reference",
+  "fetched_at": "2026-09-11T06:11:58Z",
+  "sha256": "a4bb143447ab5a6dbf8fa093aae1c7682c49107568069741b0ba45c052b24bf0",
+  "bytes": 12727,
+  "content_type": "text/html",
+  "raw": "docs/raw/2925e6a9e440bf2f7184.html",
+  "markdown": "docs/pages/2925e6a9e440bf2f7184.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_built_in_theme-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_built_in_theme.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1built_in_theme_arctic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1built_in_theme_classic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1built_in_theme_day.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1built_in_theme_night.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1built_in_theme_tinted.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

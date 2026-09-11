@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1usernames.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1usernames.html",
+  "title": "TDLib: usernames Class Reference",
+  "fetched_at": "2026-09-11T06:16:21Z",
+  "sha256": "1a4774d89fb7d3fbafdf93eeb2723c7c647b995c2cd84a2900fc64c2210e7344",
+  "bytes": 25220,
+  "content_type": "text/html",
+  "raw": "docs/raw/0afd826d5b8f0ce701de.html",
+  "markdown": "docs/pages/0afd826d5b8f0ce701de.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_collectible_item_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_active_usernames.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_bot_active_usernames.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reorder_supergroup_active_usernames.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_supergroup_username.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_username.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_bot_username_is_active.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_supergroup_username_is_active.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_username_is_active.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1usernames-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1usernames.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

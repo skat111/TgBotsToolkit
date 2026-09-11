@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/auth.signIn",
+  "final_url": "https://core.telegram.org/method/auth.signIn",
+  "title": "auth.signIn",
+  "fetched_at": "2026-09-11T06:09:08Z",
+  "sha256": "8906b5c9cd04df460a5df6cb05d41a0ed564f5043c992286007146ec2a2058a6",
+  "bytes": 17976,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4b78fef53062ad81000f.html",
+  "markdown": "docs/pages/4b78fef53062ad81000f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.authorization",
+    "https://core.telegram.org/constructor/auth.authorizationSignUpRequired",
+    "https://core.telegram.org/method/auth.sendCode",
+    "https://core.telegram.org/method/auth.signIn",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/EmailVerification",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/help.TermsOfService",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

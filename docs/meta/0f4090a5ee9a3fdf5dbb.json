@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/messages.summarizeText",
+  "final_url": "https://core.telegram.org/method/messages.summarizeText",
+  "title": "messages.summarizeText",
+  "fetched_at": "2026-09-11T06:10:35Z",
+  "sha256": "82fff965b063729d265e67abbe2f6b8b730448f36587e9e4994bbcb08dde3403",
+  "bytes": 17270,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0f4090a5ee9a3fdf5dbb.html",
+  "markdown": "docs/pages/0f4090a5ee9a3fdf5dbb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/message",
+    "https://core.telegram.org/constructor/textWithEntities",
+    "https://core.telegram.org/method/messages.summarizeText",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

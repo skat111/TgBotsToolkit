@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/phone.sendSignalingData",
+  "final_url": "https://core.telegram.org/method/phone.sendSignalingData",
+  "title": "phone.sendSignalingData",
+  "fetched_at": "2026-09-11T06:11:13Z",
+  "sha256": "d02cd756d2c248f8758385ab3573c5ba03befcf6e6511a8c3c9e5edf6e379a81",
+  "bytes": 15673,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a61cc194d2258648173b.html",
+  "markdown": "docs/pages/a61cc194d2258648173b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/phone.sendSignalingData",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPhoneCall",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

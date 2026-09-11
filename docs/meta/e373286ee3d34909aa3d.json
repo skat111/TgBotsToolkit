@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_text.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_text.html",
+  "title": "TDLib: inputMessageText Class Reference",
+  "fetched_at": "2026-09-11T06:14:36Z",
+  "sha256": "febd1e9a85267340a379ca005954c6d78d60427c7ca5b36ac682b6d405b364f0",
+  "bytes": 21826,
+  "content_type": "text/html",
+  "raw": "docs/raw/e373286ee3d34909aa3d.html",
+  "markdown": "docs/pages/e373286ee3d34909aa3d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_text-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_options.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

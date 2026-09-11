@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_autosave_gifts.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_autosave_gifts.html",
+  "title": "TDLib: userPrivacySettingAutosaveGifts Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "1f976d45eb99bcc100bcd28606e2a2502a75ac928be902e709571b8fdc419be9",
+  "bytes": 15820,
+  "content_type": "text/html",
+  "raw": "docs/raw/1d4fe6367ee2ae59f56c.html",
+  "markdown": "docs/pages/1d4fe6367ee2ae59f56c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_user_privacy_setting.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_autosave_gifts-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_privacy_setting_autosave_gifts.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

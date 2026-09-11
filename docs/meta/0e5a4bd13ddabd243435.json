@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/PhoneCallDiscardReason",
+  "final_url": "https://core.telegram.org/type/PhoneCallDiscardReason",
+  "title": "PhoneCallDiscardReason",
+  "fetched_at": "2026-09-11T06:17:06Z",
+  "sha256": "d09b334b471aef1e67e6345902ba3e828b3a4bccd6658be11708e2cdb77a4faa",
+  "bytes": 15761,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0e5a4bd13ddabd243435.html",
+  "markdown": "docs/pages/0e5a4bd13ddabd243435.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonBusy",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonDisconnect",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonHangup",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonMigrateConferenceCall",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonMissed",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PhoneCallDiscardReason",
+    "https://core.telegram.org/type/string"
+  ]
+}

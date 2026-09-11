@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_member.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_member.html",
+  "title": "TDLib: updateChatMember Class Reference",
+  "fetched_at": "2026-09-11T06:16:08Z",
+  "sha256": "eec36fd12eb0e7d4a5d3b3d7a73d62e0e0d9631516af93b19e1b631ffc600fbc",
+  "bytes": 27867,
+  "content_type": "text/html",
+  "raw": "docs/raw/b657157248d6458a358d.html",
+  "markdown": "docs/pages/b657157248d6458a358d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_member.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_member-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_member.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

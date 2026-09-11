@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale_order_price_change_date.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale_order_price_change_date.html",
+  "title": "TDLib: giftForResaleOrderPriceChangeDate Class Reference",
+  "fetched_at": "2026-09-11T06:14:26Z",
+  "sha256": "1ac2f7eee5e82fb6f758e6c37295c0cef0d6fda9735d2496411271c4d4a05dc1",
+  "bytes": 15850,
+  "content_type": "text/html",
+  "raw": "docs/raw/b008d087958b6168e8f1.html",
+  "markdown": "docs/pages/b008d087958b6168e8f1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_gift_for_resale_order.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale_order_price_change_date-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_for_resale_order_price_change_date.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

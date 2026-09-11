@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.deletePasskey",
+  "final_url": "https://core.telegram.org/method/account.deletePasskey",
+  "title": "account.deletePasskey",
+  "fetched_at": "2026-09-11T06:08:32Z",
+  "sha256": "e0f176045d93f0c98c9bfbf3b5585d9c079757bb014ce5a2e83df76892cd74b2",
+  "bytes": 16013,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2d9566b31589274c6738.html",
+  "markdown": "docs/pages/2d9566b31589274c6738.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/passkeys",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/passkey",
+    "https://core.telegram.org/method/account.deletePasskey",
+    "https://core.telegram.org/method/account.getPasskeys",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

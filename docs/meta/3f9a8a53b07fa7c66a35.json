@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_chosen_inline_result.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_chosen_inline_result.html",
+  "title": "TDLib: updateNewChosenInlineResult Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "79ce5244dd6aab3de2245ddbfde8816329297a20f48fa770d8aa03ea31c9dfdc",
+  "bytes": 23951,
+  "content_type": "text/html",
+  "raw": "docs/raw/3f9a8a53b07fa7c66a35.html",
+  "markdown": "docs/pages/3f9a8a53b07fa7c66a35.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_chosen_inline_result-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_chosen_inline_result.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

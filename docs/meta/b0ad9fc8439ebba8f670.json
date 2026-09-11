@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:12:53Z",
+  "sha256": "d08e4f436485a38406a286f5a9980a0e3a3e343d31281153ee00a3cb5b273c03",
+  "bytes": 9091,
+  "content_type": "text/html",
+  "raw": "docs/raw/b0ad9fc8439ebba8f670.html",
+  "markdown": "docs/pages/b0ad9fc8439ebba8f670.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html"
+  ]
+}

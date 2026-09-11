@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/groupCallStreamChannel",
+  "final_url": "https://core.telegram.org/constructor/groupCallStreamChannel",
+  "title": "groupCallStreamChannel",
+  "fetched_at": "2026-09-11T06:06:08Z",
+  "sha256": "0bd17d7e6bacca70f48112fab5a523bd568c6c8da7d7a981ecfcdeaefdeb188b",
+  "bytes": 16351,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/03dbfe68d2fdd8694a8b.html",
+  "markdown": "docs/pages/03dbfe68d2fdd8694a8b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/groupCallStreamChannel",
+    "https://core.telegram.org/constructor/inputGroupCallStream",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/GroupCallStreamChannel",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

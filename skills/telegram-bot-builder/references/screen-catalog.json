@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "parse_mode": "HTML",
+  "description": "Framework-neutral Telegram bot screen catalog. Replace placeholders and map actions to framework handlers.",
+  "icon_roles": {
+    "profile": {"fallback":"👤","custom_emoji_id":"5814247475141153332"},
+    "settings": {"fallback":"⚙","custom_emoji_id":"5877260593903177342"},
+    "catalog": {"fallback":"📁","custom_emoji_id":"5875206779196935950"},
+    "search": {"fallback":"🔎","custom_emoji_id":"5874960879434338403"},
+    "wallet": {"fallback":"👛","custom_emoji_id":"5769403330761593044"},
+    "success": {"fallback":"✅","custom_emoji_id":"5951665890079544884"},
+    "warning": {"fallback":"⚠️","custom_emoji_id":"5881702736843511327"},
+    "error": {"fallback":"❌","custom_emoji_id":"5778527486270770928"},
+    "loading": {"fallback":"🔄","custom_emoji_id":"5845943483382110702"},
+    "info": {"fallback":"ℹ️","custom_emoji_id":"5879785854284599288"}
+  },
+  "screens": [
+    {
+      "id":"start",
+      "presentation":"photo",
+      "media_key":"cover.start",
+      "show_caption_above_media":false,
+      "html":"<b>{product_name}</b>\n<blockquote>{one_sentence_value}</blockquote>\n\n{welcome_line}",
+      "buttons":[
+        [{"text":"{primary_action}","callback_data":"nav:primary","style":"primary"}],
+        [{"text":"{secondary_action}","callback_data":"nav:secondary"},{"text":"Помощь","callback_data":"nav:help"}]
+      ]
+    },
+    {
+      "id":"home",
+      "presentation":"photo",
+      "media_key":"cover.home",
+      "show_caption_above_media":false,
+      "html":"<b>{greeting_or_product_name}</b>\n<blockquote>{current_status_or_short_value}</blockquote>\n\nВыберите раздел:",
+      "buttons":[
+        [{"text":"{primary_action}","callback_data":"nav:primary","style":"primary"}],
+        [{"text":"Каталог","callback_data":"nav:catalog"},{"text":"Профиль","callback_data":"nav:profile"}],
+        [{"text":"Помощь","callback_data":"nav:help"},{"text":"Настройки","callback_data":"nav:settings"}]
+      ]
+    },
+    {
+      "id":"profile",
+      "presentation":"photo",
+      "media_key":"cover.profile",
+      "html":"<b>{icon.profile} Профиль</b>\n\n{display_name}\nID: <code>{user_id}</code>\n{membership_or_plan_line}\n\n<blockquote>{account_summary}</blockquote>",
+      "buttons":[
+        [{"text":"Редактировать профиль","callback_data":"profile:edit"}],
+        [{"text":"История","callback_data":"profile:history"},{"text":"Поддержка","callback_data":"nav:support"}],
+        [{"text":"← Назад","callback_data":"nav:back"},{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"settings",
+      "presentation":"photo",
+      "media_key":"cover.settings",
+      "html":"<b>{icon.settings} Настройки</b>\n\nЯзык: <b>{language}</b>\nУведомления: <b>{notifications_state}</b>\nОформление: <b>{appearance_state}</b>",
+      "buttons":[
+        [{"text":"Язык · {language_short}","callback_data":"settings:language"}],
+        [{"text":"Уведомления · {notifications_short}","callback_data":"settings:notifications"}],
+        [{"text":"Оформление · {appearance_short}","callback_data":"settings:appearance"}],
+        [{"text":"← Назад","callback_data":"nav:back"},{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"catalog",
+      "presentation":"photo",
+      "media_key":"cover.catalog",
+      "html":"<b>{icon.catalog} {catalog_title}</b>\n<i>{result_count_line}</i>\n\n{short_filter_summary}\n<blockquote expandable>{optional_catalog_help}</blockquote>",
+      "buttons":[
+        [{"text":"{item_1_label}","callback_data":"item:{item_1_id}"}],
+        [{"text":"{item_2_label}","callback_data":"item:{item_2_id}"}],
+        [{"text":"‹","callback_data":"page:prev"},{"text":"{page}/{pages}","disabled":{}},{"text":"›","callback_data":"page:next"}],
+        [{"text":"Фильтры","callback_data":"catalog:filters"},{"text":"Поиск","callback_data":"catalog:search"}],
+        [{"text":"← Назад","callback_data":"nav:back"},{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"product",
+      "presentation":"photo",
+      "media_key":"product.{product_id}",
+      "html":"<b>{product_title}</b>\n{short_description}\n\n<b>{price}</b> {old_price_if_any}\n{availability_line}\n\n<blockquote expandable>{details}</blockquote>",
+      "buttons":[
+        [{"text":"Выбрать · {price}","callback_data":"buy:{product_id}","style":"primary"}],
+        [{"text":"Подробнее","callback_data":"item:details:{product_id}"},{"text":"Поделиться","switch_inline_query":"item:{product_id}"}],
+        [{"text":"← К списку","callback_data":"nav:catalog"},{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"payment_summary",
+      "presentation":"text",
+      "html":"<b>{icon.wallet} Проверка заказа</b>\n\n{item_name}\nКоличество: <b>{quantity}</b>\nИтого: <b>{total}</b>\n\n<blockquote>{delivery_or_fulfilment_summary}</blockquote>",
+      "buttons":[
+        [{"text":"Оплатить {total}","pay":true,"style":"success"}],
+        [{"text":"Изменить заказ","callback_data":"checkout:edit"}],
+        [{"text":"Отмена","callback_data":"checkout:cancel"}]
+      ]
+    },
+    {
+      "id":"payment_success",
+      "presentation":"text",
+      "html":"<b>{icon.success} Оплата прошла</b>\n\nЗаказ: <code>{order_number}</code>\nСумма: <b>{total}</b>\n{fulfilment_status}\n\n<blockquote>{what_happens_next}</blockquote>",
+      "buttons":[
+        [{"text":"Открыть покупку","callback_data":"order:open:{order_id}","style":"primary"}],
+        [{"text":"Получить чек","callback_data":"order:receipt:{order_id}"}],
+        [{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"confirm_destructive",
+      "presentation":"text",
+      "html":"<b>{icon.warning} Подтвердите действие</b>\n\nВы собираетесь {action_description}.\n<blockquote>{specific_consequence}</blockquote>\n\nЭто действие {reversibility_statement}.",
+      "buttons":[
+        [{"text":"Отмена","callback_data":"confirm:cancel"}],
+        [{"text":"{explicit_confirm_label}","callback_data":"confirm:{action_token}","style":"danger"}]
+      ]
+    },
+    {
+      "id":"loading",
+      "presentation":"text",
+      "html":"<b>{icon.loading} {work_title}</b>\n<i>{progress_or_expectation}</i>\n\n<blockquote>{safe_to_leave_note}</blockquote>",
+      "buttons":[[{"text":"Отменить","callback_data":"job:cancel:{job_id}"}]]
+    },
+    {
+      "id":"validation_error",
+      "presentation":"text",
+      "html":"<b>{icon.error} Проверьте данные</b>\n\nПоле «{field_label}»: {plain_language_problem}\n<blockquote>{valid_example_or_constraint}</blockquote>",
+      "buttons":[
+        [{"text":"Исправить","callback_data":"form:edit:{field_id}","style":"primary"}],
+        [{"text":"Отмена","callback_data":"form:cancel"}]
+      ]
+    },
+    {
+      "id":"system_error",
+      "presentation":"text",
+      "html":"<b>{icon.error} Не удалось выполнить действие</b>\n\n{plain_language_effect}\n<blockquote>{recovery_instruction}</blockquote>\n\nКод обращения: <code>{support_code}</code>",
+      "buttons":[
+        [{"text":"Повторить","callback_data":"retry:{operation_token}"}],
+        [{"text":"Поддержка","callback_data":"nav:support"},{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    },
+    {
+      "id":"expired",
+      "presentation":"text",
+      "html":"<b>{icon.info} Экран устарел</b>\n<blockquote>Данные изменились с момента открытия этого сообщения.</blockquote>\n\nОбновите экран, чтобы продолжить.",
+      "buttons":[
+        [{"text":"Обновить","callback_data":"screen:refresh","style":"primary"}],
+        [{"text":"Главное меню","callback_data":"nav:home"}]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannel",
+  "final_url": "https://core.telegram.org/constructor/updateChannel",
+  "title": "updateChannel",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "e6ae2743774451b33e8753a5cc890c7d6d83e537abcdd1cab7f07b2012b69baf",
+  "bytes": 18434,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6a19742388fe0b301abb.html",
+  "markdown": "docs/pages/6a19742388fe0b301abb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/channel",
+    "https://core.telegram.org/constructor/channelFull",
+    "https://core.telegram.org/constructor/updateChannel",
+    "https://core.telegram.org/constructor/updates",
+    "https://core.telegram.org/constructor/updatesCombined",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/long"
+  ]
+}

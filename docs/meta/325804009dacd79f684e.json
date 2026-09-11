@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.updateBusinessLocation",
+  "final_url": "https://core.telegram.org/method/account.updateBusinessLocation",
+  "title": "account.updateBusinessLocation",
+  "fetched_at": "2026-09-11T06:08:57Z",
+  "sha256": "4ca00151d710aa114b3e2784afd210c74fcec5a676c258907850435391e8cadc",
+  "bytes": 16218,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/325804009dacd79f684e.html",
+  "markdown": "docs/pages/325804009dacd79f684e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.updateBusinessLocation",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputGeoPoint",
+    "https://core.telegram.org/type/string"
+  ]
+}

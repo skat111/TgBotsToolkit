@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/phone.saveDefaultGroupCallJoinAs",
+  "final_url": "https://core.telegram.org/method/phone.saveDefaultGroupCallJoinAs",
+  "title": "phone.saveDefaultGroupCallJoinAs",
+  "fetched_at": "2026-09-11T06:11:12Z",
+  "sha256": "f082f64c21c8d8b8ed77685b39c918d26d2d02614f163f23afd168e41d24ed5e",
+  "bytes": 16944,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d66771b27ceeef248cc3.html",
+  "markdown": "docs/pages/d66771b27ceeef248cc3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/channels.getSendAs",
+    "https://core.telegram.org/method/phone.getGroupCallJoinAs",
+    "https://core.telegram.org/method/phone.saveDefaultGroupCallJoinAs",
+    "https://core.telegram.org/method/phone.sendGroupCallMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/sendMessageHistoryImportAction",
+  "final_url": "https://core.telegram.org/constructor/sendMessageHistoryImportAction",
+  "title": "sendMessageHistoryImportAction",
+  "fetched_at": "2026-09-11T06:07:36Z",
+  "sha256": "b0c204384f5ee3e974d029864165fadf142930372f1e7bb4b18ec1ed0e672da9",
+  "bytes": 14236,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2ef0026181b02b63338.html",
+  "markdown": "docs/pages/e2ef0026181b02b63338.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendMessageHistoryImportAction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SendMessageAction",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/botCommandScopeChats",
+  "final_url": "https://core.telegram.org/constructor/botCommandScopeChats",
+  "title": "botCommandScopeChats",
+  "fetched_at": "2026-09-11T06:05:38Z",
+  "sha256": "4d7ce2843fd5fd3f0fca4e3761f3c87e70180f004e6267b4570c1962eb2a8f3f",
+  "bytes": 14580,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2e2f4727e9a224927b31.html",
+  "markdown": "docs/pages/2e2f4727e9a224927b31.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botCommandScopeChats",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotCommandScope"
+  ]
+}

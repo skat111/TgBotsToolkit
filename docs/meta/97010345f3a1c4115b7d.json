@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/userStatusOffline",
+  "final_url": "https://core.telegram.org/constructor/userStatusOffline",
+  "title": "userStatusOffline",
+  "fetched_at": "2026-09-11T06:08:12Z",
+  "sha256": "0c4aa85078ef723629c1ecf1e6a3f1ecd2856837fa2f809c0136a387ec61969d",
+  "bytes": 14131,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/97010345f3a1c4115b7d.html",
+  "markdown": "docs/pages/97010345f3a1c4115b7d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/userStatusOffline",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/UserStatus",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_permissions-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_permissions-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:12Z",
+  "sha256": "f9ef69bdc5a7f833a8ab359503bd027ada5a4c5d46a5f396381f2a9374775d03",
+  "bytes": 10566,
+  "content_type": "text/html",
+  "raw": "docs/raw/b87c0ddad0b96ce46ee8.html",
+  "markdown": "docs/pages/b87c0ddad0b96ce46ee8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_permissions.html"
+  ]
+}

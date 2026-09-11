@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/groupCallParticipantVideo",
+  "final_url": "https://core.telegram.org/constructor/groupCallParticipantVideo",
+  "title": "groupCallParticipantVideo",
+  "fetched_at": "2026-09-11T06:06:08Z",
+  "sha256": "cdd9cff086393ac6d468df1b10f789bc4a57660285fdfd8b1e61b996a1f0fbe9",
+  "bytes": 15373,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b1d17c597193b7693d67.html",
+  "markdown": "docs/pages/b1d17c597193b7693d67.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/groupCallParticipantVideo",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/GroupCallParticipantVideo",
+    "https://core.telegram.org/type/GroupCallParticipantVideoSourceGroup",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

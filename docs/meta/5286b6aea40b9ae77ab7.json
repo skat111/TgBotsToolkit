@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeUsername",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeUsername",
+  "title": "channelAdminLogEventActionChangeUsername",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "e02c2d04ae55b90cdc242a161605ae1cf938f0bd5a63c04fd7e5bcbaa96cc5d7",
+  "bytes": 14565,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5286b6aea40b9ae77ab7.html",
+  "markdown": "docs/pages/5286b6aea40b9ae77ab7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionChangeUsername",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/string"
+  ]
+}

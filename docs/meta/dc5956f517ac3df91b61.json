@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateRecentReactions",
+  "final_url": "https://core.telegram.org/constructor/updateRecentReactions",
+  "title": "updateRecentReactions",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "e8a1a7fa5a01d2d425203b87eb9b2da72e5530691c2ef549c068227a67ff7079",
+  "bytes": 14359,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dc5956f517ac3df91b61.html",
+  "markdown": "docs/pages/dc5956f517ac3df91b61.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/updateRecentReactions",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

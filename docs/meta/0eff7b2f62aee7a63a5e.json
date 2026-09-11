@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.checkUsername",
+  "final_url": "https://core.telegram.org/method/account.checkUsername",
+  "title": "account.checkUsername",
+  "fetched_at": "2026-09-11T06:08:30Z",
+  "sha256": "087e165a1e62143aa3d35609c7f0b09006af57434821a1707c9baa3c4106ce76",
+  "bytes": 15303,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0eff7b2f62aee7a63a5e.html",
+  "markdown": "docs/pages/0eff7b2f62aee7a63a5e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.checkUsername",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/string"
+  ]
+}

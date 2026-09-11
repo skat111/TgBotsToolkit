@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_credentials.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_credentials.html",
+  "title": "TDLib: savedCredentials Class Reference",
+  "fetched_at": "2026-09-11T06:15:28Z",
+  "sha256": "9c074c72e0a157f72c47700ffb670d4c4804154f1b4e6a5d471eb48120b8acb2",
+  "bytes": 19383,
+  "content_type": "text/html",
+  "raw": "docs/raw/53969d9c159435568d60.html",
+  "markdown": "docs/pages/53969d9c159435568d60.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_credentials-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_credentials.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link_count.html",
+  "title": "TDLib: chatInviteLinkCount Class Reference",
+  "fetched_at": "2026-09-11T06:13:38Z",
+  "sha256": "c0be24ab892de7c3cb341637fb58f5924a47ad80521cbe9dc9d7e9aaba0b138a",
+  "bytes": 20897,
+  "content_type": "text/html",
+  "raw": "docs/raw/f5430fd0059318f8fb94.html",
+  "markdown": "docs/pages/f5430fd0059318f8fb94.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/phoneCallDiscardReasonBusy",
+  "final_url": "https://core.telegram.org/constructor/phoneCallDiscardReasonBusy",
+  "title": "phoneCallDiscardReasonBusy",
+  "fetched_at": "2026-09-11T06:07:19Z",
+  "sha256": "4eb816dc365b3410054ff39e8cdebe563831182e1c65ee26a0e43e69a3277ba6",
+  "bytes": 14546,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0da401cfcc8bd62a8814.html",
+  "markdown": "docs/pages/0da401cfcc8bd62a8814.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phoneCallDiscardReasonBusy",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PhoneCallDiscardReason"
+  ]
+}

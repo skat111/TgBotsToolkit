@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/keyboardButtonGame",
+  "final_url": "https://core.telegram.org/constructor/keyboardButtonGame",
+  "title": "keyboardButtonGame",
+  "fetched_at": "2026-09-11T06:06:42Z",
+  "sha256": "d6fd919530ef69334ae1d84fa742d316267e9db57428111f57a8baa4fdc38108",
+  "bytes": 16838,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d575ce51c77ab39f0a4f.html",
+  "markdown": "docs/pages/d575ce51c77ab39f0a4f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/bots/games",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/game",
+    "https://core.telegram.org/constructor/keyboardButtonGame",
+    "https://core.telegram.org/constructor/messageMediaGame",
+    "https://core.telegram.org/constructor/replyInlineMarkup",
+    "https://core.telegram.org/method/messages.getBotCallbackAnswer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/KeyboardButtonStyle",
+    "https://core.telegram.org/type/string"
+  ]
+}

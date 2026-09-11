@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/messages.CheckedHistoryImportPeer",
+  "final_url": "https://core.telegram.org/type/messages.CheckedHistoryImportPeer",
+  "title": "messages.CheckedHistoryImportPeer",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "288d92643a3dd1171873ff7915a8ac7da982d6cce68042f9f0e32a509ad42377",
+  "bytes": 15932,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/132603e9d51de9a2f6be.html",
+  "markdown": "docs/pages/132603e9d51de9a2f6be.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/import",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.checkedHistoryImportPeer",
+    "https://core.telegram.org/method/messages.checkHistoryImportPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/messages.CheckedHistoryImportPeer",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/messages.BotCallbackAnswer",
+  "final_url": "https://core.telegram.org/type/messages.BotCallbackAnswer",
+  "title": "Messages.BotCallbackAnswer",
+  "fetched_at": "2026-09-11T06:17:15Z",
+  "sha256": "b111caa2dd4dec2e6ed69820b07917e0899305a537ac1483a56c13bdb6d425f8",
+  "bytes": 15127,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bef13c9539907d1bd315.html",
+  "markdown": "docs/pages/bef13c9539907d1bd315.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.botCallbackAnswer",
+    "https://core.telegram.org/method/messages.getBotCallbackAnswer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.BotCallbackAnswer",
+    "https://core.telegram.org/type/string"
+  ]
+}

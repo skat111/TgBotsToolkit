@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.starGiftAuctionState",
+  "final_url": "https://core.telegram.org/constructor/payments.starGiftAuctionState",
+  "title": "payments.starGiftAuctionState",
+  "fetched_at": "2026-09-11T06:07:15Z",
+  "sha256": "9508a01f5b14637160bde2018289ba124caac18cc8dcca51f8feba9e4e9a88ec",
+  "bytes": 16808,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8a31e7f3c173be78faae.html",
+  "markdown": "docs/pages/8a31e7f3c173be78faae.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auctions",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.starGiftAuctionState",
+    "https://core.telegram.org/method/payments.getStarGiftAuctionState",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/StarGift",
+    "https://core.telegram.org/type/StarGiftAuctionState",
+    "https://core.telegram.org/type/StarGiftAuctionUserState",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/payments.StarGiftAuctionState"
+  ]
+}

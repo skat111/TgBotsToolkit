@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/contacts.search",
+  "final_url": "https://core.telegram.org/method/contacts.search",
+  "title": "contacts.search",
+  "fetched_at": "2026-09-11T06:09:37Z",
+  "sha256": "a76d30c50e3eb75c21d49a1b99afb309f2fa5db2c74bc38f07b088da77953848",
+  "bytes": 15755,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/275cc3e4f362c1fcf327.html",
+  "markdown": "docs/pages/275cc3e4f362c1fcf327.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.found",
+    "https://core.telegram.org/method/contacts.search",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.Found",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.getSavedMusicIds",
+  "final_url": "https://core.telegram.org/method/account.getSavedMusicIds",
+  "title": "account.getSavedMusicIds",
+  "fetched_at": "2026-09-11T06:08:43Z",
+  "sha256": "0918e7a83d3fc7729e8b03625d909f33fb744fe3e264277f3546192ccdddfbee",
+  "bytes": 15782,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fb2128c2b2fe59e4a338.html",
+  "markdown": "docs/pages/fb2128c2b2fe59e4a338.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/account.savedMusicIds",
+    "https://core.telegram.org/constructor/account.savedMusicIdsNotModified",
+    "https://core.telegram.org/method/account.getSavedMusicIds",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.SavedMusicIds",
+    "https://core.telegram.org/type/long"
+  ]
+}

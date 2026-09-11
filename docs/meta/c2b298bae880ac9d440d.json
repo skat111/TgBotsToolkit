@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:13Z",
+  "sha256": "ee73a26e995affc132fd76aa72043fe35e742938b0d566b8637747e05d4caf3d",
+  "bytes": 10468,
+  "content_type": "text/html",
+  "raw": "docs/raw/c2b298bae880ac9d440d.html",
+  "markdown": "docs/pages/c2b298bae880ac9d440d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_contact_close_birthdays.html"
+  ]
+}

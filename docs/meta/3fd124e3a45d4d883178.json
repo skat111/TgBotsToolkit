@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.reportEncryptedSpam",
+  "final_url": "https://core.telegram.org/method/messages.reportEncryptedSpam",
+  "title": "messages.reportEncryptedSpam",
+  "fetched_at": "2026-09-11T06:10:21Z",
+  "sha256": "2736a7f76003259801fd24a0540234f2ce31d129f7c53a48208785c0b297c1d8",
+  "bytes": 14986,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3fd124e3a45d4d883178.html",
+  "markdown": "docs/pages/3fd124e3a45d4d883178.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.reportEncryptedSpam",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputEncryptedChat"
+  ]
+}

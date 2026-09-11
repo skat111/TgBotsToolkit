@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1trending_sticker_sets.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1trending_sticker_sets.html",
+  "title": "TDLib: trendingStickerSets Class Reference",
+  "fetched_at": "2026-09-11T06:16:06Z",
+  "sha256": "484ed24045638e2d764b10e180ee3eb9413405905c1348f4c370d898d2d0f7f5",
+  "bytes": 21111,
+  "content_type": "text/html",
+  "raw": "docs/raw/b53f79a0a966fb1ae3cf.html",
+  "markdown": "docs/pages/b53f79a0a966fb1ae3cf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker_set_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1trending_sticker_sets-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1trending_sticker_sets.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

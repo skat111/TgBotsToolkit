@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_real_time_chat_translation.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_real_time_chat_translation.html",
+  "title": "TDLib: premiumFeatureRealTimeChatTranslation Class Reference",
+  "fetched_at": "2026-09-11T06:15:09Z",
+  "sha256": "fa364b831ad5aaef8d6ed1b9c6a44dccbc462c3a35d35f7b6492c106031009e3",
+  "bytes": 15770,
+  "content_type": "text/html",
+  "raw": "docs/raw/4de5dd2a689abd68e27b.html",
+  "markdown": "docs/pages/4de5dd2a689abd68e27b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_real_time_chat_translation-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_real_time_chat_translation.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

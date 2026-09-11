@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueErrorFrontSide",
+  "final_url": "https://core.telegram.org/constructor/secureValueErrorFrontSide",
+  "title": "secureValueErrorFrontSide",
+  "fetched_at": "2026-09-11T06:07:33Z",
+  "sha256": "37c5256f7800ca7f36513bbb054fddf1f9a25cb5b5e13d0299920e8a913653ae",
+  "bytes": 16493,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/75786e16f2d5a181c979.html",
+  "markdown": "docs/pages/75786e16f2d5a181c979.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueErrorFrontSide",
+    "https://core.telegram.org/constructor/secureValueTypeDriverLicense",
+    "https://core.telegram.org/constructor/secureValueTypeIdentityCard",
+    "https://core.telegram.org/constructor/secureValueTypeInternalPassport",
+    "https://core.telegram.org/constructor/secureValueTypePassport",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

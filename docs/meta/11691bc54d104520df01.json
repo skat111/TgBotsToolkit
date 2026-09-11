@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.saveRingtone",
+  "final_url": "https://core.telegram.org/method/account.saveRingtone",
+  "title": "account.saveRingtone",
+  "fetched_at": "2026-09-11T06:08:51Z",
+  "sha256": "aa3e59ddc9150aaea236a5666889e69a8d5a4647c4ff51d674b41a3d9bcd6e22",
+  "bytes": 18164,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/11691bc54d104520df01.html",
+  "markdown": "docs/pages/11691bc54d104520df01.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.savedRingtone",
+    "https://core.telegram.org/constructor/account.savedRingtoneConverted",
+    "https://core.telegram.org/constructor/document",
+    "https://core.telegram.org/method/account.saveRingtone",
+    "https://core.telegram.org/method/account.uploadRingtone",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/InputDocument",
+    "https://core.telegram.org/type/account.SavedRingtone"
+  ]
+}

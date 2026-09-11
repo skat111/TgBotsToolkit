@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/mtproto/mtproto-transports",
+  "final_url": "https://core.telegram.org/mtproto/mtproto-transports",
+  "title": "MTProto transports",
+  "fetched_at": "2026-09-11T06:11:42Z",
+  "sha256": "1fb8a3258d81d91b0447e1d0658c38fd3ad400ce2481f17c2fcc4d28e4b5d8ff",
+  "bytes": 24550,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e5d0e105fe0997fe59e7.html",
+  "markdown": "docs/pages/e5d0e105fe0997fe59e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/auth_key",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/mtproto/mtproto-transports",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/mtproto/service_messages_about_messages",
+    "https://core.telegram.org/mtproto/transports",
+    "https://core.telegram.org/schema"
+  ]
+}

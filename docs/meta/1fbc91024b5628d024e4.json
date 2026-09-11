@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateDeleteChannelMessages",
+  "final_url": "https://core.telegram.org/constructor/updateDeleteChannelMessages",
+  "title": "updateDeleteChannelMessages",
+  "fetched_at": "2026-09-11T06:07:57Z",
+  "sha256": "ce351ab0030e0e9abbbe36524c92654f8e7a8620a3d3ccdb32af3521d413a6d4",
+  "bytes": 15770,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1fbc91024b5628d024e4.html",
+  "markdown": "docs/pages/1fbc91024b5628d024e4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateDeleteChannelMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

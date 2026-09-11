@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_unsupported.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_unsupported.html",
+  "title": "TDLib: messageUnsupported Class Reference",
+  "fetched_at": "2026-09-11T06:14:58Z",
+  "sha256": "e104b91d2bd15c223e35ea5688dbdfb1e29eb55061f297cece4debe389ca5a57",
+  "bytes": 15566,
+  "content_type": "text/html",
+  "raw": "docs/raw/f86dd7bab985f86a514a.html",
+  "markdown": "docs/pages/f86dd7bab985f86a514a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_unsupported-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_unsupported.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

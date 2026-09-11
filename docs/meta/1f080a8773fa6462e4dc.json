@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/smsjobs.updateSettings",
+  "final_url": "https://core.telegram.org/method/smsjobs.updateSettings",
+  "title": "smsjobs.updateSettings",
+  "fetched_at": "2026-09-11T06:11:21Z",
+  "sha256": "b3a0e9a7a3a86327d6be7e05ceec679edfe518f822c0a2a599d0807f54298bf3",
+  "bytes": 15295,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1f080a8773fa6462e4dc.html",
+  "markdown": "docs/pages/1f080a8773fa6462e4dc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/smsjobs.updateSettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

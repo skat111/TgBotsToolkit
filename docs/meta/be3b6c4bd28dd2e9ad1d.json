@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_notification_settings.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_notification_settings.html",
+  "title": "TDLib: reactionNotificationSettings Class Reference",
+  "fetched_at": "2026-09-11T06:15:19Z",
+  "sha256": "06862fd338f165eca3fef5fc8729947a0338c35be16ef535bfc99c75d7c3f9ec",
+  "bytes": 23172,
+  "content_type": "text/html",
+  "raw": "docs/raw/be3b6c4bd28dd2e9ad1d.html",
+  "markdown": "docs/pages/be3b6c4bd28dd2e9ad1d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reaction_notification_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_notification_settings-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_notification_settings.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

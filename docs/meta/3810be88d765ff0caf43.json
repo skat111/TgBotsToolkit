@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_autosave_settings_exceptions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_autosave_settings_exceptions.html",
+  "title": "TDLib: clearAutosaveSettingsExceptions Class Reference",
+  "fetched_at": "2026-09-11T06:13:49Z",
+  "sha256": "bd2226b61b2519ff124efeec638fc12ac8a3b6987acd5e60dce6b1684c2bf8fa",
+  "bytes": 17106,
+  "content_type": "text/html",
+  "raw": "docs/raw/3810be88d765ff0caf43.html",
+  "markdown": "docs/pages/3810be88d765ff0caf43.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_autosave_settings_exceptions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1clear_autosave_settings_exceptions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_autosave_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

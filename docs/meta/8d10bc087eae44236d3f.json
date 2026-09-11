@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transfer_business_account_stars.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transfer_business_account_stars.html",
+  "title": "TDLib: transferBusinessAccountStars Class Reference",
+  "fetched_at": "2026-09-11T06:16:06Z",
+  "sha256": "4a958527b11badf2206908a72fdb38df7d5b000b8bfd1f76ba899998caf02452",
+  "bytes": 21003,
+  "content_type": "text/html",
+  "raw": "docs/raw/8d10bc087eae44236d3f.html",
+  "markdown": "docs/pages/8d10bc087eae44236d3f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transfer_business_account_stars-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1transfer_business_account_stars.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

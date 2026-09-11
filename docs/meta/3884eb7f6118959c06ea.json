@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/PeerLocated",
+  "final_url": "https://core.telegram.org/type/PeerLocated",
+  "title": "PeerLocated",
+  "fetched_at": "2026-09-11T06:17:06Z",
+  "sha256": "45c1ef1234f36978412d884fb9d176aafe25bb344792c97e6f8ebec8c802423b",
+  "bytes": 14175,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3884eb7f6118959c06ea.html",
+  "markdown": "docs/pages/3884eb7f6118959c06ea.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/peerLocated",
+    "https://core.telegram.org/constructor/peerSelfLocated",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PeerLocated",
+    "https://core.telegram.org/type/int"
+  ]
+}

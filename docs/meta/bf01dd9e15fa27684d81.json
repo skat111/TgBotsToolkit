@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/dialogPeerFolder",
+  "final_url": "https://core.telegram.org/constructor/dialogPeerFolder",
+  "title": "dialogPeerFolder",
+  "fetched_at": "2026-09-11T06:05:59Z",
+  "sha256": "6238973b26e3dfa2e617a273ef8a454737584dc20f76ded4ceb1775416d1bb57",
+  "bytes": 14612,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bf01dd9e15fa27684d81.html",
+  "markdown": "docs/pages/bf01dd9e15fa27684d81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/dialogPeerFolder",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DialogPeer",
+    "https://core.telegram.org/type/int"
+  ]
+}

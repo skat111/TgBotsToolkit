@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_paid_media_type_photo.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_paid_media_type_photo.html",
+  "title": "TDLib: inputPaidMediaTypePhoto Class Reference",
+  "fetched_at": "2026-09-11T06:14:36Z",
+  "sha256": "a9bda93cd6cbc788ff1e85d5ad61cf0095e6db6e1095377540e3198b7e7b84aa",
+  "bytes": 15847,
+  "content_type": "text/html",
+  "raw": "docs/raw/8c8066889295e9d90fc1.html",
+  "markdown": "docs/pages/8c8066889295e9d90fc1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_paid_media_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_paid_media_type_photo-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_paid_media_type_photo.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

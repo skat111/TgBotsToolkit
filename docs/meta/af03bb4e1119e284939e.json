@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_purchase.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_purchase.html",
+  "title": "TDLib: starTransactionTypeChannelPaidMediaPurchase Class Reference",
+  "fetched_at": "2026-09-11T06:15:48Z",
+  "sha256": "fcf3b3fa867fa79284f020f9214c05333d668fd0287918f2bcc258ba2dcf208a",
+  "bytes": 22283,
+  "content_type": "text/html",
+  "raw": "docs/raw/af03bb4e1119e284939e.html",
+  "markdown": "docs/pages/af03bb4e1119e284939e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_paid_media.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_star_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_purchase-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_channel_paid_media_purchase.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

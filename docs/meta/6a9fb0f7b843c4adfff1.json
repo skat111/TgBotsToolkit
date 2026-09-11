@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location_address.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location_address.html",
+  "title": "TDLib: locationAddress Class Reference",
+  "fetched_at": "2026-09-11T06:14:48Z",
+  "sha256": "4e471aa1c04b909afecefa6d7d2399ac13850c2b3aaa92da27871b0904ed48a1",
+  "bytes": 21895,
+  "content_type": "text/html",
+  "raw": "docs/raw/6a9fb0f7b843c4adfff1.html",
+  "markdown": "docs/pages/6a9fb0f7b843c4adfff1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location_address-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1location_address.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

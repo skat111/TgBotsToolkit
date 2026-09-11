@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/method/account.addNoPaidMessagesException",
+  "final_url": "https://core.telegram.org/method/account.addNoPaidMessagesException",
+  "title": "account.addNoPaidMessagesException",
+  "fetched_at": "2026-09-11T06:08:29Z",
+  "sha256": "7612d6218adafb1187f4238cfc7d268d957f649b59c759946ba070e98156b183",
+  "bytes": 15092,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/194c9f0ad7e6057dfdf6.html",
+  "markdown": "docs/pages/194c9f0ad7e6057dfdf6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/paid-messages",
+    "https://core.telegram.org/method/account.addNoPaidMessagesException",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

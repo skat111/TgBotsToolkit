@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMessagesFilterPoll",
+  "final_url": "https://core.telegram.org/constructor/inputMessagesFilterPoll",
+  "title": "inputMessagesFilterPoll",
+  "fetched_at": "2026-09-11T06:06:28Z",
+  "sha256": "7d0205742a445c85c9699bf05307d0660ff64cb0408317633d3a3b1b396cc979",
+  "bytes": 14368,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/99b644f05dd19e09c74f.html",
+  "markdown": "docs/pages/99b644f05dd19e09c74f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/constructor/inputMessagesFilterPoll",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessagesFilter"
+  ]
+}

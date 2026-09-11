@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/messages.FoundStickerSets",
+  "final_url": "https://core.telegram.org/type/messages.FoundStickerSets",
+  "title": "Messages.FoundStickerSets",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "8275b0148b9a6110310b12d90692b952e19d357774507cc14e1df4b0d94e2720",
+  "bytes": 15678,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/70a64b653a166f344db2.html",
+  "markdown": "docs/pages/70a64b653a166f344db2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.foundStickerSets",
+    "https://core.telegram.org/constructor/messages.foundStickerSetsNotModified",
+    "https://core.telegram.org/method/messages.searchEmojiStickerSets",
+    "https://core.telegram.org/method/messages.searchStickerSets",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StickerSetCovered",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.FoundStickerSets",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyKeyPhoneCall",
+  "final_url": "https://core.telegram.org/constructor/privacyKeyPhoneCall",
+  "title": "privacyKeyPhoneCall",
+  "fetched_at": "2026-09-11T06:07:24Z",
+  "sha256": "4d8e225c80d82604865fe92259d8a7d26a15e0e5056367fd560d0cada9c0a5fb",
+  "bytes": 13873,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/41d74a31ef3f48886f51.html",
+  "markdown": "docs/pages/41d74a31ef3f48886f51.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/privacyKeyPhoneCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyKey"
+  ]
+}

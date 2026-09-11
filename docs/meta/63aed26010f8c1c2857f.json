@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.getQuickReplies",
+  "final_url": "https://core.telegram.org/method/messages.getQuickReplies",
+  "title": "messages.getQuickReplies",
+  "fetched_at": "2026-09-11T06:10:15Z",
+  "sha256": "df0da69cbb4a1636ed72fdc6dc6f21703759edaa63e0baebefa4b1b3831c837c",
+  "bytes": 15921,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/63aed26010f8c1c2857f.html",
+  "markdown": "docs/pages/63aed26010f8c1c2857f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.quickReplies",
+    "https://core.telegram.org/constructor/messages.quickRepliesNotModified",
+    "https://core.telegram.org/method/messages.getQuickReplies",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/QuickReply",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.QuickReplies"
+  ]
+}

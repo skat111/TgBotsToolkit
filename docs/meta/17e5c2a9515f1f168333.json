@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/help.countryCode",
+  "final_url": "https://core.telegram.org/constructor/help.countryCode",
+  "title": "help.countryCode",
+  "fetched_at": "2026-09-11T06:06:09Z",
+  "sha256": "5865f1def6ce072b8954857f5e3af2bfcc88546ee473b36e1901daa1ffdd1e9a",
+  "bytes": 15228,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/17e5c2a9515f1f168333.html",
+  "markdown": "docs/pages/17e5c2a9515f1f168333.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.countryCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.CountryCode",
+    "https://core.telegram.org/type/string"
+  ]
+}

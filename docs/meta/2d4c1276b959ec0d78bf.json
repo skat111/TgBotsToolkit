@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.reportPeer",
+  "final_url": "https://core.telegram.org/method/account.reportPeer",
+  "title": "account.reportPeer",
+  "fetched_at": "2026-09-11T06:08:48Z",
+  "sha256": "e533e879998a78b66ed076747ffde8b8a2ad2e2ec625e21cd0fc5fb14e53bc8a",
+  "bytes": 15503,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2d4c1276b959ec0d78bf.html",
+  "markdown": "docs/pages/2d4c1276b959ec0d78bf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.reportPeer",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/ReportReason",
+    "https://core.telegram.org/type/string"
+  ]
+}

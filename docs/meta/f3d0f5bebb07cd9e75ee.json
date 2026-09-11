@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionGiftCode",
+  "final_url": "https://core.telegram.org/constructor/messageActionGiftCode",
+  "title": "messageActionGiftCode",
+  "fetched_at": "2026-09-11T06:06:46Z",
+  "sha256": "e3e0ff8052ba88c90c8bf670dc57fed73fab325b56e8323f8f0e2ebce91c145d",
+  "bytes": 19201,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f3d0f5bebb07cd9e75ee.html",
+  "markdown": "docs/pages/f3d0f5bebb07cd9e75ee.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/messageActionGiftCode",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

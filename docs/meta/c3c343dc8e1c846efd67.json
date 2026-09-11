@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_profile_photos.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_profile_photos.html",
+  "title": "TDLib: getUserProfilePhotos Class Reference",
+  "fetched_at": "2026-09-11T06:14:25Z",
+  "sha256": "8c915f1573a8f82ed6da30ddb8a6ce17f7d49f16ec682004b1a5c6027a2aa022",
+  "bytes": 22035,
+  "content_type": "text/html",
+  "raw": "docs/raw/c3c343dc8e1c846efd67.html",
+  "markdown": "docs/pages/c3c343dc8e1c846efd67.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_photos.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_profile_photos-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_user_profile_photos.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleAdmin",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleAdmin",
+  "title": "channelAdminLogEventActionParticipantToggleAdmin",
+  "fetched_at": "2026-09-11T06:05:47Z",
+  "sha256": "bd251fac3a16227c4d9407a78b752d7cf8bbb6f10208eee3595550353d4cc78e",
+  "bytes": 15246,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f907470a2456012be6d8.html",
+  "markdown": "docs/pages/f907470a2456012be6d8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rights",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionParticipantToggleAdmin",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ChannelParticipant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoicePremiumGiftStars",
+  "final_url": "https://core.telegram.org/constructor/inputInvoicePremiumGiftStars",
+  "title": "inputInvoicePremiumGiftStars",
+  "fetched_at": "2026-09-11T06:06:23Z",
+  "sha256": "2f4d0bbecbecbf169e9b357ffbff29d4929acc74768926979a7c96e1a6900299",
+  "bytes": 16632,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d408e4606c35bd17fa43.html",
+  "markdown": "docs/pages/d408e4606c35bd17fa43.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/inputInvoicePremiumGiftStars",
+    "https://core.telegram.org/method/payments.getPremiumGiftCodeOptions",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/int"
+  ]
+}

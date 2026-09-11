@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/channels.readHistory",
+  "final_url": "https://core.telegram.org/method/channels.readHistory",
+  "title": "channels.readHistory",
+  "fetched_at": "2026-09-11T06:09:26Z",
+  "sha256": "b561615c4cf2a19ffb9726b0ce5670164223cbc5081f3dcf7822188d24a624e6",
+  "bytes": 15940,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f22e645aa664a556b279.html",
+  "markdown": "docs/pages/f22e645aa664a556b279.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/channels.readHistory",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/int"
+  ]
+}

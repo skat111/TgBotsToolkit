@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/stickerSetNoCovered",
+  "final_url": "https://core.telegram.org/constructor/stickerSetNoCovered",
+  "title": "stickerSetNoCovered",
+  "fetched_at": "2026-09-11T06:07:44Z",
+  "sha256": "d68f2ceee3488764b2b6f166e295ff2a7a327b19a20aecb21a8fde449a341a37",
+  "bytes": 14241,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fac0b58ec0b79acbfff7.html",
+  "markdown": "docs/pages/fac0b58ec0b79acbfff7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/stickerSetNoCovered",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StickerSet",
+    "https://core.telegram.org/type/StickerSetCovered"
+  ]
+}

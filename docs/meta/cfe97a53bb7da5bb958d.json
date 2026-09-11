@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/boost",
+  "final_url": "https://core.telegram.org/constructor/boost",
+  "title": "boost",
+  "fetched_at": "2026-09-11T06:05:37Z",
+  "sha256": "775b4a46d948a21cfa21db64a9b094b0c11e31690a2e7d5ed6e724ddbee13422",
+  "bytes": 18708,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cfe97a53bb7da5bb958d.html",
+  "markdown": "docs/pages/cfe97a53bb7da5bb958d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boost",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/payments.applyGiftCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Boost",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

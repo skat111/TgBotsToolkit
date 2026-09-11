@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/type/messages.InvitedUsers",
+  "final_url": "https://core.telegram.org/type/messages.InvitedUsers",
+  "title": "messages.InvitedUsers",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "8209c7b5bd74d12cdc2af236ae9e88f6c79f0156560b5a84146a8ccf3b9d8b02",
+  "bytes": 16443,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6a669b45fc6789aa569a.html",
+  "markdown": "docs/pages/6a669b45fc6789aa569a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.invitedUsers",
+    "https://core.telegram.org/method/channels.inviteToChannel",
+    "https://core.telegram.org/method/messages.addChatUser",
+    "https://core.telegram.org/method/messages.createChat",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/MissingInvitee",
+    "https://core.telegram.org/type/Updates",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.InvitedUsers",
+    "https://core.telegram.org/type/string"
+  ]
+}

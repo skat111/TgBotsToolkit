@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_reactions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_reactions.html",
+  "title": "TDLib: messageReactions Class Reference",
+  "fetched_at": "2026-09-11T06:14:55Z",
+  "sha256": "4143402755160bc88bc6b40d667206b42177e10e2b2480811ed8b89d8ce8cade",
+  "bytes": 23034,
+  "content_type": "text/html",
+  "raw": "docs/raw/bb0d0d5538ffc46d1122.html",
+  "markdown": "docs/pages/bb0d0d5538ffc46d1122.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_message_added_reactions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_reaction.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_reactions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_reactions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1paid_reactor.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStorePaymentAuthCode",
+  "final_url": "https://core.telegram.org/constructor/inputStorePaymentAuthCode",
+  "title": "inputStorePaymentAuthCode",
+  "fetched_at": "2026-09-11T06:06:38Z",
+  "sha256": "4e99c29310e770478777e6f06d63aab5ef7916d14263063ba0b0a78ef8ca049d",
+  "bytes": 17634,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/798ac08e15245fec8279.html",
+  "markdown": "docs/pages/798ac08e15245fec8279.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+    "https://core.telegram.org/constructor/inputStorePaymentAuthCode",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/auth.sendCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputStorePaymentPurpose",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

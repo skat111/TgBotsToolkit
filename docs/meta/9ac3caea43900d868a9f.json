@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputEncryptedFileBigUploaded",
+  "final_url": "https://core.telegram.org/constructor/inputEncryptedFileBigUploaded",
+  "title": "inputEncryptedFileBigUploaded",
+  "fetched_at": "2026-09-11T06:06:21Z",
+  "sha256": "073c8cb3b3952bcdf6fdcd24cbf67d13d341c5976c8c25fc8752df8074903154",
+  "bytes": 15373,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9ac3caea43900d868a9f.html",
+  "markdown": "docs/pages/9ac3caea43900d868a9f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputEncryptedFileBigUploaded",
+    "https://core.telegram.org/method/upload.saveBigFilePart",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputEncryptedFile",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

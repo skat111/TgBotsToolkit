@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1imported_contact.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1imported_contact.html",
+  "title": "TDLib: importedContact Class Reference",
+  "fetched_at": "2026-09-11T06:14:29Z",
+  "sha256": "20cc4c04e6e120eab796c4e888ea56d66f06277fc52e6fe03adf38ee86dbc8e7",
+  "bytes": 22701,
+  "content_type": "text/html",
+  "raw": "docs/raw/692b5d6fbbd6e5c545b7.html",
+  "markdown": "docs/pages/692b5d6fbbd6e5c545b7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1imported_contact-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1imported_contact.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

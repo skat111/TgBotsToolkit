@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_active_story_state.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_active_story_state.html",
+  "title": "TDLib: ActiveStoryState Class Reference",
+  "fetched_at": "2026-09-11T06:11:57Z",
+  "sha256": "959309a62630672bc9e56b856a33d2ac2c3df87321081f4b79f3a9173ef120b5",
+  "bytes": 12586,
+  "content_type": "text/html",
+  "raw": "docs/raw/21d5c3ea15c1458913cb.html",
+  "markdown": "docs/pages/21d5c3ea15c1458913cb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_active_story_state-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_active_story_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1active_story_state_live.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1active_story_state_read.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1active_story_state_unread.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

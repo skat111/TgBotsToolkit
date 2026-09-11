@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_ipad.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_ipad.html",
+  "title": "TDLib: sessionTypeIpad Class Reference",
+  "fetched_at": "2026-09-11T06:15:34Z",
+  "sha256": "e183b29505415360612509722011b9d8000c217e294ba2fdca1b1ef20cac1c10",
+  "bytes": 15473,
+  "content_type": "text/html",
+  "raw": "docs/raw/83ce55aa2d48394066a4.html",
+  "markdown": "docs/pages/83ce55aa2d48394066a4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_session_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_ipad-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_ipad.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

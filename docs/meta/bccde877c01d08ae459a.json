@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_video_chat_started.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_video_chat_started.html",
+  "title": "TDLib: messageVideoChatStarted Class Reference",
+  "fetched_at": "2026-09-11T06:14:59Z",
+  "sha256": "33c3ba7dc1b13022c140dfaeee5311ab3445c6a8dceb11985e63fd96b56caa58",
+  "bytes": 18565,
+  "content_type": "text/html",
+  "raw": "docs/raw/bccde877c01d08ae459a.html",
+  "markdown": "docs/pages/bccde877c01d08ae459a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_group_call.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_video_chat_started-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_video_chat_started.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

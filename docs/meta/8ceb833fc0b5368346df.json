@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.sentCodeTypeSms",
+  "final_url": "https://core.telegram.org/constructor/auth.sentCodeTypeSms",
+  "title": "auth.sentCodeTypeSms",
+  "fetched_at": "2026-09-11T06:05:35Z",
+  "sha256": "f26312481ee04f3a726f21869ec13d3f37d164c9f8cb673b3ef24c040f9e529a",
+  "bytes": 14156,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8ceb833fc0b5368346df.html",
+  "markdown": "docs/pages/8ceb833fc0b5368346df.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.sentCodeTypeSms",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.SentCodeType",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/fragment.CollectibleInfo",
+  "final_url": "https://core.telegram.org/type/fragment.CollectibleInfo",
+  "title": "fragment.CollectibleInfo",
+  "fetched_at": "2026-09-11T06:17:14Z",
+  "sha256": "ddbd4cb19343a1ced46b7d77f98567f64115b5fb9e1f434b89557e819f4dbaa7",
+  "bytes": 15754,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/73518a7b9470ac331884.html",
+  "markdown": "docs/pages/73518a7b9470ac331884.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/fragment",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/fragment.collectibleInfo",
+    "https://core.telegram.org/method/fragment.getCollectibleInfo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCollectible",
+    "https://core.telegram.org/type/fragment.CollectibleInfo",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

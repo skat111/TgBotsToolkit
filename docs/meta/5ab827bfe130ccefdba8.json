@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_active_stories.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_active_stories.html",
+  "title": "TDLib: chatActiveStories Class Reference",
+  "fetched_at": "2026-09-11T06:13:35Z",
+  "sha256": "4abe6f150c86acaaf4ed427766fe932b7d56ff53f31a887339066b552ba0b98e",
+  "bytes": 26987,
+  "content_type": "text/html",
+  "raw": "docs/raw/5ab827bfe130ccefdba8.html",
+  "markdown": "docs/pages/5ab827bfe130ccefdba8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_active_stories-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_active_stories.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_top_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1top_chat_category_users.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1encrypt_group_call_data-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1encrypt_group_call_data-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:04Z",
+  "sha256": "e120cb13698fb75e427b38874046aa3362a1302c3220ac1d7511e4d78b27769b",
+  "bytes": 11568,
+  "content_type": "text/html",
+  "raw": "docs/raw/929b581fc82c70c1713b.html",
+  "markdown": "docs/pages/929b581fc82c70c1713b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1encrypt_group_call_data.html"
+  ]
+}

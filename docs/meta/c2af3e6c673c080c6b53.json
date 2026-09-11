@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_remote.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_remote.html",
+  "title": "TDLib: inputFileRemote Class Reference",
+  "fetched_at": "2026-09-11T06:14:31Z",
+  "sha256": "94657c4dac3f1fc53dd7ccc1aba4e96766bf78903994ebb759917301b57350c0",
+  "bytes": 19212,
+  "content_type": "text/html",
+  "raw": "docs/raw/c2af3e6c673c080c6b53.html",
+  "markdown": "docs/pages/c2af3e6c673c080c6b53.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_file.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_remote-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_remote.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

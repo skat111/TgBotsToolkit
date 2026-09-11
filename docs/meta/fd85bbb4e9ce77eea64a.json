@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/botCommandScopePeerAdmins",
+  "final_url": "https://core.telegram.org/constructor/botCommandScopePeerAdmins",
+  "title": "botCommandScopePeerAdmins",
+  "fetched_at": "2026-09-11T06:05:38Z",
+  "sha256": "9d1dbb026fbe84448a508123f04e09f1318e4f7fb5829a2f8370dd2cbf3a7c50",
+  "bytes": 14962,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fd85bbb4e9ce77eea64a.html",
+  "markdown": "docs/pages/fd85bbb4e9ce77eea64a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botCommandScopePeerAdmins",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotCommandScope",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

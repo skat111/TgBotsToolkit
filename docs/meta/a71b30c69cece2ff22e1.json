@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_monthly_posted_story_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_monthly_posted_story_count.html",
+  "title": "TDLib: premiumLimitTypeMonthlyPostedStoryCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:10Z",
+  "sha256": "950b9bdb1172cdb62a869398638bdcf6779f2328cae2ed7a6e9fffa55dab17a4",
+  "bytes": 15806,
+  "content_type": "text/html",
+  "raw": "docs/raw/a71b30c69cece2ff22e1.html",
+  "markdown": "docs/pages/a71b30c69cece2ff22e1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_limit_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_monthly_posted_story_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit_type_monthly_posted_story_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

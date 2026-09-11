@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/InputBusinessRecipients",
+  "final_url": "https://core.telegram.org/type/InputBusinessRecipients",
+  "title": "InputBusinessRecipients",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "236f8f44aa7fcce09e78823debbd787140538eec977a93291e514de6bb3a0ba1",
+  "bytes": 15693,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7ba50dd334e348506924.html",
+  "markdown": "docs/pages/7ba50dd334e348506924.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputBusinessRecipients",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputBusinessRecipients",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

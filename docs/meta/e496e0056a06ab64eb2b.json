@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_opera.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_opera.html",
+  "title": "TDLib: sessionTypeOpera Class Reference",
+  "fetched_at": "2026-09-11T06:15:35Z",
+  "sha256": "aaf669b545c3b4d2a4e13dc19f6d37329f8246e4e2f7555afcb71b8d6d9d107e",
+  "bytes": 15492,
+  "content_type": "text/html",
+  "raw": "docs/raw/e496e0056a06ab64eb2b.html",
+  "markdown": "docs/pages/e496e0056a06ab64eb2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_session_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_opera-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1session_type_opera.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

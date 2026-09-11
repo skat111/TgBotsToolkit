@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateEncryption",
+  "final_url": "https://core.telegram.org/constructor/updateEncryption",
+  "title": "updateEncryption",
+  "fetched_at": "2026-09-11T06:07:58Z",
+  "sha256": "93143e30c0d2252b4b4be00aaa6bd47a5869d9b227db350730ed989148279691",
+  "bytes": 14309,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bf82828cbcff7c124678.html",
+  "markdown": "docs/pages/bf82828cbcff7c124678.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateEncryption",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EncryptedChat",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

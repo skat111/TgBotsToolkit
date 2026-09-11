@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/secureValueErrorFiles",
+  "final_url": "https://core.telegram.org/constructor/secureValueErrorFiles",
+  "title": "secureValueErrorFiles",
+  "fetched_at": "2026-09-11T06:07:33Z",
+  "sha256": "4e0b2307658b10f1771bb3a37b5466cd212721f0bcf1e2e8f699e29a3758eb7c",
+  "bytes": 17012,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/996151b1ce93f65cba6f.html",
+  "markdown": "docs/pages/996151b1ce93f65cba6f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValueErrorFiles",
+    "https://core.telegram.org/constructor/secureValueTypeBankStatement",
+    "https://core.telegram.org/constructor/secureValueTypePassportRegistration",
+    "https://core.telegram.org/constructor/secureValueTypeRentalAgreement",
+    "https://core.telegram.org/constructor/secureValueTypeTemporaryRegistration",
+    "https://core.telegram.org/constructor/secureValueTypeUtilityBill",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecureValueError",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

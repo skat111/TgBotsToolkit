@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport_registration.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport_registration.html",
+  "title": "TDLib: inputPassportElementPassportRegistration Class Reference",
+  "fetched_at": "2026-09-11T06:14:36Z",
+  "sha256": "e5750f36cb6a8356b671adab9f466cfbd08a6d72c37a2f55a411847258cc8e83",
+  "bytes": 19238,
+  "content_type": "text/html",
+  "raw": "docs/raw/6eba8900f64abda8aa5a.html",
+  "markdown": "docs/pages/6eba8900f64abda8aa5a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport_registration-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport_registration.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_personal_document.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_phone_number_confirmation.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_phone_number_confirmation.html",
+  "title": "TDLib: internalLinkTypePhoneNumberConfirmation Class Reference",
+  "fetched_at": "2026-09-11T06:14:40Z",
+  "sha256": "fab1ffcf0d8a2195d2158b89d4911599a2c5908ff9f76d9ae17e86d8559bb417",
+  "bytes": 21767,
+  "content_type": "text/html",
+  "raw": "docs/raw/d89d07a8661bc0170251.html",
+  "markdown": "docs/pages/d89d07a8661bc0170251.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_phone_number_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_phone_number_confirmation-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_phone_number_confirmation.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1phone_number_code_type_confirm_ownership.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_phone_number_code.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_phone_number_code.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

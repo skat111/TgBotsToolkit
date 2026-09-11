@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1theme_parameters.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1theme_parameters.html",
+  "title": "TDLib: themeParameters Class Reference",
+  "fetched_at": "2026-09-11T06:16:00Z",
+  "sha256": "48eff36c61fd7441a96af93777a2639b3dcaaebd9c7730acb8ed08a7ac112e90",
+  "bytes": 36794,
+  "content_type": "text/html",
+  "raw": "docs/raw/ba7175c55ca105e8eee8.html",
+  "markdown": "docs/pages/ba7175c55ca105e8eee8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1theme_parameters-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1theme_parameters.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

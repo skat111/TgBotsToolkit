@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/account.getChannelRestrictedStatusEmojis",
+  "final_url": "https://core.telegram.org/method/account.getChannelRestrictedStatusEmojis",
+  "title": "account.getChannelRestrictedStatusEmojis",
+  "fetched_at": "2026-09-11T06:08:38Z",
+  "sha256": "c3e5ce8769f8a730596708b6dd043f97080299f32412251eb755a02102c56606",
+  "bytes": 16118,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5fc459c93eb80e09fc80.html",
+  "markdown": "docs/pages/5fc459c93eb80e09fc80.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/emojiList",
+    "https://core.telegram.org/constructor/emojiListNotModified",
+    "https://core.telegram.org/method/account.getChannelRestrictedStatusEmojis",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiList",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

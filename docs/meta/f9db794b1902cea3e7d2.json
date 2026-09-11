@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/starsTransactionPeerAppStore",
+  "final_url": "https://core.telegram.org/constructor/starsTransactionPeerAppStore",
+  "title": "starsTransactionPeerAppStore",
+  "fetched_at": "2026-09-11T06:07:42Z",
+  "sha256": "2815abe67c298000066f3459850b70d1353713a49dddb1e5edaaa1f30804f9df",
+  "bytes": 14758,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f9db794b1902cea3e7d2.html",
+  "markdown": "docs/pages/f9db794b1902cea3e7d2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/starsTransactionPeerAppStore",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StarsTransactionPeer"
+  ]
+}

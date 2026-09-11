@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_affiliate_programs.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_affiliate_programs.html",
+  "title": "TDLib: connectedAffiliatePrograms Class Reference",
+  "fetched_at": "2026-09-11T06:13:50Z",
+  "sha256": "56e78132eb880e9c6923d2a7956dcce6cf79a2c28ffb1f9f34e8f56116860270",
+  "bytes": 21811,
+  "content_type": "text/html",
+  "raw": "docs/raw/e7defd0614f1878890a6.html",
+  "markdown": "docs/pages/e7defd0614f1878890a6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_affiliate_program.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_affiliate_programs-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_affiliate_programs.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

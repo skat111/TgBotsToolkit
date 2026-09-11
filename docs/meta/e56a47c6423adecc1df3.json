@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_ton_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_ton_count.html",
+  "title": "TDLib: updateOwnedTonCount Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "6c068de7d3c516791107a12ea7e663f2763f52b49bc332f3daf89441040aaa21",
+  "bytes": 18400,
+  "content_type": "text/html",
+  "raw": "docs/raw/e56a47c6423adecc1df3.html",
+  "markdown": "docs/pages/e56a47c6423adecc1df3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_ton_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_owned_ton_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

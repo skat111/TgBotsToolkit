@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/upload.getCdnFile",
+  "final_url": "https://core.telegram.org/method/upload.getCdnFile",
+  "title": "upload.getCdnFile",
+  "fetched_at": "2026-09-11T06:11:36Z",
+  "sha256": "d65fe84784267b30ee09c2d4f677479df7d41f70f64880a84b717a8297a25181",
+  "bytes": 16122,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a38655020bbf1ac309b6.html",
+  "markdown": "docs/pages/a38655020bbf1ac309b6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/cdn",
+    "https://core.telegram.org/constructor/upload.cdnFile",
+    "https://core.telegram.org/constructor/upload.cdnFileReuploadNeeded",
+    "https://core.telegram.org/method/upload.getCdnFile",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/upload.CdnFile"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateSavedReactionTags",
+  "final_url": "https://core.telegram.org/constructor/updateSavedReactionTags",
+  "title": "updateSavedReactionTags",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "57a1a44259fc3d8fc4557ea356230f1b6a4f9f0ff3b55e66b9e45dcc651c2efa",
+  "bytes": 15093,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8c6459d6bd3c068c2a42.html",
+  "markdown": "docs/pages/8c6459d6bd3c068c2a42.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/updateSavedReactionTags",
+    "https://core.telegram.org/method/messages.getSavedReactionTags",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

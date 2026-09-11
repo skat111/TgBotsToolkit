@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/api/invoking",
+  "final_url": "https://core.telegram.org/api/invoking",
+  "title": "Calling API Methods",
+  "fetched_at": "2026-09-11T06:04:55Z",
+  "sha256": "c0d877d49fd6108d5ed72147c15d8b7ca5123e9db95ecf2ba8af3458c1e16639",
+  "bytes": 18576,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bb3d30d30abea00080c1.html",
+  "markdown": "docs/pages/bb3d30d30abea00080c1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/invoking",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/method/auth.bindTempAuthKey",
+    "https://core.telegram.org/method/initConnection",
+    "https://core.telegram.org/method/invokeAfterMsg",
+    "https://core.telegram.org/method/invokeAfterMsgs",
+    "https://core.telegram.org/method/invokeWithLayer",
+    "https://core.telegram.org/method/invokeWithoutUpdates",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

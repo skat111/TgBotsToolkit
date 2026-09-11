@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_message_to_user_result.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_message_to_user_result.html",
+  "title": "TDLib: CanSendMessageToUserResult Class Reference",
+  "fetched_at": "2026-09-11T06:11:59Z",
+  "sha256": "9a64ad23f59132665d47e6d77587df416110265e01dae1156e4f9db2f97f43df",
+  "bytes": 12981,
+  "content_type": "text/html",
+  "raw": "docs/raw/55fff290224e626f8aaf.html",
+  "markdown": "docs/pages/55fff290224e626f8aaf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_message_to_user_result-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_message_to_user_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_has_paid_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_is_deleted.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_message_to_user_result_user_restricts_new_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

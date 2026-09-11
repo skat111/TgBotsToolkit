@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/bots.updateUserEmojiStatus",
+  "final_url": "https://core.telegram.org/method/bots.updateUserEmojiStatus",
+  "title": "bots.updateUserEmojiStatus",
+  "fetched_at": "2026-09-11T06:09:19Z",
+  "sha256": "969df05f1a646a2b31ac4d38c6e7f49a22afc66def38106fe10f7091d4092f9b",
+  "bytes": 16630,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5de36cc8141357689fac.html",
+  "markdown": "docs/pages/5de36cc8141357689fac.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-status",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/bots.toggleUserEmojiStatusPermission",
+    "https://core.telegram.org/method/bots.updateUserEmojiStatus",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/EmojiStatus",
+    "https://core.telegram.org/type/InputUser"
+  ]
+}

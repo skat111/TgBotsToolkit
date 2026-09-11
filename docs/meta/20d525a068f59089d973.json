@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.setInlineGameScore",
+  "final_url": "https://core.telegram.org/method/messages.setInlineGameScore",
+  "title": "messages.setInlineGameScore",
+  "fetched_at": "2026-09-11T06:10:32Z",
+  "sha256": "b66474fd954bb6be2b84627679269372aa1e45ac4c27fb5495fc29adc0c89b16",
+  "bytes": 16568,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/20d525a068f59089d973.html",
+  "markdown": "docs/pages/20d525a068f59089d973.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.setInlineGameScore",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputBotInlineMessageID",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/int"
+  ]
+}

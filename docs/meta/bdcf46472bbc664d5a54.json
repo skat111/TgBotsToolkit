@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoiceChatInviteSubscription",
+  "final_url": "https://core.telegram.org/constructor/inputInvoiceChatInviteSubscription",
+  "title": "inputInvoiceChatInviteSubscription",
+  "fetched_at": "2026-09-11T06:06:23Z",
+  "sha256": "50e2904b731640c16a44ebeae67fc1f73d1cfbe54cc2b37b70de75632196fc39",
+  "bytes": 14943,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bdcf46472bbc664d5a54.html",
+  "markdown": "docs/pages/bdcf46472bbc664d5a54.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/inputInvoiceChatInviteSubscription",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/string"
+  ]
+}

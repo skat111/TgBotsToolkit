@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_read_inbox.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_read_inbox.html",
+  "title": "TDLib: updateChatReadInbox Class Reference",
+  "fetched_at": "2026-09-11T06:16:08Z",
+  "sha256": "773ac1a9beed99d0a5e0da3560ea96957b64d583d72c393b7856cac5d9ddb472",
+  "bytes": 20889,
+  "content_type": "text/html",
+  "raw": "docs/raw/df78c615109b9131fbf9.html",
+  "markdown": "docs/pages/df78c615109b9131fbf9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_read_inbox-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_read_inbox.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

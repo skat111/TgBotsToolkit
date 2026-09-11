@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/contacts.getBlocked",
+  "final_url": "https://core.telegram.org/method/contacts.getBlocked",
+  "title": "contacts.getBlocked",
+  "fetched_at": "2026-09-11T06:09:34Z",
+  "sha256": "16d86c5caeb0ea176011ba525633f08677098c9d406f844f5a35e272b9bef44c",
+  "bytes": 16399,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/adbdb2d6f9650f241155.html",
+  "markdown": "docs/pages/adbdb2d6f9650f241155.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/block",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.blocked",
+    "https://core.telegram.org/constructor/contacts.blockedSlice",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/contacts.getBlocked",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/PeerBlocked",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.Blocked",
+    "https://core.telegram.org/type/int"
+  ]
+}

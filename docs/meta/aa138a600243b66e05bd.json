@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/StatsAbsValueAndPrev",
+  "final_url": "https://core.telegram.org/type/StatsAbsValueAndPrev",
+  "title": "StatsAbsValueAndPrev",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "b348c4a0c14e5b89e74d131d1a397945fcde714a25239178647de5eb1c6af502",
+  "bytes": 14078,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/aa138a600243b66e05bd.html",
+  "markdown": "docs/pages/aa138a600243b66e05bd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/statsAbsValueAndPrev",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StatsAbsValueAndPrev",
+    "https://core.telegram.org/type/double"
+  ]
+}

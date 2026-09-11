@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/decryptedMessageActionFlushHistory",
+  "final_url": "https://core.telegram.org/constructor/decryptedMessageActionFlushHistory",
+  "title": "decryptedMessageActionFlushHistory",
+  "fetched_at": "2026-09-11T06:11:54Z",
+  "sha256": "8e967226bce5344d39c99e728078cf69c42f82e69794382f0e167e28e1e7960d",
+  "bytes": 14060,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/230ff2425cd35a2f120e.html",
+  "markdown": "docs/pages/230ff2425cd35a2f120e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/decryptedMessageActionFlushHistory",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageAction"
+  ]
+}

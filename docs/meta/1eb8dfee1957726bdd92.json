@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_preformatted.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_preformatted.html",
+  "title": "TDLib: pageBlockPreformatted Class Reference",
+  "fetched_at": "2026-09-11T06:15:01Z",
+  "sha256": "803c06052d7b1c363962837e5980cafa8a3453e69f4fc566a7195ebd9941c95a",
+  "bytes": 19718,
+  "content_type": "text/html",
+  "raw": "docs/raw/1eb8dfee1957726bdd92.html",
+  "markdown": "docs/pages/1eb8dfee1957726bdd92.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_page_block.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_rich_text.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_preformatted-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1page_block_preformatted.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

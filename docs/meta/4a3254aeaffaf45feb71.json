@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/profileTabMusic",
+  "final_url": "https://core.telegram.org/constructor/profileTabMusic",
+  "title": "profileTabMusic",
+  "fetched_at": "2026-09-11T06:07:27Z",
+  "sha256": "8e0194cba6687aec91d72b105e3dc787d436e3bcf1b60023db3ce98f3aa23127",
+  "bytes": 14265,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4a3254aeaffaf45feb71.html",
+  "markdown": "docs/pages/4a3254aeaffaf45feb71.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/profileTabMusic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

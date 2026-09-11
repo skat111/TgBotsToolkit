@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages",
+  "final_url": "https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages",
+  "title": "decryptedMessageActionDeleteMessages",
+  "fetched_at": "2026-09-11T06:11:54Z",
+  "sha256": "fd257356c2afd0801db1167e5483aa8af8791e025b23bee987f7bc301470b228",
+  "bytes": 14375,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8d2cef0a20ca0a6dbede.html",
+  "markdown": "docs/pages/8d2cef0a20ca0a6dbede.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DecryptedMessageAction",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

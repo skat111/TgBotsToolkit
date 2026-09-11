@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/e2e.chain.Change",
+  "final_url": "https://core.telegram.org/type/e2e.chain.Change",
+  "title": "E2e.chain.Change",
+  "fetched_at": "2026-09-11T06:17:13Z",
+  "sha256": "070684f9964a2807ce2a93afca7410cc1047734baddf32178244bdac0387e05f",
+  "bytes": 8935,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/42ed84c7039a6c7f1b24.html",
+  "markdown": "docs/pages/42ed84c7039a6c7f1b24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.chain.changeNoop",
+    "https://core.telegram.org/constructor/e2e.chain.changeSetGroupState",
+    "https://core.telegram.org/constructor/e2e.chain.changeSetSharedKey",
+    "https://core.telegram.org/constructor/e2e.chain.changeSetValue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/e2e.chain.Block",
+    "https://core.telegram.org/type/e2e.chain.Change",
+    "https://core.telegram.org/type/e2e.chain.GroupState",
+    "https://core.telegram.org/type/e2e.chain.SharedKey",
+    "https://core.telegram.org/type/int256"
+  ]
+}

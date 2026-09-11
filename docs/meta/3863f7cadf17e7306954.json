@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/stickers",
+  "final_url": "https://core.telegram.org/stickers",
+  "title": "Telegram Stickers",
+  "fetched_at": "2026-09-11T06:11:47Z",
+  "sha256": "fb7e7832162c4633f96b3ad086f43f9c5fdd2c6cdee4accdb9b39590ba8c81e6",
+  "bytes": 18206,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3863f7cadf17e7306954.html",
+  "markdown": "docs/pages/3863f7cadf17e7306954.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/400780400573/3/qdOfJMeSZIg.197837/18645b86150901e026",
+    "https://core.telegram.org/import-stickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/stickers",
+    "https://core.telegram.org/stickers/webm-vp9-encoding"
+  ]
+}

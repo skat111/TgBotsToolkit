@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.sendVerifyEmailCode",
+  "final_url": "https://core.telegram.org/method/account.sendVerifyEmailCode",
+  "title": "account.sendVerifyEmailCode",
+  "fetched_at": "2026-09-11T06:08:53Z",
+  "sha256": "54d1e9baf4be28a3c452c6d34d6be90e2fb1c83391162d85bb4b5d1ce1ba5b83",
+  "bytes": 16296,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c1b698b64832b908200f.html",
+  "markdown": "docs/pages/c1b698b64832b908200f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.sentEmailCode",
+    "https://core.telegram.org/method/account.sendVerifyEmailCode",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmailVerifyPurpose",
+    "https://core.telegram.org/type/account.SentEmailCode",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

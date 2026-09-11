@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/help.peerColorSet",
+  "final_url": "https://core.telegram.org/constructor/help.peerColorSet",
+  "title": "help.peerColorSet",
+  "fetched_at": "2026-09-11T06:06:10Z",
+  "sha256": "21966b2b61229cbe3799789b73ed8e30e63081f0999560375759b57f70e9e499",
+  "bytes": 14835,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/db8bbfd7d041cdac7bba.html",
+  "markdown": "docs/pages/db8bbfd7d041cdac7bba.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/colors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.peerColorSet",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.PeerColorSet",
+    "https://core.telegram.org/type/int"
+  ]
+}

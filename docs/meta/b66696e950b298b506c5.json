@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_mention.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_mention.html",
+  "title": "TDLib: chatMembersFilterMention Class Reference",
+  "fetched_at": "2026-09-11T06:13:45Z",
+  "sha256": "d987947d9a3dcdf9148d1923c380e75ab7ad1b72a414d4f5cd143c8c103d37c8",
+  "bytes": 18781,
+  "content_type": "text/html",
+  "raw": "docs/raw/b66696e950b298b506c5.html",
+  "markdown": "docs/pages/b66696e950b298b506c5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_mention-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_mention.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

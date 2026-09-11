@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/premium.getMyBoosts",
+  "final_url": "https://core.telegram.org/method/premium.getMyBoosts",
+  "title": "premium.getMyBoosts",
+  "fetched_at": "2026-09-11T06:11:18Z",
+  "sha256": "4e38d723e9e592fe3fc2d948754d41a4f77beeafb6ce94cf984c7b8e89574270",
+  "bytes": 15220,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c5d68b4f616acd5ad8ea.html",
+  "markdown": "docs/pages/c5d68b4f616acd5ad8ea.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/premium.myBoosts",
+    "https://core.telegram.org/method/premium.getMyBoosts",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/MyBoost",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/premium.MyBoosts"
+  ]
+}

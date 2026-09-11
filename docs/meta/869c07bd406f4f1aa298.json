@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPhoneCall",
+  "final_url": "https://core.telegram.org/constructor/messageActionPhoneCall",
+  "title": "messageActionPhoneCall",
+  "fetched_at": "2026-09-11T06:06:48Z",
+  "sha256": "2aae4bf78f12539c986a3c2d33fd33fc40ad7c771d9fa023025f5cac3686b591",
+  "bytes": 15186,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/869c07bd406f4f1aa298.html",
+  "markdown": "docs/pages/869c07bd406f4f1aa298.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionPhoneCall",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/PhoneCallDiscardReason",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

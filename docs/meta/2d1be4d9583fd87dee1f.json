@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/account.uploadWallPaper",
+  "final_url": "https://core.telegram.org/method/account.uploadWallPaper",
+  "title": "account.uploadWallPaper",
+  "fetched_at": "2026-09-11T06:09:00Z",
+  "sha256": "31d1254ce5cafe130e0d0640ca460db2797b6b390b429ffa829e8c00aa6eb826",
+  "bytes": 17429,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2d1be4d9583fd87dee1f.html",
+  "markdown": "docs/pages/2d1be4d9583fd87dee1f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/wallPaper",
+    "https://core.telegram.org/constructor/wallPaperNoFile",
+    "https://core.telegram.org/method/account.uploadWallPaper",
+    "https://core.telegram.org/method/messages.setChatWallPaper",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/InputFile",
+    "https://core.telegram.org/type/WallPaper",
+    "https://core.telegram.org/type/WallPaperSettings",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

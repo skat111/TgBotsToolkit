@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_phone_number.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_phone_number.html",
+  "title": "TDLib: textEntityTypePhoneNumber Class Reference",
+  "fetched_at": "2026-09-11T06:15:59Z",
+  "sha256": "7ca29b890624690f8165eab7e4c37362fcac4e12f3f4b69796e3806b3830f7c2",
+  "bytes": 15561,
+  "content_type": "text/html",
+  "raw": "docs/raw/5795247b2fc08e13e495.html",
+  "markdown": "docs/pages/5795247b2fc08e13e495.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_entity_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_phone_number-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_phone_number.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

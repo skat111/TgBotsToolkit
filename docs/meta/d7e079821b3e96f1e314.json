@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/messages.uninstallStickerSet",
+  "final_url": "https://core.telegram.org/method/messages.uninstallStickerSet",
+  "title": "messages.uninstallStickerSet",
+  "fetched_at": "2026-09-11T06:10:37Z",
+  "sha256": "85e8a647bf3d0ea550fc50dad08be87990463e0269b3f9ca99bac43aac9e6987",
+  "bytes": 14975,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d7e079821b3e96f1e314.html",
+  "markdown": "docs/pages/d7e079821b3e96f1e314.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.uninstallStickerSet",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputStickerSet"
+  ]
+}

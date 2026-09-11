@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_upgrade_preview.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_upgrade_preview.html",
+  "title": "TDLib: giftUpgradePreview Class Reference",
+  "fetched_at": "2026-09-11T06:14:28Z",
+  "sha256": "5be0febbfaf7fa4f752e70d35380fb03e1c02c1204a3a91c3f446baf33bff1cf",
+  "bytes": 26727,
+  "content_type": "text/html",
+  "raw": "docs/raw/2fa37f216fa6c89cfb7a.html",
+  "markdown": "docs/pages/2fa37f216fa6c89cfb7a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_upgrade_preview-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_upgrade_preview.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_upgrade_price.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_backdrop.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_model.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_symbol.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

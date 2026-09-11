@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/sendMessageGeoLocationAction",
+  "final_url": "https://core.telegram.org/constructor/sendMessageGeoLocationAction",
+  "title": "sendMessageGeoLocationAction",
+  "fetched_at": "2026-09-11T06:07:35Z",
+  "sha256": "c5e8811e260ed260ad5bb6d879a9c05666a04b26b85b14aa592dfdf15af7bf51",
+  "bytes": 14512,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bf8b258d6f8fa5ab5153.html",
+  "markdown": "docs/pages/bf8b258d6f8fa5ab5153.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendMessageGeoLocationAction",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/type/SendMessageAction"
+  ]
+}

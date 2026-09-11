@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/bots.requestWebViewButton",
+  "final_url": "https://core.telegram.org/method/bots.requestWebViewButton",
+  "title": "bots.requestWebViewButton",
+  "fetched_at": "2026-09-11T06:09:18Z",
+  "sha256": "b1a08b5c3b2ae81869328d6a1fa3aa31ef51419e25dd4573e4d3530e1d835ff0",
+  "bytes": 17167,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4ac885f6a651480cd2bd.html",
+  "markdown": "docs/pages/4ac885f6a651480cd2bd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/constructor/inputKeyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+    "https://core.telegram.org/method/bots.requestWebViewButton",
+    "https://core.telegram.org/method/messages.sendBotRequestedPeer",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/KeyboardButton",
+    "https://core.telegram.org/type/RequestPeerType",
+    "https://core.telegram.org/type/bots.RequestedButton"
+  ]
+}

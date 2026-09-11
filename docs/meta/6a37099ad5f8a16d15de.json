@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inputUserSelf",
+  "final_url": "https://core.telegram.org/constructor/inputUserSelf",
+  "title": "inputUserSelf",
+  "fetched_at": "2026-09-11T06:06:40Z",
+  "sha256": "1d28090e815909af98143dd78c4c57f25f057902f73951f7840f05b01318eadf",
+  "bytes": 13796,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6a37099ad5f8a16d15de.html",
+  "markdown": "docs/pages/6a37099ad5f8a16d15de.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputUserSelf",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputUser"
+  ]
+}

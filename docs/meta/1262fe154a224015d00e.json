@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/account.ChatThemes",
+  "final_url": "https://core.telegram.org/type/account.ChatThemes",
+  "title": "account.ChatThemes",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "83de60b17152e7fb993b7554c063f438778d701bf747f479c0b71abd22d131f2",
+  "bytes": 15475,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1262fe154a224015d00e.html",
+  "markdown": "docs/pages/1262fe154a224015d00e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/themes",
+    "https://core.telegram.org/constructor/account.chatThemes",
+    "https://core.telegram.org/constructor/account.chatThemesNotModified",
+    "https://core.telegram.org/method/account.getUniqueGiftChatThemes",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ChatTheme",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.ChatThemes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

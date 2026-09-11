@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/inputMediaGeoLive",
+  "final_url": "https://core.telegram.org/constructor/inputMediaGeoLive",
+  "title": "inputMediaGeoLive",
+  "fetched_at": "2026-09-11T06:06:25Z",
+  "sha256": "c411654ad915e0463d960f593e25d3e8910b41df0fd0cad9eadc53ea1fd1a590",
+  "bytes": 16098,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e1305230e32a30037f4e.html",
+  "markdown": "docs/pages/e1305230e32a30037f4e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/live-location",
+    "https://core.telegram.org/constructor/inputMediaGeoLive",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputGeoPoint",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/int"
+  ]
+}

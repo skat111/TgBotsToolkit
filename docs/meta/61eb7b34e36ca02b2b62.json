@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_missed_call.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_missed_call.html",
+  "title": "TDLib: authenticationCodeTypeMissedCall Class Reference",
+  "fetched_at": "2026-09-11T06:13:24Z",
+  "sha256": "2211562a23653696ea34074c5b415ad66d9448f5f45f9dda5cef95363836c51c",
+  "bytes": 20352,
+  "content_type": "text/html",
+  "raw": "docs/raw/61eb7b34e36ca02b2b62.html",
+  "markdown": "docs/pages/61eb7b34e36ca02b2b62.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_authentication_code_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_missed_call-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authentication_code_type_missed_call.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

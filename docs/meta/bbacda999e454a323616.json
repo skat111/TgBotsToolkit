@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeAvailableReactions",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionChangeAvailableReactions",
+  "title": "channelAdminLogEventActionChangeAvailableReactions",
+  "fetched_at": "2026-09-11T06:05:44Z",
+  "sha256": "daa9966785c7fc5d5d7f2851950ce245c73c194440006a3f9e26e4a6a14b0ce3",
+  "bytes": 15268,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bbacda999e454a323616.html",
+  "markdown": "docs/pages/bbacda999e454a323616.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionChangeAvailableReactions",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ChatReactions"
+  ]
+}

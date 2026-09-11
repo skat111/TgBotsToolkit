@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_problem.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_problem.html",
+  "title": "TDLib: CallProblem Class Reference",
+  "fetched_at": "2026-09-11T06:11:58Z",
+  "sha256": "b3f5b46525a9cffca345f837a41523bc5ddaa34b884d4391febeda03da5daf00",
+  "bytes": 13164,
+  "content_type": "text/html",
+  "raw": "docs/raw/b2738f50769f2d986b64.html",
+  "markdown": "docs/pages/b2738f50769f2d986b64.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_problem-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_problem.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_speech.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_video.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_dropped.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_echo.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_interruptions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_noise.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_pixelated_video.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_silent_local.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_silent_remote.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

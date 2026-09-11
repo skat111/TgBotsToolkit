@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/SecureSecretSettings",
+  "final_url": "https://core.telegram.org/type/SecureSecretSettings",
+  "title": "SecureSecretSettings",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "a1d04596e0d8057a041ec5cf776bf99bb349c02bc134186230cd5109638370bf",
+  "bytes": 14545,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/499e900bdb06122bdb1c.html",
+  "markdown": "docs/pages/499e900bdb06122bdb1c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureSecretSettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecurePasswordKdfAlgo",
+    "https://core.telegram.org/type/SecureSecretSettings",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoiceStarGiftTransfer",
+  "final_url": "https://core.telegram.org/constructor/inputInvoiceStarGiftTransfer",
+  "title": "inputInvoiceStarGiftTransfer",
+  "fetched_at": "2026-09-11T06:06:24Z",
+  "sha256": "30deb5d1c87fff4f80cba0f8d815c4eb4c8c9c34b710114cba1f6ca510316d9f",
+  "bytes": 15366,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c81067b6224ddfe6b088.html",
+  "markdown": "docs/pages/c81067b6224ddfe6b088.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputInvoiceStarGiftTransfer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/InputSavedStarGift"
+  ]
+}

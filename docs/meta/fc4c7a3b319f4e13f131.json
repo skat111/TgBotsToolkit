@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/FileLocation",
+  "final_url": "https://core.telegram.org/type/FileLocation",
+  "title": "FileLocation",
+  "fetched_at": "2026-09-11T06:17:01Z",
+  "sha256": "1153bf57389ab64f371a4bc23b4ff673ec09d35e8a1ed14c0cb6ca079c47a1e0",
+  "bytes": 13978,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fc4c7a3b319f4e13f131.html",
+  "markdown": "docs/pages/fc4c7a3b319f4e13f131.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/fileLocation",
+    "https://core.telegram.org/constructor/fileLocationUnavailable",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/FileLocation"
+  ]
+}

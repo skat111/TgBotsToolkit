@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_bank_statement.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_bank_statement.html",
+  "title": "TDLib: passportElementBankStatement Class Reference",
+  "fetched_at": "2026-09-11T06:15:05Z",
+  "sha256": "c1de1ea14124fbb22b555f1e3be831109d3c86b7feab9254b462e97864d888e3",
+  "bytes": 18815,
+  "content_type": "text/html",
+  "raw": "docs/raw/465401de0749a4c42573.html",
+  "markdown": "docs/pages/465401de0749a4c42573.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_bank_statement-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_bank_statement.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1personal_document.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

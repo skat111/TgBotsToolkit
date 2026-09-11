@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_speed_limit_notification.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_speed_limit_notification.html",
+  "title": "TDLib: updateSpeedLimitNotification Class Reference",
+  "fetched_at": "2026-09-11T06:16:17Z",
+  "sha256": "bcf0ca863737602523be1133154529d1909aa91a94f8e3c053e5cd1a559ecaf4",
+  "bytes": 19661,
+  "content_type": "text/html",
+  "raw": "docs/raw/f28714040a4fdf306f2a.html",
+  "markdown": "docs/pages/f28714040a4fdf306f2a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_speed_limit_notification-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_speed_limit_notification.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

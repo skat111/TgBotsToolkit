@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_strikethrough.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_strikethrough.html",
+  "title": "TDLib: textEntityTypeStrikethrough Class Reference",
+  "fetched_at": "2026-09-11T06:15:59Z",
+  "sha256": "f438f47c2c2f3a89df971680d6241b6fe4389a6ec8740a84ec90c60c4d42d060",
+  "bytes": 15589,
+  "content_type": "text/html",
+  "raw": "docs/raw/6ed70862d46293b5ae0d.html",
+  "markdown": "docs/pages/6ed70862d46293b5ae0d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_entity_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_strikethrough-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_entity_type_strikethrough.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/constructor/businessWorkHours",
+  "final_url": "https://core.telegram.org/constructor/businessWorkHours",
+  "title": "businessWorkHours",
+  "fetched_at": "2026-09-11T06:05:42Z",
+  "sha256": "42fbed42bb4b4d602f5729ec54de60784b1ef3854ede69d149ed4ea3cec5ffd7",
+  "bytes": 18908,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f6f75b6ed3f0a6b7a2b4.html",
+  "markdown": "docs/pages/f6f75b6ed3f0a6b7a2b4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/constructor/businessWeeklyOpen",
+    "https://core.telegram.org/constructor/businessWorkHours",
+    "https://core.telegram.org/constructor/timezone",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/userFull",
+    "https://core.telegram.org/method/account.updateBusinessWorkHours",
+    "https://core.telegram.org/method/help.getTimezonesList",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessWeeklyOpen",
+    "https://core.telegram.org/type/BusinessWorkHours",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

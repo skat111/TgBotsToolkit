@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/stickers.changeStickerPosition",
+  "final_url": "https://core.telegram.org/method/stickers.changeStickerPosition",
+  "title": "stickers.changeStickerPosition",
+  "fetched_at": "2026-09-11T06:11:25Z",
+  "sha256": "f5a867bfdd28515879dff7e25c1e3e92e11a33e20034b4b373de2c37660e6ecc",
+  "bytes": 16075,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a98767e4f5af696f26ff.html",
+  "markdown": "docs/pages/a98767e4f5af696f26ff.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.stickerSet",
+    "https://core.telegram.org/constructor/messages.stickerSetNotModified",
+    "https://core.telegram.org/method/stickers.changeStickerPosition",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/InputDocument",
+    "https://core.telegram.org/type/StickerKeyword",
+    "https://core.telegram.org/type/StickerPack",
+    "https://core.telegram.org/type/StickerSet",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.StickerSet"
+  ]
+}

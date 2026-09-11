@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/stats.PollStats",
+  "final_url": "https://core.telegram.org/type/stats.PollStats",
+  "title": "Stats.PollStats",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "ec918554c3e7454b96d627c1bd08820abb5b946bb18f9f1184858485e3656ad2",
+  "bytes": 14713,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b57bddae4eae2bc8378f.html",
+  "markdown": "docs/pages/b57bddae4eae2bc8378f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/stats.pollStats",
+    "https://core.telegram.org/method/stats.getPollStats",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/stats.PollStats"
+  ]
+}

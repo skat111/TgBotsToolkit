@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-optargs",
+  "final_url": "https://core.telegram.org/mtproto/TL-optargs",
+  "title": "Optional combinator parameters and their values",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "179fb8c5fbbc618d3b4aecc2b80bbf843a010b96db42cd7240d4db68fd027013",
+  "bytes": 9391,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d25a0eb0ebb7d0aa5ea7.html",
+  "markdown": "docs/pages/d25a0eb0ebb7d0aa5ea7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-abstract-types",
+    "https://core.telegram.org/mtproto/TL-optargs",
+    "https://core.telegram.org/mtproto/TL-polymorph",
+    "https://core.telegram.org/schema"
+  ]
+}

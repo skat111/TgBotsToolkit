@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html",
+  "title": "TDLib: ResendCodeReason Class Reference",
+  "fetched_at": "2026-09-11T06:13:15Z",
+  "sha256": "149e1d2768153d8a14018a53a19fb6277a8edb8281e06af66c476720d74630ae",
+  "bytes": 12529,
+  "content_type": "text/html",
+  "raw": "docs/raw/e24fc4fb1d0b8f0662e0.html",
+  "markdown": "docs/pages/e24fc4fb1d0b8f0662e0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_code_reason_user_request.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_code_reason_verification_failed.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

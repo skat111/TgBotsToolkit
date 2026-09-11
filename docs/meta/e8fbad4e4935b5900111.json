@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/help.peerColorOption",
+  "final_url": "https://core.telegram.org/constructor/help.peerColorOption",
+  "title": "help.peerColorOption",
+  "fetched_at": "2026-09-11T06:06:10Z",
+  "sha256": "f054560e6aa648d94edddfea35fc28a2db389b992106f2a3c4e5d135ff86a29c",
+  "bytes": 17479,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e8fbad4e4935b5900111.html",
+  "markdown": "docs/pages/e8fbad4e4935b5900111.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/colors",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.peerColorOption",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/help.PeerColorOption",
+    "https://core.telegram.org/type/help.PeerColorSet",
+    "https://core.telegram.org/type/int"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/account.sendConfirmPhoneCode",
+  "final_url": "https://core.telegram.org/method/account.sendConfirmPhoneCode",
+  "title": "account.sendConfirmPhoneCode",
+  "fetched_at": "2026-09-11T06:08:52Z",
+  "sha256": "aa37d2bbf447873f8d68d5aa68b3ae92f221dfb599262c744b32cffc947f6add",
+  "bytes": 16683,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5ba9efbcb1d61f984ee9.html",
+  "markdown": "docs/pages/5ba9efbcb1d61f984ee9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/account-deletion",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.sentCode",
+    "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+    "https://core.telegram.org/constructor/auth.sentCodeSuccess",
+    "https://core.telegram.org/method/account.sendConfirmPhoneCode",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/CodeSettings",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/auth.CodeType",
+    "https://core.telegram.org/type/auth.SentCode",
+    "https://core.telegram.org/type/auth.SentCodeType",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

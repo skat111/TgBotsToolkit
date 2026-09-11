@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/RecentMeUrl",
+  "final_url": "https://core.telegram.org/type/RecentMeUrl",
+  "title": "RecentMeUrl",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "34efc3302548acca270e6fdfd7000cb73d8e9876738aab58df3061e88bfe7472",
+  "bytes": 15310,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2f3838b15a60679ed67d.html",
+  "markdown": "docs/pages/2f3838b15a60679ed67d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/recentMeUrlChat",
+    "https://core.telegram.org/constructor/recentMeUrlChatInvite",
+    "https://core.telegram.org/constructor/recentMeUrlStickerSet",
+    "https://core.telegram.org/constructor/recentMeUrlUnknown",
+    "https://core.telegram.org/constructor/recentMeUrlUser",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChatInvite",
+    "https://core.telegram.org/type/RecentMeUrl",
+    "https://core.telegram.org/type/StickerSetCovered",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

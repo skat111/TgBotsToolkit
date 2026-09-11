@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionDiscardGroupCall",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionDiscardGroupCall",
+  "title": "channelAdminLogEventActionDiscardGroupCall",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "3548dc878b6327af3b5a9c3f5e254d111abb06f6063c1ef4e7232bdede89fb89",
+  "bytes": 14399,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/fbc7ca27ed0d0212ddea.html",
+  "markdown": "docs/pages/fbc7ca27ed0d0212ddea.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionDiscardGroupCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/InputGroupCall"
+  ]
+}

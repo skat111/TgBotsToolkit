@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_write_access_allow_reason_accepted_request.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_write_access_allow_reason_accepted_request.html",
+  "title": "TDLib: botWriteAccessAllowReasonAcceptedRequest Class Reference",
+  "fetched_at": "2026-09-11T06:13:27Z",
+  "sha256": "b23278940dce41ef77630e009f086bcbbb1f09fdbfc1ad3c595c2dca69cd2918",
+  "bytes": 16059,
+  "content_type": "text/html",
+  "raw": "docs/raw/742cbcfbbd9bfe7cdeba.html",
+  "markdown": "docs/pages/742cbcfbbd9bfe7cdeba.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_bot_write_access_allow_reason.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1allow_bot_to_send_messages.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_write_access_allow_reason_accepted_request-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1bot_write_access_allow_reason_accepted_request.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

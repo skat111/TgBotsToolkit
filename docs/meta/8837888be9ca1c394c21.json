@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/messages.getPinnedSavedDialogs",
+  "final_url": "https://core.telegram.org/method/messages.getPinnedSavedDialogs",
+  "title": "messages.getPinnedSavedDialogs",
+  "fetched_at": "2026-09-11T06:10:14Z",
+  "sha256": "e8503538b761aae4a879f7ef99e1228384d3868460587b8b6180ac3f5dab4e1e",
+  "bytes": 16061,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8837888be9ca1c394c21.html",
+  "markdown": "docs/pages/8837888be9ca1c394c21.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/constructor/messages.savedDialogs",
+    "https://core.telegram.org/constructor/messages.savedDialogsNotModified",
+    "https://core.telegram.org/constructor/messages.savedDialogsSlice",
+    "https://core.telegram.org/method/messages.getPinnedSavedDialogs",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/SavedDialog",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.SavedDialogs"
+  ]
+}

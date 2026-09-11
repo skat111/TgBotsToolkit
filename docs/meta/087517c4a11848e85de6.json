@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/chatParticipantAdmin",
+  "final_url": "https://core.telegram.org/constructor/chatParticipantAdmin",
+  "title": "chatParticipantAdmin",
+  "fetched_at": "2026-09-11T06:05:53Z",
+  "sha256": "ab902445a9a4580fd6e7e89bdd70d79e681e9c0f32554d8c632464bdcbc36c06",
+  "bytes": 16095,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/087517c4a11848e85de6.html",
+  "markdown": "docs/pages/087517c4a11848e85de6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/constructor/chatParticipantAdmin",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatParticipant",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

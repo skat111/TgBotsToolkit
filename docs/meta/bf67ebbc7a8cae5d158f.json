@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recently_found_chat-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recently_found_chat-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:24Z",
+  "sha256": "9cae7b83738abf8e15dd76f5e27a00d588d085fa2efdec0ff83519771e2e4d7d",
+  "bytes": 10616,
+  "content_type": "text/html",
+  "raw": "docs/raw/bf67ebbc7a8cae5d158f.html",
+  "markdown": "docs/pages/bf67ebbc7a8cae5d158f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1remove_recently_found_chat.html"
+  ]
+}

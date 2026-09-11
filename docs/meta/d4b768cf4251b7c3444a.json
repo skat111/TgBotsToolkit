@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/widgets/login-legacy",
+  "final_url": "https://core.telegram.org/widgets/login-legacy",
+  "title": "Telegram Login Widget",
+  "fetched_at": "2026-09-11T06:17:21Z",
+  "sha256": "636722f0644fe44302ce087bff80f2b49a566466bbc8852c22357bcd9dbb9078",
+  "bytes": 21432,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d4b768cf4251b7c3444a.html",
+  "markdown": "docs/pages/d4b768cf4251b7c3444a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/file/811140314/17c1/xf4ULBL5tmE.58438/07ff5b2958ed0e7e36",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/widgets/login-legacy"
+  ]
+}

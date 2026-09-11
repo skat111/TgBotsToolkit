@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updateStickerSetsOrder",
+  "final_url": "https://core.telegram.org/constructor/updateStickerSetsOrder",
+  "title": "updateStickerSetsOrder",
+  "fetched_at": "2026-09-11T06:08:07Z",
+  "sha256": "7469fc4fb8ee88d5faf9db1b0f83d346016fae115a233562740d187f9ea9e915",
+  "bytes": 15016,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a23cfc7df92c89d705f3.html",
+  "markdown": "docs/pages/a23cfc7df92c89d705f3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateStickerSetsOrder",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long"
+  ]
+}

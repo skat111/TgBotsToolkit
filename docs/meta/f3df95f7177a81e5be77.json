@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:36Z",
+  "sha256": "4c451ceb89b104de78c66d4c7558ca877aa220b2f34c4ee15298fbf79a703d4b",
+  "bytes": 11161,
+  "content_type": "text/html",
+  "raw": "docs/raw/f3df95f7177a81e5be77.html",
+  "markdown": "docs/pages/f3df95f7177a81e5be77.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html"
+  ]
+}

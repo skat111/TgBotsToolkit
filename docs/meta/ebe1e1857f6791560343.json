@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_recently_opened_chats.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_recently_opened_chats.html",
+  "title": "TDLib: getRecentlyOpenedChats Class Reference",
+  "fetched_at": "2026-09-11T06:14:20Z",
+  "sha256": "4ee40b4eb61d0491de9880a1e6707804dfc3eb121790707f4cdc308063286b88",
+  "bytes": 19660,
+  "content_type": "text/html",
+  "raw": "docs/raw/ebe1e1857f6791560343.html",
+  "markdown": "docs/pages/ebe1e1857f6791560343.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chats.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_recently_opened_chats-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_recently_opened_chats.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

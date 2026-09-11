@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateLangPackTooLong",
+  "final_url": "https://core.telegram.org/constructor/updateLangPackTooLong",
+  "title": "updateLangPackTooLong",
+  "fetched_at": "2026-09-11T06:08:00Z",
+  "sha256": "f9ec2a137fd2c1fab44dfa55564377727e203c79683bd54301913054d5ce1638",
+  "bytes": 14809,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7c4f69c5c57db074b41c.html",
+  "markdown": "docs/pages/7c4f69c5c57db074b41c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateLangPackTooLong",
+    "https://core.telegram.org/method/langpack.getDifference",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/string"
+  ]
+}

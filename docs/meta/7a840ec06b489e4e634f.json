@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/bots/2-0-intro",
+  "final_url": "https://core.telegram.org/bots/2-0-intro",
+  "title": "Introducing Bot API 2.0",
+  "fetched_at": "2026-09-11T06:05:29Z",
+  "sha256": "806d77e3bccf39e6dc992ef1790f7ba5f2ce2be773e23c9b654f417f32db8ec2",
+  "bytes": 16582,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7a840ec06b489e4e634f.html",
+  "markdown": "docs/pages/7a840ec06b489e4e634f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/2-0-intro",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/file/811140217/1/NkRCCLeQZVc/17a804837802700ea4",
+    "https://core.telegram.org/file/811140423/1/6BVlO7dWPeo/64d0d842ff73ff3dc8",
+    "https://core.telegram.org/file/811140558/1/POjp00-nHqE/50d0312845a05e6da9",
+    "https://core.telegram.org/file/811140587/2/jaowDLZg2l0/5ba3f7d7fd5c6c28dc",
+    "https://core.telegram.org/file/811140659/1/RRJyulbtLBY/ea6163411c7eb4f4dc",
+    "https://core.telegram.org/file/811140951/1/FD93gAgDVDI/8d8bdd16e6a7b40c12",
+    "https://core.telegram.org/file/811140994/2/fvw-q_CRaBQ/c618325e119b0a8229",
+    "https://core.telegram.org/file/811140999/1/2JSoUVlWKa0/4fad2e2743dc8eda04",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

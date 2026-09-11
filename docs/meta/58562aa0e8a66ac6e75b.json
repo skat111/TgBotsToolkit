@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/messages.deletePollAnswer",
+  "final_url": "https://core.telegram.org/method/messages.deletePollAnswer",
+  "title": "messages.deletePollAnswer",
+  "fetched_at": "2026-09-11T06:09:53Z",
+  "sha256": "a13b3d2814dbff30630803e574a6f2ca61950886c07ba7fdeec067803b77afef",
+  "bytes": 15499,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/58562aa0e8a66ac6e75b.html",
+  "markdown": "docs/pages/58562aa0e8a66ac6e75b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/method/messages.deletePollAnswer",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Updates",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

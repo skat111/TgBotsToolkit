@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/auth.importLoginToken",
+  "final_url": "https://core.telegram.org/method/auth.importLoginToken",
+  "title": "auth.importLoginToken",
+  "fetched_at": "2026-09-11T06:09:05Z",
+  "sha256": "2ea65eab1dd4a45624e1dc857e952279243e1bbc29236ce8f448a12fc8d84bb7",
+  "bytes": 16757,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f5b7868ccd7d18c54a7f.html",
+  "markdown": "docs/pages/f5b7868ccd7d18c54a7f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/qr-login",
+    "https://core.telegram.org/constructor/auth.loginToken",
+    "https://core.telegram.org/constructor/auth.loginTokenMigrateTo",
+    "https://core.telegram.org/constructor/auth.loginTokenSuccess",
+    "https://core.telegram.org/method/auth.importLoginToken",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/auth.LoginToken",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
+  ]
+}

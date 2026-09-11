@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateReadFeaturedEmojiStickers",
+  "final_url": "https://core.telegram.org/constructor/updateReadFeaturedEmojiStickers",
+  "title": "updateReadFeaturedEmojiStickers",
+  "fetched_at": "2026-09-11T06:08:05Z",
+  "sha256": "ec74927fd374078fa09d5836e0202ecd8bf622deb5786541b0d4a2905bff3cff",
+  "bytes": 14419,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/db9a049345550adb12bc.html",
+  "markdown": "docs/pages/db9a049345550adb12bc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateReadFeaturedEmojiStickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

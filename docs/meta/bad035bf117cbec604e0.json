@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_contact.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_contact.html",
+  "title": "TDLib: inputMessageContact Class Reference",
+  "fetched_at": "2026-09-11T06:14:35Z",
+  "sha256": "823e0ce9726c1afe6ac525f9b53949fe7ea525380c882c6ec9d133336ec89621",
+  "bytes": 18473,
+  "content_type": "text/html",
+  "raw": "docs/raw/bad035bf117cbec604e0.html",
+  "markdown": "docs/pages/bad035bf117cbec604e0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1contact.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_contact-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_message_contact.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

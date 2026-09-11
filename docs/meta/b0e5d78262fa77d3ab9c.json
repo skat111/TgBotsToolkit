@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/messages.getSearchCounters",
+  "final_url": "https://core.telegram.org/method/messages.getSearchCounters",
+  "title": "messages.getSearchCounters",
+  "fetched_at": "2026-09-11T06:10:16Z",
+  "sha256": "297385da269f7326e66aa02d4659afe915c2a1187442d18e492c56348fc9b33d",
+  "bytes": 17300,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b0e5d78262fa77d3ab9c.html",
+  "markdown": "docs/pages/b0e5d78262fa77d3ab9c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/saved-messages",
+    "https://core.telegram.org/method/messages.getSearchCounters",
+    "https://core.telegram.org/method/messages.search",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/MessagesFilter",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.SearchCounter"
+  ]
+}

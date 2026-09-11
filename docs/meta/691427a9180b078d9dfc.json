@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_ok.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_ok.html",
+  "title": "TDLib: canPostStoryResultOk Class Reference",
+  "fetched_at": "2026-09-11T06:13:32Z",
+  "sha256": "7fe1e4a51308297f1caf7d67b9a512bea25843a439b3a117046f8fd397724256",
+  "bytes": 18278,
+  "content_type": "text/html",
+  "raw": "docs/raw/691427a9180b078d9dfc.html",
+  "markdown": "docs/pages/691427a9180b078d9dfc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_post_story_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_ok-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

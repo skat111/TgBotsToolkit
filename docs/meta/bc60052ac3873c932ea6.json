@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.messagesSlice",
+  "final_url": "https://core.telegram.org/constructor/messages.messagesSlice",
+  "title": "messages.messagesSlice",
+  "fetched_at": "2026-09-11T06:07:02Z",
+  "sha256": "bf0e0d25b6446575d230ed46bdac80746d53b8b32dc973f119f218dbdb6767b0",
+  "bytes": 18436,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bc60052ac3873c932ea6.html",
+  "markdown": "docs/pages/bc60052ac3873c932ea6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/search",
+    "https://core.telegram.org/constructor/messages.messagesSlice",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.searchGlobal",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ForumTopic",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/SearchPostsFlood",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.Messages"
+  ]
+}

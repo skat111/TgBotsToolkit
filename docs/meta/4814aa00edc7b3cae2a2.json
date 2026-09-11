@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/chatlists.editExportedInvite",
+  "final_url": "https://core.telegram.org/method/chatlists.editExportedInvite",
+  "title": "chatlists.editExportedInvite",
+  "fetched_at": "2026-09-11T06:09:32Z",
+  "sha256": "2a77fce21cc8078608d7f86158521be78fbeacd9a02e04b1b675ff318eb2cb00",
+  "bytes": 17380,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4814aa00edc7b3cae2a2.html",
+  "markdown": "docs/pages/4814aa00edc7b3cae2a2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/exportedChatlistInvite",
+    "https://core.telegram.org/method/chatlists.editExportedInvite",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ExportedChatlistInvite",
+    "https://core.telegram.org/type/InputChatlist",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

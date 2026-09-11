@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/emojiGroup",
+  "final_url": "https://core.telegram.org/constructor/emojiGroup",
+  "title": "emojiGroup",
+  "fetched_at": "2026-09-11T06:06:02Z",
+  "sha256": "c4d38e8e687ed3a919c492c3c07b7726b004d4f2614a84aa2b0a50b14abee3ce",
+  "bytes": 15167,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3a5b3e7159a5a6576730.html",
+  "markdown": "docs/pages/3a5b3e7159a5a6576730.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/emoji-categories",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/emojiGroup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/EmojiGroup",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

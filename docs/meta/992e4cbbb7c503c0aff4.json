@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/payments.getGiveawayInfo",
+  "final_url": "https://core.telegram.org/method/payments.getGiveawayInfo",
+  "title": "payments.getGiveawayInfo",
+  "fetched_at": "2026-09-11T06:10:46Z",
+  "sha256": "be9b3924cd70c3d28adec9a25b15cd5cbaad58f01821a583d1df3a8f8a7de949",
+  "bytes": 17124,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/992e4cbbb7c503c0aff4.html",
+  "markdown": "docs/pages/992e4cbbb7c503c0aff4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionGiveawayLaunch",
+    "https://core.telegram.org/constructor/payments.giveawayInfo",
+    "https://core.telegram.org/constructor/payments.giveawayInfoResults",
+    "https://core.telegram.org/method/payments.getGiveawayInfo",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.GiveawayInfo",
+    "https://core.telegram.org/type/string"
+  ]
+}

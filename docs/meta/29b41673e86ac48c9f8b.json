@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/method/contacts.resetSaved",
+  "final_url": "https://core.telegram.org/method/contacts.resetSaved",
+  "title": "contacts.resetSaved",
+  "fetched_at": "2026-09-11T06:09:36Z",
+  "sha256": "7e87fc387ed3e70f7a9c17c229cce97a83b11662d1039e0950de1cc585df0d38",
+  "bytes": 14326,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/29b41673e86ac48c9f8b.html",
+  "markdown": "docs/pages/29b41673e86ac48c9f8b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/contacts.resetSaved",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

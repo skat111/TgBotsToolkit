@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/updateUserTyping",
+  "final_url": "https://core.telegram.org/constructor/updateUserTyping",
+  "title": "updateUserTyping",
+  "fetched_at": "2026-09-11T06:08:08Z",
+  "sha256": "d4a3301fb17382b10c63429ec5e1d67c0bc1d93666073fefd17c514b53e788a0",
+  "bytes": 15885,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ebe34f4023ce88a3a181.html",
+  "markdown": "docs/pages/ebe34f4023ce88a3a181.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateUserTyping",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/SendMessageAction",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_location.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_location.html",
+  "title": "TDLib: keyboardButtonTypeRequestLocation Class Reference",
+  "fetched_at": "2026-09-11T06:14:41Z",
+  "sha256": "673f0bd49b7eb54ba3a0373906d8c9aa8f206470f5cef881c1cb2324455e2152",
+  "bytes": 15806,
+  "content_type": "text/html",
+  "raw": "docs/raw/a0657aee022ec4a67406.html",
+  "markdown": "docs/pages/a0657aee022ec4a67406.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_keyboard_button_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_location-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_request_location.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

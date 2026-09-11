@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/paymentSavedCredentialsCard",
+  "final_url": "https://core.telegram.org/constructor/paymentSavedCredentialsCard",
+  "title": "paymentSavedCredentialsCard",
+  "fetched_at": "2026-09-11T06:07:12Z",
+  "sha256": "51fb643737647d6b601dd9fac1bedfa8fd0e17fd73f535b5f7d0ddbb090f93d4",
+  "bytes": 14360,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/06d6ee7ffffaa94dce17.html",
+  "markdown": "docs/pages/06d6ee7ffffaa94dce17.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/paymentSavedCredentialsCard",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PaymentSavedCredentials",
+    "https://core.telegram.org/type/string"
+  ]
+}

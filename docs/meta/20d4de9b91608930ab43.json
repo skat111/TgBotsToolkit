@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_event.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_event.html",
+  "title": "TDLib: updateNewCustomEvent Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "85644e147253de027192da1a6372a40435c0d1b24701e8291d527a934bbb3230",
+  "bytes": 18241,
+  "content_type": "text/html",
+  "raw": "docs/raw/20d4de9b91608930ab43.html",
+  "markdown": "docs/pages/20d4de9b91608930ab43.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_event-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_event.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.resetWallPapers",
+  "final_url": "https://core.telegram.org/method/account.resetWallPapers",
+  "title": "account.resetWallPapers",
+  "fetched_at": "2026-09-11T06:08:49Z",
+  "sha256": "b76f62be32ff3ab463a6f538f2ce873f869efd7d0c99b0bd63426dc41d4a16f7",
+  "bytes": 14812,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/09513a022dd42624538a.html",
+  "markdown": "docs/pages/09513a022dd42624538a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.resetWallPapers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

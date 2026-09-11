@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/api/pattern",
+  "final_url": "https://core.telegram.org/api/pattern",
+  "title": "Pattern matching",
+  "fetched_at": "2026-09-11T06:05:28Z",
+  "sha256": "e074481bb44faa58d321cf6561bdcd391ecf201fb7198c04f68611107a76f2c0",
+  "bytes": 6427,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9baaa45cb04acb10e56d.html",
+  "markdown": "docs/pages/9baaa45cb04acb10e56d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/pattern",
+    "https://core.telegram.org/constructor/account.sentEmailCode",
+    "https://core.telegram.org/constructor/auth.sentCodeTypeFlashCall",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

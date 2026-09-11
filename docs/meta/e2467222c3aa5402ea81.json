@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/payments.convertStarGift",
+  "final_url": "https://core.telegram.org/method/payments.convertStarGift",
+  "title": "payments.convertStarGift",
+  "fetched_at": "2026-09-11T06:10:43Z",
+  "sha256": "0622a3164b837c1e811ff172b8faf0b00acb7ce19473cbf5ca2c2d8905741f5d",
+  "bytes": 18216,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2467222c3aa5402ea81.html",
+  "markdown": "docs/pages/e2467222c3aa5402ea81.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/starGift",
+    "https://core.telegram.org/method/payments.convertStarGift",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputSavedStarGift"
+  ]
+}

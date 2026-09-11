@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_installed_backgrounds.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_installed_backgrounds.html",
+  "title": "TDLib: getInstalledBackgrounds Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "9a90276b6d21b804a29a4c24527f6ce273df9755cbc8efd433cd8b8000ac4d6b",
+  "bytes": 19358,
+  "content_type": "text/html",
+  "raw": "docs/raw/493cb9d11cbf75837d6f.html",
+  "markdown": "docs/pages/493cb9d11cbf75837d6f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1backgrounds.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_installed_backgrounds-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_installed_backgrounds.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

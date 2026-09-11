@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1country_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1country_info.html",
+  "title": "TDLib: countryInfo Class Reference",
+  "fetched_at": "2026-09-11T06:13:50Z",
+  "sha256": "655f0203d1453120340c02012b8c88fe19462edebf2b7bf6df97ae6dc35b6385",
+  "bytes": 23208,
+  "content_type": "text/html",
+  "raw": "docs/raw/f6af1eb99bc7eef58531.html",
+  "markdown": "docs/pages/f6af1eb99bc7eef58531.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1country_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1country_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

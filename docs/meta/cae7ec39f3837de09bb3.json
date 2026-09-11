@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_return_error.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_return_error.html",
+  "title": "TDLib: testReturnError Class Reference",
+  "fetched_at": "2026-09-11T06:15:58Z",
+  "sha256": "b314074c4ed7e3afbe3b8b5647c044584ab8e787292e8a6f00217a0ac23be004",
+  "bytes": 19774,
+  "content_type": "text/html",
+  "raw": "docs/raw/cae7ec39f3837de09bb3.html",
+  "markdown": "docs/pages/cae7ec39f3837de09bb3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_return_error-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1test_return_error.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

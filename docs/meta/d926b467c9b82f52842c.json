@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/wallPaper",
+  "final_url": "https://core.telegram.org/constructor/wallPaper",
+  "title": "wallPaper",
+  "fetched_at": "2026-09-11T06:08:13Z",
+  "sha256": "071245a10f46141d39de47b73a8b46245cbb0913a330249d0ebfa255f861a9dc",
+  "bytes": 17195,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d926b467c9b82f52842c.html",
+  "markdown": "docs/pages/d926b467c9b82f52842c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/wallPaper",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/WallPaper",
+    "https://core.telegram.org/type/WallPaperSettings",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

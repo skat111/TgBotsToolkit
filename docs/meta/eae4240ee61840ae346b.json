@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/messages.requestEncryption",
+  "final_url": "https://core.telegram.org/method/messages.requestEncryption",
+  "title": "messages.requestEncryption",
+  "fetched_at": "2026-09-11T06:10:22Z",
+  "sha256": "426498fbd94c737d763fa9530f62e16e9f1ff80f3db45c614106a35848209f04",
+  "bytes": 17854,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/eae4240ee61840ae346b.html",
+  "markdown": "docs/pages/eae4240ee61840ae346b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/encryptedChat",
+    "https://core.telegram.org/constructor/encryptedChatDiscarded",
+    "https://core.telegram.org/constructor/encryptedChatEmpty",
+    "https://core.telegram.org/constructor/encryptedChatRequested",
+    "https://core.telegram.org/constructor/encryptedChatWaiting",
+    "https://core.telegram.org/method/messages.requestEncryption",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/EncryptedChat",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

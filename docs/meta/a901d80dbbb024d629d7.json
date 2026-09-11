@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/textImage",
+  "final_url": "https://core.telegram.org/constructor/textImage",
+  "title": "textImage",
+  "fetched_at": "2026-09-11T06:07:49Z",
+  "sha256": "843ef24ab4ba695fd3e8c09c08db0c223f1e2069acaf44c8375845abbbdb9816",
+  "bytes": 14304,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a901d80dbbb024d629d7.html",
+  "markdown": "docs/pages/a901d80dbbb024d629d7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textImage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

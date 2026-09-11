@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/auth.importWebTokenAuthorization",
+  "final_url": "https://core.telegram.org/method/auth.importWebTokenAuthorization",
+  "title": "auth.importWebTokenAuthorization",
+  "fetched_at": "2026-09-11T06:09:06Z",
+  "sha256": "dee09cfdef08964750d970205b7d0479f7756b2efaac1cd2c543fe30f3e4c9a0",
+  "bytes": 16920,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f98c5730728df1ad1485.html",
+  "markdown": "docs/pages/f98c5730728df1ad1485.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/obtaining_api_id",
+    "https://core.telegram.org/constructor/auth.authorization",
+    "https://core.telegram.org/constructor/auth.authorizationSignUpRequired",
+    "https://core.telegram.org/method/auth.importWebTokenAuthorization",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/help.TermsOfService",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

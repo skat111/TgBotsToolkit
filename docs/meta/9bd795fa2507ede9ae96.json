@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/contacts.getSponsoredPeers",
+  "final_url": "https://core.telegram.org/method/contacts.getSponsoredPeers",
+  "title": "contacts.getSponsoredPeers",
+  "fetched_at": "2026-09-11T06:09:36Z",
+  "sha256": "6df42b5d01fa34e7c323f48d1afc30479a36c237cbd09b48fdae03c5b9bb6da2",
+  "bytes": 15498,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9bd795fa2507ede9ae96.html",
+  "markdown": "docs/pages/9bd795fa2507ede9ae96.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.sponsoredPeers",
+    "https://core.telegram.org/constructor/contacts.sponsoredPeersEmpty",
+    "https://core.telegram.org/method/contacts.getSponsoredPeers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/SponsoredPeer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.SponsoredPeers",
+    "https://core.telegram.org/type/string"
+  ]
+}

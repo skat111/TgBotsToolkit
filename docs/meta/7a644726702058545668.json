@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/inlineQueryPeerTypeSameBotPM",
+  "final_url": "https://core.telegram.org/constructor/inlineQueryPeerTypeSameBotPM",
+  "title": "inlineQueryPeerTypeSameBotPM",
+  "fetched_at": "2026-09-11T06:06:13Z",
+  "sha256": "1e2e3952d3267db1f51683832d334c1f4b24f01dbb33f185684bdb7e5803a368",
+  "bytes": 13995,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7a644726702058545668.html",
+  "markdown": "docs/pages/7a644726702058545668.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inlineQueryPeerTypeSameBotPM",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InlineQueryPeerType"
+  ]
+}

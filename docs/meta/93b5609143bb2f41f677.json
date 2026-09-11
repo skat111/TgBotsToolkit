@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story_available_reactions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story_available_reactions.html",
+  "title": "TDLib: getStoryAvailableReactions Class Reference",
+  "fetched_at": "2026-09-11T06:14:21Z",
+  "sha256": "3c2a5e8f8008cdb637c9ddcb9d2fd6f792697c7aee98f634f6bfd94108dececd",
+  "bytes": 19646,
+  "content_type": "text/html",
+  "raw": "docs/raw/93b5609143bb2f41f677.html",
+  "markdown": "docs/pages/93b5609143bb2f41f677.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1available_reactions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story_available_reactions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story_available_reactions.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

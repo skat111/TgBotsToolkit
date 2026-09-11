@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_bot_subscription_sale.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_bot_subscription_sale.html",
+  "title": "TDLib: starTransactionTypeBotSubscriptionSale Class Reference",
+  "fetched_at": "2026-09-11T06:15:48Z",
+  "sha256": "6f81560b034491fec4ee3df40c645d57e4435847276ce8cf3a5f774520ec6895",
+  "bytes": 24845,
+  "content_type": "text/html",
+  "raw": "docs/raw/77a65627e6af7170cace.html",
+  "markdown": "docs/pages/77a65627e6af7170cace.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_star_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1affiliate_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1product_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_bot_subscription_sale-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_bot_subscription_sale.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

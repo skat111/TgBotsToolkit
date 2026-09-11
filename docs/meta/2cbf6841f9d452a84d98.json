@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/businessAwayMessageScheduleAlways",
+  "final_url": "https://core.telegram.org/constructor/businessAwayMessageScheduleAlways",
+  "title": "businessAwayMessageScheduleAlways",
+  "fetched_at": "2026-09-11T06:05:41Z",
+  "sha256": "a1f6ee0b1fbcf7bae54dac74d34841c623cde55a376f1481d30738dc857f867a",
+  "bytes": 14743,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2cbf6841f9d452a84d98.html",
+  "markdown": "docs/pages/2cbf6841f9d452a84d98.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/businessAwayMessageScheduleAlways",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BusinessAwayMessageSchedule"
+  ]
+}

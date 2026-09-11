@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPhoneContact",
+  "final_url": "https://core.telegram.org/constructor/inputPhoneContact",
+  "title": "inputPhoneContact",
+  "fetched_at": "2026-09-11T06:06:31Z",
+  "sha256": "7de56acb01afde40d761c499fc428f1bd57b5540a754affcb139ae7e984f9ca8",
+  "bytes": 16805,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b1deb7b4204626f8f277.html",
+  "markdown": "docs/pages/b1deb7b4204626f8f277.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/contacts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.importedContacts",
+    "https://core.telegram.org/constructor/inputPhoneContact",
+    "https://core.telegram.org/method/contacts.addContact",
+    "https://core.telegram.org/method/contacts.importContacts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputContact",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

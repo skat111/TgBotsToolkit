@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.getNotifySettings",
+  "final_url": "https://core.telegram.org/method/account.getNotifySettings",
+  "title": "account.getNotifySettings",
+  "fetched_at": "2026-09-11T06:08:41Z",
+  "sha256": "621b16502e9f94a841241ef76562507b8c101fe5591204e1823cc9ea85a97bf4",
+  "bytes": 16111,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0a3bf6eb4537ca436001.html",
+  "markdown": "docs/pages/0a3bf6eb4537ca436001.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/peerNotifySettings",
+    "https://core.telegram.org/method/account.getNotifySettings",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputNotifyPeer",
+    "https://core.telegram.org/type/NotificationSound",
+    "https://core.telegram.org/type/PeerNotifySettings",
+    "https://core.telegram.org/type/int"
+  ]
+}

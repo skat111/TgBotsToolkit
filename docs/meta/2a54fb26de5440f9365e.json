@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/phone.GroupCallStreamRtmpUrl",
+  "final_url": "https://core.telegram.org/type/phone.GroupCallStreamRtmpUrl",
+  "title": "phone.GroupCallStreamRtmpUrl",
+  "fetched_at": "2026-09-11T06:17:19Z",
+  "sha256": "88baf9a58ecf9df7cdf6e13d94d8f0067f857133ff023caef9075322d6eabaa1",
+  "bytes": 15303,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2a54fb26de5440f9365e.html",
+  "markdown": "docs/pages/2a54fb26de5440f9365e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phone.groupCallStreamRtmpUrl",
+    "https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/phone.GroupCallStreamRtmpUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

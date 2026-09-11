@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/mtproto_v1",
+  "final_url": "https://core.telegram.org/mtproto_v1",
+  "title": "MTProto Mobile Protocol v.1.0 (DEPRECATED)",
+  "fetched_at": "2026-09-11T06:11:45Z",
+  "sha256": "f0d81b172f93a91cbed2fc81a6bce2c224b79912294618f5eb9384eae5dd891d",
+  "bytes": 23972,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3864b1b58ec4042e89fe.html",
+  "markdown": "docs/pages/3864b1b58ec4042e89fe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end",
+    "https://core.telegram.org/api/end-to-end/voice-calls",
+    "https://core.telegram.org/file/811140187/1/sfBQV3Trp80/3a3c48bad836b853ed",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/auth_key",
+    "https://core.telegram.org/mtproto/description",
+    "https://core.telegram.org/mtproto/samples-auth_key",
+    "https://core.telegram.org/mtproto/security_guidelines",
+    "https://core.telegram.org/mtproto/serialize",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/mtproto/service_messages_about_messages",
+    "https://core.telegram.org/mtproto_v1",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/end-to-end",
+    "https://core.telegram.org/schema/mtproto",
+    "https://core.telegram.org/techfaq"
+  ]
+}

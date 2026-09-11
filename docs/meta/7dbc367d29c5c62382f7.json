@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/mediaAreaCoordinates",
+  "final_url": "https://core.telegram.org/constructor/mediaAreaCoordinates",
+  "title": "mediaAreaCoordinates",
+  "fetched_at": "2026-09-11T06:06:43Z",
+  "sha256": "ee32ec31ce37dfba9a4f7e31d185eed0a1634e149afb94ed023dee73ccc16623",
+  "bytes": 15860,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7dbc367d29c5c62382f7.html",
+  "markdown": "docs/pages/7dbc367d29c5c62382f7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/mediaAreaCoordinates",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MediaAreaCoordinates",
+    "https://core.telegram.org/type/double"
+  ]
+}

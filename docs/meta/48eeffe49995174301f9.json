@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/help.getPassportConfig",
+  "final_url": "https://core.telegram.org/method/help.getPassportConfig",
+  "title": "help.getPassportConfig",
+  "fetched_at": "2026-09-11T06:09:40Z",
+  "sha256": "97b4c5f0e5aaf8a73337b2c06b16ac9db09617ad6778fa9f55c01d32cfb3dc5e",
+  "bytes": 15578,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/48eeffe49995174301f9.html",
+  "markdown": "docs/pages/48eeffe49995174301f9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/help.passportConfig",
+    "https://core.telegram.org/constructor/help.passportConfigNotModified",
+    "https://core.telegram.org/method/help.getPassportConfig",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/help.PassportConfig",
+    "https://core.telegram.org/type/int"
+  ]
+}

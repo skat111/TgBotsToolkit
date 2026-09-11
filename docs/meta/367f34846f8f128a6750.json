@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_ton_revenue_status.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_ton_revenue_status.html",
+  "title": "TDLib: updateTonRevenueStatus Class Reference",
+  "fetched_at": "2026-09-11T06:16:17Z",
+  "sha256": "74ece17c215d41e1309a6be56dd6e16f4318a9ae6e547e45bf5668e52a24e85f",
+  "bytes": 19232,
+  "content_type": "text/html",
+  "raw": "docs/raw/367f34846f8f128a6750.html",
+  "markdown": "docs/pages/367f34846f8f128a6750.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_ton_transactions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_revenue_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_ton_revenue_status-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_ton_revenue_status.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

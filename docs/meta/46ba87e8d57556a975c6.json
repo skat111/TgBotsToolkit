@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/privacyKeyAbout",
+  "final_url": "https://core.telegram.org/constructor/privacyKeyAbout",
+  "title": "privacyKeyAbout",
+  "fetched_at": "2026-09-11T06:07:23Z",
+  "sha256": "52e27db0e7001f844a4a48c36fc83d548d0de0e0887490d9330846d359da7566",
+  "bytes": 13832,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/46ba87e8d57556a975c6.html",
+  "markdown": "docs/pages/46ba87e8d57556a975c6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/privacyKeyAbout",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PrivacyKey"
+  ]
+}

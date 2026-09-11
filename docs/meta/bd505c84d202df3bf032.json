@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_banned.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_banned.html",
+  "title": "TDLib: chatMembersFilterBanned Class Reference",
+  "fetched_at": "2026-09-11T06:13:44Z",
+  "sha256": "d2f579aa39d8f8c7d5a653977b8d272d96d0951e4638639487e14bcf9a7262b9",
+  "bytes": 15713,
+  "content_type": "text/html",
+  "raw": "docs/raw/bd505c84d202df3bf032.html",
+  "markdown": "docs/pages/bd505c84d202df3bf032.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_banned-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_banned.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

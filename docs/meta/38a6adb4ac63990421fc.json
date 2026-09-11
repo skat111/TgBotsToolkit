@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/auth.resetLoginEmail",
+  "final_url": "https://core.telegram.org/method/auth.resetLoginEmail",
+  "title": "auth.resetLoginEmail",
+  "fetched_at": "2026-09-11T06:09:08Z",
+  "sha256": "784914800ce1dd68b47854e9f81f9de74a56b43cea3150be1f555f36f6698884",
+  "bytes": 17094,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/38a6adb4ac63990421fc.html",
+  "markdown": "docs/pages/38a6adb4ac63990421fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.sentCode",
+    "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+    "https://core.telegram.org/constructor/auth.sentCodeSuccess",
+    "https://core.telegram.org/method/auth.resetLoginEmail",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/auth.Authorization",
+    "https://core.telegram.org/type/auth.CodeType",
+    "https://core.telegram.org/type/auth.SentCode",
+    "https://core.telegram.org/type/auth.SentCodeType",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

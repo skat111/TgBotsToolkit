@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.emojiGameOutcome",
+  "final_url": "https://core.telegram.org/constructor/messages.emojiGameOutcome",
+  "title": "messages.emojiGameOutcome",
+  "fetched_at": "2026-09-11T06:07:00Z",
+  "sha256": "fd0cd9ec4c00f9fb2094c06c99329e537904662300ac8f52a8f9547aeb45fa4b",
+  "bytes": 14554,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/38a5a5ef3d9ec25e2c78.html",
+  "markdown": "docs/pages/38a5a5ef3d9ec25e2c78.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.emojiGameOutcome",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.EmojiGameOutcome"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/requestPeerTypeCreateBot",
+  "final_url": "https://core.telegram.org/constructor/requestPeerTypeCreateBot",
+  "title": "requestPeerTypeCreateBot",
+  "fetched_at": "2026-09-11T06:07:30Z",
+  "sha256": "c0c60a907af8c08e4c1a1168bbcea1b5bf888a7b3c2d3bd42375ac2060c20a27",
+  "bytes": 16764,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f753e3e238aa14795dac.html",
+  "markdown": "docs/pages/f753e3e238aa14795dac.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/buttons",
+    "https://core.telegram.org/api/bots/managed-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
+    "https://core.telegram.org/constructor/replyKeyboardMarkup",
+    "https://core.telegram.org/constructor/requestPeerTypeCreateBot",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.sendBotRequestedPeer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/RequestPeerType",
+    "https://core.telegram.org/type/string"
+  ]
+}

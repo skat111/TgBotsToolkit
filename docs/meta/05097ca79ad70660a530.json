@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannelAvailableMessages",
+  "final_url": "https://core.telegram.org/constructor/updateChannelAvailableMessages",
+  "title": "updateChannelAvailableMessages",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "a2bffb95cad7503c5a8bb5de1d31a656541d81a14f414a2451701e62850c18aa",
+  "bytes": 15083,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/05097ca79ad70660a530.html",
+  "markdown": "docs/pages/05097ca79ad70660a530.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateChannelAvailableMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

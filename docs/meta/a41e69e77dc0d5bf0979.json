@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/phoneCall",
+  "final_url": "https://core.telegram.org/constructor/phoneCall",
+  "title": "phoneCall",
+  "fetched_at": "2026-09-11T06:07:19Z",
+  "sha256": "9d7eaeb4ea6f191c0f8012f79745f3541ddf2b6ff1b17e60cec11cfadf48f5e1",
+  "bytes": 18503,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a41e69e77dc0d5bf0979.html",
+  "markdown": "docs/pages/a41e69e77dc0d5bf0979.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/end-to-end/voice-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phoneCall",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/PhoneCall",
+    "https://core.telegram.org/type/PhoneCallProtocol",
+    "https://core.telegram.org/type/PhoneConnection",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

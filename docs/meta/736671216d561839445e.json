@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/searchResultsCalendarPeriod",
+  "final_url": "https://core.telegram.org/constructor/searchResultsCalendarPeriod",
+  "title": "searchResultsCalendarPeriod",
+  "fetched_at": "2026-09-11T06:07:31Z",
+  "sha256": "75894ed9a181f09b7434593fbca8e43606b7806a384ba150395c47f20039bbb4",
+  "bytes": 16020,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/736671216d561839445e.html",
+  "markdown": "docs/pages/736671216d561839445e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.searchResultsCalendar",
+    "https://core.telegram.org/constructor/searchResultsCalendarPeriod",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SearchResultsCalendarPeriod",
+    "https://core.telegram.org/type/int"
+  ]
+}

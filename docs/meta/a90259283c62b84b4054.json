@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_opening_hours.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_opening_hours.html",
+  "title": "TDLib: businessFeatureOpeningHours Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "b1436220bac500551d79f9ddf2d89bf69f13d7a6ca8637330821ec97892346cb",
+  "bytes": 15614,
+  "content_type": "text/html",
+  "raw": "docs/raw/a90259283c62b84b4054.html",
+  "markdown": "docs/pages/a90259283c62b84b4054.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_opening_hours-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_feature_opening_hours.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

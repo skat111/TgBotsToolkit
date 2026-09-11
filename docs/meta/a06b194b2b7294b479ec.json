@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updateDeleteGroupCallMessages",
+  "final_url": "https://core.telegram.org/constructor/updateDeleteGroupCallMessages",
+  "title": "updateDeleteGroupCallMessages",
+  "fetched_at": "2026-09-11T06:07:57Z",
+  "sha256": "e4872604890afbadaf00f4474c027a2158577901aa19c91308c3396876e5ad7d",
+  "bytes": 15290,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a06b194b2b7294b479ec.html",
+  "markdown": "docs/pages/a06b194b2b7294b479ec.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateDeleteGroupCallMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputGroupCall",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int"
+  ]
+}

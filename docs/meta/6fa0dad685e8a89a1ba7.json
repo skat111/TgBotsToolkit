@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_video_chat.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_video_chat.html",
+  "title": "TDLib: internalLinkTypeVideoChat Class Reference",
+  "fetched_at": "2026-09-11T06:14:40Z",
+  "sha256": "61d5c73189a9e03327777f9e823ab81175085bba27deb7ed37687ed2c29c2f91",
+  "bytes": 21759,
+  "content_type": "text/html",
+  "raw": "docs/raw/6fa0dad685e8a89a1ba7.html",
+  "markdown": "docs/pages/6fa0dad685e8a89a1ba7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_video_chat-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_video_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1join_video_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_chat.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

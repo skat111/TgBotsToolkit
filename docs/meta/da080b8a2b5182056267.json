@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/messages.discardEncryption",
+  "final_url": "https://core.telegram.org/method/messages.discardEncryption",
+  "title": "messages.discardEncryption",
+  "fetched_at": "2026-09-11T06:09:55Z",
+  "sha256": "721c9c291440403c333712e36918c2e17359a3d814f71554bdce6a7b8194a278",
+  "bytes": 15861,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/da080b8a2b5182056267.html",
+  "markdown": "docs/pages/da080b8a2b5182056267.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.discardEncryption",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/int"
+  ]
+}

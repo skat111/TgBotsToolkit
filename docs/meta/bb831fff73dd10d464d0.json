@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/e2e.chain.changeNoop",
+  "final_url": "https://core.telegram.org/constructor/e2e.chain.changeNoop",
+  "title": "e2e.chain.changeNoop",
+  "fetched_at": "2026-09-11T06:06:01Z",
+  "sha256": "5aabc142b07f54bed52fb22cfa519b9120d37a50ed91f5d7db9e4b25fd81d52e",
+  "bytes": 6693,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bb831fff73dd10d464d0.html",
+  "markdown": "docs/pages/bb831fff73dd10d464d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.chain.changeNoop",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/e2e.chain.Change",
+    "https://core.telegram.org/type/int256"
+  ]
+}

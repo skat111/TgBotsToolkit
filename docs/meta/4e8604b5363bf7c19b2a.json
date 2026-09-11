@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.updateDialogFilter",
+  "final_url": "https://core.telegram.org/method/messages.updateDialogFilter",
+  "title": "messages.updateDialogFilter",
+  "fetched_at": "2026-09-11T06:11:00Z",
+  "sha256": "5f7c624cf2ea409d4e5edb2140f7abebe64bf5e15f1f840ac5db271caf9fa8f2",
+  "bytes": 16603,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4e8604b5363bf7c19b2a.html",
+  "markdown": "docs/pages/4e8604b5363bf7c19b2a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.updateDialogFilter",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/DialogFilter",
+    "https://core.telegram.org/type/int"
+  ]
+}

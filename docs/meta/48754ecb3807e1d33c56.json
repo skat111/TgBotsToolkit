@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionChannelMigrateFrom",
+  "final_url": "https://core.telegram.org/constructor/messageActionChannelMigrateFrom",
+  "title": "messageActionChannelMigrateFrom",
+  "fetched_at": "2026-09-11T06:06:45Z",
+  "sha256": "1d4122e9c238372917927f65ca28d15cf5a423ca04d284e256b8e6d1b44facc4",
+  "bytes": 15068,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/48754ecb3807e1d33c56.html",
+  "markdown": "docs/pages/48754ecb3807e1d33c56.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionChannelMigrateFrom",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

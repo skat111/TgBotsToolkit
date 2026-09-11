@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_smart_glocal-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_smart_glocal-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:12Z",
+  "sha256": "6c59aaad335567cc328b6eea4bc6705423d2ee8ae8d85366a9697a34bf63f0e2",
+  "bytes": 10719,
+  "content_type": "text/html",
+  "raw": "docs/raw/fb6e84952a2effb67a8d.html",
+  "markdown": "docs/pages/fb6e84952a2effb67a8d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1payment_provider_smart_glocal.html"
+  ]
+}

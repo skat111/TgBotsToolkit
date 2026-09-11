@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/storyItemSkipped",
+  "final_url": "https://core.telegram.org/constructor/storyItemSkipped",
+  "title": "storyItemSkipped",
+  "fetched_at": "2026-09-11T06:07:48Z",
+  "sha256": "198a39e5496ca3c126aaf4401fa4b37b73f40c033ac369a00a27668e6bde7adf",
+  "bytes": 16833,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2038f2e7c5bd03f19f5f.html",
+  "markdown": "docs/pages/2038f2e7c5bd03f19f5f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/privacy",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/storyItemSkipped",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/stories.getStoriesByID",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/StoryItem",
+    "https://core.telegram.org/type/int"
+  ]
+}

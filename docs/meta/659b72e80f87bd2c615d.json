@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:30Z",
+  "sha256": "1db2d2b54893e8001a53ce49873008828af5366cf18d102780022aa160ba3928",
+  "bytes": 10915,
+  "content_type": "text/html",
+  "raw": "docs/raw/659b72e80f87bd2c615d.html",
+  "markdown": "docs/pages/659b72e80f87bd2c615d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1background_fill_gradient.html"
+  ]
+}

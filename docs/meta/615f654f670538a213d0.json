@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/ChatAdminWithInvites",
+  "final_url": "https://core.telegram.org/type/ChatAdminWithInvites",
+  "title": "ChatAdminWithInvites",
+  "fetched_at": "2026-09-11T06:16:26Z",
+  "sha256": "bd98d6dc1f86d4034f581d22140c40eb59c6adcd7ff5a6b6b0dd1146276d3a97",
+  "bytes": 14121,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/615f654f670538a213d0.html",
+  "markdown": "docs/pages/615f654f670538a213d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatAdminWithInvites",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChatAdminWithInvites",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

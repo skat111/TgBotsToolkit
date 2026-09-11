@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file_type_wallpaper.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file_type_wallpaper.html",
+  "title": "TDLib: fileTypeWallpaper Class Reference",
+  "fetched_at": "2026-09-11T06:14:04Z",
+  "sha256": "5efcbbaa10f09f11f75da9c2a1397c3984b8d891bb485b580c3c06903c04d173",
+  "bytes": 15505,
+  "content_type": "text/html",
+  "raw": "docs/raw/e4d453c474ba8e131520.html",
+  "markdown": "docs/pages/e4d453c474ba8e131520.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_file_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file_type_wallpaper-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1file_type_wallpaper.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

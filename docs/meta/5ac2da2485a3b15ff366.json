@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/account.resetAuthorization",
+  "final_url": "https://core.telegram.org/method/account.resetAuthorization",
+  "title": "account.resetAuthorization",
+  "fetched_at": "2026-09-11T06:08:49Z",
+  "sha256": "acbf849ef30962daa6d8b5830678e8e56f61abfb75f9d9453507cf48c37e8f1f",
+  "bytes": 15538,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5ac2da2485a3b15ff366.html",
+  "markdown": "docs/pages/5ac2da2485a3b15ff366.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.resetAuthorization",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/long"
+  ]
+}

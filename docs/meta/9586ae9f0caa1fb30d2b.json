@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messageEntityCashtag",
+  "final_url": "https://core.telegram.org/constructor/messageEntityCashtag",
+  "title": "messageEntityCashtag",
+  "fetched_at": "2026-09-11T06:06:52Z",
+  "sha256": "f8657ae242685142ef070a6cb6f436f8eac4087582843ee41f22c2b8c1d09a1b",
+  "bytes": 14977,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9586ae9f0caa1fb30d2b.html",
+  "markdown": "docs/pages/9586ae9f0caa1fb30d2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/entities",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageEntityCashtag",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/int"
+  ]
+}

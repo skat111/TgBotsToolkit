@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.getAvailableEffects",
+  "final_url": "https://core.telegram.org/method/messages.getAvailableEffects",
+  "title": "messages.getAvailableEffects",
+  "fetched_at": "2026-09-11T06:10:02Z",
+  "sha256": "64923011cd0b06989faeb90b0cf54dc9d02cb3d8a25516194afa9e4a42019d42",
+  "bytes": 15915,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7ed9192b9b061d7cedc6.html",
+  "markdown": "docs/pages/7ed9192b9b061d7cedc6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/effects",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/messages.availableEffects",
+    "https://core.telegram.org/constructor/messages.availableEffectsNotModified",
+    "https://core.telegram.org/method/messages.getAvailableEffects",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AvailableEffect",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AvailableEffects"
+  ]
+}

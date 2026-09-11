@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/messages.FavedStickers",
+  "final_url": "https://core.telegram.org/type/messages.FavedStickers",
+  "title": "Messages.FavedStickers",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "615431ba0116660ec500bb2beee1c971a7ae42003fc57862ae464896ca639531",
+  "bytes": 15081,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9931d1859888339373cf.html",
+  "markdown": "docs/pages/9931d1859888339373cf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.favedStickers",
+    "https://core.telegram.org/constructor/messages.favedStickersNotModified",
+    "https://core.telegram.org/method/messages.getFavedStickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/StickerPack",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.FavedStickers"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionBotAllowed",
+  "final_url": "https://core.telegram.org/constructor/messageActionBotAllowed",
+  "title": "messageActionBotAllowed",
+  "fetched_at": "2026-09-11T06:06:44Z",
+  "sha256": "c744f72ab8643af0de1087cdb7711b5f7352df2fc2cafa2438403237750236bc",
+  "bytes": 17321,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/47fa25a4079ffc308861.html",
+  "markdown": "docs/pages/47fa25a4079ffc308861.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/attach",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionBotAllowed",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/bots.allowSendMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BotApp",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/string",
+    "https://core.telegram.org/widgets/login"
+  ]
+}

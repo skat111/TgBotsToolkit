@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/inputStickerSetEmojiGenericAnimations",
+  "final_url": "https://core.telegram.org/constructor/inputStickerSetEmojiGenericAnimations",
+  "title": "inputStickerSetEmojiGenericAnimations",
+  "fetched_at": "2026-09-11T06:06:37Z",
+  "sha256": "13345f8987b378205b5255af277802ba83d5c3441189cad80ce66b0278bc1af3",
+  "bytes": 14761,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f6ba7b1c31256e7d81be.html",
+  "markdown": "docs/pages/f6ba7b1c31256e7d81be.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/inputStickerSetEmojiGenericAnimations",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputStickerSet"
+  ]
+}

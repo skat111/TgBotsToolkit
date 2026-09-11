@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/type/ChatInvite",
+  "final_url": "https://core.telegram.org/type/ChatInvite",
+  "title": "ChatInvite",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "6787352a066792974837ca741d9ea3b740585b76f6a656dbb036b21cc4dfaf36",
+  "bytes": 15878,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/21666381af72a29bea0f.html",
+  "markdown": "docs/pages/21666381af72a29bea0f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatInvite",
+    "https://core.telegram.org/constructor/chatInviteAlready",
+    "https://core.telegram.org/constructor/chatInvitePeek",
+    "https://core.telegram.org/method/messages.checkChatInvite",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BotVerification",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ChatInvite",
+    "https://core.telegram.org/type/Photo",
+    "https://core.telegram.org/type/StarsSubscriptionPricing",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

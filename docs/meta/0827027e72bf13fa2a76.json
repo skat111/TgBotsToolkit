@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/payments.getStarsRevenueWithdrawalUrl",
+  "final_url": "https://core.telegram.org/method/payments.getStarsRevenueWithdrawalUrl",
+  "title": "payments.getStarsRevenueWithdrawalUrl",
+  "fetched_at": "2026-09-11T06:10:51Z",
+  "sha256": "7504ac0392900feef30eb28259950967cfb7902996eec32f59762c13d4aa7dc5",
+  "bytes": 17663,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0827027e72bf13fa2a76.html",
+  "markdown": "docs/pages/0827027e72bf13fa2a76.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/srp",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/payments.starsRevenueWithdrawalUrl",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/payments.getStarsRevenueWithdrawalUrl",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.StarsRevenueWithdrawalUrl",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_info.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_info.html",
+  "title": "TDLib: getLanguagePackInfo Class Reference",
+  "fetched_at": "2026-09-11T06:14:16Z",
+  "sha256": "6b368a583f79e0de4751cfd023c0fb5d68c1853877860e375710dc18e235bd8d",
+  "bytes": 19837,
+  "content_type": "text/html",
+  "raw": "docs/raw/a6551b68bffa95c0e3dd.html",
+  "markdown": "docs/pages/a6551b68bffa95c0e3dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_info-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_language_pack_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

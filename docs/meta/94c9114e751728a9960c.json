@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/account.toggleSponsoredMessages",
+  "final_url": "https://core.telegram.org/method/account.toggleSponsoredMessages",
+  "title": "account.toggleSponsoredMessages",
+  "fetched_at": "2026-09-11T06:08:56Z",
+  "sha256": "f3bf4d8e6b97bc5381badc85c1752af7affa5a7d1e8c5de8df818e11d39599a6",
+  "bytes": 15617,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/94c9114e751728a9960c.html",
+  "markdown": "docs/pages/94c9114e751728a9960c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.toggleSponsoredMessages",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

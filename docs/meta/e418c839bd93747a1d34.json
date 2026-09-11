@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/account.takeout",
+  "final_url": "https://core.telegram.org/constructor/account.takeout",
+  "title": "account.takeout",
+  "fetched_at": "2026-09-11T06:05:20Z",
+  "sha256": "bdef076755b19dc2bfe9980378b25731f5662ecb85a685375336c1e702057eea",
+  "bytes": 14052,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e418c839bd93747a1d34.html",
+  "markdown": "docs/pages/e418c839bd93747a1d34.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.takeout",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/account.Takeout",
+    "https://core.telegram.org/type/long"
+  ]
+}

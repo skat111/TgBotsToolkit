@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/accountDaysTTL",
+  "final_url": "https://core.telegram.org/constructor/accountDaysTTL",
+  "title": "accountDaysTTL",
+  "fetched_at": "2026-09-11T06:05:31Z",
+  "sha256": "8a0d9ff4f5e4c4975d4a764d6101d56bcc350399df5c5f34b6dd875ebf288f91",
+  "bytes": 14188,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/08b3e5d271e54bc54e19.html",
+  "markdown": "docs/pages/08b3e5d271e54bc54e19.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/accountDaysTTL",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AccountDaysTTL",
+    "https://core.telegram.org/type/int"
+  ]
+}

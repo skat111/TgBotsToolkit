@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/type/channels.AdminLogResults",
+  "final_url": "https://core.telegram.org/type/channels.AdminLogResults",
+  "title": "Channels.AdminLogResults",
+  "fetched_at": "2026-09-11T06:17:13Z",
+  "sha256": "0fee6bbdab17c1dd64a0f7b56c04f1cc8dbb7efeaebdbe36e41fc0aa6af30484",
+  "bytes": 15230,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/78ce9aad6789613edead.html",
+  "markdown": "docs/pages/78ce9aad6789613edead.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channels.adminLogResults",
+    "https://core.telegram.org/method/channels.getAdminLog",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChannelAdminLogEvent",
+    "https://core.telegram.org/type/ChannelAdminLogEventsFilter",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/channels.AdminLogResults",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

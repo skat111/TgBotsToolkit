@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBusinessBotCallbackQuery",
+  "final_url": "https://core.telegram.org/constructor/updateBusinessBotCallbackQuery",
+  "title": "updateBusinessBotCallbackQuery",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "e43fc7d3b93a0bd01a8d6e810b6f8a5f5936d325ea57b6779c558b5cf910966a",
+  "bytes": 16937,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d387237c2ee0f9ddbe18.html",
+  "markdown": "docs/pages/d387237c2ee0f9ddbe18.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateBusinessBotCallbackQuery",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

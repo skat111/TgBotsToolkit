@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/chatlists.chatlistUpdates",
+  "final_url": "https://core.telegram.org/constructor/chatlists.chatlistUpdates",
+  "title": "chatlists.chatlistUpdates",
+  "fetched_at": "2026-09-11T06:05:54Z",
+  "sha256": "7dfcba48ac3b6aa0c3645813cba2ff3846ff6702a2af749af30f5f984cde8cdf",
+  "bytes": 15434,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/bbafe63f9035eaa71cb0.html",
+  "markdown": "docs/pages/bbafe63f9035eaa71cb0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/chatlists.chatlistUpdates",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/chatlists.ChatlistUpdates"
+  ]
+}

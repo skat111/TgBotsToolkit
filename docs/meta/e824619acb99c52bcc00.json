@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_craft_gift_result.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_craft_gift_result.html",
+  "title": "TDLib: CraftGiftResult Class Reference",
+  "fetched_at": "2026-09-11T06:12:03Z",
+  "sha256": "067eb2930b090ce3fa0a550c9b9ae4e34ae22f5792bd559d240e89fb1a5f5400",
+  "bytes": 12679,
+  "content_type": "text/html",
+  "raw": "docs/raw/e824619acb99c52bcc00.html",
+  "markdown": "docs/pages/e824619acb99c52bcc00.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_craft_gift_result-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_craft_gift_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_fail.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_invalid_gift.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_success.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1craft_gift_result_too_early.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

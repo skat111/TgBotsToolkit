@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.updateBusinessGreetingMessage",
+  "final_url": "https://core.telegram.org/method/account.updateBusinessGreetingMessage",
+  "title": "account.updateBusinessGreetingMessage",
+  "fetched_at": "2026-09-11T06:08:56Z",
+  "sha256": "0319fd010e16631967150cb5661652b8314a09e6b08f8236ce2efb9f1c2a3752",
+  "bytes": 15712,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/51d6ce6a19b7e2c7a04f.html",
+  "markdown": "docs/pages/51d6ce6a19b7e2c7a04f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.updateBusinessGreetingMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputBusinessGreetingMessage"
+  ]
+}

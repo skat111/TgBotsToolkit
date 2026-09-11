@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_statuses.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_statuses.html",
+  "title": "TDLib: emojiStatuses Class Reference",
+  "fetched_at": "2026-09-11T06:14:00Z",
+  "sha256": "21e2e6d6067697180f1e448af1dc581c2e57c9c5bf3c3d7d10537012d6186bd6",
+  "bytes": 18684,
+  "content_type": "text/html",
+  "raw": "docs/raw/e702d954a3c5e29d094c.html",
+  "markdown": "docs/pages/e702d954a3c5e29d094c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_statuses-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1emoji_statuses.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

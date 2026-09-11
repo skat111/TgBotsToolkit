@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_downloads.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_downloads.html",
+  "title": "TDLib: updateFileDownloads Class Reference",
+  "fetched_at": "2026-09-11T06:16:09Z",
+  "sha256": "802e3141b718bcfbd1104b12d75f686ef42a75c17017562e4d627e2c4a7fe7d9",
+  "bytes": 20875,
+  "content_type": "text/html",
+  "raw": "docs/raw/d712ad4faa6553fc3326.html",
+  "markdown": "docs/pages/d712ad4faa6553fc3326.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_downloads-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_downloads.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

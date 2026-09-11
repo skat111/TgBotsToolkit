@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/mtproto/service_messages",
+  "final_url": "https://core.telegram.org/mtproto/service_messages",
+  "title": "﻿Service Messages",
+  "fetched_at": "2026-09-11T06:11:42Z",
+  "sha256": "78372462f0c22ede3fa8254b84caeee319d68c29b94e64634e8c5583ce26adb0",
+  "bytes": 20572,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d17705bd6a4352c1e116.html",
+  "markdown": "docs/pages/d17705bd6a4352c1e116.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/service_messages",
+    "https://core.telegram.org/mtproto/service_messages_about_messages",
+    "https://core.telegram.org/schema"
+  ]
+}

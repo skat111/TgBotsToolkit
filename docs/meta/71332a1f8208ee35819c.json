@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/textSuperscript",
+  "final_url": "https://core.telegram.org/constructor/textSuperscript",
+  "title": "textSuperscript",
+  "fetched_at": "2026-09-11T06:07:50Z",
+  "sha256": "a427bc896dd8f475dae3bb43882e152d3e9a44af74878b6df804f1765e439c78",
+  "bytes": 14051,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/71332a1f8208ee35819c.html",
+  "markdown": "docs/pages/71332a1f8208ee35819c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/textSuperscript",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/RichText"
+  ]
+}

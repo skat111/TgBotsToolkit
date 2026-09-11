@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_database_statistics.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_database_statistics.html",
+  "title": "TDLib: getDatabaseStatistics Class Reference",
+  "fetched_at": "2026-09-11T06:14:10Z",
+  "sha256": "71c0d73aee74740307612c4e5994676923653e7a513062792585e48011d45770",
+  "bytes": 16667,
+  "content_type": "text/html",
+  "raw": "docs/raw/e2d2ae31d9c51bf5cb17.html",
+  "markdown": "docs/pages/e2d2ae31d9c51bf5cb17.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1database_statistics.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_database_statistics-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_database_statistics.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

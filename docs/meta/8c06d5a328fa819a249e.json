@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/type/account.PasswordSettings",
+  "final_url": "https://core.telegram.org/type/account.PasswordSettings",
+  "title": "account.PasswordSettings",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "0de9d7f0f63f9d7f4d4e1a8267ff1f475118ae73d1d660d80b40c25829bdc4fe",
+  "bytes": 15652,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8c06d5a328fa819a249e.html",
+  "markdown": "docs/pages/8c06d5a328fa819a249e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.passwordSettings",
+    "https://core.telegram.org/method/account.getPasswordSettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputCheckPasswordSRP",
+    "https://core.telegram.org/type/SecureSecretSettings",
+    "https://core.telegram.org/type/account.PasswordSettings",
+    "https://core.telegram.org/type/string"
+  ]
+}

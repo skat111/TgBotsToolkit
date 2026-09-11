@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/reactionCustomEmoji",
+  "final_url": "https://core.telegram.org/constructor/reactionCustomEmoji",
+  "title": "reactionCustomEmoji",
+  "fetched_at": "2026-09-11T06:07:28Z",
+  "sha256": "7c7c2a008f7999e46bd84be0898fefa837f62c659cf03cf37a3efa812d19d88e",
+  "bytes": 14587,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/791a3deeb700048d1fb6.html",
+  "markdown": "docs/pages/791a3deeb700048d1fb6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/reactionCustomEmoji",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Reaction",
+    "https://core.telegram.org/type/long"
+  ]
+}

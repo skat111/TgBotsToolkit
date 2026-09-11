@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/videoSizeEmojiMarkup",
+  "final_url": "https://core.telegram.org/constructor/videoSizeEmojiMarkup",
+  "title": "videoSizeEmojiMarkup",
+  "fetched_at": "2026-09-11T06:08:13Z",
+  "sha256": "cc0e0399c7ac16cfb9bee94b75ff6ee8b327d143192d78d99a0e8401f7c7153b",
+  "bytes": 15889,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/715b254ccf86d22781d0.html",
+  "markdown": "docs/pages/715b254ccf86d22781d0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/wallpapers",
+    "https://core.telegram.org/constructor/videoSizeEmojiMarkup",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/VideoSize",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

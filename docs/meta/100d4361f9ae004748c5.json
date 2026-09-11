@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateNewScheduledMessage",
+  "final_url": "https://core.telegram.org/constructor/updateNewScheduledMessage",
+  "title": "updateNewScheduledMessage",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "a534c9ae943c04293bbed5546c19444d53bbb196b3037befa68a0394e2519ed5",
+  "bytes": 14630,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/100d4361f9ae004748c5.html",
+  "markdown": "docs/pages/100d4361f9ae004748c5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/scheduled-messages",
+    "https://core.telegram.org/constructor/updateNewScheduledMessage",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Message",
+    "https://core.telegram.org/type/Update"
+  ]
+}

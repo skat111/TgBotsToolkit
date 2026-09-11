@@ -1,0 +1,44 @@
+name: Refresh Telegram documentation
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: python -m pip install -r requirements.txt
+      - id: probe
+        shell: bash
+        run: |
+          set +e
+          python scripts/check_telegram_updates.py
+          code=$?
+          echo "changed=$([[ $code -eq 10 ]] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          exit 0
+      - if: steps.probe.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          python scripts/sync_docs.py --refresh
+          python scripts/prepare_bot_reference.py
+          python scripts/verify_docs.py
+          python skills/telegram-bot-builder/scripts/validate_screen_catalog.py
+          python scripts/validate_release.py
+      - if: steps.probe.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        shell: bash
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs .codex-plugin
+          git diff --cached --quiet || git commit -m "chore: refresh Telegram documentation"
+          git push
+          python scripts/package_plugin.py
+          sha256sum telegram-bot-toolkit.zip | cut -d' ' -f1 > telegram-bot-toolkit.zip.sha256
+          tag="docs-$(date -u +%Y%m%d-%H%M%S)"
+          gh release create "$tag" telegram-bot-toolkit.zip telegram-bot-toolkit.zip.sha256 --title "Telegram docs $tag" --notes "Automated Telegram API documentation refresh."
+        env:
+          GH_TOKEN: ${{ github.token }}

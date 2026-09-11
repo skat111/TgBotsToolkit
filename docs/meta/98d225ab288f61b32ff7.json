@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/dialogFilterSuggested",
+  "final_url": "https://core.telegram.org/constructor/dialogFilterSuggested",
+  "title": "dialogFilterSuggested",
+  "fetched_at": "2026-09-11T06:05:59Z",
+  "sha256": "2f01c3cf4c968e7fcf54c7d7a7e3d7722c39e1663dcd6eea2d50a339cf8cacd7",
+  "bytes": 14907,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/98d225ab288f61b32ff7.html",
+  "markdown": "docs/pages/98d225ab288f61b32ff7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/folders",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/dialogFilterSuggested",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DialogFilter",
+    "https://core.telegram.org/type/DialogFilterSuggested",
+    "https://core.telegram.org/type/string"
+  ]
+}

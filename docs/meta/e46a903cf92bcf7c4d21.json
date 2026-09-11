@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/method/stats.getMessagePublicForwards",
+  "final_url": "https://core.telegram.org/method/stats.getMessagePublicForwards",
+  "title": "stats.getMessagePublicForwards",
+  "fetched_at": "2026-09-11T06:11:23Z",
+  "sha256": "424cb8e1abd830dd248d8bc8b8e097751e10f7e6bb0052324e276bfe07e39068",
+  "bytes": 17622,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e46a903cf92bcf7c4d21.html",
+  "markdown": "docs/pages/e46a903cf92bcf7c4d21.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/offsets",
+    "https://core.telegram.org/constructor/message",
+    "https://core.telegram.org/constructor/stats.publicForwards",
+    "https://core.telegram.org/method/stats.getMessagePublicForwards",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/PublicForward",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/stats.PublicForwards",
+    "https://core.telegram.org/type/string"
+  ]
+}

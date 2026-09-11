@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_purchasable.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_purchasable.html",
+  "title": "TDLib: checkChatUsernameResultUsernamePurchasable Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "0c857e2f4fb18211127c574c84a99d88030bd7694b15f6200c68859a03a457a2",
+  "bytes": 16244,
+  "content_type": "text/html",
+  "raw": "docs/raw/947f540015cbd3bcc6dd.html",
+  "markdown": "docs/pages/947f540015cbd3bcc6dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_check_chat_username_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_purchasable-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_chat_username_result_username_purchasable.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_collectible_item_info.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

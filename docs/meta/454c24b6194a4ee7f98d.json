@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/StarsSubscriptionPricing",
+  "final_url": "https://core.telegram.org/type/StarsSubscriptionPricing",
+  "title": "StarsSubscriptionPricing",
+  "fetched_at": "2026-09-11T06:17:09Z",
+  "sha256": "784389ad5e092a07aae501cb428a6d5fd25155fa20037dde4b8bb9976980289d",
+  "bytes": 14634,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/454c24b6194a4ee7f98d.html",
+  "markdown": "docs/pages/454c24b6194a4ee7f98d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/invites",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/starsSubscriptionPricing",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StarsSubscriptionPricing",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

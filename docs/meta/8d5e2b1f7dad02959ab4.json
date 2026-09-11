@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotWebhookJSON",
+  "final_url": "https://core.telegram.org/constructor/updateBotWebhookJSON",
+  "title": "updateBotWebhookJSON",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "5d2fa580b4b2fe91586ef927f05fbec5f5fef1296c997e6a66c0ebdf58ec920f",
+  "bytes": 14139,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8d5e2b1f7dad02959ab4.html",
+  "markdown": "docs/pages/8d5e2b1f7dad02959ab4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateBotWebhookJSON",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/Update"
+  ]
+}

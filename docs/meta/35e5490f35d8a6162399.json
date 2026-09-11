@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/phone.receivedCall",
+  "final_url": "https://core.telegram.org/method/phone.receivedCall",
+  "title": "phone.receivedCall",
+  "fetched_at": "2026-09-11T06:11:10Z",
+  "sha256": "8aeeeacc2a402914637a8baccefa277d52b86d446388b0a616ed5aa79fb1dc2f",
+  "bytes": 15963,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/35e5490f35d8a6162399.html",
+  "markdown": "docs/pages/35e5490f35d8a6162399.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/phone.receivedCall",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPhoneCall"
+  ]
+}

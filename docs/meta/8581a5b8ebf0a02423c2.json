@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/messages.getDialogUnreadMarks",
+  "final_url": "https://core.telegram.org/method/messages.getDialogUnreadMarks",
+  "title": "messages.getDialogUnreadMarks",
+  "fetched_at": "2026-09-11T06:10:04Z",
+  "sha256": "d94962389084b0e72a9517e006a7fffa8ff141eefc711c9b21e09dabc4eee60f",
+  "bytes": 14947,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8581a5b8ebf0a02423c2.html",
+  "markdown": "docs/pages/8581a5b8ebf0a02423c2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/method/messages.getDialogUnreadMarks",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DialogPeer",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://core.telegram.org/bots/bots/features",
+  "final_url": "https://core.telegram.org/bots/bots/features",
+  "title": "Page not found",
+  "fetched_at": "2026-09-11T06:05:43Z",
+  "sha256": "b02b5f98e2695282f9c79c1729cb9d795ca0ecc9e6764d0b79d9d8a0ba6a1425",
+  "bytes": 4728,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ad50d00618a1d2108fbe.html",
+  "markdown": "docs/pages/ad50d00618a1d2108fbe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_uploading_document.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_uploading_document.html",
+  "title": "TDLib: chatActionUploadingDocument Class Reference",
+  "fetched_at": "2026-09-11T06:13:35Z",
+  "sha256": "7353371e98aeb93a9fb2f797d913d32f80253a19263ebc5d8bd0eaa2de489bbf",
+  "bytes": 18377,
+  "content_type": "text/html",
+  "raw": "docs/raw/47c754a07386b0bb3c79.html",
+  "markdown": "docs/pages/47c754a07386b0bb3c79.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_action.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_uploading_document-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_uploading_document.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

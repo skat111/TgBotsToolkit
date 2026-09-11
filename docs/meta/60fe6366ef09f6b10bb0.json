@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_web_app_data.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_web_app_data.html",
+  "title": "TDLib: sendWebAppData Class Reference",
+  "fetched_at": "2026-09-11T06:15:34Z",
+  "sha256": "65707bcf6faf3cc7d5af7832ca91c3c9ac919272ce0fcb9404c637c6b9914e2a",
+  "bytes": 22279,
+  "content_type": "text/html",
+  "raw": "docs/raw/60fe6366ef09f6b10bb0.html",
+  "markdown": "docs/pages/60fe6366ef09f6b10bb0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1keyboard_button_type_web_app.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_web_app_data-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1send_web_app_data.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

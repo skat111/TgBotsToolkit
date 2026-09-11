@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionPollAppendAnswer",
+  "final_url": "https://core.telegram.org/constructor/messageActionPollAppendAnswer",
+  "title": "messageActionPollAppendAnswer",
+  "fetched_at": "2026-09-11T06:06:48Z",
+  "sha256": "f1171f3889717a2903dfe8fd10a035011656df6c6d6dd515703d27f873ab526b",
+  "bytes": 14658,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/33c5cdfbcb1b72580c35.html",
+  "markdown": "docs/pages/33c5cdfbcb1b72580c35.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/poll",
+    "https://core.telegram.org/constructor/messageActionPollAppendAnswer",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/PollAnswer"
+  ]
+}

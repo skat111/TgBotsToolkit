@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/inputPaymentCredentials",
+  "final_url": "https://core.telegram.org/constructor/inputPaymentCredentials",
+  "title": "inputPaymentCredentials",
+  "fetched_at": "2026-09-11T06:06:29Z",
+  "sha256": "f1979bde360971ff06d8456bd3e65c0b0d45249353bd0149162d0b1fafff0022",
+  "bytes": 14677,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/25276a8ede1b09dc8125.html",
+  "markdown": "docs/pages/25276a8ede1b09dc8125.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputPaymentCredentials",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputPaymentCredentials"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/inputChatUploadedPhoto",
+  "final_url": "https://core.telegram.org/constructor/inputChatUploadedPhoto",
+  "title": "inputChatUploadedPhoto",
+  "fetched_at": "2026-09-11T06:06:19Z",
+  "sha256": "f0b8667d03ab8e49def6620ee6ccf6df4053828642b2b5708861c0fc00b4975f",
+  "bytes": 17092,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/318c449b980787796125.html",
+  "markdown": "docs/pages/318c449b980787796125.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stickers",
+    "https://core.telegram.org/constructor/inputChatUploadedPhoto",
+    "https://core.telegram.org/constructor/videoSizeEmojiMarkup",
+    "https://core.telegram.org/constructor/videoSizeStickerMarkup",
+    "https://core.telegram.org/method/upload.saveFilePart",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChatPhoto",
+    "https://core.telegram.org/type/InputFile",
+    "https://core.telegram.org/type/VideoSize",
+    "https://core.telegram.org/type/double"
+  ]
+}

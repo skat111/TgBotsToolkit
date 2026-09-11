@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/method/premium.getBoostsStatus",
+  "final_url": "https://core.telegram.org/method/premium.getBoostsStatus",
+  "title": "premium.getBoostsStatus",
+  "fetched_at": "2026-09-11T06:11:18Z",
+  "sha256": "8819245d88537dc0e7eda9de1b34e76b0bd323ef2fcb0485c4107919b9003632",
+  "bytes": 16386,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1e944099b42566f60131.html",
+  "markdown": "docs/pages/1e944099b42566f60131.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/premium.boostsStatus",
+    "https://core.telegram.org/method/premium.getBoostsStatus",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/PrepaidGiveaway",
+    "https://core.telegram.org/type/StatsPercentValue",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/premium.BoostsStatus",
+    "https://core.telegram.org/type/string"
+  ]
+}

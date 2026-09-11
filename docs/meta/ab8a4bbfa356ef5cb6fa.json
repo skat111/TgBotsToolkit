@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/_client_8h.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/_client_8h.html",
+  "title": "TDLib: td/telegram/Client.h File Reference",
+  "fetched_at": "2026-09-11T06:12:48Z",
+  "sha256": "35b31928a0a4ca3411a289453c3232791ce9429b5f5418fcdcd5199f2efc8e18",
+  "bytes": 7750,
+  "content_type": "text/html",
+  "raw": "docs/raw/ab8a4bbfa356ef5cb6fa.html",
+  "markdown": "docs/pages/ab8a4bbfa356ef5cb6fa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/_client_8h.html",
+    "https://core.telegram.org/tdlib/docs/_client_8h_source.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client_manager.html",
+    "https://core.telegram.org/tdlib/docs/dir_05b22fcca9bb47fde58f0d0dd2892ac6.html",
+    "https://core.telegram.org/tdlib/docs/dir_a49186d4b022e03550aa19f8980c74c2.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_response.html",
+    "https://core.telegram.org/tdlib/docs/structtd_1_1_client_manager_1_1_response.html"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/bots.invokeWebViewCustomMethod",
+  "final_url": "https://core.telegram.org/method/bots.invokeWebViewCustomMethod",
+  "title": "bots.invokeWebViewCustomMethod",
+  "fetched_at": "2026-09-11T06:09:17Z",
+  "sha256": "a339134c4fdbb2cd6878e91076b118caa7bc1ca6f04b4e95043fbb6eeb824e98",
+  "bytes": 16930,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/887e9712c5990a07e11a.html",
+  "markdown": "docs/pages/887e9712c5990a07e11a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/web-events",
+    "https://core.telegram.org/constructor/dataJSON",
+    "https://core.telegram.org/method/bots.invokeWebViewCustomMethod",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/DataJSON",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_live_story_message_sender.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_live_story_message_sender.html",
+  "title": "TDLib: setLiveStoryMessageSender Class Reference",
+  "fetched_at": "2026-09-11T06:15:39Z",
+  "sha256": "9203ddbae7ff42dc2ac1adcef79d50c8b10d6147baf6b60560351495a7f02077",
+  "bytes": 21122,
+  "content_type": "text/html",
+  "raw": "docs/raw/94b8fb533f1638dc0b7a.html",
+  "markdown": "docs/pages/94b8fb533f1638dc0b7a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_live_story_message_sender-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_live_story_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

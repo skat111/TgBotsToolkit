@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePeerBlocked",
+  "final_url": "https://core.telegram.org/constructor/updatePeerBlocked",
+  "title": "updatePeerBlocked",
+  "fetched_at": "2026-09-11T06:08:02Z",
+  "sha256": "8c6f7f9954d48fe2add6346a948b915a36586fb804f8838bfe2c625b38dac4ce",
+  "bytes": 15454,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2c3a2190389023818777.html",
+  "markdown": "docs/pages/2c3a2190389023818777.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/block",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updatePeerBlocked",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update"
+  ]
+}

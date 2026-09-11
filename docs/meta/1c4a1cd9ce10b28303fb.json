@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_forum_topic.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_forum_topic.html",
+  "title": "TDLib: deleteForumTopic Class Reference",
+  "fetched_at": "2026-09-11T06:13:55Z",
+  "sha256": "f22257bd52c20223b9543a8f70ee19dde406f186dc537c9d06d87b817d53ba6f",
+  "bytes": 21158,
+  "content_type": "text/html",
+  "raw": "docs/raw/1c4a1cd9ce10b28303fb.html",
+  "markdown": "docs/pages/1c4a1cd9ce10b28303fb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_forum_topic-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1delete_forum_topic.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

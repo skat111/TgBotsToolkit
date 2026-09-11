@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_sticker_outline_svg_path.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_sticker_outline_svg_path.html",
+  "title": "TDLib: getStickerOutlineSvgPath Class Reference",
+  "fetched_at": "2026-09-11T06:14:21Z",
+  "sha256": "6d565bf6e76feff94713ea433d58a38b365dc49a36160a259d73bf7b8ab4a2c2",
+  "bytes": 22055,
+  "content_type": "text/html",
+  "raw": "docs/raw/138771f9f6b2916b8517.html",
+  "markdown": "docs/pages/138771f9f6b2916b8517.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_sticker_outline_svg_path-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_sticker_outline_svg_path.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

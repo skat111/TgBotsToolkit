@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+  "title": "TDLib: ChatMembersFilter Class Reference",
+  "fetched_at": "2026-09-11T06:12:00Z",
+  "sha256": "27e7f9b7b559d5db2290dda2feb553f35627d59e8c1d13c5a874f9d60141ecb4",
+  "bytes": 13136,
+  "content_type": "text/html",
+  "raw": "docs/raw/e8be01704104c01e1e26.html",
+  "markdown": "docs/pages/e8be01704104c01e1e26.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_members_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_administrators.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_banned.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_bots.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_contacts.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_mention.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_members_filter_restricted.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_chat_members.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

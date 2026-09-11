@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_participant_status_eligible.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_participant_status_eligible.html",
+  "title": "TDLib: giveawayParticipantStatusEligible Class Reference",
+  "fetched_at": "2026-09-11T06:14:28Z",
+  "sha256": "2222e2946d2809434b0e417dcd137e0746e1728d2a546cfb4e69e5b513be2cf0",
+  "bytes": 15717,
+  "content_type": "text/html",
+  "raw": "docs/raw/a573c3708228dee29002.html",
+  "markdown": "docs/pages/a573c3708228dee29002.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_giveaway_participant_status.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_participant_status_eligible-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1giveaway_participant_status_eligible.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

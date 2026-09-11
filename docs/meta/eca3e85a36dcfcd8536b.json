@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_speech.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_speech.html",
+  "title": "TDLib: callProblemDistortedSpeech Class Reference",
+  "fetched_at": "2026-09-11T06:13:29Z",
+  "sha256": "1406bc1cf304d7d53bb733dae3abfd28784742978a3a8f8a2828ab41fb5b7415",
+  "bytes": 15578,
+  "content_type": "text/html",
+  "raw": "docs/raw/eca3e85a36dcfcd8536b.html",
+  "markdown": "docs/pages/eca3e85a36dcfcd8536b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_problem.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_speech-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_problem_distorted_speech.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

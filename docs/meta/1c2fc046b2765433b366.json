@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/type/Username",
+  "final_url": "https://core.telegram.org/type/Username",
+  "title": "Username",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "288eb60324334864eecb7e1d793d3207d6e8564273bf012e8112ea26883ce984",
+  "bytes": 13946,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1c2fc046b2765433b366.html",
+  "markdown": "docs/pages/1c2fc046b2765433b366.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/username",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Username",
+    "https://core.telegram.org/type/string"
+  ]
+}

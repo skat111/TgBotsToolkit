@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sparse_message_positions.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sparse_message_positions.html",
+  "title": "TDLib: getChatSparseMessagePositions Class Reference",
+  "fetched_at": "2026-09-11T06:14:10Z",
+  "sha256": "44737b5ba83e3c7deef8064d5bc3f060840fca5630b6d4b2397bff89c9a6d399",
+  "bytes": 28004,
+  "content_type": "text/html",
+  "raw": "docs/raw/fd8a0940ae9441ead415.html",
+  "markdown": "docs/pages/fd8a0940ae9441ead415.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sparse_message_positions-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_sparse_message_positions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_positions.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_empty.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_failed_to_send.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_mention.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_unread_mention.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_unread_reaction.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

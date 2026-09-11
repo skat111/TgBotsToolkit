@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_pending.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_pending.html",
+  "title": "TDLib: resetPasswordResultPending Class Reference",
+  "fetched_at": "2026-09-11T06:15:26Z",
+  "sha256": "6a566102c1e73a5f0d83f79df7382e9e6b7034e5fdf02d9553d983531ed1c2e9",
+  "bytes": 18703,
+  "content_type": "text/html",
+  "raw": "docs/raw/5aeb762f1fe5f931f64e.html",
+  "markdown": "docs/pages/5aeb762f1fe5f931f64e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reset_password_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_pending-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reset_password_result_pending.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

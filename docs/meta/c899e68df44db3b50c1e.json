@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_viewers.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_viewers.html",
+  "title": "TDLib: messageViewers Class Reference",
+  "fetched_at": "2026-09-11T06:14:59Z",
+  "sha256": "425f16c9dab81cd6dadc1fe54cf58bf1d255b076261774f12ab2bc64cbafe9c4",
+  "bytes": 18666,
+  "content_type": "text/html",
+  "raw": "docs/raw/c899e68df44db3b50c1e.html",
+  "markdown": "docs/pages/c899e68df44db3b50c1e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_viewer.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_viewers-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_viewers.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

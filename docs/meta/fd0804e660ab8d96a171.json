@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_deposit.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_deposit.html",
+  "title": "TDLib: tonTransactionTypeFragmentDeposit Class Reference",
+  "fetched_at": "2026-09-11T06:16:04Z",
+  "sha256": "740121fa22079697187e451bdf85c9cebf08a00a8bf86b95a8abf4ead7ca469f",
+  "bytes": 19940,
+  "content_type": "text/html",
+  "raw": "docs/raw/fd0804e660ab8d96a171.html",
+  "markdown": "docs/pages/fd0804e660ab8d96a171.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_ton_transaction_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_deposit-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ton_transaction_type_fragment_deposit.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

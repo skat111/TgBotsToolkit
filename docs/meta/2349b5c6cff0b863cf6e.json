@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL-types",
+  "final_url": "https://core.telegram.org/mtproto/TL-types",
+  "title": "﻿Type serialization",
+  "fetched_at": "2026-09-11T06:11:56Z",
+  "sha256": "0471ff0f7c853a589d54d08975069b9ad716af42ba29f24daec2773563b77dd4",
+  "bytes": 6772,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2349b5c6cff0b863cf6e.html",
+  "markdown": "docs/pages/2349b5c6cff0b863cf6e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-polymorph",
+    "https://core.telegram.org/mtproto/TL-types",
+    "https://core.telegram.org/schema"
+  ]
+}

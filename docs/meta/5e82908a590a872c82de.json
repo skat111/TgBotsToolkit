@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_pending_join_requests.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_pending_join_requests.html",
+  "title": "TDLib: updateChatPendingJoinRequests Class Reference",
+  "fetched_at": "2026-09-11T06:16:08Z",
+  "sha256": "c238383eb84e2557051625fcb36a35fcbc4bd75d1aa35a694dfee2c0a04432ae",
+  "bytes": 20042,
+  "content_type": "text/html",
+  "raw": "docs/raw/5e82908a590a872c82de.html",
+  "markdown": "docs/pages/5e82908a590a872c82de.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_join_requests_info.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_pending_join_requests-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_pending_join_requests.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/method/account.updateBusinessAwayMessage",
+  "final_url": "https://core.telegram.org/method/account.updateBusinessAwayMessage",
+  "title": "account.updateBusinessAwayMessage",
+  "fetched_at": "2026-09-11T06:08:56Z",
+  "sha256": "1f173ea9b2de17468334bd30713a7543df9470f23ddc3969e2e1eab29c92fe0b",
+  "bytes": 15648,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b861facf0eea7708b62f.html",
+  "markdown": "docs/pages/b861facf0eea7708b62f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/account.updateBusinessAwayMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputBusinessAwayMessage"
+  ]
+}

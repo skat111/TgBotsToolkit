@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_tizen_push.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_tizen_push.html",
+  "title": "TDLib: deviceTokenTizenPush Class Reference",
+  "fetched_at": "2026-09-11T06:13:58Z",
+  "sha256": "6ee9eb4c9fcf5c5a21bfbbdbc56aa2c81d94cea766ae38bbeac3895ca2f798fa",
+  "bytes": 18342,
+  "content_type": "text/html",
+  "raw": "docs/raw/da5f00d86491c6aedf22.html",
+  "markdown": "docs/pages/da5f00d86491c6aedf22.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_device_token.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_tizen_push-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1device_token_tizen_push.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

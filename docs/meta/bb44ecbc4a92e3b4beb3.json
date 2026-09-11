@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_greeting_stickers-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_greeting_stickers-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:17Z",
+  "sha256": "8dbc52c695ffcac6d2853a67f109b7fbd07a93a0bce3fa39401d8b3857ca105e",
+  "bytes": 9846,
+  "content_type": "text/html",
+  "raw": "docs/raw/bb44ecbc4a92e3b4beb3.html",
+  "markdown": "docs/pages/bb44ecbc4a92e3b4beb3.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_greeting_stickers.html"
+  ]
+}

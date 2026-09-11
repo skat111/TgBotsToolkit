@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_prepaid_upgrade.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_prepaid_upgrade.html",
+  "title": "TDLib: upgradedGiftOriginPrepaidUpgrade Class Reference",
+  "fetched_at": "2026-09-11T06:16:19Z",
+  "sha256": "0aea08ae11a5900874105c25ab9ba28f818d97545bcac24b8e6baf17596e9dae",
+  "bytes": 15815,
+  "content_type": "text/html",
+  "raw": "docs/raw/bbc915de6ac39c9239a9.html",
+  "markdown": "docs/pages/bbc915de6ac39c9239a9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_upgraded_gift_origin.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_prepaid_upgrade-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgraded_gift_origin_prepaid_upgrade.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

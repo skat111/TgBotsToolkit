@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateSentPhoneCode",
+  "final_url": "https://core.telegram.org/constructor/updateSentPhoneCode",
+  "title": "updateSentPhoneCode",
+  "fetched_at": "2026-09-11T06:08:06Z",
+  "sha256": "f47ed0e2e89f72902cdd6eccccb13aede966705252573958d9c584a87ab45dac",
+  "bytes": 14366,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/aa9883d6635a9c90e0bc.html",
+  "markdown": "docs/pages/aa9883d6635a9c90e0bc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateSentPhoneCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/auth.SentCode"
+  ]
+}

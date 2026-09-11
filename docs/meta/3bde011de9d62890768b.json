@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/messages.ChatFull",
+  "final_url": "https://core.telegram.org/type/messages.ChatFull",
+  "title": "messages.ChatFull",
+  "fetched_at": "2026-09-11T06:17:16Z",
+  "sha256": "9a196dd7786a2a2b14070ec94cfd3979fc1b0c2ebf21f92fed37b09e9a3bb752",
+  "bytes": 16208,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3bde011de9d62890768b.html",
+  "markdown": "docs/pages/3bde011de9d62890768b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.chatFull",
+    "https://core.telegram.org/method/channels.getFullChannel",
+    "https://core.telegram.org/method/messages.getFullChat",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/ChatFull",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.ChatFull"
+  ]
+}

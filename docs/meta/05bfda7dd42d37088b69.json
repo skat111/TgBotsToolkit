@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_posted_to_chat_page_stories.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_posted_to_chat_page_stories.html",
+  "title": "TDLib: getChatPostedToChatPageStories Class Reference",
+  "fetched_at": "2026-09-11T06:14:09Z",
+  "sha256": "076ad6b3cad5d712a88b62fc57fcee2cb7449cbdfa66f3c53dd2030cb7142a5b",
+  "bytes": 23396,
+  "content_type": "text/html",
+  "raw": "docs/raw/05bfda7dd42d37088b69.html",
+  "markdown": "docs/pages/05bfda7dd42d37088b69.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_posted_to_chat_page_stories-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_posted_to_chat_page_stories.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1stories.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

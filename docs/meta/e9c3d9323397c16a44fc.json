@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1proxy_type_mtproto.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1proxy_type_mtproto.html",
+  "title": "TDLib: proxyTypeMtproto Class Reference",
+  "fetched_at": "2026-09-11T06:15:15Z",
+  "sha256": "de4ba77d5fe4c66e366ab3ffdb0f15df90eec3fafb7d317c5abfb6820a481e6d",
+  "bytes": 18169,
+  "content_type": "text/html",
+  "raw": "docs/raw/e9c3d9323397c16a44fc.html",
+  "markdown": "docs/pages/e9c3d9323397c16a44fc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_proxy_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1proxy_type_mtproto-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1proxy_type_mtproto.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

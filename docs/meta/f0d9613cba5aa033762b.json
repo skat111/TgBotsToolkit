@@ -1,0 +1,15 @@
+{
+  "url": "https://core.telegram.org/myapp",
+  "final_url": "https://my.telegram.org/auth?to=apps",
+  "title": "Authorization",
+  "fetched_at": "2026-09-11T06:11:47Z",
+  "sha256": "293c68e73e60fb005012d67bdf8659c9b506c6aa5c6c5b1e7bf7cda2028d68a4",
+  "bytes": 5471,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f0d9613cba5aa033762b.html",
+  "markdown": "docs/pages/f0d9613cba5aa033762b.md",
+  "links": [
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/passport",
+  "final_url": "https://core.telegram.org/passport",
+  "title": "Telegram Passport Manual",
+  "fetched_at": "2026-09-11T06:04:37Z",
+  "sha256": "87e4f6831c207ce282c03d8543de3bb861545398def6d84200b3dd8acc43fe4f",
+  "bytes": 35386,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5a3f6dc123e57b335c97.html",
+  "markdown": "docs/pages/5a3f6dc123e57b335c97.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/passport",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/passport/example",
+    "https://core.telegram.org/passport/sdk-android",
+    "https://core.telegram.org/passport/sdk-ios-mac",
+    "https://core.telegram.org/passport/sdk-javascript",
+    "https://core.telegram.org/schema"
+  ]
+}

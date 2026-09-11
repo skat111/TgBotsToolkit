@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionTopicEdit",
+  "final_url": "https://core.telegram.org/constructor/messageActionTopicEdit",
+  "title": "messageActionTopicEdit",
+  "fetched_at": "2026-09-11T06:06:51Z",
+  "sha256": "0c38f90cfe96344f255be6d86fb8223e7e65dec0233081e3a0b45bed3eade278",
+  "bytes": 16095,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/38fe72313fc33e6768e1.html",
+  "markdown": "docs/pages/38fe72313fc33e6768e1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/custom-emoji",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionTopicEdit",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/MessageAction",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

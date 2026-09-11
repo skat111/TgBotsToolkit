@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_parse_mode.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_parse_mode.html",
+  "title": "TDLib: TextParseMode Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "afa770d949d75139f0fb93175343c79dd9ceb8cee6b97f673ffc5c3d1b0a6fdb",
+  "bytes": 12481,
+  "content_type": "text/html",
+  "raw": "docs/raw/a75870c77d5b865f2895.html",
+  "markdown": "docs/pages/a75870c77d5b865f2895.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_parse_mode-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_text_parse_mode.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_parse_mode_h_t_m_l.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text_parse_mode_markdown.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

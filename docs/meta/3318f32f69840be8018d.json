@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/sendAsPeer",
+  "final_url": "https://core.telegram.org/constructor/sendAsPeer",
+  "title": "sendAsPeer",
+  "fetched_at": "2026-09-11T06:07:35Z",
+  "sha256": "a9b6dc6bd52999af9de662d1388f9e20e04fcc1903892c8fca5b87e1f971ce0c",
+  "bytes": 14658,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3318f32f69840be8018d.html",
+  "markdown": "docs/pages/3318f32f69840be8018d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/sendAsPeer",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/SendAsPeer"
+  ]
+}

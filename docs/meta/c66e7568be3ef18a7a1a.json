@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateGeoLiveViewed",
+  "final_url": "https://core.telegram.org/constructor/updateGeoLiveViewed",
+  "title": "updateGeoLiveViewed",
+  "fetched_at": "2026-09-11T06:07:59Z",
+  "sha256": "2663ab618b63e35bd7821b88edb36f6ebb525703c56414bdfddc5a5b4d470ac9",
+  "bytes": 14337,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c66e7568be3ef18a7a1a.html",
+  "markdown": "docs/pages/c66e7568be3ef18a7a1a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateGeoLiveViewed",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int"
+  ]
+}

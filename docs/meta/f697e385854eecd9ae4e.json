@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/messages.AffectedMessages",
+  "final_url": "https://core.telegram.org/type/messages.AffectedMessages",
+  "title": "Messages.AffectedMessages",
+  "fetched_at": "2026-09-11T06:17:15Z",
+  "sha256": "f09820744e492a19fef20980e045a29d8f586e67ba01a1796e022011be36a398",
+  "bytes": 16190,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f697e385854eecd9ae4e.html",
+  "markdown": "docs/pages/f697e385854eecd9ae4e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.affectedMessages",
+    "https://core.telegram.org/constructor/updateReadMessagesContents",
+    "https://core.telegram.org/method/channels.deleteMessages",
+    "https://core.telegram.org/method/messages.deleteMessages",
+    "https://core.telegram.org/method/messages.readHistory",
+    "https://core.telegram.org/method/messages.readMessageContents",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.AffectedMessages"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/help.recentMeUrls",
+  "final_url": "https://core.telegram.org/constructor/help.recentMeUrls",
+  "title": "help.recentMeUrls",
+  "fetched_at": "2026-09-11T06:06:11Z",
+  "sha256": "e784b0983afdb232d2ca55ac7d0a2281e0c738a96fc0dbcb02d7393a6a727043",
+  "bytes": 14713,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/06b01098c53179ed8c16.html",
+  "markdown": "docs/pages/06b01098c53179ed8c16.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.recentMeUrls",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/RecentMeUrl",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.RecentMeUrls"
+  ]
+}

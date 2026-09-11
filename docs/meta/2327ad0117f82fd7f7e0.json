@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/InputChatTheme",
+  "final_url": "https://core.telegram.org/type/InputChatTheme",
+  "title": "InputChatTheme",
+  "fetched_at": "2026-09-11T06:17:02Z",
+  "sha256": "97e92215e7764c9a113a273dee5998a50b8fe83f503276f896c7bdcfc9784040",
+  "bytes": 15216,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2327ad0117f82fd7f7e0.html",
+  "markdown": "docs/pages/2327ad0117f82fd7f7e0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/themes",
+    "https://core.telegram.org/constructor/inputChatTheme",
+    "https://core.telegram.org/constructor/inputChatThemeEmpty",
+    "https://core.telegram.org/constructor/inputChatThemeUniqueGift",
+    "https://core.telegram.org/method/account.getChatThemes",
+    "https://core.telegram.org/method/account.getUniqueGiftChatThemes",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputChatTheme",
+    "https://core.telegram.org/type/string"
+  ]
+}

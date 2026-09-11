@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteDelete",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteDelete",
+  "title": "channelAdminLogEventActionExportedInviteDelete",
+  "fetched_at": "2026-09-11T06:05:45Z",
+  "sha256": "c1849ae106d90119c4d5fb8a381826521a080fc216ee87c57ba469d4fc3f9292",
+  "bytes": 14430,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c256a7818be1e1dd3087.html",
+  "markdown": "docs/pages/c256a7818be1e1dd3087.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionExportedInviteDelete",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction",
+    "https://core.telegram.org/type/ExportedChatInvite"
+  ]
+}

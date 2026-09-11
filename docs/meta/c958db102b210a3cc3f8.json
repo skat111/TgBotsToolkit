@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/messages.clickSponsoredMessage",
+  "final_url": "https://core.telegram.org/method/messages.clickSponsoredMessage",
+  "title": "messages.clickSponsoredMessage",
+  "fetched_at": "2026-09-11T06:09:50Z",
+  "sha256": "865e23ecc1b30b56b3b371fcbbbc4b877a83c4f00cba9ea51735cbc8a2859328",
+  "bytes": 16454,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c958db102b210a3cc3f8.html",
+  "markdown": "docs/pages/c958db102b210a3cc3f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/sponsored-messages",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/messages.clickSponsoredMessage",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

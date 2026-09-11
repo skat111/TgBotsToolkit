@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_effect.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_effect.html",
+  "title": "TDLib: messageEffect Class Reference",
+  "fetched_at": "2026-09-11T06:14:50Z",
+  "sha256": "941c4f387360a9578c2a7722065f6c6be92aa1d860828aa14ccc94421fb9a4b3",
+  "bytes": 23641,
+  "content_type": "text/html",
+  "raw": "docs/raw/c96975e2e82beaf0652a.html",
+  "markdown": "docs/pages/c96975e2e82beaf0652a.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_effect_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_effect-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_effect.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

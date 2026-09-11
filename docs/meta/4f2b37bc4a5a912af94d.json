@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/e2e.chain.SharedKey",
+  "final_url": "https://core.telegram.org/type/e2e.chain.SharedKey",
+  "title": "E2e.chain.SharedKey",
+  "fetched_at": "2026-09-11T06:17:14Z",
+  "sha256": "d6c0bfd787b7259e9eca26f96e87f3e4b26025ab7b2a333dd2041ad1184b1c34",
+  "bytes": 6627,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4f2b37bc4a5a912af94d.html",
+  "markdown": "docs/pages/4f2b37bc4a5a912af94d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/end-to-end/group-calls",
+    "https://core.telegram.org/constructor/e2e.chain.sharedKey",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/e2e.chain.SharedKey",
+    "https://core.telegram.org/type/int256",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

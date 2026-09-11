@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/account.emailVerified",
+  "final_url": "https://core.telegram.org/constructor/account.emailVerified",
+  "title": "account.emailVerified",
+  "fetched_at": "2026-09-11T06:05:15Z",
+  "sha256": "1be26608afd9e00fbb4a99e413fc2b5ea2a96f12447a0a0488c11c2a2cecfdc2",
+  "bytes": 14212,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5c38a408661a27def197.html",
+  "markdown": "docs/pages/5c38a408661a27def197.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.emailVerified",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/account.EmailVerified",
+    "https://core.telegram.org/type/string"
+  ]
+}

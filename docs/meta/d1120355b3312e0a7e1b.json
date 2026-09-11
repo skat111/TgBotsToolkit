@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_password.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_password.html",
+  "title": "TDLib: checkAuthenticationPassword Class Reference",
+  "fetched_at": "2026-09-11T06:13:48Z",
+  "sha256": "2a4080975f16e1bb0a3c22c84190b9bf9598bcc2974d5e83cf1e104bd913fed5",
+  "bytes": 20142,
+  "content_type": "text/html",
+  "raw": "docs/raw/d1120355b3312e0a7e1b.html",
+  "markdown": "docs/pages/d1120355b3312e0a7e1b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_password.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_password-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1check_authentication_password.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

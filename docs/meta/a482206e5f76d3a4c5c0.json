@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateStoriesStealthMode",
+  "final_url": "https://core.telegram.org/constructor/updateStoriesStealthMode",
+  "title": "updateStoriesStealthMode",
+  "fetched_at": "2026-09-11T06:08:07Z",
+  "sha256": "d3c26759d61d189c289938de70c62223ea03c5f2e0dc83a25660dd88d763ac1d",
+  "bytes": 14784,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a482206e5f76d3a4c5c0.html",
+  "markdown": "docs/pages/a482206e5f76d3a4c5c0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/updateStoriesStealthMode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StoriesStealthMode",
+    "https://core.telegram.org/type/Update"
+  ]
+}

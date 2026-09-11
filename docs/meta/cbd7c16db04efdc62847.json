@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/BotMenuButton",
+  "final_url": "https://core.telegram.org/type/BotMenuButton",
+  "title": "BotMenuButton",
+  "fetched_at": "2026-09-11T06:11:52Z",
+  "sha256": "f4d744bb32828f51d55979fd1e8e978f3997a1ebb9b7dd19dda047ab5772be00",
+  "bytes": 15688,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cbd7c16db04efdc62847.html",
+  "markdown": "docs/pages/cbd7c16db04efdc62847.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/menu",
+    "https://core.telegram.org/api/bots/webapps",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/botInfo",
+    "https://core.telegram.org/constructor/botMenuButton",
+    "https://core.telegram.org/constructor/botMenuButtonCommands",
+    "https://core.telegram.org/constructor/botMenuButtonDefault",
+    "https://core.telegram.org/method/bots.getBotMenuButton",
+    "https://core.telegram.org/method/bots.setBotMenuButton",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/BotMenuButton",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/string"
+  ]
+}

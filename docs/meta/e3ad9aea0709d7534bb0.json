@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_close_friends-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_close_friends-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:14:13Z",
+  "sha256": "f681dc2bb64458407e8e555065ce6155d5e82c405e7b4908172698fd0c31db3f",
+  "bytes": 9774,
+  "content_type": "text/html",
+  "raw": "docs/raw/e3ad9aea0709d7534bb0.html",
+  "markdown": "docs/pages/e3ad9aea0709d7534bb0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_close_friends.html"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/method/account.resolveBusinessChatLink",
+  "final_url": "https://core.telegram.org/method/account.resolveBusinessChatLink",
+  "title": "account.resolveBusinessChatLink",
+  "fetched_at": "2026-09-11T06:08:50Z",
+  "sha256": "e742f506158efa3cd31344e372b59d39068afc7ea2a4241719f926b9c0486741",
+  "bytes": 16624,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/7dcacda6cfcc03e4d7bb.html",
+  "markdown": "docs/pages/7dcacda6cfcc03e4d7bb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/account.resolvedBusinessChatLinks",
+    "https://core.telegram.org/method/account.resolveBusinessChatLink",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.ResolvedBusinessChatLinks",
+    "https://core.telegram.org/type/string"
+  ]
+}

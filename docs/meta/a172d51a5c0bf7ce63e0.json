@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/payments.getStarsTopupOptions",
+  "final_url": "https://core.telegram.org/method/payments.getStarsTopupOptions",
+  "title": "payments.getStarsTopupOptions",
+  "fetched_at": "2026-09-11T06:10:51Z",
+  "sha256": "529b710b0a7d45a7c43dfb26d5d24b41e68e990dc09193c487fb34326e27af1b",
+  "bytes": 15277,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a172d51a5c0bf7ce63e0.html",
+  "markdown": "docs/pages/a172d51a5c0bf7ce63e0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/constructor/starsTopupOption",
+    "https://core.telegram.org/method/payments.getStarsTopupOptions",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/StarsTopupOption",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/mtproto/TL",
+  "final_url": "https://core.telegram.org/mtproto/TL",
+  "title": "﻿TL Language",
+  "fetched_at": "2026-09-11T06:11:40Z",
+  "sha256": "0fa81674ccfac87a69696a3295d695614420e801b85815785a13db87f7129bbb",
+  "bytes": 12798,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/297a3b82d1cf619c87d6.html",
+  "markdown": "docs/pages/297a3b82d1cf619c87d6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL",
+    "https://core.telegram.org/mtproto/TL-abstract-types",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/mtproto/TL-dependent",
+    "https://core.telegram.org/mtproto/TL-formal",
+    "https://core.telegram.org/mtproto/TL-optargs",
+    "https://core.telegram.org/mtproto/TL-patterns",
+    "https://core.telegram.org/mtproto/TL-polymorph",
+    "https://core.telegram.org/mtproto/TL-tl",
+    "https://core.telegram.org/mtproto/TL-types",
+    "https://core.telegram.org/mtproto/serialize",
+    "https://core.telegram.org/schema"
+  ]
+}

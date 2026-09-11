@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotShippingQuery",
+  "final_url": "https://core.telegram.org/constructor/updateBotShippingQuery",
+  "title": "updateBotShippingQuery",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "866f03becf84ad05d60c18d7951e85716c11ed01643618c99657be8e652fe2de",
+  "bytes": 14872,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ef121ce8dd449cec78cc.html",
+  "markdown": "docs/pages/ef121ce8dd449cec78cc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateBotShippingQuery",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PostAddress",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

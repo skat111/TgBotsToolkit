@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/pendingSuggestion",
+  "final_url": "https://core.telegram.org/constructor/pendingSuggestion",
+  "title": "pendingSuggestion",
+  "fetched_at": "2026-09-11T06:07:18Z",
+  "sha256": "2d29b07ae208682ce8ec324bea72b178ce090f9afb45f36fd4141d7a8ea43bfa",
+  "bytes": 15751,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0aa5ecadcc178477cb97.html",
+  "markdown": "docs/pages/0aa5ecadcc178477cb97.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/pendingSuggestion",
+    "https://core.telegram.org/method/help.dismissSuggestion",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/PendingSuggestion",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/string"
+  ]
+}

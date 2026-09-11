@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/constructor/chatBannedRights",
+  "final_url": "https://core.telegram.org/constructor/chatBannedRights",
+  "title": "chatBannedRights",
+  "fetched_at": "2026-09-11T06:05:51Z",
+  "sha256": "0abce85f4546708c1af916ee448f8824c1e56234168a802a78f30766d4e5f819",
+  "bytes": 23077,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6462bda391c316b444f8.html",
+  "markdown": "docs/pages/6462bda391c316b444f8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/rank",
+    "https://core.telegram.org/constructor/chatBannedRights",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/ChatBannedRights",
+    "https://core.telegram.org/type/int"
+  ]
+}

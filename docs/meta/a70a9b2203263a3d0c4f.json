@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/chatlists.getLeaveChatlistSuggestions",
+  "final_url": "https://core.telegram.org/method/chatlists.getLeaveChatlistSuggestions",
+  "title": "chatlists.getLeaveChatlistSuggestions",
+  "fetched_at": "2026-09-11T06:09:32Z",
+  "sha256": "0162f214d1ac836c5e0b9205785b6b5fea9f2255f2dbec0ae81a93948bd7876e",
+  "bytes": 15983,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a70a9b2203263a3d0c4f.html",
+  "markdown": "docs/pages/a70a9b2203263a3d0c4f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/method/chatlists.getLeaveChatlistSuggestions",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputChatlist",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

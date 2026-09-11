@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelParticipantsBanned",
+  "final_url": "https://core.telegram.org/constructor/channelParticipantsBanned",
+  "title": "channelParticipantsBanned",
+  "fetched_at": "2026-09-11T06:05:50Z",
+  "sha256": "39f6dd294addf3a205867fcd72b5633013995a901187758f2aaf413cd65a37ac",
+  "bytes": 14288,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/0b9b8bea4e9f6fbdd633.html",
+  "markdown": "docs/pages/0b9b8bea4e9f6fbdd633.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelParticipantsBanned",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ChannelParticipantsFilter",
+    "https://core.telegram.org/type/string"
+  ]
+}

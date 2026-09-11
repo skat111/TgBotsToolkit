@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotPrecheckoutQuery",
+  "final_url": "https://core.telegram.org/constructor/updateBotPrecheckoutQuery",
+  "title": "updateBotPrecheckoutQuery",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "c20aa90a7dc8ae1c2b627808209e396b303c958deb8aaa0ce3079cadd176e1cf",
+  "bytes": 17086,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/eeafcd459cd58315562e.html",
+  "markdown": "docs/pages/eeafcd459cd58315562e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/updateBotPrecheckoutQuery",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/PaymentRequestedInfo",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

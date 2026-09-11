@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/bots/payments-stars",
+  "final_url": "https://core.telegram.org/bots/payments-stars",
+  "title": "Bot Payments API for Digital Goods and Services",
+  "fetched_at": "2026-09-11T06:05:29Z",
+  "sha256": "c30f1fd6961412a283bbc7047fcb5f01057656b9d728cadde7f1556cb10c11bb",
+  "bytes": 28534,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4d5f46dd714b23432758.html",
+  "markdown": "docs/pages/4d5f46dd714b23432758.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/payments",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/faq",
+    "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/bots/inline",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments-stars",
+    "https://core.telegram.org/file/400780400275/2/HQirxDLbG6U.97714.webp/1111a1121d9b762448",
+    "https://core.telegram.org/file/400780400418/1/NMQCu-wgDpo.397006/5304141797eccc38c4",
+    "https://core.telegram.org/file/464001162/3/C2wdLOXaMA0.97425/32091afe52ef0e59f2",
+    "https://core.telegram.org/file/464001285/4/UBRF1ViiEOU.106159/0bbcdcb7f5af77a782",
+    "https://core.telegram.org/file/464001648/1/1-P1Pb7TusA.105628/b9cb2cf4c7427302c0",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

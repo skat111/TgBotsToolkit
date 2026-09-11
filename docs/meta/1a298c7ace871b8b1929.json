@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/constructor/updateChannelReadMessagesContents",
+  "final_url": "https://core.telegram.org/constructor/updateChannelReadMessagesContents",
+  "title": "updateChannelReadMessagesContents",
+  "fetched_at": "2026-09-11T06:07:55Z",
+  "sha256": "b7d61107530821ab3e56ecb4d42486b585fa91e0e7efe740f376442a988f2749",
+  "bytes": 17544,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1a298c7ace871b8b1929.html",
+  "markdown": "docs/pages/1a298c7ace871b8b1929.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/monoforum",
+    "https://core.telegram.org/constructor/updateChannelReadMessagesContents",
+    "https://core.telegram.org/method/channels.readMessageContents",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

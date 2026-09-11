@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/chatlists.ChatlistInvite",
+  "final_url": "https://core.telegram.org/type/chatlists.ChatlistInvite",
+  "title": "chatlists.ChatlistInvite",
+  "fetched_at": "2026-09-11T06:17:13Z",
+  "sha256": "2b00fce0ba229076757e171a3b1d27c60278bf5dc94c3f1ce99f5f90b9353fcc",
+  "bytes": 16473,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d1d46e9b000c48ff09b0.html",
+  "markdown": "docs/pages/d1d46e9b000c48ff09b0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/chatlists.chatlistInvite",
+    "https://core.telegram.org/constructor/chatlists.chatlistInviteAlready",
+    "https://core.telegram.org/method/chatlists.checkChatlistInvite",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/TextWithEntities",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/chatlists.ChatlistInvite",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/updateLoginToken",
+  "final_url": "https://core.telegram.org/constructor/updateLoginToken",
+  "title": "updateLoginToken",
+  "fetched_at": "2026-09-11T06:08:00Z",
+  "sha256": "3789311f5649f2a5748c5c8b8b2279a5db0120e294d2560518136e6c0a0e1142",
+  "bytes": 13883,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/19b0cb67e0d9ca74ca24.html",
+  "markdown": "docs/pages/19b0cb67e0d9ca74ca24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateLoginToken",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

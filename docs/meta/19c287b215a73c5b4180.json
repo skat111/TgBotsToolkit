@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/messages.SponsoredMessages",
+  "final_url": "https://core.telegram.org/type/messages.SponsoredMessages",
+  "title": "messages.SponsoredMessages",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "b81e4c3725c8b9d1f00bb651bd6517432b42cc1ea55cd2a6461f56a4df06a6b0",
+  "bytes": 15769,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/19c287b215a73c5b4180.html",
+  "markdown": "docs/pages/19c287b215a73c5b4180.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/sponsored-messages",
+    "https://core.telegram.org/constructor/messages.sponsoredMessages",
+    "https://core.telegram.org/constructor/messages.sponsoredMessagesEmpty",
+    "https://core.telegram.org/method/messages.getSponsoredMessages",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/SponsoredMessage",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/messages.SponsoredMessages"
+  ]
+}

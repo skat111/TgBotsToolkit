@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.transcribedAudio",
+  "final_url": "https://core.telegram.org/constructor/messages.transcribedAudio",
+  "title": "messages.transcribedAudio",
+  "fetched_at": "2026-09-11T06:07:05Z",
+  "sha256": "90a990e1b5a8da9000e3c013a3c62e0705e4e529a855c9aa9c8225bc28b2291b",
+  "bytes": 17558,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/89890bde69075197340e.html",
+  "markdown": "docs/pages/89890bde69075197340e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/api/transcribe",
+    "https://core.telegram.org/constructor/messages.transcribedAudio",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/constructor/updateTranscribedAudio",
+    "https://core.telegram.org/method/messages.transcribeAudio",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.TranscribedAudio",
+    "https://core.telegram.org/type/string"
+  ]
+}

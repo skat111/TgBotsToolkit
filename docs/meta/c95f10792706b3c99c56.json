@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updateAttachMenuBots",
+  "final_url": "https://core.telegram.org/constructor/updateAttachMenuBots",
+  "title": "updateAttachMenuBots",
+  "fetched_at": "2026-09-11T06:07:52Z",
+  "sha256": "a761e74f9844682631f971693aeae828a0611107d9de75a772c73c9065af0305",
+  "bytes": 15044,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c95f10792706b3c99c56.html",
+  "markdown": "docs/pages/c95f10792706b3c99c56.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/attach",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateAttachMenuBots",
+    "https://core.telegram.org/method/messages.getAttachMenuBots",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

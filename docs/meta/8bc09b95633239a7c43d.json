@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/aicompose.saveTone",
+  "final_url": "https://core.telegram.org/method/aicompose.saveTone",
+  "title": "aicompose.saveTone",
+  "fetched_at": "2026-09-11T06:09:02Z",
+  "sha256": "71dbfce207349a65fa379f6ec7f3409e6633fac19904b14c973ec9e5ef48c8f4",
+  "bytes": 16812,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/8bc09b95633239a7c43d.html",
+  "markdown": "docs/pages/8bc09b95633239a7c43d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/ai",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/method/aicompose.saveTone",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputAiComposeTone"
+  ]
+}

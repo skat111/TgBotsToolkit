@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/help.acceptTermsOfService",
+  "final_url": "https://core.telegram.org/method/help.acceptTermsOfService",
+  "title": "help.acceptTermsOfService",
+  "fetched_at": "2026-09-11T06:09:39Z",
+  "sha256": "13d89c516e179196d152e62c9d3f06b7c3f84372a4b59ad2fece582bf52b2d4e",
+  "bytes": 14929,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9826da04fedef2e96ad2.html",
+  "markdown": "docs/pages/9826da04fedef2e96ad2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/help.acceptTermsOfService",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/DataJSON"
+  ]
+}

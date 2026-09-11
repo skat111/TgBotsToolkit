@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html",
+  "title": "TDLib: addLogMessage Class Reference",
+  "fetched_at": "2026-09-11T06:13:19Z",
+  "sha256": "700241f42bfbf3e99b7db6fb9ed727f2cd1bdbbdf071982bbcac72341b2c7754",
+  "bytes": 20587,
+  "content_type": "text/html",
+  "raw": "docs/raw/f0a410aca02ffdcad11f.html",
+  "markdown": "docs/pages/f0a410aca02ffdcad11f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

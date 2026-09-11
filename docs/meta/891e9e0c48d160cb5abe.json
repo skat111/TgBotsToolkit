@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/constructor/updateBotStopped",
+  "final_url": "https://core.telegram.org/constructor/updateBotStopped",
+  "title": "updateBotStopped",
+  "fetched_at": "2026-09-11T06:07:54Z",
+  "sha256": "4460eed8aa940220bc04fc68615c54cee320126478f7f5b5884e5d1961abd584",
+  "bytes": 15095,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/891e9e0c48d160cb5abe.html",
+  "markdown": "docs/pages/891e9e0c48d160cb5abe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/constructor/updateBotStopped",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

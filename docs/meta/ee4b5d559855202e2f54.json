@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/type/premium.BoostsStatus",
+  "final_url": "https://core.telegram.org/type/premium.BoostsStatus",
+  "title": "Premium.BoostsStatus",
+  "fetched_at": "2026-09-11T06:17:20Z",
+  "sha256": "a419ac8add7f0ece77c6d642fcaffb66999076353c033d19e89b058a371f207e",
+  "bytes": 15878,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ee4b5d559855202e2f54.html",
+  "markdown": "docs/pages/ee4b5d559855202e2f54.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/premium.boostsStatus",
+    "https://core.telegram.org/method/premium.getBoostsStatus",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/PrepaidGiveaway",
+    "https://core.telegram.org/type/StatsPercentValue",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/premium.BoostsStatus",
+    "https://core.telegram.org/type/string"
+  ]
+}

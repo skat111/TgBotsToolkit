@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/tdlib",
+  "final_url": "https://core.telegram.org/tdlib",
+  "title": "Telegram Database Library",
+  "fetched_at": "2026-09-11T06:04:38Z",
+  "sha256": "d0a0eb851b0b055206af3924f6166f7a7244d5592f698a128555f1c63205c8c3",
+  "bytes": 7915,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/19cdf01b14b16156b9f1.html",
+  "markdown": "docs/pages/19cdf01b14b16156b9f1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/file/811140459/1bdb/rl5NwUNbBzM.26909.gif/0ecbc461e020d4bc3a",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/",
+    "https://core.telegram.org/tdlib/getting-started",
+    "https://core.telegram.org/tdlib/notification-api/",
+    "https://core.telegram.org/tdlib/options"
+  ]
+}

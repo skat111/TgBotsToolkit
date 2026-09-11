@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_callback_game.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_callback_game.html",
+  "title": "TDLib: inlineKeyboardButtonTypeCallbackGame Class Reference",
+  "fetched_at": "2026-09-11T06:14:29Z",
+  "sha256": "aa6ed301351c8d5216a3417c2450977041f680a31f962b5045ba5c6107d1e94b",
+  "bytes": 16215,
+  "content_type": "text/html",
+  "raw": "docs/raw/a902f04d7429d7878307.html",
+  "markdown": "docs/pages/a902f04d7429d7878307.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_inline_keyboard_button_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_callback_game-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_callback_game.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_game.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

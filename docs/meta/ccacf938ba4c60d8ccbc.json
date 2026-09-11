@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites",
+  "final_url": "https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites",
+  "title": "channelAdminLogEventActionToggleInvites",
+  "fetched_at": "2026-09-11T06:05:48Z",
+  "sha256": "59c12faaf966b5e8dda6c471fdc4cda11a0e2bbf40ee985bb65f6f12dba462db",
+  "bytes": 14329,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/ccacf938ba4c60d8ccbc.html",
+  "markdown": "docs/pages/ccacf938ba4c60d8ccbc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/ChannelAdminLogEventAction"
+  ]
+}

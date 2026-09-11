@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/constructor/invoice",
+  "final_url": "https://core.telegram.org/constructor/invoice",
+  "title": "invoice",
+  "fetched_at": "2026-09-11T06:06:40Z",
+  "sha256": "fb1af119b5a7519cd4d5a7d9bddec4f7c2011a40c2ab20bc0407d72a9478a61f",
+  "bytes": 20318,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/f44f124150bffd59a47f.html",
+  "markdown": "docs/pages/f44f124150bffd59a47f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stars",
+    "https://core.telegram.org/api/subscriptions",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/invoice",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Invoice",
+    "https://core.telegram.org/type/LabeledPrice",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

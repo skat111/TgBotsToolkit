@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_generation_start.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_generation_start.html",
+  "title": "TDLib: updateFileGenerationStart Class Reference",
+  "fetched_at": "2026-09-11T06:16:09Z",
+  "sha256": "1148973d35ebe4a38001ed44007876536b7ade40ea57ce76845e5690879c5d65",
+  "bytes": 24298,
+  "content_type": "text/html",
+  "raw": "docs/raw/197f8c149a793ac7cff0.html",
+  "markdown": "docs/pages/197f8c149a793ac7cff0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1finish_file_generation.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_generated.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_file_generation_progress.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_generation_start-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_generation_start.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1write_generated_file_part.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

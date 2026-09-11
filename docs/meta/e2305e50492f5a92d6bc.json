@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/account.updatePersonalChannel",
+  "final_url": "https://core.telegram.org/method/account.updatePersonalChannel",
+  "title": "account.updatePersonalChannel",
+  "fetched_at": "2026-09-11T06:08:58Z",
+  "sha256": "6023f9b720c784c75243cfdbad8fb0e976e9ac6d5bac544203a9b15a754cfba9",
+  "bytes": 17382,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2305e50492f5a92d6bc.html",
+  "markdown": "docs/pages/e2305e50492f5a92d6bc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/peers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/inputChannelEmpty",
+    "https://core.telegram.org/constructor/updateUser",
+    "https://core.telegram.org/constructor/updates",
+    "https://core.telegram.org/constructor/updatesCombined",
+    "https://core.telegram.org/constructor/user",
+    "https://core.telegram.org/constructor/userFull",
+    "https://core.telegram.org/method/account.updatePersonalChannel",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChannel"
+  ]
+}

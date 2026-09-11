@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/payments.connectedStarRefBots",
+  "final_url": "https://core.telegram.org/constructor/payments.connectedStarRefBots",
+  "title": "payments.connectedStarRefBots",
+  "fetched_at": "2026-09-11T06:07:13Z",
+  "sha256": "48612314cbc52bbd507d06ca2979cac27bb24a5984563b1d749c9726c6b69201",
+  "bytes": 15494,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e7c86ba1b6c9213346a0.html",
+  "markdown": "docs/pages/e7c86ba1b6c9213346a0.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/referrals",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/payments.connectedStarRefBots",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ConnectedBotStarRef",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/payments.ConnectedStarRefBots"
+  ]
+}

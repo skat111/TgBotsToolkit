@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/type/CdnPublicKey",
+  "final_url": "https://core.telegram.org/type/CdnPublicKey",
+  "title": "CdnPublicKey",
+  "fetched_at": "2026-09-11T06:16:25Z",
+  "sha256": "432a0058c5d085b92c0df9dc71a02782dcb8c37395346229a8ec377844ba43d6",
+  "bytes": 14553,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/976cf58c223dfa097e30.html",
+  "markdown": "docs/pages/976cf58c223dfa097e30.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/cdn",
+    "https://core.telegram.org/constructor/cdnPublicKey",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/CdnPublicKey",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/string"
+  ]
+}

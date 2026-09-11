@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/updatePeerSettings",
+  "final_url": "https://core.telegram.org/constructor/updatePeerSettings",
+  "title": "updatePeerSettings",
+  "fetched_at": "2026-09-11T06:08:03Z",
+  "sha256": "c04a8b2af5031a9f36d8b1b6214e29361f54ff8cf449517d88afb980933e9a8f",
+  "bytes": 14341,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/94ad4e6c7fe53a9190a8.html",
+  "markdown": "docs/pages/94ad4e6c7fe53a9190a8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updatePeerSettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/PeerSettings",
+    "https://core.telegram.org/type/Update"
+  ]
+}

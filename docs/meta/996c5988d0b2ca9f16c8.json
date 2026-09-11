@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/type/ProfileTab",
+  "final_url": "https://core.telegram.org/type/ProfileTab",
+  "title": "ProfileTab",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "021d244e8de1330844ff2a3c4cf5168c618ee8e63686abdc74bdcecc1dd61954",
+  "bytes": 16303,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/996c5988d0b2ca9f16c8.html",
+  "markdown": "docs/pages/996c5988d0b2ca9f16c8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/gifts",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/profile",
+    "https://core.telegram.org/api/stories",
+    "https://core.telegram.org/constructor/profileTabFiles",
+    "https://core.telegram.org/constructor/profileTabGifs",
+    "https://core.telegram.org/constructor/profileTabGifts",
+    "https://core.telegram.org/constructor/profileTabLinks",
+    "https://core.telegram.org/constructor/profileTabMedia",
+    "https://core.telegram.org/constructor/profileTabMusic",
+    "https://core.telegram.org/constructor/profileTabPosts",
+    "https://core.telegram.org/constructor/profileTabVoice",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ProfileTab"
+  ]
+}

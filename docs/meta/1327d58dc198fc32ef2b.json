@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reply_markup_inline_keyboard.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reply_markup_inline_keyboard.html",
+  "title": "TDLib: replyMarkupInlineKeyboard Class Reference",
+  "fetched_at": "2026-09-11T06:15:22Z",
+  "sha256": "3c1347a4d68aaf0bc41b8e440ad6f25cd752fc70beee624277e9c18335007391",
+  "bytes": 19237,
+  "content_type": "text/html",
+  "raw": "docs/raw/1327d58dc198fc32ef2b.html",
+  "markdown": "docs/pages/1327d58dc198fc32ef2b.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_reply_markup.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reply_markup_inline_keyboard-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reply_markup_inline_keyboard.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

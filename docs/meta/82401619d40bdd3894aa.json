@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.addChatUser",
+  "final_url": "https://core.telegram.org/method/messages.addChatUser",
+  "title": "messages.addChatUser",
+  "fetched_at": "2026-09-11T06:09:47Z",
+  "sha256": "c62b0f3acdfe64111cd2a5abfa88db4f4b3a874f496a3cfe3e2bd7031c2fc3f8",
+  "bytes": 17007,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/82401619d40bdd3894aa.html",
+  "markdown": "docs/pages/82401619d40bdd3894aa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.invitedUsers",
+    "https://core.telegram.org/method/messages.addChatUser",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/MissingInvitee",
+    "https://core.telegram.org/type/Updates",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.InvitedUsers"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/notifyForumTopic",
+  "final_url": "https://core.telegram.org/constructor/notifyForumTopic",
+  "title": "notifyForumTopic",
+  "fetched_at": "2026-09-11T06:07:07Z",
+  "sha256": "8dfdd300945efbf1f6b536c1415f7bddbe7e2c82c91212b4638b1e9d8973209f",
+  "bytes": 14777,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a8c1821a6716ac6b94fd.html",
+  "markdown": "docs/pages/a8c1821a6716ac6b94fd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/forum",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/notifyForumTopic",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/NotifyPeer",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/int"
+  ]
+}

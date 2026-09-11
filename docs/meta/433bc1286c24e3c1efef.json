@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/chatInvitePublicJoinRequests",
+  "final_url": "https://core.telegram.org/constructor/chatInvitePublicJoinRequests",
+  "title": "chatInvitePublicJoinRequests",
+  "fetched_at": "2026-09-11T06:05:52Z",
+  "sha256": "22a7e7c06f1b450933afa052ea1ae2a71a8867e81250b75bbe10f54b278186e8",
+  "bytes": 14698,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/433bc1286c24e3c1efef.html",
+  "markdown": "docs/pages/433bc1286c24e3c1efef.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/discussion",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/chatInvitePublicJoinRequests",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ExportedChatInvite"
+  ]
+}

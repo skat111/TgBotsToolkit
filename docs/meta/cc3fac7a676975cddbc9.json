@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/type/Vector%20t",
+  "final_url": "https://core.telegram.org/type/Vector%20t",
+  "title": "Vector t",
+  "fetched_at": "2026-09-11T06:17:11Z",
+  "sha256": "e8ff465846a6ab059749cb54b853c192b02c589c004ebf37d62659c5e8d47970",
+  "bytes": 13772,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/cc3fac7a676975cddbc9.html",
+  "markdown": "docs/pages/cc3fac7a676975cddbc9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/vector",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Vector%20t"
+  ]
+}

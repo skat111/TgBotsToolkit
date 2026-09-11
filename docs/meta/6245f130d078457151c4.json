@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list.html",
+  "title": "TDLib: StoryList Class Reference",
+  "fetched_at": "2026-09-11T06:13:17Z",
+  "sha256": "0c4f04d46f50d8d100af6ff45270b229196ec65b4d4e7f5d0c0c427b4d3f3f01",
+  "bytes": 12400,
+  "content_type": "text/html",
+  "raw": "docs/raw/6245f130d078457151c4.html",
+  "markdown": "docs/pages/6245f130d078457151c4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_list.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_list_archive.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_list_main.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

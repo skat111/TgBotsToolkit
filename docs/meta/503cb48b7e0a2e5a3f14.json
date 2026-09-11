@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/documentAttributeCustomEmoji",
+  "final_url": "https://core.telegram.org/constructor/documentAttributeCustomEmoji",
+  "title": "documentAttributeCustomEmoji",
+  "fetched_at": "2026-09-11T06:06:00Z",
+  "sha256": "e6048a1848161d5e0c70ceb19a478ae370a70a83ece15648e6c8e95e59456b70",
+  "bytes": 15406,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/503cb48b7e0a2e5a3f14.html",
+  "markdown": "docs/pages/503cb48b7e0a2e5a3f14.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/documentAttributeCustomEmoji",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/DocumentAttribute",
+    "https://core.telegram.org/type/InputStickerSet",
+    "https://core.telegram.org/type/string"
+  ]
+}

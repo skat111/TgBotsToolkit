@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_folder_default_icon_name.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_folder_default_icon_name.html",
+  "title": "TDLib: getChatFolderDefaultIconName Class Reference",
+  "fetched_at": "2026-09-11T06:14:08Z",
+  "sha256": "b85241f0c9c8d273340b52dbbebbcf222fa2ceae2cada1f6e373856450422242",
+  "bytes": 19978,
+  "content_type": "text/html",
+  "raw": "docs/raw/51a92b583f3455f393e7.html",
+  "markdown": "docs/pages/51a92b583f3455f393e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_folder.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_folder_icon.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_folder_default_icon_name-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_folder_default_icon_name.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

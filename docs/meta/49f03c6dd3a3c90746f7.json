@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/method/messages.getExportedChatInvite",
+  "final_url": "https://core.telegram.org/method/messages.getExportedChatInvite",
+  "title": "messages.getExportedChatInvite",
+  "fetched_at": "2026-09-11T06:10:07Z",
+  "sha256": "24633ff93e157977ad0706ddf07d17f2f460a5ff6ae737efc8e26c373b26a1d5",
+  "bytes": 16250,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/49f03c6dd3a3c90746f7.html",
+  "markdown": "docs/pages/49f03c6dd3a3c90746f7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.exportedChatInvite",
+    "https://core.telegram.org/constructor/messages.exportedChatInviteReplaced",
+    "https://core.telegram.org/method/messages.getExportedChatInvite",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ExportedChatInvite",
+    "https://core.telegram.org/type/InputPeer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/messages.ExportedChatInvite",
+    "https://core.telegram.org/type/string"
+  ]
+}

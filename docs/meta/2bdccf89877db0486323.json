@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/ConnectedBot",
+  "final_url": "https://core.telegram.org/type/ConnectedBot",
+  "title": "ConnectedBot",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "1cd5d2d339bbd2d714801e1d48414a539031860790162f2c0e7ab657baeba8d4",
+  "bytes": 14795,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2bdccf89877db0486323.html",
+  "markdown": "docs/pages/2bdccf89877db0486323.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/connectedBot",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/BusinessBotRecipients",
+    "https://core.telegram.org/type/BusinessBotRights",
+    "https://core.telegram.org/type/ConnectedBot",
+    "https://core.telegram.org/type/long"
+  ]
+}

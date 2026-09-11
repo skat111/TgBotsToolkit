@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_tdlib_parameters.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_tdlib_parameters.html",
+  "title": "TDLib: authorizationStateWaitTdlibParameters Class Reference",
+  "fetched_at": "2026-09-11T06:13:25Z",
+  "sha256": "ffa7e8411b02eae0f2f02cff72ee5b0f392edb307e4ae59886c128d571268579",
+  "bytes": 15982,
+  "content_type": "text/html",
+  "raw": "docs/raw/765f3eb7368fb1e49311.html",
+  "markdown": "docs/pages/765f3eb7368fb1e49311.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_authorization_state.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_tdlib_parameters-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_tdlib_parameters.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_tdlib_parameters.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

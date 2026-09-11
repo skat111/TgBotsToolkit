@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/type/ReactionNotificationsFrom",
+  "final_url": "https://core.telegram.org/type/ReactionNotificationsFrom",
+  "title": "ReactionNotificationsFrom",
+  "fetched_at": "2026-09-11T06:17:07Z",
+  "sha256": "977e5e74714103642c19371b3a323752a92c7ca318b1e20f4e2bda4b4552703d",
+  "bytes": 14419,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2ca6a441b9fcf8254b64.html",
+  "markdown": "docs/pages/2ca6a441b9fcf8254b64.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/reactionNotificationsFromAll",
+    "https://core.telegram.org/constructor/reactionNotificationsFromContacts",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ReactionNotificationsFrom"
+  ]
+}

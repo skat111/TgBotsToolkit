@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_mode_full_screen.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_mode_full_screen.html",
+  "title": "TDLib: webAppOpenModeFullScreen Class Reference",
+  "fetched_at": "2026-09-11T06:16:24Z",
+  "sha256": "79e75401e63352378e0e1296ae191e3c4d4894493553e7a05507c9c5d5bb3add",
+  "bytes": 15617,
+  "content_type": "text/html",
+  "raw": "docs/raw/ddd49def16d4842276bb.html",
+  "markdown": "docs/pages/ddd49def16d4842276bb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_web_app_open_mode.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_mode_full_screen-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_mode_full_screen.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

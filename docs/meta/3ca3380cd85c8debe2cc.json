@@ -1,0 +1,33 @@
+{
+  "url": "https://core.telegram.org/method/stats.getBroadcastStats",
+  "final_url": "https://core.telegram.org/method/stats.getBroadcastStats",
+  "title": "stats.getBroadcastStats",
+  "fetched_at": "2026-09-11T06:11:21Z",
+  "sha256": "b74e33665afc8b60e002cb60aa2c71de31a7ac2ed3bce1243a5b0fc47fbf2fff",
+  "bytes": 17834,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3ca3380cd85c8debe2cc.html",
+  "markdown": "docs/pages/3ca3380cd85c8debe2cc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/stats",
+    "https://core.telegram.org/constructor/stats.broadcastStats",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/method/stats.getBroadcastStats",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/PostInteractionCounters",
+    "https://core.telegram.org/type/StatsAbsValueAndPrev",
+    "https://core.telegram.org/type/StatsDateRangeDays",
+    "https://core.telegram.org/type/StatsGraph",
+    "https://core.telegram.org/type/StatsPercentValue",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/stats.BroadcastStats"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateEmojiGameInfo",
+  "final_url": "https://core.telegram.org/constructor/updateEmojiGameInfo",
+  "title": "updateEmojiGameInfo",
+  "fetched_at": "2026-09-11T06:07:59Z",
+  "sha256": "dc28009b6c632fb9c0ac6e7ac689b00bcae4cffba146b179e1988c9d9ddee529",
+  "bytes": 14149,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/757386b9167554a9374c.html",
+  "markdown": "docs/pages/757386b9167554a9374c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateEmojiGameInfo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/messages.EmojiGameInfo"
+  ]
+}

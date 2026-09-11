@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_stealth_mode.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_stealth_mode.html",
+  "title": "TDLib: premiumStoryFeatureStealthMode Class Reference",
+  "fetched_at": "2026-09-11T06:15:11Z",
+  "sha256": "cefa63720b9a512b68a623acc387e5e287a67459532bb22da6784d614d48f58e",
+  "bytes": 15732,
+  "content_type": "text/html",
+  "raw": "docs/raw/45dc3636a788a7fb43d1.html",
+  "markdown": "docs/pages/45dc3636a788a7fb43d1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_story_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_stealth_mode-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_story_feature_stealth_mode.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

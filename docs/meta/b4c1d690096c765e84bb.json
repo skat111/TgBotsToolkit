@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+  "final_url": "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+  "title": "auth.sentCodePaymentRequired",
+  "fetched_at": "2026-09-11T06:05:35Z",
+  "sha256": "c1558eae9e24b035b9d6d7a68da68002e32f4533ad493d25eed3ad9dd6f8f248",
+  "bytes": 17964,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b4c1d690096c765e84bb.html",
+  "markdown": "docs/pages/b4c1d690096c765e84bb.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/premium",
+    "https://core.telegram.org/bots/payments",
+    "https://core.telegram.org/bots/payments/currencies.json",
+    "https://core.telegram.org/constructor/auth.sentCodePaymentRequired",
+    "https://core.telegram.org/method/auth.signIn",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/auth.SentCode",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
+  ]
+}

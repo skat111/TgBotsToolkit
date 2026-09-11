@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/channels.updateUsername",
+  "final_url": "https://core.telegram.org/method/channels.updateUsername",
+  "title": "channels.updateUsername",
+  "fetched_at": "2026-09-11T06:09:31Z",
+  "sha256": "c5b5391c2bb4c9707fb8719acf6590fc08a8495a9c1d12743dff95aa60c3c1a2",
+  "bytes": 16346,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/dec4a942ea480d7e5a7e.html",
+  "markdown": "docs/pages/dec4a942ea480d7e5a7e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/channels.updateUsername",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputChannel",
+    "https://core.telegram.org/type/string"
+  ]
+}

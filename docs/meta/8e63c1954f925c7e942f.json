@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_service_notification.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_service_notification.html",
+  "title": "TDLib: updateServiceNotification Class Reference",
+  "fetched_at": "2026-09-11T06:16:16Z",
+  "sha256": "3495decb3063822c3a07a1f33a9d75155fb3199899a701c12c3d3c37e670f070",
+  "bytes": 20634,
+  "content_type": "text/html",
+  "raw": "docs/raw/8e63c1954f925c7e942f.html",
+  "markdown": "docs/pages/8e63c1954f925c7e942f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_log.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_content.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_service_notification-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_service_notification.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

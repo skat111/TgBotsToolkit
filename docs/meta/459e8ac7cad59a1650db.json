@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/messages.SentEncryptedMessage",
+  "final_url": "https://core.telegram.org/type/messages.SentEncryptedMessage",
+  "title": "Messages.SentEncryptedMessage",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "300c2a63c14839304e123126d507f5828937d8fa48d4b57a38d39f0206cf68a4",
+  "bytes": 16510,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/459e8ac7cad59a1650db.html",
+  "markdown": "docs/pages/459e8ac7cad59a1650db.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.sentEncryptedFile",
+    "https://core.telegram.org/constructor/messages.sentEncryptedMessage",
+    "https://core.telegram.org/method/messages.sendEncrypted",
+    "https://core.telegram.org/method/messages.sendEncryptedFile",
+    "https://core.telegram.org/method/messages.sendEncryptedService",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/EncryptedFile",
+    "https://core.telegram.org/type/InputEncryptedChat",
+    "https://core.telegram.org/type/InputEncryptedFile",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.SentEncryptedMessage"
+  ]
+}

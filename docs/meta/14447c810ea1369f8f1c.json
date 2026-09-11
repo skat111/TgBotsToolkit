@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/method/messages.readEncryptedHistory",
+  "final_url": "https://core.telegram.org/method/messages.readEncryptedHistory",
+  "title": "messages.readEncryptedHistory",
+  "fetched_at": "2026-09-11T06:10:19Z",
+  "sha256": "040777f36545e892229234faff428f2480842c16e75fe9b0bad0452a420d30e9",
+  "bytes": 15450,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/14447c810ea1369f8f1c.html",
+  "markdown": "docs/pages/14447c810ea1369f8f1c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/messages.readEncryptedHistory",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputEncryptedChat",
+    "https://core.telegram.org/type/int"
+  ]
+}

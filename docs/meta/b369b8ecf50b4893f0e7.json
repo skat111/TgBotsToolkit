@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionSuggestedPostRefund",
+  "final_url": "https://core.telegram.org/constructor/messageActionSuggestedPostRefund",
+  "title": "messageActionSuggestedPostRefund",
+  "fetched_at": "2026-09-11T06:06:50Z",
+  "sha256": "aa94cae129a621f80118055d1dbe6949a58621efb121ffd4759e0ba2581fe8ce",
+  "bytes": 16087,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b369b8ecf50b4893f0e7.html",
+  "markdown": "docs/pages/b369b8ecf50b4893f0e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/config",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/suggested-posts",
+    "https://core.telegram.org/constructor/messageActionSuggestedPostRefund",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MessageAction"
+  ]
+}

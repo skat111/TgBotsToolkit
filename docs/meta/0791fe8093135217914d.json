@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1time_zones.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1time_zones.html",
+  "title": "TDLib: timeZones Class Reference",
+  "fetched_at": "2026-09-11T06:16:00Z",
+  "sha256": "baf94b5247691c78a4165ffea4f33f698ad0c45f554963baff04d3fdd05a277d",
+  "bytes": 18526,
+  "content_type": "text/html",
+  "raw": "docs/raw/0791fe8093135217914d.html",
+  "markdown": "docs/pages/0791fe8093135217914d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1time_zone.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1time_zones-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1time_zones.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

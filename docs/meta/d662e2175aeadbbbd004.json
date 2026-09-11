@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/constructor/messageActionChatDeletePhoto",
+  "final_url": "https://core.telegram.org/constructor/messageActionChatDeletePhoto",
+  "title": "messageActionChatDeletePhoto",
+  "fetched_at": "2026-09-11T06:06:45Z",
+  "sha256": "a3f0506dff55acfa2ac7416311cec5fad451968a1a5073e104da16a71ba37675",
+  "bytes": 13925,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d662e2175aeadbbbd004.html",
+  "markdown": "docs/pages/d662e2175aeadbbbd004.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messageActionChatDeletePhoto",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/MessageAction"
+  ]
+}

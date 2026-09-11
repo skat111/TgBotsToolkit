@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_chat.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_chat.html",
+  "title": "TDLib: videoChat Class Reference",
+  "fetched_at": "2026-09-11T06:16:21Z",
+  "sha256": "267262ef56eadfaa190e83d842bb15b32a9e127fc1b4015ed44312d2a37a0c45",
+  "bytes": 21121,
+  "content_type": "text/html",
+  "raw": "docs/raw/30dd98416959903ea560.html",
+  "markdown": "docs/pages/30dd98416959903ea560.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_group_call.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_chat-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1video_chat.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

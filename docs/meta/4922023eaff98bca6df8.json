@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_live_story_is_active.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_live_story_is_active.html",
+  "title": "TDLib: canPostStoryResultLiveStoryIsActive Class Reference",
+  "fetched_at": "2026-09-11T06:13:32Z",
+  "sha256": "338f8fc0b5bb05b395fec5f2dd53e5b4ebb23196ec35d14efd7779cd454dda56",
+  "bytes": 18747,
+  "content_type": "text/html",
+  "raw": "docs/raw/4922023eaff98bca6df8.html",
+  "markdown": "docs/pages/4922023eaff98bca6df8.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_post_story_result.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_live_story_is_active-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_post_story_result_live_story_is_active.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

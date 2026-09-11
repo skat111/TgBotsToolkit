@@ -1,0 +1,29 @@
+# TDLib: Member List
+
+Source: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result-members.html
+
+This is the complete list of members for [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html), including all inherited members.
+
+|  |  |  |
+| --- | --- | --- |
+| [can\_be\_transferred\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a61d77a39136051d1703b32cdd4b32bf9) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [drop\_original\_details\_star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a3ce8702bae3ecc31cb97bf1b3d0d00cc) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [export\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a3bf59799a987de5b64e5328ac82e6eb1) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [gift\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a511cc9974aec48d6932c373e685b5a64) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#ac8ca971fe7ed0677d67b1507df9bcc5f) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) | static |
+| [is\_saved\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#aa7f5c63e5249440427c681c59d37ae70) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [next\_resale\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#ae1d8cbf4ae9f8ff69325c6084fb276b1) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [next\_transfer\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a929b0dd4716455e2e159bd870c0d6ba2) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#ac017d2d18b4840ffec9274cea86cd1d3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [operator=](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a8ae6deb8ded379f394672c85bafeb70b)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [received\_gift\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a72a6337f63c3440233cde975c5925c16) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a8044dab2ba3c75066745014259c050c7)(TlStorerToString &s, const char \*field\_name) const final | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) | virtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050)(TlStorerUnsafe &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [td::td\_api::Object::store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e)(TlStorerCalcLength &s) const | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | inlinevirtual |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aaf0b851a7d7420da4ccc5d3f875e33f3)(const TlObject &)=delete | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a767dd89c1cf0f6cd9cc776f36d5b1ece)(TlObject &&)=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |  |
+| [transfer\_star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a8e67c70357dc86120ba890190f34ae0f) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#a304a05fbb61d4de4123ead308f161a5c)() | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html#adf533a8c09f258958f2a704c58d45ab5)(object\_ptr< upgradedGift > &&gift\_, string const &received\_gift\_id\_, bool is\_saved\_, bool can\_be\_transferred\_, int53 transfer\_star\_count\_, int53 drop\_original\_details\_star\_count\_, int32 next\_transfer\_date\_, int32 next\_resale\_date\_, int32 export\_date\_) | [upgradeGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1upgrade_gift_result.html) |  |
+| [~TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#abfbd857b9bfdc4e3bf31b5d0476b7289)()=default | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | virtual |

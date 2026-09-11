@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/autoSaveException",
+  "final_url": "https://core.telegram.org/constructor/autoSaveException",
+  "title": "autoSaveException",
+  "fetched_at": "2026-09-11T06:05:36Z",
+  "sha256": "932454f070553f2a32f1471f5f3c8815c1031556ab66af030b4fe2940082f429",
+  "bytes": 14387,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6389fba18bf9b957167d.html",
+  "markdown": "docs/pages/6389fba18bf9b957167d.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/autoSaveException",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/AutoSaveException",
+    "https://core.telegram.org/type/AutoSaveSettings",
+    "https://core.telegram.org/type/Peer"
+  ]
+}

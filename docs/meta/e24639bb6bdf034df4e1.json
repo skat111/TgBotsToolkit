@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/auth.LoggedOut",
+  "final_url": "https://core.telegram.org/type/auth.LoggedOut",
+  "title": "auth.LoggedOut",
+  "fetched_at": "2026-09-11T06:17:12Z",
+  "sha256": "2f26340dd5bd952cb7de4b27319d218dc19051a2e773921c3c1e7a707ce13f3e",
+  "bytes": 15010,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e24639bb6bdf034df4e1.html",
+  "markdown": "docs/pages/e24639bb6bdf034df4e1.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/auth.loggedOut",
+    "https://core.telegram.org/method/auth.logOut",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/auth.LoggedOut",
+    "https://core.telegram.org/type/bytes"
+  ]
+}

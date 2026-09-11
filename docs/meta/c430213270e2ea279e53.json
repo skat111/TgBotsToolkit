@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_music.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_music.html",
+  "title": "TDLib: profileTabMusic Class Reference",
+  "fetched_at": "2026-09-11T06:15:15Z",
+  "sha256": "d6b2ae52d1c23e46113323846b113d60f0ade4ef9df884e6a3c115bcec86268f",
+  "bytes": 15486,
+  "content_type": "text/html",
+  "raw": "docs/raw/c430213270e2ea279e53.html",
+  "markdown": "docs/pages/c430213270e2ea279e53.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_profile_tab.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_music-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1profile_tab_music.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_has_sponsored_messages_enabled-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_has_sponsored_messages_enabled-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:16:05Z",
+  "sha256": "5654546b143639dd4644ce2c48ebdd4e5e7fca79971040f3c8a70c35ff4dded1",
+  "bytes": 10925,
+  "content_type": "text/html",
+  "raw": "docs/raw/a23d92566501972f6545.html",
+  "markdown": "docs/pages/a23d92566501972f6545.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_has_sponsored_messages_enabled.html"
+  ]
+}

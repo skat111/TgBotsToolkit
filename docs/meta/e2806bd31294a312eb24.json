@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/type/MyBoost",
+  "final_url": "https://core.telegram.org/type/MyBoost",
+  "title": "MyBoost",
+  "fetched_at": "2026-09-11T06:17:05Z",
+  "sha256": "51138645f3f92c8650bd93a5ec868a2f6600550913996558e09fe02d8035a04a",
+  "bytes": 14673,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/e2806bd31294a312eb24.html",
+  "markdown": "docs/pages/e2806bd31294a312eb24.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/boost",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/myBoost",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/MyBoost",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/int"
+  ]
+}

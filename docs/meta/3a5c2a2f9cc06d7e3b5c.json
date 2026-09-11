@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/bots/self-signed",
+  "final_url": "https://core.telegram.org/bots/self-signed",
+  "title": "Using self-signed certificates",
+  "fetched_at": "2026-09-11T06:05:11Z",
+  "sha256": "c0b797b56143001d732efa226ee77486704c8124b06b98088edfea80bfebe7df",
+  "bytes": 9307,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3a5c2a2f9cc06d7e3b5c.html",
+  "markdown": "docs/pages/3a5c2a2f9cc06d7e3b5c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/faq",
+    "https://core.telegram.org/bots/self-signed",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

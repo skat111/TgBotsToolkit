@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_rating.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_rating.html",
+  "title": "TDLib: userRating Class Reference",
+  "fetched_at": "2026-09-11T06:16:20Z",
+  "sha256": "fd6fecf2d4ba03e1d04ecd9db15db47a6a9d936d340337f228a93e70ece73b93",
+  "bytes": 22945,
+  "content_type": "text/html",
+  "raw": "docs/raw/d1eb3e1ba2dc78a9e067.html",
+  "markdown": "docs/pages/d1eb3e1ba2dc78a9e067.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_rating-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_rating.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

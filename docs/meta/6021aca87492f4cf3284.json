@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/type/help.PremiumPromo",
+  "final_url": "https://core.telegram.org/type/help.PremiumPromo",
+  "title": "help.PremiumPromo",
+  "fetched_at": "2026-09-11T06:17:15Z",
+  "sha256": "1b69d136c5665a57f43070dcb08566a1185ee0bb754d239aadd74d5f3b44d285",
+  "bytes": 15517,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6021aca87492f4cf3284.html",
+  "markdown": "docs/pages/6021aca87492f4cf3284.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/help.premiumPromo",
+    "https://core.telegram.org/method/help.getPremiumPromo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/MessageEntity",
+    "https://core.telegram.org/type/PremiumSubscriptionOption",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/help.PremiumPromo",
+    "https://core.telegram.org/type/string"
+  ]
+}

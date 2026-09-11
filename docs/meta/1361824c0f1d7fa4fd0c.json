@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/method/invokeWithoutUpdates",
+  "final_url": "https://core.telegram.org/method/invokeWithoutUpdates",
+  "title": "invokeWithoutUpdates",
+  "fetched_at": "2026-09-11T06:09:46Z",
+  "sha256": "3570e62f429abc953a29de24a3560449504d70350549ce88b4ccbf08ab2a0fd6",
+  "bytes": 15275,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1361824c0f1d7fa4fd0c.html",
+  "markdown": "docs/pages/1361824c0f1d7fa4fd0c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/files",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/updates",
+    "https://core.telegram.org/method/invokeWithoutUpdates",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.quickRepliesNotModified",
+  "final_url": "https://core.telegram.org/constructor/messages.quickRepliesNotModified",
+  "title": "messages.quickRepliesNotModified",
+  "fetched_at": "2026-09-11T06:07:03Z",
+  "sha256": "43156d79545f53282936e791d7b04c653b0f0fe6381ac4efea8d42c138ff19ef",
+  "bytes": 14647,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/5d308ae9d06d2aca9498.html",
+  "markdown": "docs/pages/5d308ae9d06d2aca9498.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/business",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.quickRepliesNotModified",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/messages.QuickReplies"
+  ]
+}

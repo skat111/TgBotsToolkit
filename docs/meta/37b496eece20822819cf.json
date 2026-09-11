@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/type/CodeSettings",
+  "final_url": "https://core.telegram.org/type/CodeSettings",
+  "title": "CodeSettings",
+  "fetched_at": "2026-09-11T06:16:54Z",
+  "sha256": "f0599517d4626e4a7f4808880fe4b418a58aa3442120d9b9947b44246d8c0b1d",
+  "bytes": 14565,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/37b496eece20822819cf.html",
+  "markdown": "docs/pages/37b496eece20822819cf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/codeSettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/CodeSettings",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/string"
+  ]
+}

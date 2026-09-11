@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_away_message_settings.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_away_message_settings.html",
+  "title": "TDLib: businessAwayMessageSettings Class Reference",
+  "fetched_at": "2026-09-11T06:13:28Z",
+  "sha256": "e8931e3ea99cd21eaa5122d997f50d4839bc4b904543cbe1df7629c11c838d79",
+  "bytes": 23114,
+  "content_type": "text/html",
+  "raw": "docs/raw/c74836e2ffadb20bc19f.html",
+  "markdown": "docs/pages/c74836e2ffadb20bc19f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_business_away_message_schedule.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_away_message_settings-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_away_message_settings.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1business_recipients.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_attachment_menu_bot.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_attachment_menu_bot.html",
+  "title": "TDLib: internalLinkTypeAttachmentMenuBot Class Reference",
+  "fetched_at": "2026-09-11T06:14:38Z",
+  "sha256": "a7233e18a7291a564dfcce0d3777e825da78ff242529f50bfad21a2504ce6dd5",
+  "bytes": 24813,
+  "content_type": "text/html",
+  "raw": "docs/raw/8749ebfde151a7777963.html",
+  "markdown": "docs/pages/8749ebfde151a7777963.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_attachment_menu_bot.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_attachment_menu_bot-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_attachment_menu_bot.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1open_web_app.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_chat.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_bot_is_added_to_attachment_menu.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

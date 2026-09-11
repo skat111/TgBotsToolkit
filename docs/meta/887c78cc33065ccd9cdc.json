@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/messages.emojiGameDiceInfo",
+  "final_url": "https://core.telegram.org/constructor/messages.emojiGameDiceInfo",
+  "title": "messages.emojiGameDiceInfo",
+  "fetched_at": "2026-09-11T06:07:00Z",
+  "sha256": "d84c6b6166f37b34a60f64e3ce8f1d2e0fdc8041962d21528caf347a2280b697",
+  "bytes": 15326,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/887c78cc33065ccd9cdc.html",
+  "markdown": "docs/pages/887c78cc33065ccd9cdc.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.emojiGameDiceInfo",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.EmojiGameInfo",
+    "https://core.telegram.org/type/string"
+  ]
+}

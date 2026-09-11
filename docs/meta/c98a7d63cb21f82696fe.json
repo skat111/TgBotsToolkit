@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/reactionPaid",
+  "final_url": "https://core.telegram.org/constructor/reactionPaid",
+  "title": "reactionPaid",
+  "fetched_at": "2026-09-11T06:07:28Z",
+  "sha256": "84c0e5aedb87be5e90b90b237b648974d98631ec6bf55fe6331d0dad7e484907",
+  "bytes": 14310,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/c98a7d63cb21f82696fe.html",
+  "markdown": "docs/pages/c98a7d63cb21f82696fe.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/reactions",
+    "https://core.telegram.org/constructor/reactionPaid",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Reaction"
+  ]
+}

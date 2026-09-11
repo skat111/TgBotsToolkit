@@ -1,0 +1,19 @@
+{
+  "url": "https://core.telegram.org/articles/DH_Hash_Collision",
+  "final_url": "https://core.telegram.org/articles/DH_Hash_Collision",
+  "title": "Hash Collisions for Diffie-Hellman Keys",
+  "fetched_at": "2026-09-11T06:16:53Z",
+  "sha256": "b3f10f838ba3e7ec6a93e1d3d0574e8a2c47fe6e952ca6abb01582f581e45db4",
+  "bytes": 12430,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/1c41896801ea202a4ce2.html",
+  "markdown": "docs/pages/1c41896801ea202a4ce2.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/articles/DH_Hash_Collision",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/techfaq"
+  ]
+}

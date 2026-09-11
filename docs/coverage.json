@@ -1,0 +1,35 @@
+{
+  "completed_at": "2026-09-11T06:17:21Z",
+  "seeds": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/",
+    "https://core.telegram.org/gateway",
+    "https://core.telegram.org/widgets",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/schema/json",
+    "https://core.telegram.org/schema/mtproto",
+    "https://telegra.ph/api"
+  ],
+  "discovered": 9740,
+  "saved": 9737,
+  "errors": [
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_list_filter.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_list_filter.html"
+    },
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_is_blocked.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_is_blocked.html"
+    },
+    {
+      "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_message_ttl.html",
+      "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_message_ttl.html"
+    }
+  ],
+  "scope": "Reachable query-free links on core.telegram.org, plus telegra.ph/api. Common asset extensions, query variants, other external sites and unlinked pages excluded. Extensionless linked attachments may be retained; this is not a complete offline asset mirror. Cached pages retain original download dates."
+}

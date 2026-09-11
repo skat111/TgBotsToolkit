@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/phone.groupCallStreamChannels",
+  "final_url": "https://core.telegram.org/constructor/phone.groupCallStreamChannels",
+  "title": "phone.groupCallStreamChannels",
+  "fetched_at": "2026-09-11T06:07:18Z",
+  "sha256": "89b37494082ce5c9d52c6b17350fd383dcf416076a0d1624c93f2e2d6425312a",
+  "bytes": 15111,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/58ae5d9ab5838232d57f.html",
+  "markdown": "docs/pages/58ae5d9ab5838232d57f.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/group-calls",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/phone.groupCallStreamChannels",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/GroupCallStreamChannel",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/phone.GroupCallStreamChannels"
+  ]
+}

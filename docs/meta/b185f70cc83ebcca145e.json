@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/securePlainEmail",
+  "final_url": "https://core.telegram.org/constructor/securePlainEmail",
+  "title": "securePlainEmail",
+  "fetched_at": "2026-09-11T06:07:32Z",
+  "sha256": "df23ab4824271fa59305243969699bb9d3233a5761a212d1517ef12512e8513c",
+  "bytes": 15111,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/b185f70cc83ebcca145e.html",
+  "markdown": "docs/pages/b185f70cc83ebcca145e.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/securePlainEmail",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/SecurePlainData",
+    "https://core.telegram.org/type/string"
+  ]
+}

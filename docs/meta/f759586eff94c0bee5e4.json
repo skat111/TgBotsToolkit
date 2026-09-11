@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_group_call_paid_message_star_count.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_group_call_paid_message_star_count.html",
+  "title": "TDLib: setGroupCallPaidMessageStarCount Class Reference",
+  "fetched_at": "2026-09-11T06:15:39Z",
+  "sha256": "7d161c795621b1ae7855d1d5918dd90cf0875a6390d239ba1f7d5b48440fecb6",
+  "bytes": 21688,
+  "content_type": "text/html",
+  "raw": "docs/raw/f759586eff94c0bee5e4.html",
+  "markdown": "docs/pages/f759586eff94c0bee5e4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_group_call_paid_message_star_count-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_group_call_paid_message_star_count.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/method/contacts.toggleTopPeers",
+  "final_url": "https://core.telegram.org/method/contacts.toggleTopPeers",
+  "title": "contacts.toggleTopPeers",
+  "fetched_at": "2026-09-11T06:09:37Z",
+  "sha256": "82376c850617eec4be62dfb05ba7d068235b8e903b6a8ccdd205669cde047966",
+  "bytes": 15072,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/71ae5caa16ced2335a73.html",
+  "markdown": "docs/pages/71ae5caa16ced2335a73.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/top-rating",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/method/contacts.toggleTopPeers",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool"
+  ]
+}

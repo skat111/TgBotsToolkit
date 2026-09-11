@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/account.getConnectedBots",
+  "final_url": "https://core.telegram.org/method/account.getConnectedBots",
+  "title": "account.getConnectedBots",
+  "fetched_at": "2026-09-11T06:08:39Z",
+  "sha256": "f2d44990f84c152042faeb3fb62c396a105d7eecbad0739e768c14390a2cfc8b",
+  "bytes": 15166,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3022907214641f03b044.html",
+  "markdown": "docs/pages/3022907214641f03b044.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/connected-business-bots",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/account.connectedBots",
+    "https://core.telegram.org/method/account.getConnectedBots",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ConnectedBot",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/account.ConnectedBots"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/importedContact",
+  "final_url": "https://core.telegram.org/constructor/importedContact",
+  "title": "importedContact",
+  "fetched_at": "2026-09-11T06:06:12Z",
+  "sha256": "47e257bce445527df7e613efb351b1a1e969de51b9faad8c080b287c7b438699",
+  "bytes": 14758,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/968781493128bf51a0e7.html",
+  "markdown": "docs/pages/968781493128bf51a0e7.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/importedContact",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ImportedContact",
+    "https://core.telegram.org/type/InputContact",
+    "https://core.telegram.org/type/long"
+  ]
+}

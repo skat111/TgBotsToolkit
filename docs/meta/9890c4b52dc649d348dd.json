@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/messages.reportSpam",
+  "final_url": "https://core.telegram.org/method/messages.reportSpam",
+  "title": "messages.reportSpam",
+  "fetched_at": "2026-09-11T06:10:22Z",
+  "sha256": "f6f64e88f054b1967316ef5ba6628e9858443b281cb43145ef04b4171a664b61",
+  "bytes": 15809,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9890c4b52dc649d348dd.html",
+  "markdown": "docs/pages/9890c4b52dc649d348dd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/action-bar",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/boolFalse",
+    "https://core.telegram.org/constructor/boolTrue",
+    "https://core.telegram.org/constructor/peerSettings",
+    "https://core.telegram.org/method/messages.reportSpam",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputPeer"
+  ]
+}

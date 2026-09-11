@@ -1,0 +1,32 @@
+{
+  "url": "https://core.telegram.org/type/SecureValue",
+  "final_url": "https://core.telegram.org/type/SecureValue",
+  "title": "SecureValue",
+  "fetched_at": "2026-09-11T06:17:08Z",
+  "sha256": "2baa229f7bc3172c3c86d7aa6d06d29c318d686ca67aeea051b362dce1143048",
+  "bytes": 15235,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a125a910719db5c68165.html",
+  "markdown": "docs/pages/a125a910719db5c68165.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/secureValue",
+    "https://core.telegram.org/method/account.saveSecureValue",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/passport",
+    "https://core.telegram.org/passport/encryption",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputSecureValue",
+    "https://core.telegram.org/type/SecureData",
+    "https://core.telegram.org/type/SecureFile",
+    "https://core.telegram.org/type/SecurePlainData",
+    "https://core.telegram.org/type/SecureValue",
+    "https://core.telegram.org/type/SecureValueType",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/long"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html",
+  "title": "TDLib: inputStoryArea Class Reference",
+  "fetched_at": "2026-09-11T06:14:38Z",
+  "sha256": "b8d753fa80da4c64e68006deda53f1c8447e194763f6ec056602308b939fccae",
+  "bytes": 19965,
+  "content_type": "text/html",
+  "raw": "docs/raw/fb1f35993a97a85da4cd.html",
+  "markdown": "docs/pages/fb1f35993a97a85da4cd.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_input_story_area_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_area_position.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

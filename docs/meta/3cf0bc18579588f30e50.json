@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_temporary_registration-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_temporary_registration-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:15:07Z",
+  "sha256": "28dfb8e0a6e5451fc08f4a0a0c501eb8c3b6b5b4144f192d2a6dc5cf1df0dcbe",
+  "bytes": 9899,
+  "content_type": "text/html",
+  "raw": "docs/raw/3cf0bc18579588f30e50.html",
+  "markdown": "docs/pages/3cf0bc18579588f30e50.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passport_element_type_temporary_registration.html"
+  ]
+}

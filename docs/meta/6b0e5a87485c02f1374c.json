@@ -1,0 +1,22 @@
+{
+  "url": "https://core.telegram.org/constructor/inputCollectiblePhone",
+  "final_url": "https://core.telegram.org/constructor/inputCollectiblePhone",
+  "title": "inputCollectiblePhone",
+  "fetched_at": "2026-09-11T06:06:19Z",
+  "sha256": "c65d60ca089e36f10a8c0ada689e73138037f982cb89cb873ab20db600d74b31",
+  "bytes": 14920,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/6b0e5a87485c02f1374c.html",
+  "markdown": "docs/pages/6b0e5a87485c02f1374c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/fragment",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputCollectiblePhone",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputCollectible",
+    "https://core.telegram.org/type/string"
+  ]
+}

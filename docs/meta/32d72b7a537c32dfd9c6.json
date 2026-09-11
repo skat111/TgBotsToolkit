@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_available_paid_message_reaction_senders.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_available_paid_message_reaction_senders.html",
+  "title": "TDLib: getChatAvailablePaidMessageReactionSenders Class Reference",
+  "fetched_at": "2026-09-11T06:14:08Z",
+  "sha256": "a7127d60c5fbd0c9e513dda02696ba89cc36841f41d68dff6977f742290a75ca",
+  "bytes": 20090,
+  "content_type": "text/html",
+  "raw": "docs/raw/32d72b7a537c32dfd9c6.html",
+  "markdown": "docs/pages/32d72b7a537c32dfd9c6.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_available_paid_message_reaction_senders-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_available_paid_message_reaction_senders.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_senders.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/inputInvoicePremiumAuthCode",
+  "final_url": "https://core.telegram.org/constructor/inputInvoicePremiumAuthCode",
+  "title": "inputInvoicePremiumAuthCode",
+  "fetched_at": "2026-09-11T06:06:23Z",
+  "sha256": "ec8527b2e23a6accd82a9928e8741e867cd000a04d85cb086d8c2330b9b80e70",
+  "bytes": 15362,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/519efd7baec89802aefa.html",
+  "markdown": "docs/pages/519efd7baec89802aefa.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/auth",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputInvoicePremiumAuthCode",
+    "https://core.telegram.org/constructor/inputStorePaymentAuthCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputInvoice",
+    "https://core.telegram.org/type/InputStorePaymentPurpose"
+  ]
+}

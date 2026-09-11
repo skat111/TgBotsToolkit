@@ -1,0 +1,23 @@
+{
+  "url": "https://core.telegram.org/constructor/updateReadChannelOutbox",
+  "final_url": "https://core.telegram.org/constructor/updateReadChannelOutbox",
+  "title": "updateReadChannelOutbox",
+  "fetched_at": "2026-09-11T06:08:05Z",
+  "sha256": "42e79f28da0925c367d1a1db89a6d3fa7db92373257a2176fd43672af1514b3a",
+  "bytes": 14998,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/199b84e3af1ba120c593.html",
+  "markdown": "docs/pages/199b84e3af1ba120c593.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/channel",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateReadChannelOutbox",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
+  ]
+}

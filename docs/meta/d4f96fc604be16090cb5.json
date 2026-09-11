@@ -1,0 +1,29 @@
+{
+  "url": "https://core.telegram.org/method/contacts.importContacts",
+  "final_url": "https://core.telegram.org/method/contacts.importContacts",
+  "title": "contacts.importContacts",
+  "fetched_at": "2026-09-11T06:09:36Z",
+  "sha256": "cb2d514e956c32a413e381b7af1ce465997fe3989c77666abb14dbc6abed4e17",
+  "bytes": 16340,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/d4f96fc604be16090cb5.html",
+  "markdown": "docs/pages/d4f96fc604be16090cb5.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/contacts.importedContacts",
+    "https://core.telegram.org/method/contacts.addContact",
+    "https://core.telegram.org/method/contacts.importContacts",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/ImportedContact",
+    "https://core.telegram.org/type/InputContact",
+    "https://core.telegram.org/type/PopularContact",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/contacts.ImportedContacts",
+    "https://core.telegram.org/type/long"
+  ]
+}

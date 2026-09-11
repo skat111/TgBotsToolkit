@@ -1,0 +1,25 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_query.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_query.html",
+  "title": "TDLib: updateNewCustomQuery Class Reference",
+  "fetched_at": "2026-09-11T06:16:15Z",
+  "sha256": "6d6bdaa6a9275aaade368b6acc27c042d21ca66ef6b214eaa444e2519590ff4c",
+  "bytes": 20592,
+  "content_type": "text/html",
+  "raw": "docs/raw/8c01c380ab3689b7794c.html",
+  "markdown": "docs/pages/8c01c380ab3689b7794c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_update.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_query-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_new_custom_query.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

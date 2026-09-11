@@ -1,0 +1,28 @@
+{
+  "url": "https://core.telegram.org/type/messages.RecentStickers",
+  "final_url": "https://core.telegram.org/type/messages.RecentStickers",
+  "title": "Messages.RecentStickers",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "d0e5afcf1a788303b846168cbe30a3a3364db88702c9a4aff585016ee6d8661c",
+  "bytes": 15234,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/411c4a3006acb52a0255.html",
+  "markdown": "docs/pages/411c4a3006acb52a0255.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/messages.recentStickers",
+    "https://core.telegram.org/constructor/messages.recentStickersNotModified",
+    "https://core.telegram.org/method/messages.getRecentStickers",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Document",
+    "https://core.telegram.org/type/StickerPack",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/messages.RecentStickers"
+  ]
+}

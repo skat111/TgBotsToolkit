@@ -1,0 +1,31 @@
+{
+  "url": "https://core.telegram.org/type/payments.CheckedGiftCode",
+  "final_url": "https://core.telegram.org/type/payments.CheckedGiftCode",
+  "title": "Payments.CheckedGiftCode",
+  "fetched_at": "2026-09-11T06:17:17Z",
+  "sha256": "1fb47bc6b068e7dea3450a1c55e7bcd63da8ad92d032e3b35587d454af6a866f",
+  "bytes": 15754,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/a7a4e4ce0d9000d3aedf.html",
+  "markdown": "docs/pages/a7a4e4ce0d9000d3aedf.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/giveaways",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/api/links",
+    "https://core.telegram.org/constructor/payments.checkedGiftCode",
+    "https://core.telegram.org/method/payments.checkGiftCode",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/Chat",
+    "https://core.telegram.org/type/Peer",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/payments.CheckedGiftCode",
+    "https://core.telegram.org/type/string"
+  ]
+}

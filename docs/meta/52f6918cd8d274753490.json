@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html",
+  "title": "TDLib: starSubscription Class Reference",
+  "fetched_at": "2026-09-11T06:15:47Z",
+  "sha256": "6aaf94b2bc9e1895901b763ba93d4d3afb3eb60b55f12e992ad67014c0c89c36",
+  "bytes": 26416,
+  "content_type": "text/html",
+  "raw": "docs/raw/52f6918cd8d274753490.html",
+  "markdown": "docs/pages/52f6918cd8d274753490.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_star_subscription_type.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription_pricing.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

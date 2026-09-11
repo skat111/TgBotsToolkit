@@ -1,0 +1,27 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/",
+  "final_url": "https://core.telegram.org/tdlib/docs/",
+  "title": "TDLib: TDLib",
+  "fetched_at": "2026-09-11T06:04:39Z",
+  "sha256": "b894176149b6ce3de8c34062c41c767a1b1c001e3fe455df3c0900926c888340",
+  "bytes": 16290,
+  "content_type": "text/html",
+  "raw": "docs/raw/7b896695c3ca4c974952.html",
+  "markdown": "docs/pages/7b896695c3ca4c974952.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_client_manager.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h.html",
+    "https://core.telegram.org/tdlib/docs/td__json__client_8h.html",
+    "https://core.telegram.org/tdlib/getting-started"
+  ]
+}

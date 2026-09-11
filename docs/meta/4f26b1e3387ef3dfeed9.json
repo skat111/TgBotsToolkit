@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/method/messages.setBotGuestChatResult",
+  "final_url": "https://core.telegram.org/method/messages.setBotGuestChatResult",
+  "title": "messages.setBotGuestChatResult",
+  "fetched_at": "2026-09-11T06:10:30Z",
+  "sha256": "50f0a0fc16916f9e947a634626871008461a511463854e760f44b04ea709cb03",
+  "bytes": 17046,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/4f26b1e3387ef3dfeed9.html",
+  "markdown": "docs/pages/4f26b1e3387ef3dfeed9.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/bots/guest-mode",
+    "https://core.telegram.org/api/content-protection",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateBotGuestChatQuery",
+    "https://core.telegram.org/method/messages.setBotGuestChatResult",
+    "https://core.telegram.org/methods",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/InputBotInlineMessageID",
+    "https://core.telegram.org/type/InputBotInlineResult",
+    "https://core.telegram.org/type/long"
+  ]
+}

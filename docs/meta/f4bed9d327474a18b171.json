@@ -1,0 +1,24 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_accent_color.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_accent_color.html",
+  "title": "TDLib: premiumFeatureAccentColor Class Reference",
+  "fetched_at": "2026-09-11T06:15:09Z",
+  "sha256": "ca7a52f4fedfe97bd6774361f3ece8ca713e730164430938836b43170451d6a3",
+  "bytes": 15650,
+  "content_type": "text/html",
+  "raw": "docs/raw/f4bed9d327474a18b171.html",
+  "markdown": "docs/pages/f4bed9d327474a18b171.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_accent_color-members.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_feature_accent_color.html",
+    "https://core.telegram.org/tdlib/docs/td__api_8h_source.html"
+  ]
+}

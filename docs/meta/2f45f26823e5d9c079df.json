@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/constructor/updateAutoSaveSettings",
+  "final_url": "https://core.telegram.org/constructor/updateAutoSaveSettings",
+  "title": "updateAutoSaveSettings",
+  "fetched_at": "2026-09-11T06:07:52Z",
+  "sha256": "e267cc4750e95d68356a409c90901c940f915430c5a89d5d55435b8a0dbc337d",
+  "bytes": 14501,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2f45f26823e5d9c079df.html",
+  "markdown": "docs/pages/2f45f26823e5d9c079df.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/updateAutoSaveSettings",
+    "https://core.telegram.org/method/account.getAutoSaveSettings",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/Update"
+  ]
+}

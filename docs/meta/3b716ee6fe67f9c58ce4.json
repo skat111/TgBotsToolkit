@@ -1,0 +1,26 @@
+{
+  "url": "https://core.telegram.org/constructor/replyKeyboardMarkup",
+  "final_url": "https://core.telegram.org/constructor/replyKeyboardMarkup",
+  "title": "replyKeyboardMarkup",
+  "fetched_at": "2026-09-11T06:07:29Z",
+  "sha256": "c3b867ff7fb989dbe49916577d51f97b423c7bad33c9d0457ba9e64e3226be9e",
+  "bytes": 16724,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/3b716ee6fe67f9c58ce4.html",
+  "markdown": "docs/pages/3b716ee6fe67f9c58ce4.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/replyKeyboardMarkup",
+    "https://core.telegram.org/constructor/true",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/mtproto/TL-combinators",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/KeyboardButtonRow",
+    "https://core.telegram.org/type/ReplyMarkup",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/string"
+  ]
+}

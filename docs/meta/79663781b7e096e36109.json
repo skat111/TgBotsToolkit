@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_saved_notification_sound-members.html",
+  "final_url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_saved_notification_sound-members.html",
+  "title": "TDLib: Member List",
+  "fetched_at": "2026-09-11T06:13:22Z",
+  "sha256": "5e24e90be5e71e081317c2d3408f0b71a1ec51a5115fdb5f1d6ec1be4e612241",
+  "bytes": 10696,
+  "content_type": "text/html",
+  "raw": "docs/raw/79663781b7e096e36109.html",
+  "markdown": "docs/pages/79663781b7e096e36109.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema",
+    "https://core.telegram.org/tdlib",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html",
+    "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_saved_notification_sound.html"
+  ]
+}
