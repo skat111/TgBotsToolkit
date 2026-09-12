@@ -11,7 +11,7 @@ A reaction with a custom emoji.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [custom\_emoji\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#aab0674fd687e98f773e5bd2b1a904f9f) |
+| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [custom_emoji_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#aab0674fd687e98f773e5bd2b1a904f9f) |
 |  | Unique identifier of the custom emoji. |
 |  | |
 
@@ -20,9 +20,9 @@ A reaction with a custom emoji.
 | Public Instance Methods | |
 |  | [reactionTypeCustomEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#a80058318437a02d7b607875f664c364d) () |
 |  | |
-|  | [reactionTypeCustomEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#af3d466215a567f8d9b3b23a08982a45f) ([int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [custom\_emoji\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#aab0674fd687e98f773e5bd2b1a904f9f)) |
+|  | [reactionTypeCustomEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#af3d466215a567f8d9b3b23a08982a45f) ([int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [custom_emoji_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#aab0674fd687e98f773e5bd2b1a904f9f)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ A reaction with a custom emoji.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -989117709 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -989117709 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ A reaction with a custom emoji.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [reactionTypeCustomEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html) | ( | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *custom\_emoji\_id\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [reactionTypeCustomEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1reaction_type_custom_emoji.html) | ( | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *custom_emoji_id_* | ) |  | | explicit |
 
 A reaction with a custom emoji.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | custom\_emoji\_id\_ | Unique identifier of the custom emoji. |
+    | [in] | custom_emoji_id_ | Unique identifier of the custom emoji. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

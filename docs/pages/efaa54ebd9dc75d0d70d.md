@@ -4,9 +4,9 @@ Source: https://core.telegram.org/method/messages.getSearchResultsPositions
 
 Returns sparse positions of messages of the specified type in the chat to be used for shared media scroll implementation.
 
-Returns the results in reverse chronological order (i.e., in order of decreasing message\_id).
+Returns the results in reverse chronological order (i.e., in order of decreasing message_id).
 
-* [Layer 223](https://core.telegram.org/method/messages.getSearchResultsPositions#) 
+* [Layer 223](https://core.telegram.org/method/messages.getSearchResultsPositions) 
   + [1 – Base layer](https://core.telegram.org/method/messages.getSearchResultsPositions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.getSearchResultsPositions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.getSearchResultsPositions?layer=3)
@@ -134,9 +134,9 @@ messages.getSearchResultsPositions#9c7f2f10 flags:# peer:InputPeer saved_peer_id
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Peer where to search |
-| **saved\_peer\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[InputPeer](https://core.telegram.org/type/InputPeer) | Search within the [saved message dialog »](https://core.telegram.org/api/saved-messages) with this ID. |
+| **saved_peer_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[InputPeer](https://core.telegram.org/type/InputPeer) | Search within the [saved message dialog »](https://core.telegram.org/api/saved-messages) with this ID. |
 | **filter** | [MessagesFilter](https://core.telegram.org/type/MessagesFilter) | Message filter, [inputMessagesFilterEmpty](https://core.telegram.org/constructor/inputMessagesFilterEmpty), [inputMessagesFilterMyMentions](https://core.telegram.org/constructor/inputMessagesFilterMyMentions) filters are not supported by this method. |
-| **offset\_id** | [int](https://core.telegram.org/type/int) | [Offsets for pagination, for more info click here](https://core.telegram.org/api/offsets) |
+| **offset_id** | [int](https://core.telegram.org/type/int) | [Offsets for pagination, for more info click here](https://core.telegram.org/api/offsets) |
 | **limit** | [int](https://core.telegram.org/type/int) | Maximum number of results to return, [see pagination](https://core.telegram.org/api/offsets) |
 
 ### Result
@@ -149,7 +149,7 @@ messages.getSearchResultsPositions#9c7f2f10 flags:# peer:InputPeer saved_peer_id
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

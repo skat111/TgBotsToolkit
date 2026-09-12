@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/payments.StarGiftUpgradePreview
 
 A preview of the possible attributes (chosen randomly) a [gift »](https://core.telegram.org/api/gifts) can receive after upgrading it to a [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts), see [here »](https://core.telegram.org/api/gifts#collectible-gifts) for more info.
 
-* [Layer 223](https://core.telegram.org/type/payments.StarGiftUpgradePreview#) 
+* [Layer 223](https://core.telegram.org/type/payments.StarGiftUpgradePreview) 
   + [1 – Base layer](https://core.telegram.org/type/payments.StarGiftUpgradePreview?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/payments.StarGiftUpgradePreview?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/payments.StarGiftUpgradePreview?layer=3)

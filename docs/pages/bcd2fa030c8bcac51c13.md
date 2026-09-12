@@ -11,7 +11,7 @@ Telegram Passport data has been sent to a bot.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) > > | [types\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ad1fc47497596936c99075ed510f7ee92) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) > > | [types_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ad1fc47497596936c99075ed510f7ee92) |
 |  | List of Telegram Passport element types sent. |
 |  | |
 
@@ -20,9 +20,9 @@ Telegram Passport data has been sent to a bot.
 | Public Instance Methods | |
 |  | [messagePassportDataSent](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ac6f83dbb3f1f29fc75d76883b45f13a2) () |
 |  | |
-|  | [messagePassportDataSent](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#a6102118211742c8414e8103e1e1ae490) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) >> &&[types\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ad1fc47497596936c99075ed510f7ee92)) |
+|  | [messagePassportDataSent](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#a6102118211742c8414e8103e1e1ae490) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) >> &&[types_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ad1fc47497596936c99075ed510f7ee92)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Telegram Passport data has been sent to a bot.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1017405171 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1017405171 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Telegram Passport data has been sent to a bot.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messagePassportDataSent](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) >> && | *types\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messagePassportDataSent](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_passport_data_sent.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PassportElementType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_passport_element_type.html) >> && | *types_* | ) |  | | explicit |
 
 Telegram Passport data has been sent to a bot.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | types\_ | List of Telegram Passport element types sent. |
+    | [in] | types_ | List of Telegram Passport element types sent. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

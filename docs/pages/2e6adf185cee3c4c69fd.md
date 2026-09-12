@@ -11,7 +11,7 @@ A Telegram Passport element to be saved containing the user's passport.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > | [passport\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a4b91c84fe96f4c5f67a1357db40f6097) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > | [passport_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a4b91c84fe96f4c5f67a1357db40f6097) |
 |  | The passport to be saved. |
 |  | |
 
@@ -20,9 +20,9 @@ A Telegram Passport element to be saved containing the user's passport.
 | Public Instance Methods | |
 |  | [inputPassportElementPassport](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a17d1e50e9a54f227bc6ba6aa1a4d4da1) () |
 |  | |
-|  | [inputPassportElementPassport](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#ab7e755361e6a828adfd869b0ca9e74b3) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > &&[passport\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a4b91c84fe96f4c5f67a1357db40f6097)) |
+|  | [inputPassportElementPassport](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#ab7e755361e6a828adfd869b0ca9e74b3) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > &&[passport_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a4b91c84fe96f4c5f67a1357db40f6097)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ A Telegram Passport element to be saved containing the user's passport.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -497011356 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -497011356 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ A Telegram Passport element to be saved containing the user's passport.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputPassportElementPassport](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > && | *passport\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputPassportElementPassport](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_passport_element_passport.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputIdentityDocument](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_identity_document.html) > && | *passport_* | ) |  | | explicit |
 
 A Telegram Passport element to be saved containing the user's passport.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | passport\_ | The passport to be saved. |
+    | [in] | passport_ | The passport to be saved. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

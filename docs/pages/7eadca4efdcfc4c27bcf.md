@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.editChatDefaultBannedRights
 
 Edit the default banned rights of a [channel/supergroup/group](https://core.telegram.org/api/channel).
 
-* [Layer 223](https://core.telegram.org/method/messages.editChatDefaultBannedRights#) 
+* [Layer 223](https://core.telegram.org/method/messages.editChatDefaultBannedRights) 
   + [1 – Base layer](https://core.telegram.org/method/messages.editChatDefaultBannedRights?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.editChatDefaultBannedRights?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.editChatDefaultBannedRights?layer=3)
@@ -137,7 +137,7 @@ messages.editChatDefaultBannedRights#a5866b41 peer:InputPeer banned_rights:ChatB
 | Name | Type | Description |
 | --- | --- | --- |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | The peer |
-| **banned\_rights** | [ChatBannedRights](https://core.telegram.org/type/ChatBannedRights) | The new global rights |
+| **banned_rights** | [ChatBannedRights](https://core.telegram.org/type/ChatBannedRights) | The new global rights |
 
 ### Result
 
@@ -149,15 +149,15 @@ messages.editChatDefaultBannedRights#a5866b41 peer:InputPeer banned_rights:ChatB
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BANNED\_RIGHTS\_INVALID | You provided some invalid flags in the banned rights. |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 400 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | CHAT\_ID\_INVALID | The provided chat id is invalid. |
-| 400 | CHAT\_NOT\_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
-| 403 | CHAT\_WRITE\_FORBIDDEN | You can't write in this chat. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
-| 400 | UNTIL\_DATE\_INVALID | Invalid until date provided. |
+| 400 | BANNED_RIGHTS_INVALID | You provided some invalid flags in the banned rights. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 400 | CHANNEL_PRIVATE | You haven't joined this channel/supergroup. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | CHAT_ID_INVALID | The provided chat id is invalid. |
+| 400 | CHAT_NOT_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
+| 403 | CHAT_WRITE_FORBIDDEN | You can't write in this chat. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
+| 400 | UNTIL_DATE_INVALID | Invalid until date provided. |
 
 ### Related pages
 

@@ -6,21 +6,21 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 ## Description
 
-Resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next\_code\_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
+Resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next_code_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > | [reason\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a7ad65828bb58b117772da5bb6a41b685) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > | [reason_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a7ad65828bb58b117772da5bb6a41b685) |
 |  | Reason of code resending; pass null if unknown. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a7f96a18ad707d70f510799825acfbc98) () |
 |  | |
-|  | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a256e634599850748070fe073d2af758f) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > &&[reason\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a7ad65828bb58b117772da5bb6a41b685)) |
+|  | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a256e634599850748070fe073d2af758f) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > &&[reason_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a7ad65828bb58b117772da5bb6a41b685)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1506755656 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1506755656 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,24 +66,24 @@ Returns object\_ptr<Ok>.
 | --- | --- | --- | --- | --- |
 | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html) | ( |  | ) |  |
 
-Default constructor for a function, which resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next\_code\_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
+Default constructor for a function, which resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next_code_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html#a256e634599850748070fe073d2af758f)resendAuthenticationCode() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > && | *reason\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [resendAuthenticationCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1resend_authentication_code.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ResendCodeReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_resend_code_reason.html) > && | *reason_* | ) |  | | explicit |
 
-Creates a function, which resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next\_code\_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
+Creates a function, which resends an authentication code to the user. Works only when the current authorization state is [authorizationStateWaitCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_code.html), the next_code_type of the result is not null and the server-specified timeout has passed, or when the current authorization state is [authorizationStateWaitEmailCode](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1authorization_state_wait_email_code.html).
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | reason\_ | Reason of code resending; pass null if unknown. |
+    | [in] | reason_ | Reason of code resending; pass null if unknown. |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

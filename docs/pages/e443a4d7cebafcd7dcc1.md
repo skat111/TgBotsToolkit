@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/videoSize
 
 An [animated profile picture](https://core.telegram.org/api/files#animated-profile-pictures) in MPEG4 format
 
-* [Layer 223](https://core.telegram.org/constructor/videoSize#) 
+* [Layer 223](https://core.telegram.org/constructor/videoSize) 
   + [1 – Base layer](https://core.telegram.org/constructor/videoSize?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/videoSize?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/videoSize?layer=3)
@@ -133,7 +133,7 @@ videoSize#de33b094 flags:# type:string w:int h:int size:int video_start_ts:flags
 | **w** | [int](https://core.telegram.org/type/int) | Video width |
 | **h** | [int](https://core.telegram.org/type/int) | Video height |
 | **size** | [int](https://core.telegram.org/type/int) | File size |
-| **video\_start\_ts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[double](https://core.telegram.org/type/double) | Timestamp that should be shown as static preview to the user (seconds) |
+| **video_start_ts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[double](https://core.telegram.org/type/double) | Timestamp that should be shown as static preview to the user (seconds) |
 
 ### Type
 

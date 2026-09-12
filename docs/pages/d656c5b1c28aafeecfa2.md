@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/mediaAreaGeoPoint
 
 Represents a geolocation tag attached to a [story](https://core.telegram.org/api/stories).
 
-* [Layer 223](https://core.telegram.org/constructor/mediaAreaGeoPoint#) 
+* [Layer 223](https://core.telegram.org/constructor/mediaAreaGeoPoint) 
   + [1 – Base layer](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=3)

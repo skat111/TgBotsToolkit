@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stats.getBroadcastStats
 
 Get [channel statistics](https://core.telegram.org/api/stats)
 
-* [Layer 223](https://core.telegram.org/method/stats.getBroadcastStats#) 
+* [Layer 223](https://core.telegram.org/method/stats.getBroadcastStats) 
   + [1 – Base layer](https://core.telegram.org/method/stats.getBroadcastStats?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stats.getBroadcastStats?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stats.getBroadcastStats?layer=3)
@@ -144,10 +144,10 @@ stats.getBroadcastStats#ab42441a flags:# dark:flags.0?true channel:InputChannel 
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BROADCAST\_REQUIRED | This method can only be called on a channel, please use stats.getMegagroupStats for supergroups. |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 400 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
-| 403 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | BROADCAST_REQUIRED | This method can only be called on a channel, please use stats.getMegagroupStats for supergroups. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 400 | CHANNEL_PRIVATE | You haven't joined this channel/supergroup. |
+| 403 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
 
 ### Related pages
 

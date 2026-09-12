@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/stickerSetNoCovered
 
 Just the stickerset information, with no previews.
 
-* [Layer 223](https://core.telegram.org/constructor/stickerSetNoCovered#) 
+* [Layer 223](https://core.telegram.org/constructor/stickerSetNoCovered) 
   + [1 – Base layer](https://core.telegram.org/constructor/stickerSetNoCovered?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/stickerSetNoCovered?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/stickerSetNoCovered?layer=3)

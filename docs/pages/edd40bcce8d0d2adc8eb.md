@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updatePinnedChannelMessages
 
 Messages were pinned/unpinned in a [channel/supergroup](https://core.telegram.org/api/channel)
 
-* [Layer 223](https://core.telegram.org/constructor/updatePinnedChannelMessages#) 
+* [Layer 223](https://core.telegram.org/constructor/updatePinnedChannelMessages) 
   + [1 – Base layer](https://core.telegram.org/constructor/updatePinnedChannelMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updatePinnedChannelMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updatePinnedChannelMessages?layer=3)
@@ -130,10 +130,10 @@ updatePinnedChannelMessages#5bb98608 flags:# pinned:flags.0?true channel_id:long
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **pinned** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether the messages were pinned or unpinned |
-| **channel\_id** | [long](https://core.telegram.org/type/long) | Channel ID |
+| **channel_id** | [long](https://core.telegram.org/type/long) | Channel ID |
 | **messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | Messages |
 | **pts** | [int](https://core.telegram.org/type/int) | [Event count after generation](https://core.telegram.org/api/updates) |
-| **pts\_count** | [int](https://core.telegram.org/type/int) | [Number of events that were generated](https://core.telegram.org/api/updates) |
+| **pts_count** | [int](https://core.telegram.org/type/int) | [Number of events that were generated](https://core.telegram.org/api/updates) |
 
 ### Type
 

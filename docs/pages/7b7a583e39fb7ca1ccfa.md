@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auth.authorization
 
 Contains user authorization info.
 
-* [Layer 223](https://core.telegram.org/constructor/auth.authorization#) 
+* [Layer 223](https://core.telegram.org/constructor/auth.authorization) 
   + [1 – Base layer](https://core.telegram.org/constructor/auth.authorization?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auth.authorization?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auth.authorization?layer=3)
@@ -129,10 +129,10 @@ auth.authorization#2ea2c0d4 flags:# setup_password_required:flags.1?true otherwi
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **setup\_password\_required** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Suggests the user to set up a 2-step verification password to be able to log in again |
-| **otherwise\_relogin\_days** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If and only if setup\_password\_required is set and the user declines to set a 2-step verification password, they will be able to log into their account via SMS again only after this many days pass. |
-| **tmp\_sessions** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Number of [parallel sessions](https://core.telegram.org/api/datacenter#parallel-sessions) the client may open to the main connection of its home DC to increase throughput; if absent or `≤ 1`, a single main session must be used |
-| **future\_auth\_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[bytes](https://core.telegram.org/type/bytes) | A [future auth token](https://core.telegram.org/api/auth#future-auth-tokens) |
+| **setup_password_required** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Suggests the user to set up a 2-step verification password to be able to log in again |
+| **otherwise_relogin_days** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If and only if setup_password_required is set and the user declines to set a 2-step verification password, they will be able to log into their account via SMS again only after this many days pass. |
+| **tmp_sessions** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Number of [parallel sessions](https://core.telegram.org/api/datacenter#parallel-sessions) the client may open to the main connection of its home DC to increase throughput; if absent or `≤ 1`, a single main session must be used |
+| **future_auth_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[bytes](https://core.telegram.org/type/bytes) | A [future auth token](https://core.telegram.org/api/auth#future-auth-tokens) |
 | **user** | [User](https://core.telegram.org/type/User) | Info on authorized user |
 
 ### Type

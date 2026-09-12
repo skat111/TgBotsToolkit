@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/searchPostsFlood
 
 Indicates if the specified [global post search »](https://core.telegram.org/api/search#posts-tab) requires payment.
 
-* [Layer 223](https://core.telegram.org/constructor/searchPostsFlood#) 
+* [Layer 223](https://core.telegram.org/constructor/searchPostsFlood) 
   + [1 – Base layer](https://core.telegram.org/constructor/searchPostsFlood?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/searchPostsFlood?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/searchPostsFlood?layer=3)
@@ -129,11 +129,11 @@ searchPostsFlood#3e0b5b6a flags:# query_is_free:flags.0?true total_daily:int rem
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **query\_is\_free** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | The specified query is free (and it **will not use up free search slots**). |
-| **total\_daily** | [int](https://core.telegram.org/type/int) | Total number of daily free search slots. |
+| **query_is_free** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | The specified query is free (and it **will not use up free search slots**). |
+| **total_daily** | [int](https://core.telegram.org/type/int) | Total number of daily free search slots. |
 | **remains** | [int](https://core.telegram.org/type/int) | Remaining number of free search slots. |
-| **wait\_till** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If there are no more search slots, specifies the unixtime when more search slots will be available. |
-| **stars\_amount** | [long](https://core.telegram.org/type/long) | The number of [Telegram Stars](https://core.telegram.org/api/stars) to pay for each non-free search. |
+| **wait_till** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If there are no more search slots, specifies the unixtime when more search slots will be available. |
+| **stars_amount** | [long](https://core.telegram.org/type/long) | The number of [Telegram Stars](https://core.telegram.org/api/stars) to pay for each non-free search. |
 
 ### Type
 

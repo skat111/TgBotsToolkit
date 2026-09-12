@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotShippingQuery
 
 This object contains information about an incoming shipping query.
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotShippingQuery#) 
+* [Layer 223](https://core.telegram.org/constructor/updateBotShippingQuery) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotShippingQuery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotShippingQuery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotShippingQuery?layer=3)
@@ -128,10 +128,10 @@ updateBotShippingQuery#b5aefd7d query_id:long user_id:long payload:bytes shippin
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **query\_id** | [long](https://core.telegram.org/type/long) | Unique query identifier |
-| **user\_id** | [long](https://core.telegram.org/type/long) | User who sent the query |
+| **query_id** | [long](https://core.telegram.org/type/long) | Unique query identifier |
+| **user_id** | [long](https://core.telegram.org/type/long) | User who sent the query |
 | **payload** | [bytes](https://core.telegram.org/type/bytes) | Bot specified invoice payload |
-| **shipping\_address** | [PostAddress](https://core.telegram.org/type/PostAddress) | User specified shipping address |
+| **shipping_address** | [PostAddress](https://core.telegram.org/type/PostAddress) | User specified shipping address |
 
 ### Type
 

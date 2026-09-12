@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/phone.inviteToGroupCall
 
 Invite a set of users to a [video chat/livestream »](https://core.telegram.org/api/group-calls#video-chats-livestreams); cannot be used for [live stories »](https://core.telegram.org/api/group-calls#live-stories) or [conference calls »](https://core.telegram.org/api/group-calls#conference-calls).
 
-* [Layer 223](https://core.telegram.org/method/phone.inviteToGroupCall#) 
+* [Layer 223](https://core.telegram.org/method/phone.inviteToGroupCall) 
   + [1 – Base layer](https://core.telegram.org/method/phone.inviteToGroupCall?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/phone.inviteToGroupCall?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.inviteToGroupCall?layer=3)
@@ -149,12 +149,12 @@ phone.inviteToGroupCall#7b393160 call:InputGroupCall users:Vector<InputUser> = U
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 403 | CHAT\_TYPE\_INVALID | The specified user type is invalid. |
-| 403 | GROUPCALL\_FORBIDDEN | The specified group call cannot be used in this context. |
-| 400 | GROUPCALL\_INVALID | The specified group call is invalid. |
-| 400 | INVITE\_FORBIDDEN\_WITH\_JOINAS | If the user has anonymously joined a group call as a channel, they can't invite other users to the group call because that would cause deanonymization, because the invite would be sent using the original user ID, not the anonymized channel ID. |
-| 400 | USER\_ALREADY\_INVITED | You have already invited this user. |
-| 403 | USER\_NOT\_PARTICIPANT | You're not a member of this supergroup/channel. |
+| 403 | CHAT_TYPE_INVALID | The specified user type is invalid. |
+| 403 | GROUPCALL_FORBIDDEN | The specified group call cannot be used in this context. |
+| 400 | GROUPCALL_INVALID | The specified group call is invalid. |
+| 400 | INVITE_FORBIDDEN_WITH_JOINAS | If the user has anonymously joined a group call as a channel, they can't invite other users to the group call because that would cause deanonymization, because the invite would be sent using the original user ID, not the anonymized channel ID. |
+| 400 | USER_ALREADY_INVITED | You have already invited this user. |
+| 403 | USER_NOT_PARTICIPANT | You're not a member of this supergroup/channel. |
 
 ### Related pages
 

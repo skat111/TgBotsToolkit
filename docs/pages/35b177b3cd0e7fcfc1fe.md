@@ -11,16 +11,16 @@ Represents a list of Telegram Star subscriptions.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [star\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a2496222fd9e2f511abe81e45e4873989) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [star_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a2496222fd9e2f511abe81e45e4873989) |
 |  | The amount of owned Telegram Stars. |
 |  | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) > > | [subscriptions\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#af891377e669ca6fa664e43f4f5e729d4) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) > > | [subscriptions_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#af891377e669ca6fa664e43f4f5e729d4) |
 |  | List of subscriptions for Telegram Stars. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [required\_star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a372015b4130692166b3516e152146632) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [required_star_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a372015b4130692166b3516e152146632) |
 |  | The number of Telegram Stars required to buy to extend subscriptions expiring soon. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [next\_offset\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a33570080057f7258ad9aac6e86cfbd84) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [next_offset_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a33570080057f7258ad9aac6e86cfbd84) |
 |  | The offset for the next request. If empty, then there are no more results. |
 |  | |
 
@@ -29,9 +29,9 @@ Represents a list of Telegram Star subscriptions.
 | Public Instance Methods | |
 |  | [starSubscriptions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#aff11b71b98094852a562079eede85e85) () |
 |  | |
-|  | [starSubscriptions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a264e8d66f7a2f90efe103e450b8ab370) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[star\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a2496222fd9e2f511abe81e45e4873989), [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) >> &&[subscriptions\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#af891377e669ca6fa664e43f4f5e729d4), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [required\_star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a372015b4130692166b3516e152146632), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[next\_offset\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a33570080057f7258ad9aac6e86cfbd84)) |
+|  | [starSubscriptions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a264e8d66f7a2f90efe103e450b8ab370) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[star_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a2496222fd9e2f511abe81e45e4873989), [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) >> &&[subscriptions_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#af891377e669ca6fa664e43f4f5e729d4), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [required_star_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a372015b4130692166b3516e152146632), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[next_offset_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a33570080057f7258ad9aac6e86cfbd84)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Represents a list of Telegram Star subscriptions.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 151169395 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 151169395 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,10 +72,10 @@ Represents a list of Telegram Star subscriptions.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [starSubscriptions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *star\_amount\_*, |
-|  |  | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) >> && | *subscriptions\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *required\_star\_count\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *next\_offset\_* |
+| [starSubscriptions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscriptions.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *star_amount_*, |
+|  |  | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starSubscription](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_subscription.html) >> && | *subscriptions_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *required_star_count_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *next_offset_* |
 |  | ) |  |  |
 
 Represents a list of Telegram Star subscriptions.
@@ -83,10 +83,10 @@ Represents a list of Telegram Star subscriptions.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | star\_amount\_ | The amount of owned Telegram Stars. |
-    | [in] | subscriptions\_ | List of subscriptions for Telegram Stars. |
-    | [in] | required\_star\_count\_ | The number of Telegram Stars required to buy to extend subscriptions expiring soon. |
-    | [in] | next\_offset\_ | The offset for the next request. If empty, then there are no more results. |
+    | [in] | star_amount_ | The amount of owned Telegram Stars. |
+    | [in] | subscriptions_ | List of subscriptions for Telegram Stars. |
+    | [in] | required_star_count_ | The number of Telegram Stars required to buy to extend subscriptions expiring soon. |
+    | [in] | next_offset_ | The offset for the next request. If empty, then there are no more results. |
 
 ## Method Documentation
 
@@ -94,15 +94,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -110,4 +110,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

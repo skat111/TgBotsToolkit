@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/sendMessageTextDraftAction
 
 Used by bots to implement [live message streaming »](https://core.telegram.org/api/bots/ai#live-response-streaming).
 
-* [Layer 223](https://core.telegram.org/constructor/sendMessageTextDraftAction#) 
+* [Layer 223](https://core.telegram.org/constructor/sendMessageTextDraftAction) 
   + [1 – Base layer](https://core.telegram.org/constructor/sendMessageTextDraftAction?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/sendMessageTextDraftAction?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/sendMessageTextDraftAction?layer=3)
@@ -128,7 +128,7 @@ sendMessageTextDraftAction#376d975c random_id:long text:TextWithEntities = SendM
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **random\_id** | [long](https://core.telegram.org/type/long) | Live draft ID: used by graphical clients to slightly change the rendering behavior, see [here »](https://core.telegram.org/api/bots/ai#live-response-streaming) for more info. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
+| **random_id** | [long](https://core.telegram.org/type/long) | Live draft ID: used by graphical clients to slightly change the rendering behavior, see [here »](https://core.telegram.org/api/bots/ai#live-response-streaming) for more info. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
 | **text** | [TextWithEntities](https://core.telegram.org/type/TextWithEntities) | The contents of the live draft. |
 
 ### Type

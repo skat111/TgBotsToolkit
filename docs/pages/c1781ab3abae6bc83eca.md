@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/recentMeUrlChatInvite
 
 Recent t.me invite link to a chat
 
-* [Layer 223](https://core.telegram.org/constructor/recentMeUrlChatInvite#) 
+* [Layer 223](https://core.telegram.org/constructor/recentMeUrlChatInvite) 
   + [1 – Base layer](https://core.telegram.org/constructor/recentMeUrlChatInvite?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/recentMeUrlChatInvite?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/recentMeUrlChatInvite?layer=3)
@@ -129,7 +129,7 @@ recentMeUrlChatInvite#eb49081d url:string chat_invite:ChatInvite = RecentMeUrl;
 | Name | Type | Description |
 | --- | --- | --- |
 | **url** | [string](https://core.telegram.org/type/string) | t.me URL |
-| **chat\_invite** | [ChatInvite](https://core.telegram.org/type/ChatInvite) | Chat invitation |
+| **chat_invite** | [ChatInvite](https://core.telegram.org/type/ChatInvite) | Chat invitation |
 
 ### Type
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.getEmojiStatusGroups
 
 Represents a list of [emoji categories](https://core.telegram.org/api/emoji-categories), to be used when selecting custom emojis to set as [custom emoji status](https://core.telegram.org/api).
 
-* [Layer 223](https://core.telegram.org/method/messages.getEmojiStatusGroups#) 
+* [Layer 223](https://core.telegram.org/method/messages.getEmojiStatusGroups) 
   + [1 – Base layer](https://core.telegram.org/method/messages.getEmojiStatusGroups?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.getEmojiStatusGroups?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.getEmojiStatusGroups?layer=3)

@@ -14,13 +14,13 @@ This class is an abstract base class. Contains the type of Telegram Passport ele
 | --- | --- |
 | Additional Inherited Members | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
-| virtual std::int32\_t | [get\_id](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a19a85e75f450a2d07f0cf57c7e32076b) () const =0 |
+| virtual std::int32_t | [get_id](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a19a85e75f450a2d07f0cf57c7e32076b) () const =0 |
 |  | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
 |  | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a66f325c1a08459d978fa08dcc4e7a86e) (TlStorerCalcLength &s) const |
 |  | |
-| virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6) (TlStorerToString &s, const char \*field\_name) const =0 |
+| virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6) (TlStorerToString &s, const char \*field_name) const =0 |
 |  | |
 |  | [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a524843ecda9a59d32e1a1ad83bfdfef5) ()=default |
 |  | |
@@ -39,4 +39,4 @@ This class is an abstract base class. Contains the type of Telegram Passport ele
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

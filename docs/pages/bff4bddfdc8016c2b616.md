@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.exportedInvoice
 
 Exported [invoice deep link](https://core.telegram.org/api/links#invoice-links)
 
-* [Layer 223](https://core.telegram.org/constructor/payments.exportedInvoice#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.exportedInvoice) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.exportedInvoice?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.exportedInvoice?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.exportedInvoice?layer=3)

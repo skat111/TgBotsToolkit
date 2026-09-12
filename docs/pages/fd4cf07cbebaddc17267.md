@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updates.difference
 
 Full list of occurred events.
 
-* [Layer 223](https://core.telegram.org/constructor/updates.difference#) 
+* [Layer 223](https://core.telegram.org/constructor/updates.difference) 
   + [1 – Base layer](https://core.telegram.org/constructor/updates.difference?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updates.difference?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updates.difference?layer=3)
@@ -128,9 +128,9 @@ updates.difference#f49ca0 new_messages:Vector<Message> new_encrypted_messages:Ve
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **new\_messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[Message](https://core.telegram.org/type/Message)> | List of new messages |
-| **new\_encrypted\_messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[EncryptedMessage](https://core.telegram.org/type/EncryptedMessage)> | List of new encrypted secret chat messages |
-| **other\_updates** | [Vector](https://core.telegram.org/type/Vector%20t)<[Update](https://core.telegram.org/type/Update)> | List of updates |
+| **new_messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[Message](https://core.telegram.org/type/Message)> | List of new messages |
+| **new_encrypted_messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[EncryptedMessage](https://core.telegram.org/type/EncryptedMessage)> | List of new encrypted secret chat messages |
+| **other_updates** | [Vector](https://core.telegram.org/type/Vector%20t)<[Update](https://core.telegram.org/type/Update)> | List of updates |
 | **chats** | [Vector](https://core.telegram.org/type/Vector%20t)<[Chat](https://core.telegram.org/type/Chat)> | List of chats mentioned in events |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | List of users mentioned in events |
 | **state** | [updates.State](https://core.telegram.org/type/updates.State) | Current state |

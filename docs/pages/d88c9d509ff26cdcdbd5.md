@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.createBusinessChatLink
 
 Create a [business chat deep link »](https://core.telegram.org/api/business#business-chat-links).
 
-* [Layer 223](https://core.telegram.org/method/account.createBusinessChatLink#) 
+* [Layer 223](https://core.telegram.org/method/account.createBusinessChatLink) 
   + [1 – Base layer](https://core.telegram.org/method/account.createBusinessChatLink?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.createBusinessChatLink?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.createBusinessChatLink?layer=3)
@@ -142,9 +142,9 @@ account.createBusinessChatLink#8851e68e link:InputBusinessChatLink = BusinessCha
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHATLINKS\_TOO\_MUCH | Too many [business chat links](https://core.telegram.org/api/business#business-chat-links) were created, please delete some older links. |
-| 400 | DOCUMENT\_INVALID | The specified document is invalid. |
-| 403 | PREMIUM\_ACCOUNT\_REQUIRED | A premium account is required to execute this action. |
+| 400 | CHATLINKS_TOO_MUCH | Too many [business chat links](https://core.telegram.org/api/business#business-chat-links) were created, please delete some older links. |
+| 400 | DOCUMENT_INVALID | The specified document is invalid. |
+| 403 | PREMIUM_ACCOUNT_REQUIRED | A premium account is required to execute this action. |
 
 ### Related pages
 

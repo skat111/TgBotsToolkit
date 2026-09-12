@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/contacts.ResolvedPeer
 
 Peer returned after resolving a `@username`
 
-* [Layer 223](https://core.telegram.org/type/contacts.ResolvedPeer#) 
+* [Layer 223](https://core.telegram.org/type/contacts.ResolvedPeer) 
   + [1 – Base layer](https://core.telegram.org/type/contacts.ResolvedPeer?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/contacts.ResolvedPeer?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/contacts.ResolvedPeer?layer=3)

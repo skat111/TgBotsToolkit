@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/phone.ExportedGroupCallInvite
 
 An exported group call invitation.
 
-* [Layer 223](https://core.telegram.org/type/phone.ExportedGroupCallInvite#) 
+* [Layer 223](https://core.telegram.org/type/phone.ExportedGroupCallInvite) 
   + [1 – Base layer](https://core.telegram.org/type/phone.ExportedGroupCallInvite?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/phone.ExportedGroupCallInvite?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/phone.ExportedGroupCallInvite?layer=3)

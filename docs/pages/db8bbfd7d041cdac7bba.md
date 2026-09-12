@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/help.peerColorSet
 
 Represents a [color palette that can be used in message accents »](https://core.telegram.org/api/colors).
 
-* [Layer 223](https://core.telegram.org/constructor/help.peerColorSet#) 
+* [Layer 223](https://core.telegram.org/constructor/help.peerColorSet) 
   + [1 – Base layer](https://core.telegram.org/constructor/help.peerColorSet?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/help.peerColorSet?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/help.peerColorSet?layer=3)

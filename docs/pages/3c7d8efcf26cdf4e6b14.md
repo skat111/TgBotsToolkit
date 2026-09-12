@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/messages.SavedGifs
 
 Saved GIFs
 
-* [Layer 223](https://core.telegram.org/type/messages.SavedGifs#) 
+* [Layer 223](https://core.telegram.org/type/messages.SavedGifs) 
   + [1 – Base layer](https://core.telegram.org/type/messages.SavedGifs?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/messages.SavedGifs?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/messages.SavedGifs?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/account.ConnectedBots
 
 Info about currently connected [business bots](https://core.telegram.org/api/bots/connected-business-bots).
 
-* [Layer 223](https://core.telegram.org/type/account.ConnectedBots#) 
+* [Layer 223](https://core.telegram.org/type/account.ConnectedBots) 
   + [1 – Base layer](https://core.telegram.org/type/account.ConnectedBots?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/account.ConnectedBots?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/account.ConnectedBots?layer=3)

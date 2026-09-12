@@ -11,7 +11,7 @@ The link is a link to a background. Call [searchBackground](https://core.telegra
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [background\_name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#acc98cbcbd49e2dfff5d01de99789dfee) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [background_name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#acc98cbcbd49e2dfff5d01de99789dfee) |
 |  | Name of the background. |
 |  | |
 
@@ -20,9 +20,9 @@ The link is a link to a background. Call [searchBackground](https://core.telegra
 | Public Instance Methods | |
 |  | [internalLinkTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#a4f820baff92d5e0c9f30be7679400cc4) () |
 |  | |
-|  | [internalLinkTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#af4dc2db83b5a2e21e0085de1a634f238) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[background\_name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#acc98cbcbd49e2dfff5d01de99789dfee)) |
+|  | [internalLinkTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#af4dc2db83b5a2e21e0085de1a634f238) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[background_name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#acc98cbcbd49e2dfff5d01de99789dfee)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ The link is a link to a background. Call [searchBackground](https://core.telegra
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 185411848 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 185411848 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ The link is a link to a background. Call [searchBackground](https://core.telegra
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [internalLinkTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *background\_name\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [internalLinkTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_background.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *background_name_* | ) |  | | explicit |
 
 The link is a link to a background. Call [searchBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_background.html) with the given background name to process the link. If background is found and the user wants to apply it, then call [setDefaultBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_default_background.html).
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | background\_name\_ | Name of the background. |
+    | [in] | background_name_ | Name of the background. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.saveGif
 
 Add GIF to saved gifs list
 
-* [Layer 223](https://core.telegram.org/method/messages.saveGif#) 
+* [Layer 223](https://core.telegram.org/method/messages.saveGif) 
   + [1 – Base layer](https://core.telegram.org/method/messages.saveGif?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.saveGif?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.saveGif?layer=3)
@@ -144,4 +144,4 @@ messages.saveGif#327a30cb id:InputDocument unsave:Bool = Bool;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | GIF\_ID\_INVALID | The provided GIF ID is invalid. |
+| 400 | GIF_ID_INVALID | The provided GIF ID is invalid. |

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stats.getMessageStats
 
 Get [message statistics](https://core.telegram.org/api/stats)
 
-* [Layer 223](https://core.telegram.org/method/stats.getMessageStats#) 
+* [Layer 223](https://core.telegram.org/method/stats.getMessageStats) 
   + [1 – Base layer](https://core.telegram.org/method/stats.getMessageStats?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stats.getMessageStats?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stats.getMessageStats?layer=3)
@@ -133,7 +133,7 @@ stats.getMessageStats#b6e0a3f5 flags:# dark:flags.0?true channel:InputChannel ms
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **dark** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether to enable dark theme for graph colors |
 | **channel** | [InputChannel](https://core.telegram.org/type/InputChannel) | Channel ID |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | Message ID |
+| **msg_id** | [int](https://core.telegram.org/type/int) | Message ID |
 
 ### Result
 
@@ -145,10 +145,10 @@ stats.getMessageStats#b6e0a3f5 flags:# dark:flags.0?true channel:InputChannel ms
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | MESSAGE\_ID\_INVALID | The provided message id is invalid. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | MESSAGE_ID_INVALID | The provided message id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

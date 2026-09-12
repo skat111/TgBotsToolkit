@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/decryptedMessageActionDeleteMessag
 
 Deleted messages.
 
-* [Layer 223](https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages#) 
+* [Layer 223](https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages) 
   + [1 – Base layer](https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/decryptedMessageActionDeleteMessages?layer=3)
@@ -129,7 +129,7 @@ decryptedMessageActionDeleteMessages#65614304 random_ids:Vector<long> = Decrypte
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **random\_ids** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | List of deleted message IDs |
+| **random_ids** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | List of deleted message IDs |
 
 ### Type
 

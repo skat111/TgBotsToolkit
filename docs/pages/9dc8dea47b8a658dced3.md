@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.deleteParticipantReactions
 
 As an admin, remove all of a specific participant's [reactions](https://core.telegram.org/api/reactions) from every message in a group or channel.
 
-* [Layer 223](https://core.telegram.org/method/messages.deleteParticipantReactions#) 
+* [Layer 223](https://core.telegram.org/method/messages.deleteParticipantReactions) 
   + [1 – Base layer](https://core.telegram.org/method/messages.deleteParticipantReactions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.deleteParticipantReactions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.deleteParticipantReactions?layer=3)
@@ -141,7 +141,7 @@ As an admin, remove all of a specific participant's [reactions](https://core.tel
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

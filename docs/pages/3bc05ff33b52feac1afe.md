@@ -11,13 +11,13 @@ The information about interactions with a message has changed.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Chat identifier. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a946f46ee90c465619214e056e4d91ce4) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a946f46ee90c465619214e056e4d91ce4) |
 |  | Message identifier. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > | [interaction\_info\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a6e70e19837857441e9ecd5a505655e8e) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > | [interaction_info_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a6e70e19837857441e9ecd5a505655e8e) |
 |  | New information about interactions with the message; may be null. |
 |  | |
 
@@ -26,9 +26,9 @@ The information about interactions with a message has changed.
 | Public Instance Methods | |
 |  | [updateMessageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a5cc758f09c3561a0f135569545c47bed) () |
 |  | |
-|  | [updateMessageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a188b8023c5676db5cbaa9479c1f701bc) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a946f46ee90c465619214e056e4d91ce4), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > &&[interaction\_info\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a6e70e19837857441e9ecd5a505655e8e)) |
+|  | [updateMessageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a188b8023c5676db5cbaa9479c1f701bc) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a946f46ee90c465619214e056e4d91ce4), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > &&[interaction_info_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a6e70e19837857441e9ecd5a505655e8e)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -51,7 +51,7 @@ The information about interactions with a message has changed.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1417659394 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1417659394 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,9 +69,9 @@ The information about interactions with a message has changed.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [updateMessageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *message\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > && | *interaction\_info\_* |
+| [updateMessageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_message_interaction_info.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *message_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [messageInteractionInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_interaction_info.html) > && | *interaction_info_* |
 |  | ) |  |  |
 
 The information about interactions with a message has changed.
@@ -79,9 +79,9 @@ The information about interactions with a message has changed.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Chat identifier. |
-    | [in] | message\_id\_ | Message identifier. |
-    | [in] | interaction\_info\_ | New information about interactions with the message; may be null. |
+    | [in] | chat_id_ | Chat identifier. |
+    | [in] | message_id_ | Message identifier. |
+    | [in] | interaction_info_ | New information about interactions with the message; may be null. |
 
 ## Method Documentation
 
@@ -89,15 +89,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -105,4 +105,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

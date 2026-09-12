@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/upload.saveFilePart
 
 Saves a part of file for further sending to one of the methods.
 
-* [Layer 223](https://core.telegram.org/method/upload.saveFilePart#) 
+* [Layer 223](https://core.telegram.org/method/upload.saveFilePart) 
   + [1 – Base layer](https://core.telegram.org/method/upload.saveFilePart?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/upload.saveFilePart?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/upload.saveFilePart?layer=3)
@@ -131,8 +131,8 @@ upload.saveFilePart#b304a621 file_id:long file_part:int bytes:bytes = Bool;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **file\_id** | [long](https://core.telegram.org/type/long) | Random file identifier created by the client |
-| **file\_part** | [int](https://core.telegram.org/type/int) | Numerical order of a part |
+| **file_id** | [long](https://core.telegram.org/type/long) | Random file identifier created by the client |
+| **file_part** | [int](https://core.telegram.org/type/int) | Numerical order of a part |
 | **bytes** | [bytes](https://core.telegram.org/type/bytes) | Binary data, content of a part |
 
 ### Result
@@ -145,6 +145,6 @@ upload.saveFilePart#b304a621 file_id:long file_part:int bytes:bytes = Bool;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | FILE\_PART\_EMPTY | The provided file part is empty. |
-| 400 | FILE\_PART\_INVALID | The file part number is invalid. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
+| 400 | FILE_PART_EMPTY | The provided file part is empty. |
+| 400 | FILE_PART_INVALID | The file part number is invalid. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |

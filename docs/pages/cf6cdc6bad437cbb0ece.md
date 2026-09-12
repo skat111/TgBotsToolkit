@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.setHistoryTTL
 
 Set maximum Time-To-Live of all messages in the specified chat
 
-* [Layer 223](https://core.telegram.org/method/messages.setHistoryTTL#) 
+* [Layer 223](https://core.telegram.org/method/messages.setHistoryTTL) 
   + [1 – Base layer](https://core.telegram.org/method/messages.setHistoryTTL?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.setHistoryTTL?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.setHistoryTTL?layer=3)
@@ -149,7 +149,7 @@ messages.setHistoryTTL#b80e5fe4 peer:InputPeer period:int = Updates;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | CHAT\_NOT\_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
-| 400 | TTL\_PERIOD\_INVALID | The specified TTL period is invalid. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | CHAT_NOT_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
+| 400 | TTL_PERIOD_INVALID | The specified TTL period is invalid. |

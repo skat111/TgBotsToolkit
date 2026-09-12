@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/help.getConfig
 
 Returns current configuration, including data center configuration.
 
-* [Layer 223](https://core.telegram.org/method/help.getConfig#) 
+* [Layer 223](https://core.telegram.org/method/help.getConfig) 
   + [1 – Base layer](https://core.telegram.org/method/help.getConfig?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/help.getConfig?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/help.getConfig?layer=3)
@@ -142,10 +142,10 @@ This constructor does not require any parameters.
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CONNECTION\_API\_ID\_INVALID | The provided API id is invalid. |
-| 400 | CONNECTION\_APP\_VERSION\_EMPTY | App version is empty. |
-| 400 | CONNECTION\_LAYER\_INVALID | Layer invalid. |
-| 400 | DATA\_INVALID | Encrypted data invalid. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
-| 400 | USERNAME\_INVALID | The provided username is not valid. |
-| 403 | USER\_PRIVACY\_RESTRICTED | The user's privacy settings do not allow you to do this. |
+| 400 | CONNECTION_API_ID_INVALID | The provided API id is invalid. |
+| 400 | CONNECTION_APP_VERSION_EMPTY | App version is empty. |
+| 400 | CONNECTION_LAYER_INVALID | Layer invalid. |
+| 400 | DATA_INVALID | Encrypted data invalid. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |
+| 400 | USERNAME_INVALID | The provided username is not valid. |
+| 403 | USER_PRIVACY_RESTRICTED | The user's privacy settings do not allow you to do this. |

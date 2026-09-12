@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/ChannelMessagesFilter
 
 Filter for fetching only certain types of channel messages
 
-* [Layer 223](https://core.telegram.org/type/ChannelMessagesFilter#) 
+* [Layer 223](https://core.telegram.org/type/ChannelMessagesFilter) 
   + [1 – Base layer](https://core.telegram.org/type/ChannelMessagesFilter?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/ChannelMessagesFilter?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/ChannelMessagesFilter?layer=3)

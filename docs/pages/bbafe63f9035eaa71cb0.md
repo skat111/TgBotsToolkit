@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/chatlists.chatlistUpdates
 
 Updated information about a [chat folder deep link »](https://core.telegram.org/api/links#chat-folder-links).
 
-* [Layer 223](https://core.telegram.org/constructor/chatlists.chatlistUpdates#) 
+* [Layer 223](https://core.telegram.org/constructor/chatlists.chatlistUpdates) 
   + [1 – Base layer](https://core.telegram.org/constructor/chatlists.chatlistUpdates?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/chatlists.chatlistUpdates?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/chatlists.chatlistUpdates?layer=3)
@@ -128,7 +128,7 @@ chatlists.chatlistUpdates#93bd878d missing_peers:Vector<Peer> chats:Vector<Chat>
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **missing\_peers** | [Vector](https://core.telegram.org/type/Vector%20t)<[Peer](https://core.telegram.org/type/Peer)> | New peers to join |
+| **missing_peers** | [Vector](https://core.telegram.org/type/Vector%20t)<[Peer](https://core.telegram.org/type/Peer)> | New peers to join |
 | **chats** | [Vector](https://core.telegram.org/type/Vector%20t)<[Chat](https://core.telegram.org/type/Chat)> | Related chat information |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | Related user information |
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/bots.updateStarRefProgram
 
 Create, edit or delete the [affiliate program](https://core.telegram.org/api/bots/referrals) of a bot we own
 
-* [Layer 223](https://core.telegram.org/method/bots.updateStarRefProgram#) 
+* [Layer 223](https://core.telegram.org/method/bots.updateStarRefProgram) 
   + [1 – Base layer](https://core.telegram.org/method/bots.updateStarRefProgram?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/bots.updateStarRefProgram?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/bots.updateStarRefProgram?layer=3)
@@ -132,8 +132,8 @@ bots.updateStarRefProgram#778b5ab3 flags:# bot:InputUser commission_permille:int
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **bot** | [InputUser](https://core.telegram.org/type/InputUser) | The bot |
-| **commission\_permille** | [int](https://core.telegram.org/type/int) | The permille commission rate: it indicates the share of Telegram Stars received by affiliates for every transaction made by users they referred inside of the bot.   The minimum and maximum values for this parameter are contained in the [starref\_min\_commission\_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref\_max\_commission\_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters.   Can be `0` to terminate the affiliate program.  Both the duration and the commission may only be raised after creation of the program: to lower them, the program must first be terminated and a new one created. |
-| **duration\_months** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Indicates the duration of the affiliate program; if not set, there is no expiration date. |
+| **commission_permille** | [int](https://core.telegram.org/type/int) | The permille commission rate: it indicates the share of Telegram Stars received by affiliates for every transaction made by users they referred inside of the bot.   The minimum and maximum values for this parameter are contained in the [starref_min_commission_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref_max_commission_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters.   Can be `0` to terminate the affiliate program.  Both the duration and the commission may only be raised after creation of the program: to lower them, the program must first be terminated and a new one created. |
+| **duration_months** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Indicates the duration of the affiliate program; if not set, there is no expiration date. |
 
 ### Result
 
@@ -145,10 +145,10 @@ bots.updateStarRefProgram#778b5ab3 flags:# bot:InputUser commission_permille:int
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BOT\_INVALID | This is not a valid bot. |
-| 400 | STARREF\_AWAITING\_END | The previous referral program was terminated less than 24 hours ago: further changes can be made after the date specified in userFull.starref\_program.end\_date. |
-| 400 | STARREF\_PERMILLE\_INVALID | The specified commission\_permille is invalid: the minimum and maximum values for this parameter are contained in the [starref\_min\_commission\_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref\_max\_commission\_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters. |
-| 400 | STARREF\_PERMILLE\_TOO\_LOW | The specified commission\_permille is too low: the minimum and maximum values for this parameter are contained in the [starref\_min\_commission\_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref\_max\_commission\_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters. |
+| 400 | BOT_INVALID | This is not a valid bot. |
+| 400 | STARREF_AWAITING_END | The previous referral program was terminated less than 24 hours ago: further changes can be made after the date specified in userFull.starref_program.end_date. |
+| 400 | STARREF_PERMILLE_INVALID | The specified commission_permille is invalid: the minimum and maximum values for this parameter are contained in the [starref_min_commission_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref_max_commission_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters. |
+| 400 | STARREF_PERMILLE_TOO_LOW | The specified commission_permille is too low: the minimum and maximum values for this parameter are contained in the [starref_min_commission_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref_max_commission_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters. |
 
 ### Related pages
 

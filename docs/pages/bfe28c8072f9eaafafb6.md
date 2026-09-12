@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/upload.getCdnFileHashes
 
 Get SHA256 hashes for verifying downloaded [CDN](https://core.telegram.org/cdn) files
 
-* [Layer 223](https://core.telegram.org/method/upload.getCdnFileHashes#) 
+* [Layer 223](https://core.telegram.org/method/upload.getCdnFileHashes) 
   + [1 – Base layer](https://core.telegram.org/method/upload.getCdnFileHashes?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/upload.getCdnFileHashes?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/upload.getCdnFileHashes?layer=3)
@@ -129,7 +129,7 @@ upload.getCdnFileHashes#91dc3f31 file_token:bytes offset:long = Vector<FileHash>
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **file\_token** | [bytes](https://core.telegram.org/type/bytes) | File |
+| **file_token** | [bytes](https://core.telegram.org/type/bytes) | File |
 | **offset** | [long](https://core.telegram.org/type/long) | Offset from which to start getting hashes |
 
 ### Result
@@ -142,9 +142,9 @@ upload.getCdnFileHashes#91dc3f31 file_token:bytes offset:long = Vector<FileHash>
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CDN\_METHOD\_INVALID | You can't call this method in a CDN DC. |
-| 400 | FILE\_TOKEN\_INVALID | The master DC did not accept the `file_token` (e.g., the token has expired). Continue downloading the file from the master DC using upload.getFile. |
-| 400 | RSA\_DECRYPT\_FAILED | Internal RSA decryption failed. |
+| 400 | CDN_METHOD_INVALID | You can't call this method in a CDN DC. |
+| 400 | FILE_TOKEN_INVALID | The master DC did not accept the `file_token` (e.g., the token has expired). Continue downloading the file from the master DC using upload.getFile. |
+| 400 | RSA_DECRYPT_FAILED | Internal RSA decryption failed. |
 
 ### Related pages
 

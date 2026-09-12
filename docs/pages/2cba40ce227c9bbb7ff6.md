@@ -8,25 +8,25 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Toggles whether a participant of an active group call is muted, unmuted, or allowed to unmute themselves; not supported for live stories.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [group\_call\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a0ff6dc8f9e94bab61a479c2496722683) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [group_call_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a0ff6dc8f9e94bab61a479c2496722683) |
 |  | Group call identifier. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [participant\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a08f30ba8d2b3b95263bdc7bcd4e2a5f5) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [participant_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a08f30ba8d2b3b95263bdc7bcd4e2a5f5) |
 |  | Participant identifier. |
 |  | |
-| bool | [is\_muted\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8f5bcb8dea5faf527818800835485af4) |
+| bool | [is_muted_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8f5bcb8dea5faf527818800835485af4) |
 |  | Pass true to mute the user; pass false to unmute them. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -35,9 +35,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [toggleGroupCallParticipantIsMuted](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a7b96fc68184222348010388fb904b2d6) () |
 |  | |
-|  | [toggleGroupCallParticipantIsMuted](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a31b993787dbd79241ef05ae6f539ded2) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [group\_call\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a0ff6dc8f9e94bab61a479c2496722683), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[participant\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a08f30ba8d2b3b95263bdc7bcd4e2a5f5), bool [is\_muted\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8f5bcb8dea5faf527818800835485af4)) |
+|  | [toggleGroupCallParticipantIsMuted](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a31b993787dbd79241ef05ae6f539ded2) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [group_call_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a0ff6dc8f9e94bab61a479c2496722683), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[participant_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a08f30ba8d2b3b95263bdc7bcd4e2a5f5), bool [is_muted_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8f5bcb8dea5faf527818800835485af4)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -60,7 +60,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1308093433 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1308093433 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -74,27 +74,27 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which toggles whether a participant of an active group call is muted, unmuted, or allowed to unmute themselves; not supported for live stories.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html#a31b993787dbd79241ef05ae6f539ded2)toggleGroupCallParticipantIsMuted() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [toggleGroupCallParticipantIsMuted](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *group\_call\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *participant\_id\_*, |
-|  |  | bool | *is\_muted\_* |
+| [toggleGroupCallParticipantIsMuted](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_group_call_participant_is_muted.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *group_call_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *participant_id_*, |
+|  |  | bool | *is_muted_* |
 |  | ) |  |  |
 
 Creates a function, which toggles whether a participant of an active group call is muted, unmuted, or allowed to unmute themselves; not supported for live stories.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | group\_call\_id\_ | Group call identifier. |
-    | [in] | participant\_id\_ | Participant identifier. |
-    | [in] | is\_muted\_ | Pass true to mute the user; pass false to unmute them. |
+    | [in] | group_call_id_ | Group call identifier. |
+    | [in] | participant_id_ | Participant identifier. |
+    | [in] | is_muted_ | Pass true to mute the user; pass false to unmute them. |
 
 ## Method Documentation
 
@@ -102,15 +102,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -118,4 +118,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

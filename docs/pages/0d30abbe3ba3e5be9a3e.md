@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotInlineQuery
 
 An incoming inline query
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotInlineQuery#) 
+* [Layer 223](https://core.telegram.org/constructor/updateBotInlineQuery) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotInlineQuery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotInlineQuery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotInlineQuery?layer=3)
@@ -129,11 +129,11 @@ updateBotInlineQuery#496f379c flags:# query_id:long user_id:long query:string ge
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **query\_id** | [long](https://core.telegram.org/type/long) | Query ID |
-| **user\_id** | [long](https://core.telegram.org/type/long) | User that sent the query |
+| **query_id** | [long](https://core.telegram.org/type/long) | Query ID |
+| **user_id** | [long](https://core.telegram.org/type/long) | User that sent the query |
 | **query** | [string](https://core.telegram.org/type/string) | Text of query |
 | **geo** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[GeoPoint](https://core.telegram.org/type/GeoPoint) | Attached geolocation |
-| **peer\_type** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InlineQueryPeerType](https://core.telegram.org/type/InlineQueryPeerType) | Type of the chat from which the inline query was sent. |
+| **peer_type** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InlineQueryPeerType](https://core.telegram.org/type/InlineQueryPeerType) | Type of the chat from which the inline query was sent. |
 | **offset** | [string](https://core.telegram.org/type/string) | Offset to navigate through results |
 
 ### Type

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stickers.setStickerSetThumb
 
 Set stickerset thumbnail
 
-* [Layer 223](https://core.telegram.org/method/stickers.setStickerSetThumb#) 
+* [Layer 223](https://core.telegram.org/method/stickers.setStickerSetThumb) 
   + [1 – Base layer](https://core.telegram.org/method/stickers.setStickerSetThumb?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stickers.setStickerSetThumb?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stickers.setStickerSetThumb?layer=3)
@@ -134,7 +134,7 @@ stickers.setStickerSetThumb#a76a5392 flags:# stickerset:InputStickerSet thumb:fl
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **stickerset** | [InputStickerSet](https://core.telegram.org/type/InputStickerSet) | Stickerset |
 | **thumb** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputDocument](https://core.telegram.org/type/InputDocument) | Thumbnail (only for normal stickersets, not custom emoji stickersets). |
-| **thumb\_document\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | Only for [custom emoji stickersets](https://core.telegram.org/api/custom-emoji), ID of a custom emoji present in the set to use as thumbnail; pass 0 to fallback to the first custom emoji of the set. |
+| **thumb_document_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | Only for [custom emoji stickersets](https://core.telegram.org/api/custom-emoji), ID of a custom emoji present in the set to use as thumbnail; pass 0 to fallback to the first custom emoji of the set. |
 
 ### Result
 
@@ -146,9 +146,9 @@ stickers.setStickerSetThumb#a76a5392 flags:# stickerset:InputStickerSet thumb:fl
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | STICKERSET\_INVALID | The provided sticker set is invalid. |
-| 400 | STICKER\_THUMB\_PNG\_NOPNG | Incorrect stickerset thumb file provided, PNG / WEBP expected. |
-| 400 | STICKER\_THUMB\_TGS\_NOTGS | Incorrect stickerset TGS thumb file provided. |
+| 400 | STICKERSET_INVALID | The provided sticker set is invalid. |
+| 400 | STICKER_THUMB_PNG_NOPNG | Incorrect stickerset thumb file provided, PNG / WEBP expected. |
+| 400 | STICKER_THUMB_TGS_NOTGS | Incorrect stickerset TGS thumb file provided. |
 
 ### Related pages
 

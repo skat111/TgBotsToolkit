@@ -8,22 +8,22 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Informs TDLib that application or reCAPTCHA verification has been completed. Can be called before authorization.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [verification\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#afddd3993397081c9bcc82ed56a62024b) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [verification_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#afddd3993397081c9bcc82ed56a62024b) |
 |  | Unique identifier for the verification process as received from [updateApplicationVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html) or [updateApplicationRecaptchaVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_recaptcha_verification_required.html). |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [token\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a14b69ff16af1ffda258c95fb973c8665) |
-|  | Play Integrity API token for the Android application, or secret from push notification for the iOS application for application verification, or reCAPTCHA token for reCAPTCHA verifications; pass an empty string to abort verification and receive the error "VERIFICATION\_FAILED" for the request. |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [token_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a14b69ff16af1ffda258c95fb973c8665) |
+|  | Play Integrity API token for the Android application, or secret from push notification for the iOS application for application verification, or reCAPTCHA token for reCAPTCHA verifications; pass an empty string to abort verification and receive the error "VERIFICATION_FAILED" for the request. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -32,9 +32,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [setApplicationVerificationToken](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a4b22d45155aa221edf051ed52865d748) () |
 |  | |
-|  | [setApplicationVerificationToken](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a1901ca1c2408a434b5797b6bea6c9e61) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [verification\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#afddd3993397081c9bcc82ed56a62024b), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[token\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a14b69ff16af1ffda258c95fb973c8665)) |
+|  | [setApplicationVerificationToken](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a1901ca1c2408a434b5797b6bea6c9e61) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [verification_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#afddd3993397081c9bcc82ed56a62024b), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[token_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a14b69ff16af1ffda258c95fb973c8665)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 927248261 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 927248261 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -71,25 +71,25 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which informs TDLib that application or reCAPTCHA verification has been completed. Can be called before authorization.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html#a1901ca1c2408a434b5797b6bea6c9e61)setApplicationVerificationToken() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [setApplicationVerificationToken](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *verification\_id\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *token\_* |
+| [setApplicationVerificationToken](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_application_verification_token.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *verification_id_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *token_* |
 |  | ) |  |  |
 
 Creates a function, which informs TDLib that application or reCAPTCHA verification has been completed. Can be called before authorization.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | verification\_id\_ | Unique identifier for the verification process as received from [updateApplicationVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html) or [updateApplicationRecaptchaVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_recaptcha_verification_required.html). |
-    | [in] | token\_ | Play Integrity API token for the Android application, or secret from push notification for the iOS application for application verification, or reCAPTCHA token for reCAPTCHA verifications; pass an empty string to abort verification and receive the error "VERIFICATION\_FAILED" for the request. |
+    | [in] | verification_id_ | Unique identifier for the verification process as received from [updateApplicationVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_verification_required.html) or [updateApplicationRecaptchaVerificationRequired](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_application_recaptcha_verification_required.html). |
+    | [in] | token_ | Play Integrity API token for the Android application, or secret from push notification for the iOS application for application verification, or reCAPTCHA token for reCAPTCHA verifications; pass an empty string to abort verification and receive the error "VERIFICATION_FAILED" for the request. |
 
 ## Method Documentation
 
@@ -97,15 +97,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -113,4 +113,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

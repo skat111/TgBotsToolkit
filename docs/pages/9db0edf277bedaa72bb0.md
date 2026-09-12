@@ -11,7 +11,7 @@ Contains a list of websites the current user is logged in with Telegram.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) > > | [websites\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#adfe37c219d3f7a57b0f3f4116e808ea9) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) > > | [websites_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#adfe37c219d3f7a57b0f3f4116e808ea9) |
 |  | List of connected websites. |
 |  | |
 
@@ -20,9 +20,9 @@ Contains a list of websites the current user is logged in with Telegram.
 | Public Instance Methods | |
 |  | [connectedWebsites](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#a2ce2018cd4eac0aa0605126ce58cba7d) () |
 |  | |
-|  | [connectedWebsites](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#a7ad05d482e2461a850b6ac8c016605be) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) >> &&[websites\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#adfe37c219d3f7a57b0f3f4116e808ea9)) |
+|  | [connectedWebsites](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#a7ad05d482e2461a850b6ac8c016605be) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) >> &&[websites_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#adfe37c219d3f7a57b0f3f4116e808ea9)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Contains a list of websites the current user is logged in with Telegram.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1727949694 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1727949694 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Contains a list of websites the current user is logged in with Telegram.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [connectedWebsites](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) >> && | *websites\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [connectedWebsites](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_websites.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [connectedWebsite](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1connected_website.html) >> && | *websites_* | ) |  | | explicit |
 
 Contains a list of websites the current user is logged in with Telegram.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | websites\_ | List of connected websites. |
+    | [in] | websites_ | List of connected websites. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

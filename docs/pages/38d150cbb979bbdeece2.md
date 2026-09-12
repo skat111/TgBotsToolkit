@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.unregisterDevice
 
 Deletes a device by its token, stops sending PUSH-notifications to it.
 
-* [Layer 223](https://core.telegram.org/method/account.unregisterDevice#) 
+* [Layer 223](https://core.telegram.org/method/account.unregisterDevice) 
   + [1 – Base layer](https://core.telegram.org/method/account.unregisterDevice?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.unregisterDevice?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.unregisterDevice?layer=3)
@@ -131,9 +131,9 @@ account.unregisterDevice#6a0d3206 token_type:int token:string other_uids:Vector<
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **token\_type** | [int](https://core.telegram.org/type/int) | Device token type, see [PUSH updates](https://core.telegram.org/api/push-updates#subscribing-to-notifications) for the possible values. |
+| **token_type** | [int](https://core.telegram.org/type/int) | Device token type, see [PUSH updates](https://core.telegram.org/api/push-updates#subscribing-to-notifications) for the possible values. |
 | **token** | [string](https://core.telegram.org/type/string) | Device token, see [PUSH updates](https://core.telegram.org/api/push-updates#subscribing-to-notifications) for the possible values. |
-| **other\_uids** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | List of user identifiers of other users currently using the client |
+| **other_uids** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | List of user identifiers of other users currently using the client |
 
 ### Result
 
@@ -145,7 +145,7 @@ account.unregisterDevice#6a0d3206 token_type:int token:string other_uids:Vector<
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | TOKEN\_INVALID | The provided token is invalid. |
+| 400 | TOKEN_INVALID | The provided token is invalid. |
 
 ### Related pages
 

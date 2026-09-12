@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auctionBidLevel
 
 Describes a bid in an [auction](https://core.telegram.org/api/auctions).
 
-* [Layer 223](https://core.telegram.org/constructor/auctionBidLevel#) 
+* [Layer 223](https://core.telegram.org/constructor/auctionBidLevel) 
   + [1 – Base layer](https://core.telegram.org/constructor/auctionBidLevel?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auctionBidLevel?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auctionBidLevel?layer=3)

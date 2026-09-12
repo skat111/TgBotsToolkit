@@ -11,7 +11,7 @@ Some tasks from a checklist were marked as done or not done.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [task\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ad13a6f6880f2d3029455039cead0a464) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [task_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ad13a6f6880f2d3029455039cead0a464) |
 |  | Number of changed tasks. |
 |  | |
 
@@ -20,9 +20,9 @@ Some tasks from a checklist were marked as done or not done.
 | Public Instance Methods | |
 |  | [pushMessageContentChecklistTasksDone](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#a577ed16150f83f25e4d5b4b8b59d8fbe) () |
 |  | |
-|  | [pushMessageContentChecklistTasksDone](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ac464b844e4174561886f07771d74c8af) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [task\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ad13a6f6880f2d3029455039cead0a464)) |
+|  | [pushMessageContentChecklistTasksDone](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ac464b844e4174561886f07771d74c8af) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [task_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ad13a6f6880f2d3029455039cead0a464)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Some tasks from a checklist were marked as done or not done.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1187614554 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1187614554 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Some tasks from a checklist were marked as done or not done.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [pushMessageContentChecklistTasksDone](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *task\_count\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [pushMessageContentChecklistTasksDone](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1push_message_content_checklist_tasks_done.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *task_count_* | ) |  | | explicit |
 
 Some tasks from a checklist were marked as done or not done.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | task\_count\_ | Number of changed tasks. |
+    | [in] | task_count_ | Number of changed tasks. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

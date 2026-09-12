@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateDeleteScheduledMessages
 
 Some [scheduled messages](https://core.telegram.org/api/scheduled-messages) were deleted (or sent) from the schedule queue of a chat
 
-* [Layer 223](https://core.telegram.org/constructor/updateDeleteScheduledMessages#) 
+* [Layer 223](https://core.telegram.org/constructor/updateDeleteScheduledMessages) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateDeleteScheduledMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateDeleteScheduledMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateDeleteScheduledMessages?layer=3)
@@ -131,7 +131,7 @@ updateDeleteScheduledMessages#f2a71983 flags:# peer:Peer messages:Vector<int> se
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **peer** | [Peer](https://core.telegram.org/type/Peer) | Peer |
 | **messages** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | Deleted scheduled messages |
-| **sent\_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | If set, this update indicates that some scheduled messages were sent (not simply deleted from the schedule queue).  In this case, the `messages` field will contain the scheduled message IDs for the sent messages (initially returned in [updateNewScheduledMessage](https://core.telegram.org/constructor/updateNewScheduledMessage)), and `sent_messages` will contain the real message IDs for the sent messages. |
+| **sent_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | If set, this update indicates that some scheduled messages were sent (not simply deleted from the schedule queue).  In this case, the `messages` field will contain the scheduled message IDs for the sent messages (initially returned in [updateNewScheduledMessage](https://core.telegram.org/constructor/updateNewScheduledMessage)), and `sent_messages` will contain the real message IDs for the sent messages. |
 
 ### Type
 

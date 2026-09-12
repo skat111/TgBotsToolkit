@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/pageBlockSubheader
 
 Subheader
 
-* [Layer 223](https://core.telegram.org/constructor/pageBlockSubheader#) 
+* [Layer 223](https://core.telegram.org/constructor/pageBlockSubheader) 
   + [1 – Base layer](https://core.telegram.org/constructor/pageBlockSubheader?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/pageBlockSubheader?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/pageBlockSubheader?layer=3)

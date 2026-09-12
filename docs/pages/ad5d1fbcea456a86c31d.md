@@ -2,7 +2,7 @@
 
 Source: https://core.telegram.org/api/auth
 
-Authorization is associated with a client's encryption key identifier: **auth\_key\_id**. No additional parameters need to be passed into methods following authorization.
+Authorization is associated with a client's encryption key identifier: **auth_key_id**. No additional parameters need to be passed into methods following authorization.
 
 To log in as a [bot](https://core.telegram.org/bots), follow [these instructions »](https://core.telegram.org/api/bots).
 
@@ -72,8 +72,8 @@ The returned [auth.sentCode](https://core.telegram.org/constructor/auth.sentCode
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **type** | [auth.SentCodeType](https://core.telegram.org/type/auth.SentCodeType) | Phone code type |
-| **phone\_code\_hash** | [string](https://core.telegram.org/type/string) | Phone code hash, to be stored and reused in later method calls |
-| **next\_type** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[auth.CodeType](https://core.telegram.org/type/auth.CodeType) | Phone code type that will be sent next, if the phone code is not received within `timeout` seconds: to send it use [auth.resendCode](https://core.telegram.org/method/auth.resendCode) |
+| **phone_code_hash** | [string](https://core.telegram.org/type/string) | Phone code hash, to be stored and reused in later method calls |
+| **next_type** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[auth.CodeType](https://core.telegram.org/type/auth.CodeType) | Phone code type that will be sent next, if the phone code is not received within `timeout` seconds: to send it use [auth.resendCode](https://core.telegram.org/method/auth.resendCode) |
 | **timeout** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | Timeout for reception of the phone code |
 
 The system will automatically choose how to send the authorization code; there are multiple possible ways the code can arrive, signaled to the client via the `type` field of the [auth.SentCodeType](https://core.telegram.org/type/auth.SentCodeType) constructor.
@@ -181,9 +181,9 @@ If the user cannot access their email address, an email reset may be requested u
 
 To change the login email after login, pass [emailVerifyPurposeLoginChange](https://core.telegram.org/constructor/emailVerifyPurposeLoginChange) as `purpose`, following the exact same Google ID/Apple ID/email code login flow as above: on success, the [account.verifyEmail](https://core.telegram.org/method/account.verifyEmail) method will return an [account.emailVerified](https://core.telegram.org/constructor/account.emailVerified) constructor.
 
-The skippable [SETUP\_LOGIN\_EMAIL suggestion »](https://core.telegram.org/api/config#setup-login-email) may be sent by the server, to invite a user to setup email verification.
+The skippable [SETUP_LOGIN_EMAIL suggestion »](https://core.telegram.org/api/config#setup-login-email) may be sent by the server, to invite a user to setup email verification.
 
-The non-skippable [SETUP\_LOGIN\_EMAIL\_NOSKIP suggestion »](https://core.telegram.org/api/config#setup-login-email) may be sent by the server, to force a user to setup email verification: this suggestion is not skippable, and must be presented as a non-dismissable full-screen view, which fully prevents usage of the app until a login email is configured.
+The non-skippable [SETUP_LOGIN_EMAIL_NOSKIP suggestion »](https://core.telegram.org/api/config#setup-login-email) may be sent by the server, to force a user to setup email verification: this suggestion is not skippable, and must be presented as a non-dismissable full-screen view, which fully prevents usage of the app until a login email is configured.
 
 ### Sign in/sign up
 
@@ -201,7 +201,7 @@ auth.authorization#2ea2c0d4 flags:# setup_password_required:flags.1?true otherwi
 auth.checkPassword#d18b4d16 password:InputCheckPasswordSRP = auth.Authorization;
 ```
 
-When trying to sign in using [auth.signIn](https://core.telegram.org/method/auth.signIn), an [error 400 SESSION\_PASSWORD\_NEEDED](https://core.telegram.org/method/auth.signIn#possible-errors) may be returned, if the user has two-factor authentication enabled.
+When trying to sign in using [auth.signIn](https://core.telegram.org/method/auth.signIn), an [error 400 SESSION_PASSWORD_NEEDED](https://core.telegram.org/method/auth.signIn#possible-errors) may be returned, if the user has two-factor authentication enabled.
 In this case, instructions for [SRP 2FA authentication](https://core.telegram.org/api/srp) must be followed.
 
 To set up two-factor authorization on an already authorized account, follow the [SRP 2FA authentication docs](https://core.telegram.org/api/srp), invoking [auth.checkPassword](https://core.telegram.org/method/auth.checkPassword) after generating the appropriate [InputCheckPasswordSRP](https://core.telegram.org/type/InputCheckPasswordSRP) object.
@@ -266,7 +266,7 @@ account.invalidateSignInCodes#ca8ae8ba codes:Vector<string> = Bool;
 
 Each phone number is limited to only a certain number of login attempts per day (e.g. 5, but this is subject to change), after which the API will return a FLOOD error until the next day. This might not be enough for testing the implementation of User Authorization flows in client applications.
 
-There are several reserved phone number prefixes for testing that your application handles redirects between DCs, sign up, sign in and 2FA flows correctly. These numbers are only available on **Test DCs** (their IP addresses for TCP transport are available in [API development tools](https://my.telegram.org/apps) panel after [api\_id was obtained](https://core.telegram.org/api/obtaining_api_id#obtaining-api-id), [URI format](https://core.telegram.org/mtproto/transports#uri-format) for HTTPS/WebSocket transport).
+There are several reserved phone number prefixes for testing that your application handles redirects between DCs, sign up, sign in and 2FA flows correctly. These numbers are only available on **Test DCs** (their IP addresses for TCP transport are available in [API development tools](https://my.telegram.org/apps) panel after [api_id was obtained](https://core.telegram.org/api/obtaining_api_id#obtaining-api-id), [URI format](https://core.telegram.org/mtproto/transports#uri-format) for HTTPS/WebSocket transport).
 
 If you wish to emulate an application of a user associated with DC number X, it is sufficient to specify the phone number as `99966XYYYY`, where YYYY are random numbers, when registering the user. A user like this would always get XXXXX as the login confirmation code (the DC number, repeated five times). Note that the value of X must be in the range of 1-3 because there are only 3 Test DCs. When the flood limit is reached for any particular test number, just choose another number (changing the YYYY random part).
 
@@ -278,7 +278,7 @@ Proceed with User Authorization flows in **Production DCs** only after you make 
 
 ### We are authorized
 
-As a result of authorization, the client key, **auth\_key\_id**, becomes associated with the user, and each subsequent API call with this key will be executed with that user's identity. The authorization method itself returns the relevant user. It is best to immediately store the User ID locally in a binding with the key.
+As a result of authorization, the client key, **auth_key_id**, becomes associated with the user, and each subsequent API call with this key will be executed with that user's identity. The authorization method itself returns the relevant user. It is best to immediately store the User ID locally in a binding with the key.
 
 Only a small portion of the API methods are available to **unauthorized** users:
 

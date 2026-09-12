@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputReportReasonPersonalDetails
 
 Report for divulgation of personal details
 
-* [Layer 223](https://core.telegram.org/constructor/inputReportReasonPersonalDetails#) 
+* [Layer 223](https://core.telegram.org/constructor/inputReportReasonPersonalDetails) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputReportReasonPersonalDetails?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputReportReasonPersonalDetails?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputReportReasonPersonalDetails?layer=3)

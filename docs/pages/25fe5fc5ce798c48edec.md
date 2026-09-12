@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/emojiList
 
 Represents a list of [custom emojis](https://core.telegram.org/api/custom-emoji).
 
-* [Layer 223](https://core.telegram.org/constructor/emojiList#) 
+* [Layer 223](https://core.telegram.org/constructor/emojiList) 
   + [1 – Base layer](https://core.telegram.org/constructor/emojiList?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/emojiList?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/emojiList?layer=3)
@@ -129,7 +129,7 @@ emojiList#7a1e11d1 hash:long document_id:Vector<long> = EmojiList;
 | Name | Type | Description |
 | --- | --- | --- |
 | **hash** | [long](https://core.telegram.org/type/long) | [Hash used for caching, for more info click here](https://core.telegram.org/api/offsets#hash-generation) |
-| **document\_id** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | Custom emoji IDs |
+| **document_id** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | Custom emoji IDs |
 
 ### Type
 

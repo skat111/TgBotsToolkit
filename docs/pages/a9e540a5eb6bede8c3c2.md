@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputBotInlineResultDocument
 
 Document (media of any type except for photos)
 
-* [Layer 223](https://core.telegram.org/constructor/inputBotInlineResultDocument#) 
+* [Layer 223](https://core.telegram.org/constructor/inputBotInlineResultDocument) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputBotInlineResultDocument?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputBotInlineResultDocument?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputBotInlineResultDocument?layer=3)
@@ -134,7 +134,7 @@ inputBotInlineResultDocument#fff8fdc4 flags:# id:string type:string title:flags.
 | **title** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Result title |
 | **description** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | Result description |
 | **document** | [InputDocument](https://core.telegram.org/type/InputDocument) | Document to send |
-| **send\_message** | [InputBotInlineMessage](https://core.telegram.org/type/InputBotInlineMessage) | Message to send when the result is selected |
+| **send_message** | [InputBotInlineMessage](https://core.telegram.org/type/InputBotInlineMessage) | Message to send when the result is selected |
 
 ### Type
 

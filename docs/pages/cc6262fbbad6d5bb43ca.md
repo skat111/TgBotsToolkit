@@ -8,12 +8,12 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns the list of proxies that are currently set up. Can be called before authorization.
 
-Returns object\_ptr<AddedProxies>.
+Returns object_ptr<AddedProxies>.
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#a414d0b7216fcc07d44b4387a38a13467) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [addedProxies](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1added_proxies.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#a414d0b7216fcc07d44b4387a38a13467) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [addedProxies](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1added_proxies.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -22,7 +22,7 @@ Returns object\_ptr<AddedProxies>.
 | Public Instance Methods | |
 |  | [getProxies](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#a896bfde6975e9587480e53cc0788e927) () |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Returns object\_ptr<AddedProxies>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1234066431 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_proxies.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1234066431 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -59,7 +59,7 @@ Returns object\_ptr<AddedProxies>.
 
 Default constructor for a function, which returns the list of proxies that are currently set up. Can be called before authorization.
 
-Returns object\_ptr<AddedProxies>.
+Returns object_ptr<AddedProxies>.
 
 ## Method Documentation
 
@@ -67,15 +67,15 @@ Returns object\_ptr<AddedProxies>.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -83,4 +83,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

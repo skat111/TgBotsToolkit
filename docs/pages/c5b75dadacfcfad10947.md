@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/DialogFilterSuggested
 
 Suggested dialog filters ([folder »](https://core.telegram.org/api/folders))
 
-* [Layer 223](https://core.telegram.org/type/DialogFilterSuggested#) 
+* [Layer 223](https://core.telegram.org/type/DialogFilterSuggested) 
   + [1 – Base layer](https://core.telegram.org/type/DialogFilterSuggested?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/DialogFilterSuggested?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/DialogFilterSuggested?layer=3)

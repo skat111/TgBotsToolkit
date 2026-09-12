@@ -11,10 +11,10 @@ The link is a link to a gift collection. Call [searchPublicChat](https://core.te
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [gift\_owner\_username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a2f45759e3d78e57b2b79142b44866120) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [gift_owner_username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a2f45759e3d78e57b2b79142b44866120) |
 |  | Username of the owner of the gift collection. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [collection\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a4f7a01c11b02cebd4a2b2b2cf87f44ce) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [collection_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a4f7a01c11b02cebd4a2b2b2cf87f44ce) |
 |  | Gift collection identifier. |
 |  | |
 
@@ -23,9 +23,9 @@ The link is a link to a gift collection. Call [searchPublicChat](https://core.te
 | Public Instance Methods | |
 |  | [internalLinkTypeGiftCollection](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a75506f1bbd95ceb2042086f06a9620cd) () |
 |  | |
-|  | [internalLinkTypeGiftCollection](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a582d9397813d4d8775c12062464aba08) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[gift\_owner\_username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a2f45759e3d78e57b2b79142b44866120), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [collection\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a4f7a01c11b02cebd4a2b2b2cf87f44ce)) |
+|  | [internalLinkTypeGiftCollection](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a582d9397813d4d8775c12062464aba08) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[gift_owner_username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a2f45759e3d78e57b2b79142b44866120), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [collection_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a4f7a01c11b02cebd4a2b2b2cf87f44ce)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ The link is a link to a gift collection. Call [searchPublicChat](https://core.te
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -812480347 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -812480347 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ The link is a link to a gift collection. Call [searchPublicChat](https://core.te
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [internalLinkTypeGiftCollection](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *gift\_owner\_username\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *collection\_id\_* |
+| [internalLinkTypeGiftCollection](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_gift_collection.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *gift_owner_username_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *collection_id_* |
 |  | ) |  |  |
 
 The link is a link to a gift collection. Call [searchPublicChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_chat.html) with the given username, then call [getReceivedGifts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_received_gifts.html) with the received gift owner identifier and the given collection identifier, then show the collection if received.
@@ -75,8 +75,8 @@ The link is a link to a gift collection. Call [searchPublicChat](https://core.te
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | gift\_owner\_username\_ | Username of the owner of the gift collection. |
-    | [in] | collection\_id\_ | Gift collection identifier. |
+    | [in] | gift_owner_username_ | Username of the owner of the gift collection. |
+    | [in] | collection_id_ | Gift collection identifier. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

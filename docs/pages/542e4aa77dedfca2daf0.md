@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.searchCounter
 
 Indicates how many results would be found by a [messages.search](https://core.telegram.org/method/messages.search) call with the same parameters
 
-* [Layer 223](https://core.telegram.org/constructor/messages.searchCounter#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.searchCounter) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.searchCounter?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.searchCounter?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.searchCounter?layer=3)

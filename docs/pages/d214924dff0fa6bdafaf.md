@@ -8,25 +8,25 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Changes the draft message in a chat or a topic.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Chat identifier. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > | [topic\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#adf6e2906ee2f8b6a06150747aa41f7e0) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > | [topic_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#adf6e2906ee2f8b6a06150747aa41f7e0) |
 |  | Topic in which the draft will be changed; pass null to change the draft for the chat itself. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > | [draft\_message\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a96cc1c668d95c8761966b62bfbea1c89) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > | [draft_message_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a96cc1c668d95c8761966b62bfbea1c89) |
 |  | New draft message; pass null to remove the draft. All files in draft message content must be of the type [inputFileLocal](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_local.html). Media thumbnails and captions are ignored. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -35,9 +35,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [setChatDraftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#acbedd554141733e3ba007f6a006ca84b) () |
 |  | |
-|  | [setChatDraftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aef55f27c265060e579bbace1f677117b) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aa8a7803161092ff97e60d58707199e1f), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > &&[topic\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#adf6e2906ee2f8b6a06150747aa41f7e0), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > &&[draft\_message\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a96cc1c668d95c8761966b62bfbea1c89)) |
+|  | [setChatDraftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aef55f27c265060e579bbace1f677117b) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aa8a7803161092ff97e60d58707199e1f), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > &&[topic_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#adf6e2906ee2f8b6a06150747aa41f7e0), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > &&[draft_message_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a96cc1c668d95c8761966b62bfbea1c89)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -60,7 +60,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -555614927 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -555614927 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -74,27 +74,27 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which changes the draft message in a chat or a topic.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html#aef55f27c265060e579bbace1f677117b)setChatDraftMessage() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [setChatDraftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > && | *topic\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > && | *draft\_message\_* |
+| [setChatDraftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_chat_draft_message.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > && | *topic_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [draftMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1draft_message.html) > && | *draft_message_* |
 |  | ) |  |  |
 
 Creates a function, which changes the draft message in a chat or a topic.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Chat identifier. |
-    | [in] | topic\_id\_ | Topic in which the draft will be changed; pass null to change the draft for the chat itself. |
-    | [in] | draft\_message\_ | New draft message; pass null to remove the draft. All files in draft message content must be of the type [inputFileLocal](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_local.html). Media thumbnails and captions are ignored. |
+    | [in] | chat_id_ | Chat identifier. |
+    | [in] | topic_id_ | Topic in which the draft will be changed; pass null to change the draft for the chat itself. |
+    | [in] | draft_message_ | New draft message; pass null to remove the draft. All files in draft message content must be of the type [inputFileLocal](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_file_local.html). Media thumbnails and captions are ignored. |
 
 ## Method Documentation
 
@@ -102,15 +102,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -118,4 +118,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

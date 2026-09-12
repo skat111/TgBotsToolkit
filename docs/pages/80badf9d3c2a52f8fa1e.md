@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/pageBlockSlideshow
 
 Slideshow
 
-* [Layer 223](https://core.telegram.org/constructor/pageBlockSlideshow#) 
+* [Layer 223](https://core.telegram.org/constructor/pageBlockSlideshow) 
   + [1 – Base layer](https://core.telegram.org/constructor/pageBlockSlideshow?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/pageBlockSlideshow?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/pageBlockSlideshow?layer=3)

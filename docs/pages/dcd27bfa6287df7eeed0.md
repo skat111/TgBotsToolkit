@@ -11,19 +11,19 @@ Contains information about Telegram Stars earned by a user or a chat.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [total\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a18f2d9295e7d68ee6808e47c29ba715a) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [total_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a18f2d9295e7d68ee6808e47c29ba715a) |
 |  | Total Telegram Star amount earned. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [current\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a2c5668cbb7d47ce5cff8460596dc86ec) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [current_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a2c5668cbb7d47ce5cff8460596dc86ec) |
 |  | The Telegram Star amount that isn't withdrawn yet. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [available\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a1f2320b45da7816d6cf13720ceae7687) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [available_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a1f2320b45da7816d6cf13720ceae7687) |
 |  | The Telegram Star amount that is available for withdrawal. |
 |  | |
-| bool | [withdrawal\_enabled\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae602557809411cde222587834241211e) |
+| bool | [withdrawal_enabled_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae602557809411cde222587834241211e) |
 |  | True, if Telegram Stars can be withdrawn now or later. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [next\_withdrawal\_in\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae383b80b1e4625b38b10a157814df2da) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [next_withdrawal_in_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae383b80b1e4625b38b10a157814df2da) |
 |  | Time left before the next withdrawal can be started, in seconds; 0 if withdrawal can be started now. |
 |  | |
 
@@ -32,9 +32,9 @@ Contains information about Telegram Stars earned by a user or a chat.
 | Public Instance Methods | |
 |  | [starRevenueStatus](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ad9d968f2e160c4e20f8b21dda6b46fcd) () |
 |  | |
-|  | [starRevenueStatus](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#acde80cc31ee2c8b66e81c61dc19d12a7) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[total\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a18f2d9295e7d68ee6808e47c29ba715a), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[current\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a2c5668cbb7d47ce5cff8460596dc86ec), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[available\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a1f2320b45da7816d6cf13720ceae7687), bool [withdrawal\_enabled\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae602557809411cde222587834241211e), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [next\_withdrawal\_in\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae383b80b1e4625b38b10a157814df2da)) |
+|  | [starRevenueStatus](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#acde80cc31ee2c8b66e81c61dc19d12a7) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[total_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a18f2d9295e7d68ee6808e47c29ba715a), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[current_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a2c5668cbb7d47ce5cff8460596dc86ec), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[available_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a1f2320b45da7816d6cf13720ceae7687), bool [withdrawal_enabled_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae602557809411cde222587834241211e), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [next_withdrawal_in_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ae383b80b1e4625b38b10a157814df2da)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Contains information about Telegram Stars earned by a user or a chat.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2006266600 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2006266600 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -75,11 +75,11 @@ Contains information about Telegram Stars earned by a user or a chat.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [starRevenueStatus](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *total\_amount\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *current\_amount\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *available\_amount\_*, |
-|  |  | bool | *withdrawal\_enabled\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *next\_withdrawal\_in\_* |
+| [starRevenueStatus](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_revenue_status.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *total_amount_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *current_amount_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *available_amount_*, |
+|  |  | bool | *withdrawal_enabled_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *next_withdrawal_in_* |
 |  | ) |  |  |
 
 Contains information about Telegram Stars earned by a user or a chat.
@@ -87,11 +87,11 @@ Contains information about Telegram Stars earned by a user or a chat.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | total\_amount\_ | Total Telegram Star amount earned. |
-    | [in] | current\_amount\_ | The Telegram Star amount that isn't withdrawn yet. |
-    | [in] | available\_amount\_ | The Telegram Star amount that is available for withdrawal. |
-    | [in] | withdrawal\_enabled\_ | True, if Telegram Stars can be withdrawn now or later. |
-    | [in] | next\_withdrawal\_in\_ | Time left before the next withdrawal can be started, in seconds; 0 if withdrawal can be started now. |
+    | [in] | total_amount_ | Total Telegram Star amount earned. |
+    | [in] | current_amount_ | The Telegram Star amount that isn't withdrawn yet. |
+    | [in] | available_amount_ | The Telegram Star amount that is available for withdrawal. |
+    | [in] | withdrawal_enabled_ | True, if Telegram Stars can be withdrawn now or later. |
+    | [in] | next_withdrawal_in_ | Time left before the next withdrawal can be started, in seconds; 0 if withdrawal can be started now. |
 
 ## Method Documentation
 
@@ -99,15 +99,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -115,4 +115,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

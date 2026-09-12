@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputInvoicePremiumAuthCode
 
 Used to pay for login codes, in case of high cost of SMS verification codes for the user's country/provider, see [here »](https://core.telegram.org/api/auth#paid-auth) for more info.
 
-* [Layer 223](https://core.telegram.org/constructor/inputInvoicePremiumAuthCode#) 
+* [Layer 223](https://core.telegram.org/constructor/inputInvoicePremiumAuthCode) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputInvoicePremiumAuthCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputInvoicePremiumAuthCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputInvoicePremiumAuthCode?layer=3)

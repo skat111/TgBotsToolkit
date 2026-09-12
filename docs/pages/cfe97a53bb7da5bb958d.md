@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/boost
 
 Info about one or more [boosts](https://core.telegram.org/api/boost) applied by a specific user.
 
-* [Layer 223](https://core.telegram.org/constructor/boost#) 
+* [Layer 223](https://core.telegram.org/constructor/boost) 
   + [1 – Base layer](https://core.telegram.org/constructor/boost?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/boost?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/boost?layer=3)
@@ -133,11 +133,11 @@ boost#4b3e14d6 flags:# gift:flags.1?true giveaway:flags.2?true unclaimed:flags.3
 | **giveaway** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether this boost was applied because the user was chosen in a [giveaway started by the channel/supergroup](https://core.telegram.org/api/giveaways). |
 | **unclaimed** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | If set, the user hasn't yet invoked [payments.applyGiftCode](https://core.telegram.org/method/payments.applyGiftCode) to claim a subscription gifted [directly or in a giveaway by the channel](https://core.telegram.org/api/giveaways). |
 | **id** | [string](https://core.telegram.org/type/string) | Unique ID for this set of boosts. |
-| **user\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[long](https://core.telegram.org/type/long) | ID of the user that applied the boost. |
-| **giveaway\_msg\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | The message ID of the [giveaway](https://core.telegram.org/api/giveaways) |
+| **user_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[long](https://core.telegram.org/type/long) | ID of the user that applied the boost. |
+| **giveaway_msg_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | The message ID of the [giveaway](https://core.telegram.org/api/giveaways) |
 | **date** | [int](https://core.telegram.org/type/int) | When was the boost applied |
 | **expires** | [int](https://core.telegram.org/type/int) | When does the boost expire |
-| **used\_gift\_slug** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | The created Telegram Premium gift code, only set if either `gift` or `giveaway` are set AND it is either a gift code for the currently logged in user or if it was already claimed. |
+| **used_gift_slug** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | The created Telegram Premium gift code, only set if either `gift` or `giveaway` are set AND it is either a gift code for the currently logged in user or if it was already claimed. |
 | **multiplier** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[int](https://core.telegram.org/type/int) | If set, this boost counts as `multiplier` boosts, otherwise it counts as a single boost. |
 | **stars** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[long](https://core.telegram.org/type/long) | Number of Telegram Stars distributed among the winners of the giveaway. |
 

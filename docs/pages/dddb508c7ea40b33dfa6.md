@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputEncryptedFile
 
 Sets forwarded encrypted file for attachment.
 
-* [Layer 223](https://core.telegram.org/constructor/inputEncryptedFile#) 
+* [Layer 223](https://core.telegram.org/constructor/inputEncryptedFile) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputEncryptedFile?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputEncryptedFile?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputEncryptedFile?layer=3)
@@ -129,7 +129,7 @@ inputEncryptedFile#5a17b5e5 id:long access_hash:long = InputEncryptedFile;
 | Name | Type | Description |
 | --- | --- | --- |
 | **id** | [long](https://core.telegram.org/type/long) | File ID, value of **id** parameter from [encryptedFile](https://core.telegram.org/constructor/encryptedFile) |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Checking sum, value of **access\_hash** parameter from [encryptedFile](https://core.telegram.org/constructor/encryptedFile) |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Checking sum, value of **access_hash** parameter from [encryptedFile](https://core.telegram.org/constructor/encryptedFile) |
 
 ### Type
 

@@ -11,7 +11,7 @@ The owner of the chat has changed.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [new\_owner\_user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a11fde1421209930e26db445ae0cfb902) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [new_owner_user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a11fde1421209930e26db445ae0cfb902) |
 |  | Identifier of the user who is the new owner of the chat. |
 |  | |
 
@@ -20,9 +20,9 @@ The owner of the chat has changed.
 | Public Instance Methods | |
 |  | [messageChatOwnerChanged](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a1eef279b6d6034f89834261646b3a96d) () |
 |  | |
-|  | [messageChatOwnerChanged](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a0b18c3ca164334316e8f7941fa89ef3a) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [new\_owner\_user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a11fde1421209930e26db445ae0cfb902)) |
+|  | [messageChatOwnerChanged](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a0b18c3ca164334316e8f7941fa89ef3a) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [new_owner_user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a11fde1421209930e26db445ae0cfb902)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ The owner of the chat has changed.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1679665913 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1679665913 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ The owner of the chat has changed.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messageChatOwnerChanged](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *new\_owner\_user\_id\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messageChatOwnerChanged](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_owner_changed.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *new_owner_user_id_* | ) |  | | explicit |
 
 The owner of the chat has changed.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | new\_owner\_user\_id\_ | Identifier of the user who is the new owner of the chat. |
+    | [in] | new_owner_user_id_ | Identifier of the user who is the new owner of the chat. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

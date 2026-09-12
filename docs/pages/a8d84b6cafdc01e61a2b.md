@@ -8,19 +8,19 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Sets new log stream for internal logging of TDLib. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > | [log\_stream\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a64fc1ab40324d1e264512ab3df0ca000) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > | [log_stream_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a64fc1ab40324d1e264512ab3df0ca000) |
 |  | New log stream. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [setLogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a030920dd5205dd501bbd73881f924bc2) () |
 |  | |
-|  | [setLogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a13859027e46c42e6ead359238c01676f) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > &&[log\_stream\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a64fc1ab40324d1e264512ab3df0ca000)) |
+|  | [setLogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a13859027e46c42e6ead359238c01676f) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > &&[log_stream_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a64fc1ab40324d1e264512ab3df0ca000)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1364199535 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1364199535 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -68,22 +68,22 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which sets new log stream for internal logging of TDLib. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html#a13859027e46c42e6ead359238c01676f)setLogStream() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [setLogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > && | *log\_stream\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [setLogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1set_log_stream.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [LogStream](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_log_stream.html) > && | *log_stream_* | ) |  | | explicit |
 
 Creates a function, which sets new log stream for internal logging of TDLib. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | log\_stream\_ | New log stream. |
+    | [in] | log_stream_ | New log stream. |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

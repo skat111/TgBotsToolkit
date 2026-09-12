@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/timezone
 
 Timezone information.
 
-* [Layer 223](https://core.telegram.org/constructor/timezone#) 
+* [Layer 223](https://core.telegram.org/constructor/timezone) 
   + [1 – Base layer](https://core.telegram.org/constructor/timezone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/timezone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/timezone?layer=3)
@@ -130,7 +130,7 @@ timezone#ff9289f5 id:string name:string utc_offset:int = Timezone;
 | --- | --- | --- |
 | **id** | [string](https://core.telegram.org/type/string) | Unique timezone ID. |
 | **name** | [string](https://core.telegram.org/type/string) | Human-readable and localized timezone name. |
-| **utc\_offset** | [int](https://core.telegram.org/type/int) | UTC offset in seconds, which may be displayed in hh:mm format by the client together with the human-readable name (i.e. `$name UTC -01:00`). |
+| **utc_offset** | [int](https://core.telegram.org/type/int) | UTC offset in seconds, which may be displayed in hh:mm format by the client together with the human-readable name (i.e. `$name UTC -01:00`). |
 
 ### Type
 

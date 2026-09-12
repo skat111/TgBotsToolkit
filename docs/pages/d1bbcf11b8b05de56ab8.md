@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.starGiftCollections
 
 Represents a list of [star gift collections »](https://core.telegram.org/api/gifts#gift-collections).
 
-* [Layer 223](https://core.telegram.org/constructor/payments.starGiftCollections#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.starGiftCollections) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.starGiftCollections?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.starGiftCollections?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.starGiftCollections?layer=3)

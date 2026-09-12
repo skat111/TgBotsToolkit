@@ -11,7 +11,7 @@ The call has ended with an error.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > | [error\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a59355f6a214570cfa277525ef2460eac) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > | [error_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a59355f6a214570cfa277525ef2460eac) |
 |  | Error. An error with the code 4005000 will be returned if an outgoing call is missed because of an expired timeout. |
 |  | |
 
@@ -20,9 +20,9 @@ The call has ended with an error.
 | Public Instance Methods | |
 |  | [callStateError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a2bc179a6be8bc777667fe5c1ed0874fd) () |
 |  | |
-|  | [callStateError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a296179d3d7d1a48c5b5e822d1d4f4ab0) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > &&[error\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a59355f6a214570cfa277525ef2460eac)) |
+|  | [callStateError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a296179d3d7d1a48c5b5e822d1d4f4ab0) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > &&[error_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a59355f6a214570cfa277525ef2460eac)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ The call has ended with an error.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -975215467 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -975215467 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ The call has ended with an error.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [callStateError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > && | *error\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [callStateError](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [error](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1error.html) > && | *error_* | ) |  | | explicit |
 
 The call has ended with an error.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | error\_ | Error. An error with the code 4005000 will be returned if an outgoing call is missed because of an expired timeout. |
+    | [in] | error_ | Error. An error with the code 4005000 will be returned if an outgoing call is missed because of an expired timeout. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

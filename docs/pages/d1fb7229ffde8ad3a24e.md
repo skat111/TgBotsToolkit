@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.messageReactionsList
 
 List of peers that reacted to a specific message
 
-* [Layer 223](https://core.telegram.org/constructor/messages.messageReactionsList#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.messageReactionsList) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.messageReactionsList?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.messageReactionsList?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.messageReactionsList?layer=3)
@@ -133,7 +133,7 @@ messages.messageReactionsList#31bd492d flags:# count:int reactions:Vector<Messag
 | **reactions** | [Vector](https://core.telegram.org/type/Vector%20t)<[MessagePeerReaction](https://core.telegram.org/type/MessagePeerReaction)> | List of peers that reacted to a specific message |
 | **chats** | [Vector](https://core.telegram.org/type/Vector%20t)<[Chat](https://core.telegram.org/type/Chat)> | Mentioned chats |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | Mentioned users |
-| **next\_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | If set, indicates the next offset to use to load more results by invoking [messages.getMessageReactionsList](https://core.telegram.org/method/messages.getMessageReactionsList). |
+| **next_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | If set, indicates the next offset to use to load more results by invoking [messages.getMessageReactionsList](https://core.telegram.org/method/messages.getMessageReactionsList). |
 
 ### Type
 

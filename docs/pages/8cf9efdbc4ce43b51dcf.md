@@ -2,9 +2,9 @@
 
 Source: https://core.telegram.org/constructor/updateMessageID
 
-Sent message with **random\_id** client identifier was assigned an identifier.
+Sent message with **random_id** client identifier was assigned an identifier.
 
-* [Layer 223](https://core.telegram.org/constructor/updateMessageID#) 
+* [Layer 223](https://core.telegram.org/constructor/updateMessageID) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateMessageID?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateMessageID?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateMessageID?layer=3)
@@ -129,7 +129,7 @@ updateMessageID#4e90bfd6 id:int random_id:long = Update;
 | Name | Type | Description |
 | --- | --- | --- |
 | **id** | [int](https://core.telegram.org/type/int) | **id** identifier of a respective [Message](https://core.telegram.org/type/Message) |
-| **random\_id** | [long](https://core.telegram.org/type/long) | Previously transferred client **random\_id** identifier. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
+| **random_id** | [long](https://core.telegram.org/type/long) | Previously transferred client **random_id** identifier. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
 
 ### Type
 

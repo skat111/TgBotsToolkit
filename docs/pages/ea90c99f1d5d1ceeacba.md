@@ -8,7 +8,7 @@ Non-admin members or subscribers may export a link with `can_self_unmute` omitte
 
 Cannot be used for video chats/livestreams associated with private groups/channels, [conference calls »](https://core.telegram.org/api/group-calls#conference-calls) or [live stories »](https://core.telegram.org/api/group-calls#live-stories).
 
-* [Layer 223](https://core.telegram.org/method/phone.exportGroupCallInvite#) 
+* [Layer 223](https://core.telegram.org/method/phone.exportGroupCallInvite) 
   + [1 – Base layer](https://core.telegram.org/method/phone.exportGroupCallInvite?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/phone.exportGroupCallInvite?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.exportGroupCallInvite?layer=3)
@@ -135,7 +135,7 @@ phone.exportGroupCallInvite#e6aa647f flags:# can_self_unmute:flags.0?true call:I
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **can\_self\_unmute** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | For public video chats/livestreams, group call admins only: allow users that join using this link to speak without explicitly requesting permission, for example by raising their hand. |
+| **can_self_unmute** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | For public video chats/livestreams, group call admins only: allow users that join using this link to speak without explicitly requesting permission, for example by raising their hand. |
 | **call** | [InputGroupCall](https://core.telegram.org/type/InputGroupCall) | The public [video chat/livestream »](https://core.telegram.org/api/group-calls#video-chats-livestreams) |
 
 ### Result
@@ -148,8 +148,8 @@ phone.exportGroupCallInvite#e6aa647f flags:# can_self_unmute:flags.0?true call:I
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | GROUPCALL\_INVALID | The specified group call is invalid. |
-| 403 | PUBLIC\_CHANNEL\_MISSING | You can only export group call invite links for public chats or channels. |
+| 400 | GROUPCALL_INVALID | The specified group call is invalid. |
+| 403 | PUBLIC_CHANNEL_MISSING | You can only export group call invite links for public chats or channels. |
 
 ### Related pages
 

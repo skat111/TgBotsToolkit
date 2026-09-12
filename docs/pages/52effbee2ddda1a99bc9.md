@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.reportSponsoredMessage
 
 Report a [sponsored message »](https://core.telegram.org/api/sponsored-messages), see [here »](https://core.telegram.org/api/sponsored-messages#reporting-sponsored-messages) for more info on the full flow.
 
-* [Layer 223](https://core.telegram.org/method/messages.reportSponsoredMessage#) 
+* [Layer 223](https://core.telegram.org/method/messages.reportSponsoredMessage) 
   + [1 – Base layer](https://core.telegram.org/method/messages.reportSponsoredMessage?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.reportSponsoredMessage?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.reportSponsoredMessage?layer=3)
@@ -132,7 +132,7 @@ messages.reportSponsoredMessage#12cbf0c4 random_id:bytes option:bytes = channels
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **random\_id** | [bytes](https://core.telegram.org/type/bytes) | The ad's unique ID. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
+| **random_id** | [bytes](https://core.telegram.org/type/bytes) | The ad's unique ID. See [here »](https://core.telegram.org/api/updates#updatemessageid-updates) for more info on random ID deduplication and updateMessageID mapping. |
 | **option** | [bytes](https://core.telegram.org/type/bytes) | Chosen report option, initially an empty string, see [here »](https://core.telegram.org/api/sponsored-messages#reporting-sponsored-messages) for more info on the full flow. |
 
 ### Result

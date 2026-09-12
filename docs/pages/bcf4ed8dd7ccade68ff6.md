@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageActionChatAddUser
 
 New member in the group
 
-* [Layer 223](https://core.telegram.org/constructor/messageActionChatAddUser#) 
+* [Layer 223](https://core.telegram.org/constructor/messageActionChatAddUser) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageActionChatAddUser?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageActionChatAddUser?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageActionChatAddUser?layer=3)

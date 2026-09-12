@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputSecureValue
 
 Secure value, [for more info see the passport docs »](https://core.telegram.org/passport/encryption#encryption)
 
-* [Layer 223](https://core.telegram.org/constructor/inputSecureValue#) 
+* [Layer 223](https://core.telegram.org/constructor/inputSecureValue) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputSecureValue?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputSecureValue?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputSecureValue?layer=3)
@@ -131,12 +131,12 @@ inputSecureValue#db21d0a7 flags:# type:SecureValueType data:flags.0?SecureData f
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **type** | [SecureValueType](https://core.telegram.org/type/SecureValueType) | Secure [passport](https://core.telegram.org/passport) value type |
 | **data** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[SecureData](https://core.telegram.org/type/SecureData) | Encrypted [Telegram Passport](https://core.telegram.org/passport) element data |
-| **front\_side** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InputSecureFile](https://core.telegram.org/type/InputSecureFile) | Encrypted [passport](https://core.telegram.org/passport) file with the front side of the document |
-| **reverse\_side** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[InputSecureFile](https://core.telegram.org/type/InputSecureFile) | Encrypted [passport](https://core.telegram.org/passport) file with the reverse side of the document |
+| **front_side** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InputSecureFile](https://core.telegram.org/type/InputSecureFile) | Encrypted [passport](https://core.telegram.org/passport) file with the front side of the document |
+| **reverse_side** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[InputSecureFile](https://core.telegram.org/type/InputSecureFile) | Encrypted [passport](https://core.telegram.org/passport) file with the reverse side of the document |
 | **selfie** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[InputSecureFile](https://core.telegram.org/type/InputSecureFile) | Encrypted [passport](https://core.telegram.org/passport) file with a selfie of the user holding the document |
 | **translation** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[Vector](https://core.telegram.org/type/Vector%20t)<[InputSecureFile](https://core.telegram.org/type/InputSecureFile)> | Array of encrypted [passport](https://core.telegram.org/passport) files with translated versions of the provided documents |
 | **files** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[Vector](https://core.telegram.org/type/Vector%20t)<[InputSecureFile](https://core.telegram.org/type/InputSecureFile)> | Array of encrypted [passport](https://core.telegram.org/passport) files with photos the of the documents |
-| **plain\_data** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[SecurePlainData](https://core.telegram.org/type/SecurePlainData) | Plaintext verified [passport](https://core.telegram.org/passport) data |
+| **plain_data** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[SecurePlainData](https://core.telegram.org/type/SecurePlainData) | Plaintext verified [passport](https://core.telegram.org/passport) data |
 
 ### Type
 

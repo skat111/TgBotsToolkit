@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.updateSavedReactionTag
 
 Update the [description of a saved message tag »](https://core.telegram.org/api/saved-messages#tags).
 
-* [Layer 223](https://core.telegram.org/method/messages.updateSavedReactionTag#) 
+* [Layer 223](https://core.telegram.org/method/messages.updateSavedReactionTag) 
   + [1 – Base layer](https://core.telegram.org/method/messages.updateSavedReactionTag?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.updateSavedReactionTag?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.updateSavedReactionTag?layer=3)
@@ -145,8 +145,8 @@ messages.updateSavedReactionTag#60297dec flags:# reaction:Reaction title:flags.0
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 403 | PREMIUM\_ACCOUNT\_REQUIRED | A premium account is required to execute this action. |
-| 400 | REACTION\_INVALID | The specified reaction is invalid. |
+| 403 | PREMIUM_ACCOUNT_REQUIRED | A premium account is required to execute this action. |
+| 400 | REACTION_INVALID | The specified reaction is invalid. |
 
 ### Related pages
 

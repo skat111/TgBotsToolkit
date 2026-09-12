@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.sendVerifyPhoneCode
 
 Send the verification phone code for telegram [passport](https://core.telegram.org/passport).
 
-* [Layer 223](https://core.telegram.org/method/account.sendVerifyPhoneCode#) 
+* [Layer 223](https://core.telegram.org/method/account.sendVerifyPhoneCode) 
   + [1 – Base layer](https://core.telegram.org/method/account.sendVerifyPhoneCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.sendVerifyPhoneCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.sendVerifyPhoneCode?layer=3)
@@ -132,7 +132,7 @@ account.sendVerifyPhoneCode#a5a356f9 phone_number:string settings:CodeSettings =
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **phone\_number** | [string](https://core.telegram.org/type/string) | The phone number to verify |
+| **phone_number** | [string](https://core.telegram.org/type/string) | The phone number to verify |
 | **settings** | [CodeSettings](https://core.telegram.org/type/CodeSettings) | Phone code settings |
 
 ### Result
@@ -145,7 +145,7 @@ account.sendVerifyPhoneCode#a5a356f9 phone_number:string settings:CodeSettings =
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PHONE\_NUMBER\_INVALID | The phone number is invalid. |
+| 400 | PHONE_NUMBER_INVALID | The phone number is invalid. |
 
 ### Related pages
 

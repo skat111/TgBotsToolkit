@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageEntityPhone
 
 Message entity representing a phone number.
 
-* [Layer 223](https://core.telegram.org/constructor/messageEntityPhone#) 
+* [Layer 223](https://core.telegram.org/constructor/messageEntityPhone) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageEntityPhone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageEntityPhone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageEntityPhone?layer=3)

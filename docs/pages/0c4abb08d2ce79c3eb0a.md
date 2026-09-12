@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/channels.readMessageContents
 
 Mark [channel/supergroup](https://core.telegram.org/api/channel) message contents as read, emitting an [updateChannelReadMessagesContents](https://core.telegram.org/constructor/updateChannelReadMessagesContents).
 
-* [Layer 223](https://core.telegram.org/method/channels.readMessageContents#) 
+* [Layer 223](https://core.telegram.org/method/channels.readMessageContents) 
   + [1 – Base layer](https://core.telegram.org/method/channels.readMessageContents?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.readMessageContents?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.readMessageContents?layer=3)
@@ -144,9 +144,9 @@ channels.readMessageContents#eab5dc38 channel:InputChannel id:Vector<int> = Bool
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 406 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 406 | CHANNEL_PRIVATE | You haven't joined this channel/supergroup. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |
 
 ### Related pages
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/aicompose.getToneExample
 
 Fetch an example showing how an [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones) rephrases a sample message, used as a preview in the tone picker.
 
-* [Layer 223](https://core.telegram.org/method/aicompose.getToneExample#) 
+* [Layer 223](https://core.telegram.org/method/aicompose.getToneExample) 
   + [1 – Base layer](https://core.telegram.org/method/aicompose.getToneExample?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/aicompose.getToneExample?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/aicompose.getToneExample?layer=3)
@@ -129,7 +129,7 @@ Fetch an example showing how an [AI composer tone »](https://core.telegram.org/
 | Name | Type | Description |
 | --- | --- | --- |
 | **tone** | [InputAiComposeTone](https://core.telegram.org/type/InputAiComposeTone) | The tone to preview |
-| **num** | [int](https://core.telegram.org/type/int) | 0-based index of the example to fetch, to cycle through the available examples (there are [aicompose\_tone\_examples\_num »](https://core.telegram.org/api/config#aicompose-tone-examples-num) examples per tone) |
+| **num** | [int](https://core.telegram.org/type/int) | 0-based index of the example to fetch, to cycle through the available examples (there are [aicompose_tone_examples_num »](https://core.telegram.org/api/config#aicompose-tone-examples-num) examples per tone) |
 
 ### Result
 
@@ -141,7 +141,7 @@ Fetch an example showing how an [AI composer tone »](https://core.telegram.org/
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | AICOMPOSE\_TONE\_INVALID | The specified tone is invalid. |
+| 400 | AICOMPOSE_TONE_INVALID | The specified tone is invalid. |
 
 ### Related pages
 

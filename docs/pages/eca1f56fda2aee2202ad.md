@@ -8,22 +8,22 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns recently searched for hashtags or cashtags by their prefix.
 
-Returns object\_ptr<Hashtags>.
+Returns object_ptr<Hashtags>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [tag\_prefix\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#abc3054d46b7450ae0d749068aecb4b4d) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [tag_prefix_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#abc3054d46b7450ae0d749068aecb4b4d) |
 |  | Prefix of hashtags or cashtags to return. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [limit\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ad5c6852c24b3b39c48321496871a637b) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [limit_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ad5c6852c24b3b39c48321496871a637b) |
 |  | The maximum number of items to be returned. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a24ba813f1f61c491e18797a6f398409a) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [hashtags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1hashtags.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a24ba813f1f61c491e18797a6f398409a) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [hashtags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1hashtags.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -32,9 +32,9 @@ Returns object\_ptr<Hashtags>.
 | Public Instance Methods | |
 |  | [getSearchedForTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a740928d029a9cedf23ef3f9efc4cdf78) () |
 |  | |
-|  | [getSearchedForTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a7088313159ff7692db0848cb245cff12) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[tag\_prefix\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#abc3054d46b7450ae0d749068aecb4b4d), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [limit\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ad5c6852c24b3b39c48321496871a637b)) |
+|  | [getSearchedForTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a7088313159ff7692db0848cb245cff12) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[tag_prefix_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#abc3054d46b7450ae0d749068aecb4b4d), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [limit_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ad5c6852c24b3b39c48321496871a637b)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Returns object\_ptr<Hashtags>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1692716851 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1692716851 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -71,25 +71,25 @@ Returns object\_ptr<Hashtags>.
 
 Default constructor for a function, which returns recently searched for hashtags or cashtags by their prefix.
 
-Returns object\_ptr<Hashtags>.
+Returns object_ptr<Hashtags>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html#a7088313159ff7692db0848cb245cff12)getSearchedForTags() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [getSearchedForTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *tag\_prefix\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *limit\_* |
+| [getSearchedForTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_searched_for_tags.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *tag_prefix_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *limit_* |
 |  | ) |  |  |
 
 Creates a function, which returns recently searched for hashtags or cashtags by their prefix.
 
-Returns object\_ptr<Hashtags>.
+Returns object_ptr<Hashtags>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | tag\_prefix\_ | Prefix of hashtags or cashtags to return. |
-    | [in] | limit\_ | The maximum number of items to be returned. |
+    | [in] | tag_prefix_ | Prefix of hashtags or cashtags to return. |
+    | [in] | limit_ | The maximum number of items to be returned. |
 
 ## Method Documentation
 
@@ -97,15 +97,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -113,4 +113,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

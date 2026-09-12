@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionChangeWa
 
 The [wallpaper](https://core.telegram.org/api/wallpapers) was changed
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionChangeWallpaper?layer=3)
@@ -128,8 +128,8 @@ channelAdminLogEventActionChangeWallpaper#31bb5d52 prev_value:WallPaper new_valu
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **prev\_value** | [WallPaper](https://core.telegram.org/type/WallPaper) | Previous wallpaper |
-| **new\_value** | [WallPaper](https://core.telegram.org/type/WallPaper) | New wallpaper |
+| **prev_value** | [WallPaper](https://core.telegram.org/type/WallPaper) | Previous wallpaper |
+| **new_value** | [WallPaper](https://core.telegram.org/type/WallPaper) | New wallpaper |
 
 ### Type
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave
 
 Whether received [gifts](https://core.telegram.org/api/gifts) will be automatically displayed on our profile
 
-* [Layer 223](https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave#) 
+* [Layer 223](https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave) 
   + [1 – Base layer](https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/privacyKeyStarGiftsAutoSave?layer=3)

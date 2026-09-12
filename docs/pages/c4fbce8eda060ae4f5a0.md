@@ -11,7 +11,7 @@ The messages were exported from a group chat.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [title\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ae49b8c94dab3e85761dd65876260deb9) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [title_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ae49b8c94dab3e85761dd65876260deb9) |
 |  | Title of the group chat; may be empty if unrecognized. |
 |  | |
 
@@ -20,9 +20,9 @@ The messages were exported from a group chat.
 | Public Instance Methods | |
 |  | [messageFileTypeGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#a1e6ed17dde5d7ae41c91028006b1e0a8) () |
 |  | |
-|  | [messageFileTypeGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#aad09816aa136e7ca26dddd1e4837cef4) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[title\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ae49b8c94dab3e85761dd65876260deb9)) |
+|  | [messageFileTypeGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#aad09816aa136e7ca26dddd1e4837cef4) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[title_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ae49b8c94dab3e85761dd65876260deb9)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ The messages were exported from a group chat.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -219836568 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -219836568 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ The messages were exported from a group chat.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messageFileTypeGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *title\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [messageFileTypeGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_file_type_group.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *title_* | ) |  | | explicit |
 
 The messages were exported from a group chat.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | title\_ | Title of the group chat; may be empty if unrecognized. |
+    | [in] | title_ | Title of the group chat; may be empty if unrecognized. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

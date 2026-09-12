@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionChangeLo
 
 The geogroup location was changed
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionChangeLocation?layer=3)
@@ -128,8 +128,8 @@ channelAdminLogEventActionChangeLocation#e6b76ae prev_value:ChannelLocation new_
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **prev\_value** | [ChannelLocation](https://core.telegram.org/type/ChannelLocation) | Previous location |
-| **new\_value** | [ChannelLocation](https://core.telegram.org/type/ChannelLocation) | New location |
+| **prev_value** | [ChannelLocation](https://core.telegram.org/type/ChannelLocation) | Previous location |
+| **new_value** | [ChannelLocation](https://core.telegram.org/type/ChannelLocation) | New location |
 
 ### Type
 

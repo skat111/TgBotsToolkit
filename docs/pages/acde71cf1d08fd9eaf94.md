@@ -31,7 +31,7 @@ Some inline bots can benefit from an initial setup process, like connecting them
 
 [![](/file/811140951/1/FD93gAgDVDI/8d8bdd16e6a7b40c12 "Switch to PM button")](https://core.telegram.org/file/811140951/1/FD93gAgDVDI/8d8bdd16e6a7b40c12)
 
-You can display a special 'Switch to PM' button above the inline results (or instead of them). This button will open a private chat with the bot and pass a parameter of your choosing, so that you can prompt the user for the relevant setup actions. Once done, you can use an inline keyboard with a [*switch\_inline\_query*](https://core.telegram.org/bots/api#inlinekeyboardmarkup) button to send the user back to the original chat.
+You can display a special 'Switch to PM' button above the inline results (or instead of them). This button will open a private chat with the bot and pass a parameter of your choosing, so that you can prompt the user for the relevant setup actions. Once done, you can use an inline keyboard with a [*switch_inline_query*](https://core.telegram.org/bots/api#inlinekeyboardmarkup) button to send the user back to the original chat.
 
 **Sample bots**  
 [@youtube](https://telegram.me/youtube) – Shows a 'Sign in to YouTube' button, then suggests personalized results.
@@ -58,7 +58,7 @@ When a user taps on the bot username in the message header, the mention is autom
 
 To know which of the provided results your users are sending to their chat partners, send [@Botfather](https://telegram.me/botfather) the `/setinlinefeedback` command. With this enabled, you will receive updates on the results chosen by your users.
 
-Please note that this can create load issues for popular bots – you may receive more results than actual requests due to caching (see the *cache\_time* parameter in [answerInlineQuery](https://core.telegram.org/bots/api#answerinlinequery)). For these cases, we recommend adjusting the probability setting to receive 1/10, 1/100 or 1/1000 of the results.
+Please note that this can create load issues for popular bots – you may receive more results than actual requests due to caching (see the *cache_time* parameter in [answerInlineQuery](https://core.telegram.org/bots/api#answerinlinequery)). For these cases, we recommend adjusting the probability setting to receive 1/10, 1/100 or 1/1000 of the results.
 
 ### Inline bot samples
 

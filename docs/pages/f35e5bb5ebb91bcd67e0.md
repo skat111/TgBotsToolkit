@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.toggleSuggestedPostApproval
 
 Approve or reject a [suggested post »](https://core.telegram.org/api/suggested-posts).
 
-* [Layer 223](https://core.telegram.org/method/messages.toggleSuggestedPostApproval#) 
+* [Layer 223](https://core.telegram.org/method/messages.toggleSuggestedPostApproval) 
   + [1 – Base layer](https://core.telegram.org/method/messages.toggleSuggestedPostApproval?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.toggleSuggestedPostApproval?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.toggleSuggestedPostApproval?layer=3)
@@ -139,9 +139,9 @@ messages.toggleSuggestedPostApproval#8107455c flags:# reject:flags.1?true peer:I
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **reject** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Reject the suggested post. |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Both for users and channels, must contain the ID of the [direct messages monoforum »](https://core.telegram.org/api/monoforum) (for channels, the topic ID is extracted automatically from the `msg_id`). |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | ID of the suggestion message. |
-| **schedule\_date** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Custom scheduling date. |
-| **reject\_comment** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | Optional comment for rejections (can only be used if `reject` is set). |
+| **msg_id** | [int](https://core.telegram.org/type/int) | ID of the suggestion message. |
+| **schedule_date** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Custom scheduling date. |
+| **reject_comment** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | Optional comment for rejections (can only be used if `reject` is set). |
 
 ### Result
 
@@ -153,7 +153,7 @@ messages.toggleSuggestedPostApproval#8107455c flags:# reject:flags.1?true peer:I
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey
 
 Public-key passkey credential used both for registration and for login, see [creating a passkey »](https://core.telegram.org/api/passkeys#creating-a-passkey) and [logging in with a passkey »](https://core.telegram.org/api/passkeys#logging-in-with-a-passkey) for the full flows.
 
-* [Layer 223](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey#) 
+* [Layer 223](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=3)
@@ -129,7 +129,7 @@ inputPasskeyCredentialPublicKey#3c27b78f id:string raw_id:string response:InputP
 | Name | Type | Description |
 | --- | --- | --- |
 | **id** | [string](https://core.telegram.org/type/string) | `id` field of a [PublicKeyCredential](https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential), passed as-is without base64url-decoding when using the JSON representation |
-| **raw\_id** | [string](https://core.telegram.org/type/string) | `rawId` field of a [PublicKeyCredential](https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential), passed as-is without base64url-decoding when using the JSON representation |
+| **raw_id** | [string](https://core.telegram.org/type/string) | `rawId` field of a [PublicKeyCredential](https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential), passed as-is without base64url-decoding when using the JSON representation |
 | **response** | [InputPasskeyResponse](https://core.telegram.org/type/InputPasskeyResponse) | Registration or login response. |
 
 ### Type

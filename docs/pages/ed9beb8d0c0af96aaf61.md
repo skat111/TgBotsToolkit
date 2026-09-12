@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auth.sentCodeTypeCall
 
 The code will be sent via a phone call: a synthesized voice will tell the user which verification code to input.
 
-* [Layer 223](https://core.telegram.org/constructor/auth.sentCodeTypeCall#) 
+* [Layer 223](https://core.telegram.org/constructor/auth.sentCodeTypeCall) 
   + [1 – Base layer](https://core.telegram.org/constructor/auth.sentCodeTypeCall?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auth.sentCodeTypeCall?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auth.sentCodeTypeCall?layer=3)

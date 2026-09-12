@@ -6,27 +6,27 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 ## Description
 
-Processes request to disable has\_protected\_content in a chat.
+Processes request to disable has_protected_content in a chat.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Chat identifier. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [request\_message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a9a7946fbe3b98acb181b9b734f100b82) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [request_message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a9a7946fbe3b98acb181b9b734f100b82) |
 |  | Identifier of the message with the request. The message must be incoming and has content of the type [messageChatHasProtectedContentDisableRequested](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_has_protected_content_disable_requested.html). |
 |  | |
-| bool | [approve\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aee1c02f94bc98320038510f401ea7535) |
+| bool | [approve_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aee1c02f94bc98320038510f401ea7535) |
 |  | Pass true to approve the request; pass false to reject the request. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -35,9 +35,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a4c5568e2ff6bac10ef5c8de799f3c5fd) () |
 |  | |
-|  | [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a252d18468342ac4b543a4d80380d963e) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [request\_message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a9a7946fbe3b98acb181b9b734f100b82), bool [approve\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aee1c02f94bc98320038510f401ea7535)) |
+|  | [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a252d18468342ac4b543a4d80380d963e) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [request_message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a9a7946fbe3b98acb181b9b734f100b82), bool [approve_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#aee1c02f94bc98320038510f401ea7535)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -60,7 +60,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2078059411 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2078059411 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,29 +72,29 @@ Returns object\_ptr<Ok>.
 | --- | --- | --- | --- | --- |
 | [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html) | ( |  | ) |  |
 
-Default constructor for a function, which processes request to disable has\_protected\_content in a chat.
+Default constructor for a function, which processes request to disable has_protected_content in a chat.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html#a252d18468342ac4b543a4d80380d963e)processChatHasProtectedContentDisableRequest() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *request\_message\_id\_*, |
-|  |  | bool | *approve\_* |
+| [processChatHasProtectedContentDisableRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1process_chat_has_protected_content_disable_request.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *request_message_id_*, |
+|  |  | bool | *approve_* |
 |  | ) |  |  |
 
-Creates a function, which processes request to disable has\_protected\_content in a chat.
+Creates a function, which processes request to disable has_protected_content in a chat.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Chat identifier. |
-    | [in] | request\_message\_id\_ | Identifier of the message with the request. The message must be incoming and has content of the type [messageChatHasProtectedContentDisableRequested](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_has_protected_content_disable_requested.html). |
-    | [in] | approve\_ | Pass true to approve the request; pass false to reject the request. |
+    | [in] | chat_id_ | Chat identifier. |
+    | [in] | request_message_id_ | Identifier of the message with the request. The message must be incoming and has content of the type [messageChatHasProtectedContentDisableRequested](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_chat_has_protected_content_disable_requested.html). |
+    | [in] | approve_ | Pass true to approve the request; pass false to reject the request. |
 
 ## Method Documentation
 
@@ -102,15 +102,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -118,4 +118,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -17,7 +17,7 @@
     <link href="/css/bootstrap-extra.css?2" rel="stylesheet">
 <link href="/css/telegram-extra.css?9" rel="stylesheet">
 
-    <link href="/css/telegram.css?254" rel="stylesheet" media="screen">
+    <link href="/css/telegram.css?255" rel="stylesheet" media="screen">
     <link href="/css/telegram-theme.css?8" rel="stylesheet" media="screen">
     <style>
     </style>
@@ -426,7 +426,7 @@ Telegram.Passport.createAuthButton('telegram_passport_login_btn', function() {
     <script src="/js/main-theme.js?6"></script>
     <script>function updatePending() {
   $.ajax({
-    url: '/loadpassport?hash=c4a449000bac052e83',
+    url: '/loadpassport?hash=c21ac5b559e2f032e6',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
@@ -535,7 +535,7 @@ function updateForm() {
     form.ad_mode[i].disabled = (ad_sel_cnt <= 1);
   }
 }
-var authOptions = {"bot_id":543260180,"public_key":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv6m1zBF8lZOCqcxf8hnj\nkvHwuWdU8s4rBWaxKXH\/vDDUklcCS5uhSnmjhxWca9suubaG3lW4HxlCilkeJPVf\njimg5Q8ZqWrR3OoOihEpcG9iJZTOEpsEk7VtEiabgacBG3Quv9JslTrDe95Fn801\nt9d21HXwgMrHeHpWDOn31Dr+woEH+kwySUWa6L\/ZbnGwSNP7eeDTE7Amz1RMDk3t\n8EWGq58u0IQatPcEH09aUQlKzk6MIiALkZ9ILBKCBk6d2WCokKnsdBctovNbxwSx\nhP1qst1r+Yc8iPBZozsDC0ZsC5jXCkcODI3OC0tkNtYzN2XKalW5R0DjDRUDmGhT\nzQIDAQAB\n-----END PUBLIC KEY-----\n","nonce":"d56c6661553a3f01a8eb36c7b5834a5c_84532493_62d9370a65000dd843","callback_url":"https:\/\/core.telegram.org\/passport\/example?passport_ssid=d56c6661553a3f01a8eb36c7b5834a5c_84532493_7db3db244f14371e32"};
+var authOptions = {"bot_id":543260180,"public_key":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv6m1zBF8lZOCqcxf8hnj\nkvHwuWdU8s4rBWaxKXH\/vDDUklcCS5uhSnmjhxWca9suubaG3lW4HxlCilkeJPVf\njimg5Q8ZqWrR3OoOihEpcG9iJZTOEpsEk7VtEiabgacBG3Quv9JslTrDe95Fn801\nt9d21HXwgMrHeHpWDOn31Dr+woEH+kwySUWa6L\/ZbnGwSNP7eeDTE7Amz1RMDk3t\n8EWGq58u0IQatPcEH09aUQlKzk6MIiALkZ9ILBKCBk6d2WCokKnsdBctovNbxwSx\nhP1qst1r+Yc8iPBZozsDC0ZsC5jXCkcODI3OC0tkNtYzN2XKalW5R0DjDRUDmGhT\nzQIDAQAB\n-----END PUBLIC KEY-----\n","nonce":"f66c9bd699a05bf362a0d2524cf91018_69837872_cb141a55cbc625451e","callback_url":"https:\/\/core.telegram.org\/passport\/example?passport_ssid=f66c9bd699a05bf362a0d2524cf91018_69837872_6657244fb15faeab14"};
 function initPassportData(data) {
   window.passportData = data;
 }
@@ -571,7 +571,7 @@ function sendErrors(el) {
 }
 function restartAuth() {
   $.ajax({
-    url: '/restartpassport?hash=c4a449000bac052e83',
+    url: '/restartpassport?hash=c21ac5b559e2f032e6',
     type: 'GET',
   });
   $('#telegram_passport_form').show();
@@ -587,4 +587,4 @@ removePreloadInit();
 </script>
   </body>
 </html>
-<!-- page generated in 6.68ms -->
+<!-- page generated in 8.23ms -->

@@ -8,19 +8,19 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Toggles whether chat folder tags are enabled.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| bool | [are\_tags\_enabled\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#af64a1efe4b194eda8756aa2769bb1bf2) |
+| bool | [are_tags_enabled_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#af64a1efe4b194eda8756aa2769bb1bf2) |
 |  | Pass true to enable folder tags; pass false to disable them. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [toggleChatFolderTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#a1408466952fb61f4e6a96499fbec2116) () |
 |  | |
-|  | [toggleChatFolderTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#abcb26f1161086dcf73f13d75b7f1103e) (bool [are\_tags\_enabled\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#af64a1efe4b194eda8756aa2769bb1bf2)) |
+|  | [toggleChatFolderTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#abcb26f1161086dcf73f13d75b7f1103e) (bool [are_tags_enabled_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#af64a1efe4b194eda8756aa2769bb1bf2)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2092209084 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2092209084 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -68,22 +68,22 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which toggles whether chat folder tags are enabled.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html#abcb26f1161086dcf73f13d75b7f1103e)toggleChatFolderTags() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [toggleChatFolderTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html) | ( | bool | *are\_tags\_enabled\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [toggleChatFolderTags](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1toggle_chat_folder_tags.html) | ( | bool | *are_tags_enabled_* | ) |  | | explicit |
 
 Creates a function, which toggles whether chat folder tags are enabled.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | are\_tags\_enabled\_ | Pass true to enable folder tags; pass false to disable them. |
+    | [in] | are_tags_enabled_ | Pass true to enable folder tags; pass false to disable them. |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

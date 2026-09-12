@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotWebhookJSONQuery
 
 A new incoming query; for bots only
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotWebhookJSONQuery#) 
+* [Layer 223](https://core.telegram.org/constructor/updateBotWebhookJSONQuery) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=3)
@@ -128,7 +128,7 @@ updateBotWebhookJSONQuery#9b9240a6 query_id:long data:DataJSON timeout:int = Upd
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **query\_id** | [long](https://core.telegram.org/type/long) | Query identifier |
+| **query_id** | [long](https://core.telegram.org/type/long) | Query identifier |
 | **data** | [DataJSON](https://core.telegram.org/type/DataJSON) | Query data |
 | **timeout** | [int](https://core.telegram.org/type/int) | Query timeout |
 

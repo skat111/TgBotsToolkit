@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateChatParticipantAdmin
 
 Admin permissions of a user in a [basic group](https://core.telegram.org/api/channel#basic-groups) were changed
 
-* [Layer 223](https://core.telegram.org/constructor/updateChatParticipantAdmin#) 
+* [Layer 223](https://core.telegram.org/constructor/updateChatParticipantAdmin) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateChatParticipantAdmin?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateChatParticipantAdmin?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateChatParticipantAdmin?layer=3)
@@ -128,9 +128,9 @@ updateChatParticipantAdmin#d7ca61a2 chat_id:long user_id:long is_admin:Bool vers
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **chat\_id** | [long](https://core.telegram.org/type/long) | Chat ID |
-| **user\_id** | [long](https://core.telegram.org/type/long) | ID of the (de)admined user |
-| **is\_admin** | [Bool](https://core.telegram.org/type/Bool) | Whether the user was rendered admin |
+| **chat_id** | [long](https://core.telegram.org/type/long) | Chat ID |
+| **user_id** | [long](https://core.telegram.org/type/long) | ID of the (de)admined user |
+| **is_admin** | [Bool](https://core.telegram.org/type/Bool) | Whether the user was rendered admin |
 | **version** | [int](https://core.telegram.org/type/int) | Used similarly to `pts` values to deduplicate/update outdated chat information as specified [here »](https://core.telegram.org/api/peers#basic-group-updates). |
 
 ### Type

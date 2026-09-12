@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.resaleStarGifts
 
 List of gifts currently on [resale »](https://core.telegram.org/api/gifts#reselling-collectible-gifts).
 
-* [Layer 223](https://core.telegram.org/constructor/payments.resaleStarGifts#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.resaleStarGifts) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=3)
@@ -131,9 +131,9 @@ payments.resaleStarGifts#947a12df flags:# count:int gifts:Vector<StarGift> next_
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **count** | [int](https://core.telegram.org/type/int) | Total number of results. |
 | **gifts** | [Vector](https://core.telegram.org/type/Vector%20t)<[StarGift](https://core.telegram.org/type/StarGift)> | Collectible gifts on resale (may be less than `count`, in which case `next_offset` will be set). |
-| **next\_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | Offset for pagination, pass this to [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`offset` to fetch the next results. |
+| **next_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | Offset for pagination, pass this to [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`offset` to fetch the next results. |
 | **attributes** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[StarGiftAttribute](https://core.telegram.org/type/StarGiftAttribute)> | Possible gift attributes, only set if [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`attributes_hash` is set (on the first call, it must be equal to `0`). |
-| **attributes\_hash** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | Hash of the `attributes` field, pass this to [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`attributes_hash` to avoid returning any attributes (flag not set) if they haven't changed. |
+| **attributes_hash** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | Hash of the `attributes` field, pass this to [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`attributes_hash` to avoid returning any attributes (flag not set) if they haven't changed. |
 | **chats** | [Vector](https://core.telegram.org/type/Vector%20t)<[Chat](https://core.telegram.org/type/Chat)> | Chats mentioned in the attributes. |
 | **counters** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[Vector](https://core.telegram.org/type/Vector%20t)<[StarGiftAttributeCounter](https://core.telegram.org/type/StarGiftAttributeCounter)> | Indicates the total number of gifts that have a specific attribute, only set if [payments.getResaleStarGifts](https://core.telegram.org/method/payments.getResaleStarGifts).`offset` is empty (since this field is not related to the current result page but to all of them, it's only returned on the first page). |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | Users mentioned in the attributes. |

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputMediaDocument
 
 Forwarded document
 
-* [Layer 223](https://core.telegram.org/constructor/inputMediaDocument#) 
+* [Layer 223](https://core.telegram.org/constructor/inputMediaDocument) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputMediaDocument?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputMediaDocument?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputMediaDocument?layer=3)
@@ -131,9 +131,9 @@ inputMediaDocument#a8763ab5 flags:# spoiler:flags.2?true id:InputDocument video_
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **spoiler** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether this media should be hidden behind a spoiler warning |
 | **id** | [InputDocument](https://core.telegram.org/type/InputDocument) | The document to be forwarded. |
-| **video\_cover** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[InputPhoto](https://core.telegram.org/type/InputPhoto) | Custom video cover. |
-| **video\_timestamp** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[int](https://core.telegram.org/type/int) | Start playing the video at the specified timestamp (seconds). |
-| **ttl\_seconds** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Time to live of self-destructing document, can be `0` to disable self-destruction, `0x7FFFFFFF` to self-destruct the document immediately after it's played; otherwise self-destructs `ttl_seconds` after it's played. |
+| **video_cover** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[InputPhoto](https://core.telegram.org/type/InputPhoto) | Custom video cover. |
+| **video_timestamp** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[int](https://core.telegram.org/type/int) | Start playing the video at the specified timestamp (seconds). |
+| **ttl_seconds** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Time to live of self-destructing document, can be `0` to disable self-destruction, `0x7FFFFFFF` to self-destruct the document immediately after it's played; otherwise self-destructs `ttl_seconds` after it's played. |
 | **query** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Text query or emoji that was used by the user to find this sticker or GIF: used to improve search result relevance. |
 
 ### Type

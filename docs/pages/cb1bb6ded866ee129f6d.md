@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stats.loadAsyncGraph
 
 Load [channel statistics graph](https://core.telegram.org/api/stats) asynchronously
 
-* [Layer 223](https://core.telegram.org/method/stats.loadAsyncGraph#) 
+* [Layer 223](https://core.telegram.org/method/stats.loadAsyncGraph) 
   + [1 – Base layer](https://core.telegram.org/method/stats.loadAsyncGraph?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stats.loadAsyncGraph?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stats.loadAsyncGraph?layer=3)
@@ -146,9 +146,9 @@ stats.loadAsyncGraph#621d5fa0 flags:# token:string x:flags.0?long = StatsGraph;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | GRAPH\_EXPIRED\_RELOAD | This graph has expired, please obtain a new graph token. |
-| 400 | GRAPH\_INVALID\_RELOAD | Invalid graph token provided, please reload the stats and provide the updated token. |
-| 400 | GRAPH\_OUTDATED\_RELOAD | The graph is outdated, please get a new async token using stats.getBroadcastStats. |
+| 400 | GRAPH_EXPIRED_RELOAD | This graph has expired, please obtain a new graph token. |
+| 400 | GRAPH_INVALID_RELOAD | Invalid graph token provided, please reload the stats and provide the updated token. |
+| 400 | GRAPH_OUTDATED_RELOAD | The graph is outdated, please get a new async token using stats.getBroadcastStats. |
 
 ### Related pages
 

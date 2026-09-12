@@ -11,25 +11,25 @@ Describes an option for gifting Telegram Premium to a user. Use [telegramPayment
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [currency\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#af027d823cea668905ec74448f1099d35) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [currency_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#af027d823cea668905ec74448f1099d35) |
 |  | ISO 4217 currency code for the payment. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a6b93487a4b387e2bf75ec0604b3d8209) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a6b93487a4b387e2bf75ec0604b3d8209) |
 |  | The amount to pay, in the smallest units of the currency. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ad508b0848e631be2e72f8b8c664b94c4) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [star_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ad508b0848e631be2e72f8b8c664b94c4) |
 |  | The alternative Telegram Star amount to pay; 0 if payment in Telegram Stars is not possible. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [discount\_percentage\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a43553d06339f2925ebadf4d46eea8442) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [discount_percentage_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a43553d06339f2925ebadf4d46eea8442) |
 |  | The discount associated with this option, as a percentage. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [month\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a7650c5c484689e444d76aec30eff15cd) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [month_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a7650c5c484689e444d76aec30eff15cd) |
 |  | Number of months the Telegram Premium subscription will be active. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [store\_product\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae7f1ae5f9ef309db88e242864dc34604) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [store_product_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae7f1ae5f9ef309db88e242864dc34604) |
 |  | Identifier of the store product associated with the option. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > | [sticker\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a681634f2c1ba6d856402bcb704471cc4) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > | [sticker_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a681634f2c1ba6d856402bcb704471cc4) |
 |  | A sticker to be shown along with the option; may be null if unknown. |
 |  | |
 
@@ -38,9 +38,9 @@ Describes an option for gifting Telegram Premium to a user. Use [telegramPayment
 | Public Instance Methods | |
 |  | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae9de93c8045bb4fcf3c2fe7659fb59a9) () |
 |  | |
-|  | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#adb535d575870876574f705399c2bcf0b) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[currency\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#af027d823cea668905ec74448f1099d35), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a6b93487a4b387e2bf75ec0604b3d8209), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [star\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ad508b0848e631be2e72f8b8c664b94c4), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [discount\_percentage\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a43553d06339f2925ebadf4d46eea8442), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [month\_count\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a7650c5c484689e444d76aec30eff15cd), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[store\_product\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae7f1ae5f9ef309db88e242864dc34604), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > &&[sticker\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a681634f2c1ba6d856402bcb704471cc4)) |
+|  | [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#adb535d575870876574f705399c2bcf0b) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[currency_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#af027d823cea668905ec74448f1099d35), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a6b93487a4b387e2bf75ec0604b3d8209), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [star_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ad508b0848e631be2e72f8b8c664b94c4), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [discount_percentage_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a43553d06339f2925ebadf4d46eea8442), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [month_count_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a7650c5c484689e444d76aec30eff15cd), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[store_product_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ae7f1ae5f9ef309db88e242864dc34604), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > &&[sticker_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a681634f2c1ba6d856402bcb704471cc4)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -63,7 +63,7 @@ Describes an option for gifting Telegram Premium to a user. Use [telegramPayment
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -338085027 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -338085027 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -81,13 +81,13 @@ Describes an option for gifting Telegram Premium to a user. Use [telegramPayment
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *currency\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *amount\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *star\_count\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *discount\_percentage\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *month\_count\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *store\_product\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > && | *sticker\_* |
+| [premiumGiftPaymentOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_gift_payment_option.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *currency_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *amount_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *star_count_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *discount_percentage_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *month_count_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *store_product_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [sticker](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1sticker.html) > && | *sticker_* |
 |  | ) |  |  |
 
 Describes an option for gifting Telegram Premium to a user. Use [telegramPaymentPurposePremiumGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1telegram_payment_purpose_premium_gift.html) for out-of-store payments or payments in Telegram Stars.
@@ -95,13 +95,13 @@ Describes an option for gifting Telegram Premium to a user. Use [telegramPayment
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | currency\_ | ISO 4217 currency code for the payment. |
-    | [in] | amount\_ | The amount to pay, in the smallest units of the currency. |
-    | [in] | star\_count\_ | The alternative Telegram Star amount to pay; 0 if payment in Telegram Stars is not possible. |
-    | [in] | discount\_percentage\_ | The discount associated with this option, as a percentage. |
-    | [in] | month\_count\_ | Number of months the Telegram Premium subscription will be active. |
-    | [in] | store\_product\_id\_ | Identifier of the store product associated with the option. |
-    | [in] | sticker\_ | A sticker to be shown along with the option; may be null if unknown. |
+    | [in] | currency_ | ISO 4217 currency code for the payment. |
+    | [in] | amount_ | The amount to pay, in the smallest units of the currency. |
+    | [in] | star_count_ | The alternative Telegram Star amount to pay; 0 if payment in Telegram Stars is not possible. |
+    | [in] | discount_percentage_ | The discount associated with this option, as a percentage. |
+    | [in] | month_count_ | Number of months the Telegram Premium subscription will be active. |
+    | [in] | store_product_id_ | Identifier of the store product associated with the option. |
+    | [in] | sticker_ | A sticker to be shown along with the option; may be null if unknown. |
 
 ## Method Documentation
 
@@ -109,15 +109,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -125,4 +125,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

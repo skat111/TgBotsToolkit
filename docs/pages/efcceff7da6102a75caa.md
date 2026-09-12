@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/pageBlockParagraph
 
 A paragraph
 
-* [Layer 223](https://core.telegram.org/constructor/pageBlockParagraph#) 
+* [Layer 223](https://core.telegram.org/constructor/pageBlockParagraph) 
   + [1 – Base layer](https://core.telegram.org/constructor/pageBlockParagraph?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/pageBlockParagraph?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/pageBlockParagraph?layer=3)

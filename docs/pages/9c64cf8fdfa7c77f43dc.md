@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/StarGiftAttributeRarity
 
 Rarity of a [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts) attribute, either as an exact permille value or as one of the named rarity tiers (uncommon, rare, epic, legendary).
 
-* [Layer 223](https://core.telegram.org/type/StarGiftAttributeRarity#) 
+* [Layer 223](https://core.telegram.org/type/StarGiftAttributeRarity) 
   + [1 – Base layer](https://core.telegram.org/type/StarGiftAttributeRarity?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/StarGiftAttributeRarity?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/StarGiftAttributeRarity?layer=3)

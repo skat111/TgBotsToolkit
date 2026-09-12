@@ -11,16 +11,16 @@ The call has ended successfully.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > | [reason\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a344f700d46f4462915949481d053031a) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > | [reason_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a344f700d46f4462915949481d053031a) |
 |  | The reason why the call has ended. |
 |  | |
-| bool | [need\_rating\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a83dd1ac3ac35b49ec63b3dfff7d478fe) |
+| bool | [need_rating_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a83dd1ac3ac35b49ec63b3dfff7d478fe) |
 |  | True, if the call rating must be sent to the server. |
 |  | |
-| bool | [need\_debug\_information\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ad7747a073b90e46e3d4f4f0cf9d5c8aa) |
+| bool | [need_debug_information_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ad7747a073b90e46e3d4f4f0cf9d5c8aa) |
 |  | True, if the call debug information must be sent to the server. |
 |  | |
-| bool | [need\_log\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac2b614d1f3a5b88151554ad607c80da1) |
+| bool | [need_log_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac2b614d1f3a5b88151554ad607c80da1) |
 |  | True, if the call log must be sent to the server. |
 |  | |
 
@@ -29,9 +29,9 @@ The call has ended successfully.
 | Public Instance Methods | |
 |  | [callStateDiscarded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ad6a9bf50751d8bd5e7bceb437141da52) () |
 |  | |
-|  | [callStateDiscarded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a8905a273e40b41a501cceff11549c6bf) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > &&[reason\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a344f700d46f4462915949481d053031a), bool [need\_rating\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a83dd1ac3ac35b49ec63b3dfff7d478fe), bool [need\_debug\_information\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ad7747a073b90e46e3d4f4f0cf9d5c8aa), bool [need\_log\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac2b614d1f3a5b88151554ad607c80da1)) |
+|  | [callStateDiscarded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a8905a273e40b41a501cceff11549c6bf) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > &&[reason_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a344f700d46f4462915949481d053031a), bool [need_rating_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a83dd1ac3ac35b49ec63b3dfff7d478fe), bool [need_debug_information_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ad7747a073b90e46e3d4f4f0cf9d5c8aa), bool [need_log_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac2b614d1f3a5b88151554ad607c80da1)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ The call has ended successfully.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1394310213 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1394310213 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,10 +72,10 @@ The call has ended successfully.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [callStateDiscarded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > && | *reason\_*, |
-|  |  | bool | *need\_rating\_*, |
-|  |  | bool | *need\_debug\_information\_*, |
-|  |  | bool | *need\_log\_* |
+| [callStateDiscarded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CallDiscardReason](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_call_discard_reason.html) > && | *reason_*, |
+|  |  | bool | *need_rating_*, |
+|  |  | bool | *need_debug_information_*, |
+|  |  | bool | *need_log_* |
 |  | ) |  |  |
 
 The call has ended successfully.
@@ -83,10 +83,10 @@ The call has ended successfully.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | reason\_ | The reason why the call has ended. |
-    | [in] | need\_rating\_ | True, if the call rating must be sent to the server. |
-    | [in] | need\_debug\_information\_ | True, if the call debug information must be sent to the server. |
-    | [in] | need\_log\_ | True, if the call log must be sent to the server. |
+    | [in] | reason_ | The reason why the call has ended. |
+    | [in] | need_rating_ | True, if the call rating must be sent to the server. |
+    | [in] | need_debug_information_ | True, if the call debug information must be sent to the server. |
+    | [in] | need_log_ | True, if the call log must be sent to the server. |
 
 ## Method Documentation
 
@@ -94,15 +94,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -110,4 +110,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

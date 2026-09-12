@@ -11,8 +11,8 @@ Contains a list of story areas to be added.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) > > | [areas\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a318d5e4e6dee9ae5de816e29eee50fcf) |
-|  | List of input story areas. Currently, a story can have up to 10 [inputStoryAreaTypeLocation](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_location.html), [inputStoryAreaTypeFoundVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_found_venue.html), and [inputStoryAreaTypePreviousVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_previous_venue.html) areas, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story\_suggested\_reaction\_area\_count\_max") [inputStoryAreaTypeSuggestedReaction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_suggested_reaction.html) areas, up to 1 [inputStoryAreaTypeMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_message.html) area, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story\_link\_area\_count\_max") [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) areas if the current user is a Telegram Premium user, up to 3 [inputStoryAreaTypeWeather](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html) areas, and up to 1 [inputStoryAreaTypeUpgradedGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_upgraded_gift.html) area. |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) > > | [areas_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a318d5e4e6dee9ae5de816e29eee50fcf) |
+|  | List of input story areas. Currently, a story can have up to 10 [inputStoryAreaTypeLocation](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_location.html), [inputStoryAreaTypeFoundVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_found_venue.html), and [inputStoryAreaTypePreviousVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_previous_venue.html) areas, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story_suggested_reaction_area_count_max") [inputStoryAreaTypeSuggestedReaction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_suggested_reaction.html) areas, up to 1 [inputStoryAreaTypeMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_message.html) area, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story_link_area_count_max") [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) areas if the current user is a Telegram Premium user, up to 3 [inputStoryAreaTypeWeather](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html) areas, and up to 1 [inputStoryAreaTypeUpgradedGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_upgraded_gift.html) area. |
 |  | |
 
 |  |  |
@@ -20,9 +20,9 @@ Contains a list of story areas to be added.
 | Public Instance Methods | |
 |  | [inputStoryAreas](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#aaa97a3b2246860e662d68a6acd5ae707) () |
 |  | |
-|  | [inputStoryAreas](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a1c6e6f23a259ebd65a6e027e83e988ed) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) >> &&[areas\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a318d5e4e6dee9ae5de816e29eee50fcf)) |
+|  | [inputStoryAreas](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a1c6e6f23a259ebd65a6e027e83e988ed) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) >> &&[areas_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a318d5e4e6dee9ae5de816e29eee50fcf)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Contains a list of story areas to be added.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -883247088 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -883247088 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Contains a list of story areas to be added.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputStoryAreas](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) >> && | *areas\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputStoryAreas](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_areas.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [inputStoryArea](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area.html) >> && | *areas_* | ) |  | | explicit |
 
 Contains a list of story areas to be added.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | areas\_ | List of input story areas. Currently, a story can have up to 10 [inputStoryAreaTypeLocation](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_location.html), [inputStoryAreaTypeFoundVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_found_venue.html), and [inputStoryAreaTypePreviousVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_previous_venue.html) areas, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story\_suggested\_reaction\_area\_count\_max") [inputStoryAreaTypeSuggestedReaction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_suggested_reaction.html) areas, up to 1 [inputStoryAreaTypeMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_message.html) area, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story\_link\_area\_count\_max") [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) areas if the current user is a Telegram Premium user, up to 3 [inputStoryAreaTypeWeather](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html) areas, and up to 1 [inputStoryAreaTypeUpgradedGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_upgraded_gift.html) area. |
+    | [in] | areas_ | List of input story areas. Currently, a story can have up to 10 [inputStoryAreaTypeLocation](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_location.html), [inputStoryAreaTypeFoundVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_found_venue.html), and [inputStoryAreaTypePreviousVenue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_previous_venue.html) areas, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story_suggested_reaction_area_count_max") [inputStoryAreaTypeSuggestedReaction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_suggested_reaction.html) areas, up to 1 [inputStoryAreaTypeMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_message.html) area, up to [getOption](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_option.html)("story_link_area_count_max") [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) areas if the current user is a Telegram Premium user, up to 3 [inputStoryAreaTypeWeather](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_weather.html) areas, and up to 1 [inputStoryAreaTypeUpgradedGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_upgraded_gift.html) area. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

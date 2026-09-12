@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/phone.joinAsPeers
 
 Contains the peers that may be used to join a video chat/livestream, see [joining on behalf of owned channels »](https://core.telegram.org/api/group-calls#joining-a-group-call-on-behalf-of-owned-channels).
 
-* [Layer 223](https://core.telegram.org/constructor/phone.joinAsPeers#) 
+* [Layer 223](https://core.telegram.org/constructor/phone.joinAsPeers) 
   + [1 – Base layer](https://core.telegram.org/constructor/phone.joinAsPeers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/phone.joinAsPeers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/phone.joinAsPeers?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/channels.getParticipant
 
 Get info about a [channel/supergroup](https://core.telegram.org/api/channel) participant
 
-* [Layer 223](https://core.telegram.org/method/channels.getParticipant#) 
+* [Layer 223](https://core.telegram.org/method/channels.getParticipant) 
   + [1 – Base layer](https://core.telegram.org/method/channels.getParticipant?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.getParticipant?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.getParticipant?layer=3)
@@ -143,13 +143,13 @@ channels.getParticipant#a0ab6cc6 channel:InputChannel participant:InputPeer = ch
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 406 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
-| 403 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
-| 400 | PARTICIPANT\_ID\_INVALID | The specified participant ID is invalid. |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
-| 400 | USER\_NOT\_PARTICIPANT | You're not a member of this supergroup/channel. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 406 | CHANNEL_PRIVATE | You haven't joined this channel/supergroup. |
+| 403 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |
+| 400 | PARTICIPANT_ID_INVALID | The specified participant ID is invalid. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |
+| 400 | USER_NOT_PARTICIPANT | You're not a member of this supergroup/channel. |
 
 ### Related pages
 

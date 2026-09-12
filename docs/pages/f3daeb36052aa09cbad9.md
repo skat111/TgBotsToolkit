@@ -8,22 +8,22 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns an ordered list of chats from the beginning of a chat list. For informational purposes only. Use [loadChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_chats.html) and updates processing instead to maintain chat lists in a consistent state.
 
-Returns object\_ptr<Chats>.
+Returns object_ptr<Chats>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > | [chat\_list\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a212da12e1a4514fa0fc79813c11f9ae2) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > | [chat_list_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a212da12e1a4514fa0fc79813c11f9ae2) |
 |  | The chat list in which to return chats; pass null to get chats from the main chat list. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [limit\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ad5c6852c24b3b39c48321496871a637b) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [limit_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ad5c6852c24b3b39c48321496871a637b) |
 |  | The maximum number of chats to be returned. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a133dd6ad4d7481cc53bfa19b655e5dde) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chats.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a133dd6ad4d7481cc53bfa19b655e5dde) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chats.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -32,9 +32,9 @@ Returns object\_ptr<Chats>.
 | Public Instance Methods | |
 |  | [getChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a19f9bbd60e889917944b08e145d2a869) () |
 |  | |
-|  | [getChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a23e7170e38b03e873765f67fa3ba8e9d) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > &&[chat\_list\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a212da12e1a4514fa0fc79813c11f9ae2), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [limit\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ad5c6852c24b3b39c48321496871a637b)) |
+|  | [getChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a23e7170e38b03e873765f67fa3ba8e9d) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > &&[chat_list_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a212da12e1a4514fa0fc79813c11f9ae2), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [limit_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ad5c6852c24b3b39c48321496871a637b)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Returns object\_ptr<Chats>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -972768574 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -972768574 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -71,25 +71,25 @@ Returns object\_ptr<Chats>.
 
 Default constructor for a function, which returns an ordered list of chats from the beginning of a chat list. For informational purposes only. Use [loadChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_chats.html) and updates processing instead to maintain chat lists in a consistent state.
 
-Returns object\_ptr<Chats>.
+Returns object_ptr<Chats>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html#a23e7170e38b03e873765f67fa3ba8e9d)getChats() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [getChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > && | *chat\_list\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *limit\_* |
+| [getChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chats.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ChatList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_chat_list.html) > && | *chat_list_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *limit_* |
 |  | ) |  |  |
 
 Creates a function, which returns an ordered list of chats from the beginning of a chat list. For informational purposes only. Use [loadChats](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1load_chats.html) and updates processing instead to maintain chat lists in a consistent state.
 
-Returns object\_ptr<Chats>.
+Returns object_ptr<Chats>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_list\_ | The chat list in which to return chats; pass null to get chats from the main chat list. |
-    | [in] | limit\_ | The maximum number of chats to be returned. |
+    | [in] | chat_list_ | The chat list in which to return chats; pass null to get chats from the main chat list. |
+    | [in] | limit_ | The maximum number of chats to be returned. |
 
 ## Method Documentation
 
@@ -97,15 +97,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -113,4 +113,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

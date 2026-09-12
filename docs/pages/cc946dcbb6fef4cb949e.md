@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageReactions
 
 [Message reactions »](https://core.telegram.org/api/reactions)
 
-* [Layer 223](https://core.telegram.org/constructor/messageReactions#) 
+* [Layer 223](https://core.telegram.org/constructor/messageReactions) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageReactions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageReactions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageReactions?layer=3)
@@ -130,11 +130,11 @@ messageReactions#a339f0b flags:# min:flags.0?true can_see_list:flags.2?true reac
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **min** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Similar to [min](https://core.telegram.org/api/min) objects, used for [message reaction »](https://core.telegram.org/api/reactions) constructors that are the same for all users so they don't have the reactions sent by the current user (you can use [messages.getMessagesReactions](https://core.telegram.org/method/messages.getMessagesReactions) to get the full reaction info). |
-| **can\_see\_list** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether [messages.getMessageReactionsList](https://core.telegram.org/method/messages.getMessageReactionsList) can be used to see how each specific peer reacted to the message |
-| **reactions\_as\_tags** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | If set or if there are no reactions, all present and future reactions should be treated as [message tags, see here » for more info](https://core.telegram.org/api/saved-messages#tags). |
+| **can_see_list** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether [messages.getMessageReactionsList](https://core.telegram.org/method/messages.getMessageReactionsList) can be used to see how each specific peer reacted to the message |
+| **reactions_as_tags** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | If set or if there are no reactions, all present and future reactions should be treated as [message tags, see here » for more info](https://core.telegram.org/api/saved-messages#tags). |
 | **results** | [Vector](https://core.telegram.org/type/Vector%20t)<[ReactionCount](https://core.telegram.org/type/ReactionCount)> | Reactions |
-| **recent\_reactions** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[MessagePeerReaction](https://core.telegram.org/type/MessagePeerReaction)> | List of recent peers and their reactions |
-| **top\_reactors** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[Vector](https://core.telegram.org/type/Vector%20t)<[MessageReactor](https://core.telegram.org/type/MessageReactor)> | [Paid Telegram Star reactions leaderboard »](https://core.telegram.org/api/reactions#paid-reactions) for this message. |
+| **recent_reactions** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[MessagePeerReaction](https://core.telegram.org/type/MessagePeerReaction)> | List of recent peers and their reactions |
+| **top_reactors** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[Vector](https://core.telegram.org/type/Vector%20t)<[MessageReactor](https://core.telegram.org/type/MessageReactor)> | [Paid Telegram Star reactions leaderboard »](https://core.telegram.org/api/reactions#paid-reactions) for this message. |
 
 ### Type
 

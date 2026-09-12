@@ -86,7 +86,7 @@ Premium users can save other users' unprotected stories.
 
 ###### `stories__links_and_formatting`
 
-Premium users can use [styled text entities](https://core.telegram.org/api/entities) and links in story captions and [URL media areas](https://core.telegram.org/api/stories#urls), as specified by the [stories\_entities »](https://core.telegram.org/api/config#stories-entities) config key.
+Premium users can use [styled text entities](https://core.telegram.org/api/entities) and links in story captions and [URL media areas](https://core.telegram.org/api/stories#urls), as specified by the [stories_entities »](https://core.telegram.org/api/config#stories-entities) config key.
 
 ###### `stories__quality`
 
@@ -108,127 +108,127 @@ Here's the full list of improved limits and their sub-identifiers (contained in 
 
 ###### `double_limits__channels`
 
-Config keys: [channels\_limit\_premium »](https://core.telegram.org/api/config#channels-limit-premium)/[channels\_limit\_default »](https://core.telegram.org/api/config#channels-limit-default)
+Config keys: [channels_limit_premium »](https://core.telegram.org/api/config#channels-limit-premium)/[channels_limit_default »](https://core.telegram.org/api/config#channels-limit-default)
 
 The maximum number of [channels and supergroups](https://core.telegram.org/api/channel) a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may join (integer)
 
 ###### `double_limits__saved_gifs`
 
-Config keys: [saved\_gifs\_limit\_premium »](https://core.telegram.org/api/config#saved-gifs-limit-premium)/[saved\_gifs\_limit\_default »](https://core.telegram.org/api/config#saved-gifs-limit-default)
+Config keys: [saved_gifs_limit_premium »](https://core.telegram.org/api/config#saved-gifs-limit-premium)/[saved_gifs_limit_default »](https://core.telegram.org/api/config#saved-gifs-limit-default)
 
 The maximum number of GIFs a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may save (integer)
 
 ###### `double_limits__stickers_faved`
 
-Config keys: [stickers\_faved\_limit\_premium »](https://core.telegram.org/api/config#stickers-faved-limit-premium)/[stickers\_faved\_limit\_default »](https://core.telegram.org/api/config#stickers-faved-limit-default)
+Config keys: [stickers_faved_limit_premium »](https://core.telegram.org/api/config#stickers-faved-limit-premium)/[stickers_faved_limit_default »](https://core.telegram.org/api/config#stickers-faved-limit-default)
 
 The maximum number of stickers a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may [add to Favorites »](https://core.telegram.org/api/stickers#favorite-stickersets) (integer)
 
 ###### `double_limits__dialog_filters`
 
-Config keys: [dialog\_filters\_limit\_premium »](https://core.telegram.org/api/config#dialog-filters-limit-premium)/[dialog\_filters\_limit\_default »](https://core.telegram.org/api/config#dialog-filters-limit-default)
+Config keys: [dialog_filters_limit_premium »](https://core.telegram.org/api/config#dialog-filters-limit-premium)/[dialog_filters_limit_default »](https://core.telegram.org/api/config#dialog-filters-limit-default)
 
 The maximum number of [folders](https://core.telegram.org/api/folders) a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may create (integer)
 
 ###### `double_limits__dialog_filters_chats`
 
-Config keys: [dialog\_filters\_chats\_limit\_premium »](https://core.telegram.org/api/config#dialog-filters-chats-limit-premium)/[dialog\_filters\_chats\_limit\_default »](https://core.telegram.org/api/config#dialog-filters-chats-limit-default)
+Config keys: [dialog_filters_chats_limit_premium »](https://core.telegram.org/api/config#dialog-filters-chats-limit-premium)/[dialog_filters_chats_limit_default »](https://core.telegram.org/api/config#dialog-filters-chats-limit-default)
 
 The maximum number of chats a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may add to a [folder](https://core.telegram.org/api/folders) (integer)
 
 ###### `double_limits__dialogs_pinned`
 
-Config keys: [dialogs\_pinned\_limit\_premium »](https://core.telegram.org/api/config#dialogs-pinned-limit-premium)/[dialogs\_pinned\_limit\_default »](https://core.telegram.org/api/config#dialogs-pinned-limit-default)
+Config keys: [dialogs_pinned_limit_premium »](https://core.telegram.org/api/config#dialogs-pinned-limit-premium)/[dialogs_pinned_limit_default »](https://core.telegram.org/api/config#dialogs-pinned-limit-default)
 
 The maximum number of chats a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may pin (integer)
 
 ###### `double_limits__dialogs_folder_pinned`
 
-Config keys: [dialogs\_folder\_pinned\_limit\_premium »](https://core.telegram.org/api/config#dialogs-folder-pinned-limit-premium)/[dialogs\_folder\_pinned\_limit\_default »](https://core.telegram.org/api/config#dialogs-folder-pinned-limit-default)
+Config keys: [dialogs_folder_pinned_limit_premium »](https://core.telegram.org/api/config#dialogs-folder-pinned-limit-premium)/[dialogs_folder_pinned_limit_default »](https://core.telegram.org/api/config#dialogs-folder-pinned-limit-default)
 
 The maximum number of chats a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may pin in a folder (integer)
 
 ###### `double_limits__channels_public`
 
-Config keys: [channels\_public\_limit\_premium »](https://core.telegram.org/api/config#channels-public-limit-premium)/[channels\_public\_limit\_default »](https://core.telegram.org/api/config#channels-public-limit-default)
+Config keys: [channels_public_limit_premium »](https://core.telegram.org/api/config#channels-public-limit-premium)/[channels_public_limit_default »](https://core.telegram.org/api/config#channels-public-limit-default)
 
 The maximum number of public [channels or supergroups](https://core.telegram.org/api/channel) a [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) user may create (integer)
 
 ###### `double_limits__caption_length`
 
-Config keys: [caption\_length\_limit\_premium »](https://core.telegram.org/api/config#caption-length-limit-premium)/[caption\_length\_limit\_default »](https://core.telegram.org/api/config#caption-length-limit-default)
+Config keys: [caption_length_limit_premium »](https://core.telegram.org/api/config#caption-length-limit-premium)/[caption_length_limit_default »](https://core.telegram.org/api/config#caption-length-limit-default)
 
 The maximum UTF-8 length of media captions sendable by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users (integer)
 
 ###### `double_limits__about_length`
 
-Config keys: [about\_length\_limit\_premium »](https://core.telegram.org/api/config#about-length-limit-premium)/[about\_length\_limit\_default »](https://core.telegram.org/api/config#about-length-limit-default)
+Config keys: [about_length_limit_premium »](https://core.telegram.org/api/config#about-length-limit-premium)/[about_length_limit_default »](https://core.telegram.org/api/config#about-length-limit-default)
 
 The maximum UTF-8 length of bios of [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users (integer)
 
 ###### `double_limits__chatlist_invites`
 
-Config keys: [chatlist\_invites\_limit\_premium »](https://core.telegram.org/api/config#chatlist-invites-limit-premium)/[chatlist\_invites\_limit\_default »](https://core.telegram.org/api/config#chatlist-invites-limit-default)
+Config keys: [chatlist_invites_limit_premium »](https://core.telegram.org/api/config#chatlist-invites-limit-premium)/[chatlist_invites_limit_default »](https://core.telegram.org/api/config#chatlist-invites-limit-default)
 
 Maximum number of per-folder [chat folder deep links »](https://core.telegram.org/api/links#chat-folder-links) that can be created by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__chatlists_joined`
 
-Config keys: [chatlists\_joined\_limit\_premium »](https://core.telegram.org/api/config#chatlists-joined-limit-premium)/[chatlists\_joined\_limit\_default »](https://core.telegram.org/api/config#chatlists-joined-limit-default)
+Config keys: [chatlists_joined_limit_premium »](https://core.telegram.org/api/config#chatlists-joined-limit-premium)/[chatlists_joined_limit_default »](https://core.telegram.org/api/config#chatlists-joined-limit-default)
 
 Maximum number of [shareable folders](https://core.telegram.org/api/links#chat-folder-links) [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users may have. (integer)
 
 ###### `double_limits__story_expiring`
 
-Config keys: [story\_expiring\_limit\_premium »](https://core.telegram.org/api/config#story-expiring-limit-premium)/[story\_expiring\_limit\_default »](https://core.telegram.org/api/config#story-expiring-limit-default)
+Config keys: [story_expiring_limit_premium »](https://core.telegram.org/api/config#story-expiring-limit-premium)/[story_expiring_limit_default »](https://core.telegram.org/api/config#story-expiring-limit-default)
 
 The maximum number of active [stories](https://core.telegram.org/api/stories) for [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users (integer).
 
 ###### `double_limits__story_caption_length`
 
-Config keys: [story\_caption\_length\_limit\_premium »](https://core.telegram.org/api/config#story-caption-length-limit-premium)/[story\_caption\_length\_limit\_default »](https://core.telegram.org/api/config#story-caption-length-limit-default)
+Config keys: [story_caption_length_limit_premium »](https://core.telegram.org/api/config#story-caption-length-limit-premium)/[story_caption_length_limit_default »](https://core.telegram.org/api/config#story-caption-length-limit-default)
 
 The maximum UTF-8 length of story captions for [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__stories_sent_weekly`
 
-Config keys: [stories\_sent\_weekly\_limit\_premium »](https://core.telegram.org/api/config#stories-sent-weekly-limit-premium)/[stories\_sent\_weekly\_limit\_default »](https://core.telegram.org/api/config#stories-sent-weekly-limit-default)
+Config keys: [stories_sent_weekly_limit_premium »](https://core.telegram.org/api/config#stories-sent-weekly-limit-premium)/[stories_sent_weekly_limit_default »](https://core.telegram.org/api/config#stories-sent-weekly-limit-default)
 
 Maximum number of stories that can be sent in a week by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__stories_sent_monthly`
 
-Config keys: [stories\_sent\_monthly\_limit\_premium »](https://core.telegram.org/api/config#stories-sent-monthly-limit-premium)/[stories\_sent\_monthly\_limit\_default »](https://core.telegram.org/api/config#stories-sent-monthly-limit-default)
+Config keys: [stories_sent_monthly_limit_premium »](https://core.telegram.org/api/config#stories-sent-monthly-limit-premium)/[stories_sent_monthly_limit_default »](https://core.telegram.org/api/config#stories-sent-monthly-limit-default)
 
 Maximum number of stories that can be sent in a month by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__stories_suggested_reactions`
 
-Config keys: [stories\_suggested\_reactions\_limit\_premium »](https://core.telegram.org/api/config#stories-suggested-reactions-limit-premium)/[stories\_suggested\_reactions\_limit\_default »](https://core.telegram.org/api/config#stories-suggested-reactions-limit-default)
+Config keys: [stories_suggested_reactions_limit_premium »](https://core.telegram.org/api/config#stories-suggested-reactions-limit-premium)/[stories_suggested_reactions_limit_default »](https://core.telegram.org/api/config#stories-suggested-reactions-limit-default)
 
 Maximum number of [story reaction media areas »](https://core.telegram.org/api/stories#media-areas) that can be added to a story by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__recommended_channels`
 
-Config keys: [recommended\_channels\_limit\_premium »](https://core.telegram.org/api/config#recommended-channels-limit-premium)/[recommended\_channels\_limit\_default »](https://core.telegram.org/api/config#recommended-channels-limit-default)
+Config keys: [recommended_channels_limit_premium »](https://core.telegram.org/api/config#recommended-channels-limit-premium)/[recommended_channels_limit_default »](https://core.telegram.org/api/config#recommended-channels-limit-default)
 
 The maximum number of similar channels that can be recommended by [channels.getChannelRecommendations»](https://core.telegram.org/method/channels.getChannelRecommendations) to [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__saved_dialogs_pinned`
 
-Config keys: [saved\_dialogs\_pinned\_limit\_premium »](https://core.telegram.org/api/config#saved-dialogs-pinned-limit-premium)/[saved\_dialogs\_pinned\_limit\_default »](https://core.telegram.org/api/config#saved-dialogs-pinned-limit-default)
+Config keys: [saved_dialogs_pinned_limit_premium »](https://core.telegram.org/api/config#saved-dialogs-pinned-limit-premium)/[saved_dialogs_pinned_limit_default »](https://core.telegram.org/api/config#saved-dialogs-pinned-limit-default)
 
 Maximum number of pinned dialogs in [saved messages](https://core.telegram.org/api/saved-messages) for [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__bots_create`
 
-Config keys: [bots\_create\_limit\_default »](https://core.telegram.org/api/config#bots-create-limit-premium)/[bots\_create\_limit\_premium »](https://core.telegram.org/api/config#bots-create-limit-default)
+Config keys: [bots_create_limit_default »](https://core.telegram.org/api/config#bots-create-limit-premium)/[bots_create_limit_premium »](https://core.telegram.org/api/config#bots-create-limit-default)
 
 Maximum number of [bots](https://core.telegram.org/api/bots) that can be owned by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
 ###### `double_limits__aicompose_tone_saved`
 
-Config keys: [aicompose\_tone\_saved\_limit\_premium »](https://core.telegram.org/api/config#aicompose-tone-saved-limit-premium)/[aicompose\_tone\_saved\_limit\_default »](https://core.telegram.org/api/config#aicompose-tone-saved-limit-default)
+Config keys: [aicompose_tone_saved_limit_premium »](https://core.telegram.org/api/config#aicompose-tone-saved-limit-premium)/[aicompose_tone_saved_limit_default »](https://core.telegram.org/api/config#aicompose-tone-saved-limit-default)
 
 Maximum number of [custom AI composer tones »](https://core.telegram.org/api/ai#ai-compose-tones) that can be installed by [Premium](https://core.telegram.org/api/premium)/non-[Premium](https://core.telegram.org/api/premium) users. (integer)
 
@@ -246,7 +246,7 @@ Premium users can disallow incoming voice and video note messages in private cha
 
 ##### `more_upload`
 
-Premium users can upload bigger files, as specified by the [upload\_max\_fileparts\_default](https://core.telegram.org/api/config#upload-max-fileparts-default) vs [upload\_max\_fileparts\_premium](https://core.telegram.org/api/config#upload-max-fileparts-premium) config keys.
+Premium users can upload bigger files, as specified by the [upload_max_fileparts_default](https://core.telegram.org/api/config#upload-max-fileparts-default) vs [upload_max_fileparts_premium](https://core.telegram.org/api/config#upload-max-fileparts-premium) config keys.
 
 ##### `faster_download`
 
@@ -418,7 +418,7 @@ If the `premium_gift_text_field_icon` parameter is also set, a gift icon should 
 
 Note that even if the `premium_gifts` field is not set, we can still gift one (or more!) Premium subscriptions using the alternative payment flow [described here »](https://core.telegram.org/api/giveaways) ([inputStorePaymentPremiumGiftCode](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode) without setting `boost_peer`).
 
-Gifting a [Telegram Premium](https://core.telegram.org/api/premium) subscription to another user will create [boosts\_per\_sent\_gift](https://core.telegram.org/api/config#boosts-per-sent-gift) [boost slots »](https://core.telegram.org/api/boost) for us, and one boost slot for the destination user.
+Gifting a [Telegram Premium](https://core.telegram.org/api/premium) subscription to another user will create [boosts_per_sent_gift](https://core.telegram.org/api/config#boosts-per-sent-gift) [boost slots »](https://core.telegram.org/api/boost) for us, and one boost slot for the destination user.
 
 ### Blocked Telegram Premium
 

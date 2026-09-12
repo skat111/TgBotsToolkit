@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.hidePeerSettingsBar
 
 Should be called after the user hides the [report spam/add as contact bar](https://core.telegram.org/api/action-bar) of a new chat, effectively prevents the user from executing the actions specified in the [action bar »](https://core.telegram.org/api/action-bar).
 
-* [Layer 223](https://core.telegram.org/method/messages.hidePeerSettingsBar#) 
+* [Layer 223](https://core.telegram.org/method/messages.hidePeerSettingsBar) 
   + [1 – Base layer](https://core.telegram.org/method/messages.hidePeerSettingsBar?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.hidePeerSettingsBar?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.hidePeerSettingsBar?layer=3)
@@ -143,7 +143,7 @@ messages.hidePeerSettingsBar#4facb138 peer:InputPeer = Bool;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

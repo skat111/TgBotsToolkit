@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputWebDocument
 
 The document
 
-* [Layer 223](https://core.telegram.org/constructor/inputWebDocument#) 
+* [Layer 223](https://core.telegram.org/constructor/inputWebDocument) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputWebDocument?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputWebDocument?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputWebDocument?layer=3)
@@ -130,7 +130,7 @@ inputWebDocument#9bed434d url:string size:int mime_type:string attributes:Vector
 | --- | --- | --- |
 | **url** | [string](https://core.telegram.org/type/string) | Remote document URL to be downloaded using the appropriate [method](https://core.telegram.org/api/files) |
 | **size** | [int](https://core.telegram.org/type/int) | Remote file size |
-| **mime\_type** | [string](https://core.telegram.org/type/string) | Mime type |
+| **mime_type** | [string](https://core.telegram.org/type/string) | Mime type |
 | **attributes** | [Vector](https://core.telegram.org/type/Vector%20t)<[DocumentAttribute](https://core.telegram.org/type/DocumentAttribute)> | Attributes for media types |
 
 ### Type

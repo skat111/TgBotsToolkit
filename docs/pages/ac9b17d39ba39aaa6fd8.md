@@ -11,7 +11,7 @@ Contains information about the current localization target.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) > > | [language\_packs\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a0470c6c8f996b488c7cea4f65279d936) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) > > | [language_packs_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a0470c6c8f996b488c7cea4f65279d936) |
 |  | List of available language packs for this application. |
 |  | |
 
@@ -20,9 +20,9 @@ Contains information about the current localization target.
 | Public Instance Methods | |
 |  | [localizationTargetInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a6bbaf8bb1c3b58158b8193fa8cfa62d5) () |
 |  | |
-|  | [localizationTargetInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a535fdb8afb3b4e1edb5f5c0732cb91d0) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) >> &&[language\_packs\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a0470c6c8f996b488c7cea4f65279d936)) |
+|  | [localizationTargetInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a535fdb8afb3b4e1edb5f5c0732cb91d0) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) >> &&[language_packs_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a0470c6c8f996b488c7cea4f65279d936)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Contains information about the current localization target.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2048670809 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2048670809 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Contains information about the current localization target.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [localizationTargetInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) >> && | *language\_packs\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [localizationTargetInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1localization_target_info.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [languagePackInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1language_pack_info.html) >> && | *language_packs_* | ) |  | | explicit |
 
 Contains information about the current localization target.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | language\_packs\_ | List of available language packs for this application. |
+    | [in] | language_packs_ | List of available language packs for this application. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

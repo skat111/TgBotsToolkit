@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/SecureData
 
 Secure [passport](https://core.telegram.org/passport) data, for more info [see the passport docs »](https://core.telegram.org/passport/encryption#securedata)
 
-* [Layer 223](https://core.telegram.org/type/SecureData#) 
+* [Layer 223](https://core.telegram.org/type/SecureData) 
   + [1 – Base layer](https://core.telegram.org/type/SecureData?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/SecureData?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/SecureData?layer=3)

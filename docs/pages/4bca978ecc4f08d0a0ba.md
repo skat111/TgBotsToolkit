@@ -8,34 +8,34 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns an HTTPS URL of a Web App to open after a link of the type [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html) is clicked.
 
-Returns object\_ptr<HttpUrl>.
+Returns object_ptr<HttpUrl>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Identifier of the chat in which the link was clicked; pass 0 if none. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [bot\_user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a852a1eecf72791be8eb2633ff5dcaec4) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [bot_user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a852a1eecf72791be8eb2633ff5dcaec4) |
 |  | Identifier of the target bot. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [web\_app\_short\_name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a790983d865ac7a7355db6aad4d84f864) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [web_app_short_name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a790983d865ac7a7355db6aad4d84f864) |
 |  | Short name of the Web App. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [start\_parameter\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a0bb6210f37d63781e256ce994776918c) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [start_parameter_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a0bb6210f37d63781e256ce994776918c) |
 |  | Start parameter from [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html). |
 |  | |
-| bool | [allow\_write\_access\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a7da6253b54395e4b495a4f7d7c2c8079) |
+| bool | [allow_write_access_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a7da6253b54395e4b495a4f7d7c2c8079) |
 |  | Pass true if the current user allowed the bot to send them messages. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > | [parameters\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#af39abd6dbe450aa53cad2723cc084de1) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > | [parameters_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#af39abd6dbe450aa53cad2723cc084de1) |
 |  | Parameters to use to open the Web App. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a89600d844008faaad1ecacab98018b81) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [httpUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1http_url.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a89600d844008faaad1ecacab98018b81) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [httpUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1http_url.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -44,9 +44,9 @@ Returns object\_ptr<HttpUrl>.
 | Public Instance Methods | |
 |  | [getWebAppLinkUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a9beb47d2920537fc5970b631d4e52a33) () |
 |  | |
-|  | [getWebAppLinkUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a01fbbf33a0d72ec53aa5520eb32c046f) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [bot\_user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a852a1eecf72791be8eb2633ff5dcaec4), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[web\_app\_short\_name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a790983d865ac7a7355db6aad4d84f864), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[start\_parameter\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a0bb6210f37d63781e256ce994776918c), bool [allow\_write\_access\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a7da6253b54395e4b495a4f7d7c2c8079), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > &&[parameters\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#af39abd6dbe450aa53cad2723cc084de1)) |
+|  | [getWebAppLinkUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a01fbbf33a0d72ec53aa5520eb32c046f) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [bot_user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a852a1eecf72791be8eb2633ff5dcaec4), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[web_app_short_name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a790983d865ac7a7355db6aad4d84f864), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[start_parameter_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a0bb6210f37d63781e256ce994776918c), bool [allow_write_access_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a7da6253b54395e4b495a4f7d7c2c8079), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > &&[parameters_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#af39abd6dbe450aa53cad2723cc084de1)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -69,7 +69,7 @@ Returns object\_ptr<HttpUrl>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1627284161 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1627284161 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -83,33 +83,33 @@ Returns object\_ptr<HttpUrl>.
 
 Default constructor for a function, which returns an HTTPS URL of a Web App to open after a link of the type [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html) is clicked.
 
-Returns object\_ptr<HttpUrl>.
+Returns object_ptr<HttpUrl>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html#a01fbbf33a0d72ec53aa5520eb32c046f)getWebAppLinkUrl() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [getWebAppLinkUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *bot\_user\_id\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *web\_app\_short\_name\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *start\_parameter\_*, |
-|  |  | bool | *allow\_write\_access\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > && | *parameters\_* |
+| [getWebAppLinkUrl](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_web_app_link_url.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *bot_user_id_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *web_app_short_name_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *start_parameter_*, |
+|  |  | bool | *allow_write_access_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [webAppOpenParameters](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1web_app_open_parameters.html) > && | *parameters_* |
 |  | ) |  |  |
 
 Creates a function, which returns an HTTPS URL of a Web App to open after a link of the type [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html) is clicked.
 
-Returns object\_ptr<HttpUrl>.
+Returns object_ptr<HttpUrl>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Identifier of the chat in which the link was clicked; pass 0 if none. |
-    | [in] | bot\_user\_id\_ | Identifier of the target bot. |
-    | [in] | web\_app\_short\_name\_ | Short name of the Web App. |
-    | [in] | start\_parameter\_ | Start parameter from [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html). |
-    | [in] | allow\_write\_access\_ | Pass true if the current user allowed the bot to send them messages. |
-    | [in] | parameters\_ | Parameters to use to open the Web App. |
+    | [in] | chat_id_ | Identifier of the chat in which the link was clicked; pass 0 if none. |
+    | [in] | bot_user_id_ | Identifier of the target bot. |
+    | [in] | web_app_short_name_ | Short name of the Web App. |
+    | [in] | start_parameter_ | Start parameter from [internalLinkTypeWebApp](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_web_app.html). |
+    | [in] | allow_write_access_ | Pass true if the current user allowed the bot to send them messages. |
+    | [in] | parameters_ | Parameters to use to open the Web App. |
 
 ## Method Documentation
 
@@ -117,15 +117,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -133,4 +133,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

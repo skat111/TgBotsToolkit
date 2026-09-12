@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIc
 
 Default [custom emoji](https://core.telegram.org/api/custom-emoji) stickerset for [forum topic icons](https://core.telegram.org/api/forum#forum-topics)
 
-* [Layer 223](https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIcons#) 
+* [Layer 223](https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIcons) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIcons?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIcons?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputStickerSetEmojiDefaultTopicIcons?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox
 
 Outgoing comments in a [discussion thread](https://core.telegram.org/api/threads) were marked as read
 
-* [Layer 223](https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox#) 
+* [Layer 223](https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateReadChannelDiscussionOutbox?layer=3)
@@ -128,9 +128,9 @@ updateReadChannelDiscussionOutbox#695c9e7c channel_id:long top_msg_id:int read_m
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **channel\_id** | [long](https://core.telegram.org/type/long) | [Supergroup ID](https://core.telegram.org/api/channel) |
-| **top\_msg\_id** | [int](https://core.telegram.org/type/int) | ID of the group message that started the [thread](https://core.telegram.org/api/threads) |
-| **read\_max\_id** | [int](https://core.telegram.org/type/int) | Message ID of latest read outgoing message for this [thread](https://core.telegram.org/api/threads) |
+| **channel_id** | [long](https://core.telegram.org/type/long) | [Supergroup ID](https://core.telegram.org/api/channel) |
+| **top_msg_id** | [int](https://core.telegram.org/type/int) | ID of the group message that started the [thread](https://core.telegram.org/api/threads) |
+| **read_max_id** | [int](https://core.telegram.org/type/int) | Message ID of latest read outgoing message for this [thread](https://core.telegram.org/api/threads) |
 
 ### Type
 

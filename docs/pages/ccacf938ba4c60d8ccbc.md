@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionToggleIn
 
 Invites were enabled/disabled
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionToggleInvites?layer=3)
@@ -128,7 +128,7 @@ channelAdminLogEventActionToggleInvites#1b7907ae new_value:Bool = ChannelAdminLo
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **new\_value** | [Bool](https://core.telegram.org/type/Bool) | New value |
+| **new_value** | [Bool](https://core.telegram.org/type/Bool) | New value |
 
 ### Type
 

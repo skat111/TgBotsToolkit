@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageMediaGiveawayResults
 
 A [giveaway](https://core.telegram.org/api/giveaways) with public winners has finished, this constructor contains info about the winners.
 
-* [Layer 223](https://core.telegram.org/constructor/messageMediaGiveawayResults#) 
+* [Layer 223](https://core.telegram.org/constructor/messageMediaGiveawayResults) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageMediaGiveawayResults?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageMediaGiveawayResults?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageMediaGiveawayResults?layer=3)
@@ -129,18 +129,18 @@ messageMediaGiveawayResults#ceaa3ea1 flags:# only_new_subscribers:flags.0?true r
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **only\_new\_subscribers** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, only new subscribers starting from the giveaway creation date participated in the giveaway. |
+| **only_new_subscribers** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, only new subscribers starting from the giveaway creation date participated in the giveaway. |
 | **refunded** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | If set, the giveaway was canceled and was fully refunded. |
-| **channel\_id** | [long](https://core.telegram.org/type/long) | ID of the channel/supergroup that was automatically [boosted](https://core.telegram.org/api/boost) by the winners of the giveaway for duration of the Premium subscription. |
-| **additional\_peers\_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[int](https://core.telegram.org/type/int) | Number of other channels that participated in the giveaway. |
-| **launch\_msg\_id** | [int](https://core.telegram.org/type/int) | Identifier of the message with the giveaway in `channel_id`. |
-| **winners\_count** | [int](https://core.telegram.org/type/int) | Total number of winners in the giveaway. |
-| **unclaimed\_count** | [int](https://core.telegram.org/type/int) | Number of not-yet-claimed prizes. |
+| **channel_id** | [long](https://core.telegram.org/type/long) | ID of the channel/supergroup that was automatically [boosted](https://core.telegram.org/api/boost) by the winners of the giveaway for duration of the Premium subscription. |
+| **additional_peers_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[int](https://core.telegram.org/type/int) | Number of other channels that participated in the giveaway. |
+| **launch_msg_id** | [int](https://core.telegram.org/type/int) | Identifier of the message with the giveaway in `channel_id`. |
+| **winners_count** | [int](https://core.telegram.org/type/int) | Total number of winners in the giveaway. |
+| **unclaimed_count** | [int](https://core.telegram.org/type/int) | Number of not-yet-claimed prizes. |
 | **winners** | [Vector](https://core.telegram.org/type/Vector%20t)<[long](https://core.telegram.org/type/long)> | Up to 100 user identifiers of the winners of the giveaway. |
 | **months** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[int](https://core.telegram.org/type/int) | Duration in months of each [Telegram Premium](https://core.telegram.org/api/premium) subscription in the giveaway. |
 | **stars** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[long](https://core.telegram.org/type/long) | For [Telegram Star giveaways](https://core.telegram.org/api/stars#star-giveaways), the total number of Telegram Stars being given away. |
-| **prize\_description** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Can contain a textual description of additional giveaway prizes. |
-| **until\_date** | [int](https://core.telegram.org/type/int) | Point in time (Unix timestamp) when the winners were selected. May be bigger than winners selection date specified in initial parameters of the giveaway. |
+| **prize_description** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Can contain a textual description of additional giveaway prizes. |
+| **until_date** | [int](https://core.telegram.org/type/int) | Point in time (Unix timestamp) when the winners were selected. May be bigger than winners selection date specified in initial parameters of the giveaway. |
 
 ### Type
 

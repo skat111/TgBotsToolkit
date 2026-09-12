@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.dialogsSlice
 
 Incomplete list of dialogs with messages and auxiliary data.
 
-* [Layer 223](https://core.telegram.org/constructor/messages.dialogsSlice#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.dialogsSlice) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.dialogsSlice?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.dialogsSlice?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.dialogsSlice?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase
 
 The code was sent via SMS as a secret phrase starting with the word specified in `beginning`
 
-* [Layer 223](https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase#) 
+* [Layer 223](https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase) 
   + [1 – Base layer](https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auth.sentCodeTypeSmsPhrase?layer=3)

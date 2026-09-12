@@ -6,7 +6,7 @@ Upload a custom profile picture for a contact, or suggest a new profile picture 
 
 The `file`, `video` and `video_emoji_markup` flags are mutually exclusive.
 
-* [Layer 223](https://core.telegram.org/method/photos.uploadContactProfilePhoto#) 
+* [Layer 223](https://core.telegram.org/method/photos.uploadContactProfilePhoto) 
   + [1 – Base layer](https://core.telegram.org/method/photos.uploadContactProfilePhoto?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/photos.uploadContactProfilePhoto?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/photos.uploadContactProfilePhoto?layer=3)
@@ -135,11 +135,11 @@ photos.uploadContactProfilePhoto#e14c4a71 flags:# suggest:flags.3?true save:flag
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **suggest** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | If set, will send a [messageActionSuggestProfilePhoto](https://core.telegram.org/constructor/messageActionSuggestProfilePhoto) service message to `user_id`, suggesting them to use the specified profile picture; otherwise, will set a personal profile picture for the user (only visible to the current user). |
 | **save** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[true](https://core.telegram.org/constructor/true) | If set, removes a previously set personal profile picture (does not affect suggested profile pictures, to remove them simply delete the [messageActionSuggestProfilePhoto](https://core.telegram.org/constructor/messageActionSuggestProfilePhoto) service message with [messages.deleteMessages](https://core.telegram.org/method/messages.deleteMessages)). |
-| **user\_id** | [InputUser](https://core.telegram.org/type/InputUser) | The contact |
+| **user_id** | [InputUser](https://core.telegram.org/type/InputUser) | The contact |
 | **file** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputFile](https://core.telegram.org/type/InputFile) | Profile photo |
 | **video** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InputFile](https://core.telegram.org/type/InputFile) | [Animated profile picture](https://core.telegram.org/api/files#animated-profile-pictures) video |
-| **video\_start\_ts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[double](https://core.telegram.org/type/double) | Floating point UNIX timestamp in seconds, indicating the frame of the video/sticker that should be used as static preview; can only be used if `video` or `video_emoji_markup` is set. |
-| **video\_emoji\_markup** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[VideoSize](https://core.telegram.org/type/VideoSize) | Animated sticker profile picture, must contain either a [videoSizeEmojiMarkup](https://core.telegram.org/constructor/videoSizeEmojiMarkup) or a [videoSizeStickerMarkup](https://core.telegram.org/constructor/videoSizeStickerMarkup) constructor. |
+| **video_start_ts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[double](https://core.telegram.org/type/double) | Floating point UNIX timestamp in seconds, indicating the frame of the video/sticker that should be used as static preview; can only be used if `video` or `video_emoji_markup` is set. |
+| **video_emoji_markup** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[VideoSize](https://core.telegram.org/type/VideoSize) | Animated sticker profile picture, must contain either a [videoSizeEmojiMarkup](https://core.telegram.org/constructor/videoSizeEmojiMarkup) or a [videoSizeStickerMarkup](https://core.telegram.org/constructor/videoSizeStickerMarkup) constructor. |
 
 ### Result
 
@@ -151,9 +151,9 @@ photos.uploadContactProfilePhoto#e14c4a71 flags:# suggest:flags.3?true save:flag
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CONTACT\_MISSING | The specified user is not a contact. |
-| 400 | NEED\_ACTION\_MISSING | The caller didn't specify a valid action (either save or suggest) for the contact profile photo upload. |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
+| 400 | CONTACT_MISSING | The specified user is not a contact. |
+| 400 | NEED_ACTION_MISSING | The caller didn't specify a valid action (either save or suggest) for the contact profile photo upload. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |
 
 ### Related pages
 

@@ -11,13 +11,13 @@ The chat is a private chat with an administrator of a chat to which the user sen
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [title\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ae49b8c94dab3e85761dd65876260deb9) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [title_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ae49b8c94dab3e85761dd65876260deb9) |
 |  | Title of the chat to which the join request was sent. |
 |  | |
-| bool | [is\_channel\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a03c3ef88b91f79e111f3f015657a06e8) |
+| bool | [is_channel_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a03c3ef88b91f79e111f3f015657a06e8) |
 |  | True, if the join request was sent to a channel chat. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [request\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af108bd54d0b9e49fda8f21839c59a1b9) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [request_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af108bd54d0b9e49fda8f21839c59a1b9) |
 |  | Point in time (Unix timestamp) when the join request was sent. |
 |  | |
 
@@ -26,9 +26,9 @@ The chat is a private chat with an administrator of a chat to which the user sen
 | Public Instance Methods | |
 |  | [chatActionBarJoinRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#afdb834b8b2f46f5c9f0a3bf7cc25ab9c) () |
 |  | |
-|  | [chatActionBarJoinRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af0c87ffda5e746150eca870f0deb6dbe) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[title\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ae49b8c94dab3e85761dd65876260deb9), bool [is\_channel\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a03c3ef88b91f79e111f3f015657a06e8), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [request\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af108bd54d0b9e49fda8f21839c59a1b9)) |
+|  | [chatActionBarJoinRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af0c87ffda5e746150eca870f0deb6dbe) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[title_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ae49b8c94dab3e85761dd65876260deb9), bool [is_channel_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a03c3ef88b91f79e111f3f015657a06e8), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [request_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#af108bd54d0b9e49fda8f21839c59a1b9)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -51,7 +51,7 @@ The chat is a private chat with an administrator of a chat to which the user sen
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1037140744 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1037140744 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,9 +69,9 @@ The chat is a private chat with an administrator of a chat to which the user sen
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [chatActionBarJoinRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *title\_*, |
-|  |  | bool | *is\_channel\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *request\_date\_* |
+| [chatActionBarJoinRequest](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_action_bar_join_request.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *title_*, |
+|  |  | bool | *is_channel_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *request_date_* |
 |  | ) |  |  |
 
 The chat is a private chat with an administrator of a chat to which the user sent join request.
@@ -79,9 +79,9 @@ The chat is a private chat with an administrator of a chat to which the user sen
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | title\_ | Title of the chat to which the join request was sent. |
-    | [in] | is\_channel\_ | True, if the join request was sent to a channel chat. |
-    | [in] | request\_date\_ | Point in time (Unix timestamp) when the join request was sent. |
+    | [in] | title_ | Title of the chat to which the join request was sent. |
+    | [in] | is_channel_ | True, if the join request was sent to a channel chat. |
+    | [in] | request_date_ | Point in time (Unix timestamp) when the join request was sent. |
 
 ## Method Documentation
 
@@ -89,15 +89,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -105,4 +105,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

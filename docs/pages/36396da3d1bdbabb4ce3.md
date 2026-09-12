@@ -11,10 +11,10 @@ Contains settings for gift receiving for a user.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| bool | [show\_gift\_button\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#adf63152bc30bc200657e6a2ac0e3cb07) |
+| bool | [show_gift_button_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#adf63152bc30bc200657e6a2ac0e3cb07) |
 |  | True, if a button for sending a gift to the user or by the user must always be shown in the input field. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > | [accepted\_gift\_types\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a594340c2b82e401a468ffe366a3c363e) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > | [accepted_gift_types_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a594340c2b82e401a468ffe366a3c363e) |
 |  | Types of gifts accepted by the user; for Telegram Premium users only. |
 |  | |
 
@@ -23,9 +23,9 @@ Contains settings for gift receiving for a user.
 | Public Instance Methods | |
 |  | [giftSettings](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a40002b7a33769c68f8ca937b1764c8ef) () |
 |  | |
-|  | [giftSettings](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a9183853c9faeeb40fe68703869b21684) (bool [show\_gift\_button\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#adf63152bc30bc200657e6a2ac0e3cb07), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > &&[accepted\_gift\_types\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a594340c2b82e401a468ffe366a3c363e)) |
+|  | [giftSettings](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a9183853c9faeeb40fe68703869b21684) (bool [show_gift_button_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#adf63152bc30bc200657e6a2ac0e3cb07), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > &&[accepted_gift_types_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a594340c2b82e401a468ffe366a3c363e)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ Contains settings for gift receiving for a user.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 45783168 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 45783168 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ Contains settings for gift receiving for a user.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [giftSettings](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html) | ( | bool | *show\_gift\_button\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > && | *accepted\_gift\_types\_* |
+| [giftSettings](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1gift_settings.html) | ( | bool | *show_gift_button_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [acceptedGiftTypes](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1accepted_gift_types.html) > && | *accepted_gift_types_* |
 |  | ) |  |  |
 
 Contains settings for gift receiving for a user.
@@ -75,8 +75,8 @@ Contains settings for gift receiving for a user.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | show\_gift\_button\_ | True, if a button for sending a gift to the user or by the user must always be shown in the input field. |
-    | [in] | accepted\_gift\_types\_ | Types of gifts accepted by the user; for Telegram Premium users only. |
+    | [in] | show_gift_button_ | True, if a button for sending a gift to the user or by the user must always be shown in the input field. |
+    | [in] | accepted_gift_types_ | Types of gifts accepted by the user; for Telegram Premium users only. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

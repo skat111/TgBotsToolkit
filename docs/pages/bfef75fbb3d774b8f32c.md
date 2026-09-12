@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotMessageReactions
 
 Bots only: the number of reactions on a message with anonymous reactions has changed.
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotMessageReactions#) 
+* [Layer 223](https://core.telegram.org/constructor/updateBotMessageReactions) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotMessageReactions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotMessageReactions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotMessageReactions?layer=3)
@@ -129,7 +129,7 @@ updateBotMessageReactions#9cb7759 peer:Peer msg_id:int date:int reactions:Vector
 | Name | Type | Description |
 | --- | --- | --- |
 | **peer** | [Peer](https://core.telegram.org/type/Peer) | Peer of the reacted-to message. |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | ID of the reacted-to message. |
+| **msg_id** | [int](https://core.telegram.org/type/int) | ID of the reacted-to message. |
 | **date** | [int](https://core.telegram.org/type/int) | Date of the change. |
 | **reactions** | [Vector](https://core.telegram.org/type/Vector%20t)<[ReactionCount](https://core.telegram.org/type/ReactionCount)> | New reaction counters. |
 | **qts** | [int](https://core.telegram.org/type/int) | [QTS](https://core.telegram.org/api/updates) event sequence identifier |

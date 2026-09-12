@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/prepaidStarsGiveaway
 
 Contains info about a [prepaid Telegram Star giveaway »](https://core.telegram.org/api/giveaways#star-giveaways).
 
-* [Layer 223](https://core.telegram.org/constructor/prepaidStarsGiveaway#) 
+* [Layer 223](https://core.telegram.org/constructor/prepaidStarsGiveaway) 
   + [1 – Base layer](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=3)

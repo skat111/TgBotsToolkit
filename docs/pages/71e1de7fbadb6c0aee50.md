@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updates.channelDifferenceEmpty
 
 There are no new updates
 
-* [Layer 223](https://core.telegram.org/constructor/updates.channelDifferenceEmpty#) 
+* [Layer 223](https://core.telegram.org/constructor/updates.channelDifferenceEmpty) 
   + [1 – Base layer](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=3)

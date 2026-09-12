@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/auth.requestFirebaseSms
 
 Request an SMS code via Firebase.
 
-* [Layer 223](https://core.telegram.org/method/auth.requestFirebaseSms#) 
+* [Layer 223](https://core.telegram.org/method/auth.requestFirebaseSms) 
   + [1 – Base layer](https://core.telegram.org/method/auth.requestFirebaseSms?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/auth.requestFirebaseSms?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/auth.requestFirebaseSms?layer=3)
@@ -132,11 +132,11 @@ auth.requestFirebaseSms#8e39261e flags:# phone_number:string phone_code_hash:str
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **phone\_number** | [string](https://core.telegram.org/type/string) | Phone number |
-| **phone\_code\_hash** | [string](https://core.telegram.org/type/string) | Phone code hash returned by [auth.sendCode](https://core.telegram.org/method/auth.sendCode) |
-| **safety\_net\_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | On Android, a JWS object obtained as described in the [auth documentation »](https://core.telegram.org/api/auth) |
-| **play\_integrity\_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | On Android, an object obtained as described in the [auth documentation »](https://core.telegram.org/api/auth) |
-| **ios\_push\_secret** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Secret token received via an apple push notification |
+| **phone_number** | [string](https://core.telegram.org/type/string) | Phone number |
+| **phone_code_hash** | [string](https://core.telegram.org/type/string) | Phone code hash returned by [auth.sendCode](https://core.telegram.org/method/auth.sendCode) |
+| **safety_net_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | On Android, a JWS object obtained as described in the [auth documentation »](https://core.telegram.org/api/auth) |
+| **play_integrity_token** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | On Android, an object obtained as described in the [auth documentation »](https://core.telegram.org/api/auth) |
+| **ios_push_secret** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | Secret token received via an apple push notification |
 
 ### Result
 
@@ -150,8 +150,8 @@ auth.requestFirebaseSms#8e39261e flags:# phone_number:string phone_code_hash:str
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PHONE\_CODE\_EMPTY | phone\_code is missing. |
-| 400 | PHONE\_NUMBER\_INVALID | The phone number is invalid. |
+| 400 | PHONE_CODE_EMPTY | phone_code is missing. |
+| 400 | PHONE_NUMBER_INVALID | The phone number is invalid. |
 
 ### Related pages
 

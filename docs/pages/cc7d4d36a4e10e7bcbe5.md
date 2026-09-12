@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/help.getNearestDc
 
 Returns info on data center nearest to the user.
 
-* [Layer 223](https://core.telegram.org/method/help.getNearestDc#) 
+* [Layer 223](https://core.telegram.org/method/help.getNearestDc) 
   + [1 – Base layer](https://core.telegram.org/method/help.getNearestDc?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/help.getNearestDc?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/help.getNearestDc?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionToggleSl
 
 [Slow mode setting for supergroups was changed](https://core.telegram.org/method/channels.toggleSlowMode)
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSlowMode#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSlowMode) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSlowMode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSlowMode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSlowMode?layer=3)
@@ -128,8 +128,8 @@ channelAdminLogEventActionToggleSlowMode#53909779 prev_value:int new_value:int =
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **prev\_value** | [int](https://core.telegram.org/type/int) | Previous slow mode value |
-| **new\_value** | [int](https://core.telegram.org/type/int) | New slow mode value |
+| **prev_value** | [int](https://core.telegram.org/type/int) | Previous slow mode value |
+| **new_value** | [int](https://core.telegram.org/type/int) | New slow mode value |
 
 ### Type
 

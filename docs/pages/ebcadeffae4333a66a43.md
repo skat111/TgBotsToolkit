@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/storage.fileMp4
 
 MPEG-4 video. MIME type: `video/mp4`.
 
-* [Layer 223](https://core.telegram.org/constructor/storage.fileMp4#) 
+* [Layer 223](https://core.telegram.org/constructor/storage.fileMp4) 
   + [1 – Base layer](https://core.telegram.org/constructor/storage.fileMp4?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/storage.fileMp4?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/storage.fileMp4?layer=3)

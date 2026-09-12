@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/geoPoint
 
 GeoPoint.
 
-* [Layer 223](https://core.telegram.org/constructor/geoPoint#) 
+* [Layer 223](https://core.telegram.org/constructor/geoPoint) 
   + [1 – Base layer](https://core.telegram.org/constructor/geoPoint?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/geoPoint?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/geoPoint?layer=3)
@@ -131,8 +131,8 @@ geoPoint#b2a2f663 flags:# long:double lat:double access_hash:long accuracy_radiu
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **long** | [double](https://core.telegram.org/type/double) | Longitude |
 | **lat** | [double](https://core.telegram.org/type/double) | Latitude |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Access hash |
-| **accuracy\_radius** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | The estimated horizontal accuracy of the location, in meters; as defined by the sender. |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Access hash |
+| **accuracy_radius** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | The estimated horizontal accuracy of the location, in meters; as defined by the sender. |
 
 ### Type
 

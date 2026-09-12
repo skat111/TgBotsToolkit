@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/help.DeepLinkInfo
 
 Contains information about an unsupported [deep link »](https://core.telegram.org/api/links#unsupported-links)
 
-* [Layer 223](https://core.telegram.org/type/help.DeepLinkInfo#) 
+* [Layer 223](https://core.telegram.org/type/help.DeepLinkInfo) 
   + [1 – Base layer](https://core.telegram.org/type/help.DeepLinkInfo?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/help.DeepLinkInfo?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/help.DeepLinkInfo?layer=3)

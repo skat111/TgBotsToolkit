@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.giveawayInfoResults
 
 A [giveaway](https://core.telegram.org/api/giveaways) has ended.
 
-* [Layer 223](https://core.telegram.org/constructor/payments.giveawayInfoResults#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.giveawayInfoResults) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.giveawayInfoResults?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.giveawayInfoResults?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.giveawayInfoResults?layer=3)
@@ -131,12 +131,12 @@ payments.giveawayInfoResults#e175e66f flags:# winner:flags.0?true refunded:flags
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **winner** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether we're one of the winners of this giveaway. |
 | **refunded** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Whether the giveaway was canceled and was fully refunded. |
-| **start\_date** | [int](https://core.telegram.org/type/int) | Start date of the giveaway |
-| **gift\_code\_slug** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[string](https://core.telegram.org/type/string) | If we're one of the winners of this giveaway, contains the [Premium gift code](https://core.telegram.org/api/links#premium-giftcode-links), see [here »](https://core.telegram.org/api/giveaways) for more info on the full giveaway flow. |
-| **stars\_prize** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[long](https://core.telegram.org/type/long) | If we're one of the winners of this [Telegram Star giveaway](https://core.telegram.org/api/giveaways#star-giveaways), the number [Telegram Stars](https://core.telegram.org/api/stars) we won. |
-| **finish\_date** | [int](https://core.telegram.org/type/int) | End date of the giveaway. May be bigger than the end date specified in parameters of the giveaway. |
-| **winners\_count** | [int](https://core.telegram.org/type/int) | Number of winners in the giveaway |
-| **activated\_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | Number of winners, which activated their [gift codes](https://core.telegram.org/api/links#premium-giftcode-links). |
+| **start_date** | [int](https://core.telegram.org/type/int) | Start date of the giveaway |
+| **gift_code_slug** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[string](https://core.telegram.org/type/string) | If we're one of the winners of this giveaway, contains the [Premium gift code](https://core.telegram.org/api/links#premium-giftcode-links), see [here »](https://core.telegram.org/api/giveaways) for more info on the full giveaway flow. |
+| **stars_prize** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[long](https://core.telegram.org/type/long) | If we're one of the winners of this [Telegram Star giveaway](https://core.telegram.org/api/giveaways#star-giveaways), the number [Telegram Stars](https://core.telegram.org/api/stars) we won. |
+| **finish_date** | [int](https://core.telegram.org/type/int) | End date of the giveaway. May be bigger than the end date specified in parameters of the giveaway. |
+| **winners_count** | [int](https://core.telegram.org/type/int) | Number of winners in the giveaway |
+| **activated_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | Number of winners, which activated their [gift codes](https://core.telegram.org/api/links#premium-giftcode-links). |
 
 ### Type
 

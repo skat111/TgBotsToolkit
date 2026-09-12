@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputMessageCallbackQuery
 
 Used by bots for fetching information about the message that originated a callback query
 
-* [Layer 223](https://core.telegram.org/constructor/inputMessageCallbackQuery#) 
+* [Layer 223](https://core.telegram.org/constructor/inputMessageCallbackQuery) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputMessageCallbackQuery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputMessageCallbackQuery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputMessageCallbackQuery?layer=3)
@@ -129,7 +129,7 @@ inputMessageCallbackQuery#acfa1a7e id:int query_id:long = InputMessage;
 | Name | Type | Description |
 | --- | --- | --- |
 | **id** | [int](https://core.telegram.org/type/int) | Message ID |
-| **query\_id** | [long](https://core.telegram.org/type/long) | Callback query ID |
+| **query_id** | [long](https://core.telegram.org/type/long) | Callback query ID |
 
 ### Type
 

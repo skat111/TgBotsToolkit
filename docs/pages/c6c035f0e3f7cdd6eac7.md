@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/photos.photos
 
 Full list of photos with auxiliary data.
 
-* [Layer 223](https://core.telegram.org/constructor/photos.photos#) 
+* [Layer 223](https://core.telegram.org/constructor/photos.photos) 
   + [1 – Base layer](https://core.telegram.org/constructor/photos.photos?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/photos.photos?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/photos.photos?layer=3)

@@ -6,7 +6,7 @@ Obtain a list of suggested [mini apps](https://core.telegram.org/api/bots/webapp
 
 `order_by_revenue` and `order_by_date` are mutually exclusive: if neither is set, results are sorted by profitability.
 
-* [Layer 223](https://core.telegram.org/method/payments.getSuggestedStarRefBots#) 
+* [Layer 223](https://core.telegram.org/method/payments.getSuggestedStarRefBots) 
   + [1 – Base layer](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=3)
@@ -133,8 +133,8 @@ payments.getSuggestedStarRefBots#d6b48f7 flags:# order_by_revenue:flags.0?true o
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **order\_by\_revenue** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, orders results by the expected revenue |
-| **order\_by\_date** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | If set, orders results by the creation date of the affiliate program |
+| **order_by_revenue** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, orders results by the expected revenue |
+| **order_by_date** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | If set, orders results by the creation date of the affiliate program |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | The peer that will become the affiliate: star commissions will be transferred to this peer's star balance. |
 | **offset** | [string](https://core.telegram.org/type/string) | Offset for pagination, taken from [payments.suggestedStarRefBots](https://core.telegram.org/constructor/payments.suggestedStarRefBots).`next_offset`, initially empty. |
 | **limit** | [int](https://core.telegram.org/type/int) | Maximum number of results to return, [see pagination](https://core.telegram.org/api/offsets) |
@@ -149,7 +149,7 @@ payments.getSuggestedStarRefBots#d6b48f7 flags:# order_by_revenue:flags.0?true o
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 403 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 403 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

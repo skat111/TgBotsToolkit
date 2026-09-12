@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.resolveBusinessChatLink
 
 Resolve a [business chat deep link »](https://core.telegram.org/api/business#business-chat-links).
 
-* [Layer 223](https://core.telegram.org/method/account.resolveBusinessChatLink#) 
+* [Layer 223](https://core.telegram.org/method/account.resolveBusinessChatLink) 
   + [1 – Base layer](https://core.telegram.org/method/account.resolveBusinessChatLink?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.resolveBusinessChatLink?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.resolveBusinessChatLink?layer=3)
@@ -142,8 +142,8 @@ account.resolveBusinessChatLink#5492e5ee slug:string = account.ResolvedBusinessC
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHATLINK\_SLUG\_EMPTY | The specified slug is empty. |
-| 400 | CHATLINK\_SLUG\_EXPIRED | The specified [business chat link](https://core.telegram.org/api/business#business-chat-links) has expired. |
+| 400 | CHATLINK_SLUG_EMPTY | The specified slug is empty. |
+| 400 | CHATLINK_SLUG_EXPIRED | The specified [business chat link](https://core.telegram.org/api/business#business-chat-links) has expired. |
 
 ### Related pages
 

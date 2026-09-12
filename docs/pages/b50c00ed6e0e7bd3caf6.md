@@ -8,19 +8,19 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns an emoji for the given country. Returns an empty string on failure. Can be called synchronously.
 
-Returns object\_ptr<Text>.
+Returns object_ptr<Text>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [country\_code\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a3a1f9992ac15f26c3b22c5e324cbd29f) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [country_code_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a3a1f9992ac15f26c3b22c5e324cbd29f) |
 |  | A two-letter ISO 3166-1 alpha-2 country code as received from [getCountries](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_countries.html). |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a33c2d8c032dc3bf2fdc5bfb283eee37a) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [text](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a33c2d8c032dc3bf2fdc5bfb283eee37a) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [text](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1text.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<Text>.
 | Public Instance Methods | |
 |  | [getCountryFlagEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#ac70e3a1370b68986fde54deb6bc87543) () |
 |  | |
-|  | [getCountryFlagEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a05fb0a0edbb5c03a18da2d909219baa9) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[country\_code\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a3a1f9992ac15f26c3b22c5e324cbd29f)) |
+|  | [getCountryFlagEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a05fb0a0edbb5c03a18da2d909219baa9) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[country_code_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a3a1f9992ac15f26c3b22c5e324cbd29f)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<Text>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 981871098 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 981871098 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -68,22 +68,22 @@ Returns object\_ptr<Text>.
 
 Default constructor for a function, which returns an emoji for the given country. Returns an empty string on failure. Can be called synchronously.
 
-Returns object\_ptr<Text>.
+Returns object_ptr<Text>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html#a05fb0a0edbb5c03a18da2d909219baa9)getCountryFlagEmoji() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [getCountryFlagEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *country\_code\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [getCountryFlagEmoji](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_country_flag_emoji.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *country_code_* | ) |  | | explicit |
 
 Creates a function, which returns an emoji for the given country. Returns an empty string on failure. Can be called synchronously.
 
-Returns object\_ptr<Text>.
+Returns object_ptr<Text>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | country\_code\_ | A two-letter ISO 3166-1 alpha-2 country code as received from [getCountries](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_countries.html). |
+    | [in] | country_code_ | A two-letter ISO 3166-1 alpha-2 country code as received from [getCountries](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_countries.html). |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

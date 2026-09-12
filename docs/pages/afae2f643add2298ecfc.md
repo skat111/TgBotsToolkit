@@ -11,7 +11,7 @@ Contains a public repost to a story.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > | [story\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8bb52439c39d932213e25fa44068ac37) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > | [story_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8bb52439c39d932213e25fa44068ac37) |
 |  | Information about the story. |
 |  | |
 
@@ -20,9 +20,9 @@ Contains a public repost to a story.
 | Public Instance Methods | |
 |  | [publicForwardStory](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#ace72e364d94780e794726a04c56d557d) () |
 |  | |
-|  | [publicForwardStory](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a4d8464dc31900f3954a62a5ad22193fe) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > &&[story\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8bb52439c39d932213e25fa44068ac37)) |
+|  | [publicForwardStory](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a4d8464dc31900f3954a62a5ad22193fe) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > &&[story_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8bb52439c39d932213e25fa44068ac37)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Contains a public repost to a story.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2145330863 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2145330863 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Contains a public repost to a story.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [publicForwardStory](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > && | *story\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [publicForwardStory](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1public_forward_story.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > && | *story_* | ) |  | | explicit |
 
 Contains a public repost to a story.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | story\_ | Information about the story. |
+    | [in] | story_ | Information about the story. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

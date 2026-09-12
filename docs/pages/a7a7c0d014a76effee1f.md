@@ -2,9 +2,9 @@
 
 Source: https://core.telegram.org/method/account.getPaidMessagesRevenue
 
-Get the number of stars we have received from the specified user thanks to [paid messages »](https://core.telegram.org/api/paid-messages); the received amount will be equal to the sent amount multiplied by [stars\_paid\_message\_commission\_permille](https://core.telegram.org/api/config#stars-paid-message-commission-permille) divided by 1000.
+Get the number of stars we have received from the specified user thanks to [paid messages »](https://core.telegram.org/api/paid-messages); the received amount will be equal to the sent amount multiplied by [stars_paid_message_commission_permille](https://core.telegram.org/api/config#stars-paid-message-commission-permille) divided by 1000.
 
-* [Layer 223](https://core.telegram.org/method/account.getPaidMessagesRevenue#) 
+* [Layer 223](https://core.telegram.org/method/account.getPaidMessagesRevenue) 
   + [1 – Base layer](https://core.telegram.org/method/account.getPaidMessagesRevenue?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.getPaidMessagesRevenue?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.getPaidMessagesRevenue?layer=3)
@@ -131,8 +131,8 @@ account.getPaidMessagesRevenue#19ba4a67 flags:# parent_peer:flags.0?InputPeer us
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **parent\_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, can contain the ID of a [monoforum (channel direct messages)](https://core.telegram.org/api/monoforum) to obtain the number of stars the user has spent to send us direct messages via the channel. |
-| **user\_id** | [InputUser](https://core.telegram.org/type/InputUser) | The user that paid to send us messages. |
+| **parent_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, can contain the ID of a [monoforum (channel direct messages)](https://core.telegram.org/api/monoforum) to obtain the number of stars the user has spent to send us direct messages via the channel. |
+| **user_id** | [InputUser](https://core.telegram.org/type/InputUser) | The user that paid to send us messages. |
 
 ### Result
 
@@ -144,8 +144,8 @@ account.getPaidMessagesRevenue#19ba4a67 flags:# parent_peer:flags.0?InputPeer us
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PARENT\_PEER\_INVALID | The specified `parent_peer` is invalid. |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
+| 400 | PARENT_PEER_INVALID | The specified `parent_peer` is invalid. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |
 
 ### Related pages
 

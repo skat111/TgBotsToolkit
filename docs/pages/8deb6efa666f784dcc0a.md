@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/premiumGiftCodeOption
 
 Contains info about a [giveaway/gift](https://core.telegram.org/api/giveaways) option.
 
-* [Layer 223](https://core.telegram.org/constructor/premiumGiftCodeOption#) 
+* [Layer 223](https://core.telegram.org/constructor/premiumGiftCodeOption) 
   + [1 – Base layer](https://core.telegram.org/constructor/premiumGiftCodeOption?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/premiumGiftCodeOption?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/premiumGiftCodeOption?layer=3)
@@ -131,8 +131,8 @@ premiumGiftCodeOption#257e962b flags:# users:int months:int store_product:flags.
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **users** | [int](https://core.telegram.org/type/int) | Number of users which will be able to activate the gift codes. |
 | **months** | [int](https://core.telegram.org/type/int) | Duration in months of each gifted [Telegram Premium](https://core.telegram.org/api/premium) subscription. |
-| **store\_product** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | Identifier of the store product associated with the option, official apps only. |
-| **store\_quantity** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | Number of times the store product must be paid |
+| **store_product** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | Identifier of the store product associated with the option, official apps only. |
+| **store_quantity** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | Number of times the store product must be paid |
 | **currency** | [string](https://core.telegram.org/type/string) | Three-letter ISO 4217 [currency](https://core.telegram.org/bots/payments#supported-currencies) code |
 | **amount** | [long](https://core.telegram.org/type/long) | Total price in the smallest units of the currency (integer, not float/double). For example, for a price of `US$ 1.45` pass `amount = 145`. See the exp parameter in [currencies.json](https://core.telegram.org/bots/payments/currencies.json), it shows the number of digits past the decimal point for each currency (2 for the majority of currencies). |
 

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.toggleDialogPin
 
 Pin/unpin a dialog
 
-* [Layer 223](https://core.telegram.org/method/messages.toggleDialogPin#) 
+* [Layer 223](https://core.telegram.org/method/messages.toggleDialogPin) 
   + [1 – Base layer](https://core.telegram.org/method/messages.toggleDialogPin?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.toggleDialogPin?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.toggleDialogPin?layer=3)
@@ -145,7 +145,7 @@ messages.toggleDialogPin#a731e257 flags:# pinned:flags.0?true peer:InputDialogPe
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_PRIVATE | You haven't joined this channel/supergroup. |
-| 400 | PEER\_HISTORY\_EMPTY | You can't pin an empty chat with a user. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
-| 400 | PINNED\_DIALOGS\_TOO\_MUCH | Too many pinned dialogs. |
+| 400 | CHANNEL_PRIVATE | You haven't joined this channel/supergroup. |
+| 400 | PEER_HISTORY_EMPTY | You can't pin an empty chat with a user. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
+| 400 | PINNED_DIALOGS_TOO_MUCH | Too many pinned dialogs. |

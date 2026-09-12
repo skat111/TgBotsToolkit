@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode
 
 Used to gift [Telegram Premium](https://core.telegram.org/api/premium) subscriptions only to some specific subscribers of a channel/supergroup or to some of our contacts, see [here »](https://core.telegram.org/api/giveaways) for more info on giveaways and gifts.
 
-* [Layer 223](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode#) 
+* [Layer 223](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputStorePaymentPremiumGiftCode?layer=3)
@@ -130,7 +130,7 @@ inputStorePaymentPremiumGiftCode#fb790393 flags:# users:Vector<InputUser> boost_
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[InputUser](https://core.telegram.org/type/InputUser)> | The users that will receive the [Telegram Premium](https://core.telegram.org/api/premium) subscriptions. |
-| **boost\_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, the gifts will be sent on behalf of a channel/supergroup we are an admin of, which will also assign some [boosts](https://core.telegram.org/api/boost) to it. Otherwise, the gift will be sent directly from the currently logged in user, and we will gain some extra [boost slots](https://core.telegram.org/api/boost). See [here »](https://core.telegram.org/api/giveaways) for more info on giveaways and gifts. |
+| **boost_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, the gifts will be sent on behalf of a channel/supergroup we are an admin of, which will also assign some [boosts](https://core.telegram.org/api/boost) to it. Otherwise, the gift will be sent directly from the currently logged in user, and we will gain some extra [boost slots](https://core.telegram.org/api/boost). See [here »](https://core.telegram.org/api/giveaways) for more info on giveaways and gifts. |
 | **currency** | [string](https://core.telegram.org/type/string) | Three-letter ISO 4217 [currency](https://core.telegram.org/bots/payments#supported-currencies) code |
 | **amount** | [long](https://core.telegram.org/type/long) | Total price in the smallest units of the currency (integer, not float/double). For example, for a price of `US$ 1.45` pass `amount = 145`. See the exp parameter in [currencies.json](https://core.telegram.org/bots/payments/currencies.json), it shows the number of digits past the decimal point for each currency (2 for the majority of currencies). |
 | **message** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[TextWithEntities](https://core.telegram.org/type/TextWithEntities) | Message attached with the gift |

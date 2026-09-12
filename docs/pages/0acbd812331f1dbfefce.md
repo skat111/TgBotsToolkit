@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat
 
 Top [guest bots »](https://core.telegram.org/api/bots/guest-mode), i.e. bots most frequently invoked as guests in chats.
 
-* [Layer 223](https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat#) 
+* [Layer 223](https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat) 
   + [1 – Base layer](https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/topPeerCategoryBotsGuestChat?layer=3)

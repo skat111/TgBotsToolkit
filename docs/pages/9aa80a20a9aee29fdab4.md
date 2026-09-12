@@ -6,7 +6,7 @@ Bot owners only, fetch [main mini app preview information, see here »](https://
 
 Note: technically non-owners may also invoke this method, but it will always behave exactly as [bots.getPreviewMedias](https://core.telegram.org/method/bots.getPreviewMedias), returning only previews for the current language and an empty `lang_codes` array, regardless of the passed `lang_code`, so please only use [bots.getPreviewMedias](https://core.telegram.org/method/bots.getPreviewMedias) if you're not the owner of the `bot`.
 
-* [Layer 223](https://core.telegram.org/method/bots.getPreviewInfo#) 
+* [Layer 223](https://core.telegram.org/method/bots.getPreviewInfo) 
   + [1 – Base layer](https://core.telegram.org/method/bots.getPreviewInfo?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/bots.getPreviewInfo?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/bots.getPreviewInfo?layer=3)
@@ -133,7 +133,7 @@ bots.getPreviewInfo#423ab3ad bot:InputUser lang_code:string = bots.PreviewInfo;
 | Name | Type | Description |
 | --- | --- | --- |
 | **bot** | [InputUser](https://core.telegram.org/type/InputUser) | The bot that owns the Main Mini App. |
-| **lang\_code** | [string](https://core.telegram.org/type/string) | Fetch previews for the specified ISO 639-1 language code. |
+| **lang_code** | [string](https://core.telegram.org/type/string) | Fetch previews for the specified ISO 639-1 language code. |
 
 ### Result
 
@@ -145,7 +145,7 @@ bots.getPreviewInfo#423ab3ad bot:InputUser lang_code:string = bots.PreviewInfo;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BOT\_INVALID | This is not a valid bot. |
+| 400 | BOT_INVALID | This is not a valid bot. |
 
 ### Related pages
 

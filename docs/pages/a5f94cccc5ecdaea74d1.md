@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelLocation
 
 Geographical location of supergroup (geogroups)
 
-* [Layer 223](https://core.telegram.org/constructor/channelLocation#) 
+* [Layer 223](https://core.telegram.org/constructor/channelLocation) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelLocation?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelLocation?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelLocation?layer=3)
@@ -128,7 +128,7 @@ channelLocation#209b82db geo_point:GeoPoint address:string = ChannelLocation;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **geo\_point** | [GeoPoint](https://core.telegram.org/type/GeoPoint) | Geographical location of supergroup |
+| **geo_point** | [GeoPoint](https://core.telegram.org/type/GeoPoint) | Geographical location of supergroup |
 | **address** | [string](https://core.telegram.org/type/string) | Textual description of the address |
 
 ### Type

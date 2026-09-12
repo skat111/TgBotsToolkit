@@ -6339,11 +6339,11 @@ Contains declarations of all functions and types which represent a public TDLib 
 |  |  |
 | --- | --- |
 | Typedefs | |
-| using | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) = std::int32\_t |
+| using | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) = std::int32_t |
 |  | |
-| using | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) = std::int64\_t |
+| using | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) = std::int64_t |
 |  | |
-| using | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) = std::int64\_t |
+| using | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) = std::int64_t |
 |  | |
 | using | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) = std::string |
 |  | |
@@ -6355,25 +6355,25 @@ Contains declarations of all functions and types which represent a public TDLib 
 | using | [BaseObject](https://core.telegram.org/tdlib/docs/td__api_8h.html#aab786ce63c907dd26247956749ad9f2c) = ::[td::TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) |
 |  | |
 | template<class Type > | |
-| using | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556) = ::[td::tl\_object\_ptr](https://core.telegram.org/tdlib/docs/_tl_object_8h.html#a47959683fdf0caa941a6829279311b92)< Type > |
+| using | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556) = ::[td::tl_object_ptr](https://core.telegram.org/tdlib/docs/_tl_object_8h.html#a47959683fdf0caa941a6829279311b92)< Type > |
 |  | |
 
 |  |  |
 | --- | --- |
 | Functions | |
 | template<class Type , class... Args> | |
-| object\_ptr< Type > | [make\_object](https://core.telegram.org/tdlib/docs/td__api_8h.html#abc794c57f627f8cc36f91d58bf127eb9) (Args &&... args) |
+| object_ptr< Type > | [make_object](https://core.telegram.org/tdlib/docs/td__api_8h.html#abc794c57f627f8cc36f91d58bf127eb9) (Args &&... args) |
 |  | |
 | template<class ToType , class FromType > | |
-| object\_ptr< ToType > | [move\_object\_as](https://core.telegram.org/tdlib/docs/td__api_8h.html#a9b99ac750eb9b1795bbddc7fea70faff) (FromType &&from) |
+| object_ptr< ToType > | [move_object_as](https://core.telegram.org/tdlib/docs/td__api_8h.html#a9b99ac750eb9b1795bbddc7fea70faff) (FromType &&from) |
 |  | |
-| std::string | [to\_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3dafcf36aec2b80bdd33f6d40001ed0c) (const BaseObject &value) |
-|  | |
-| template<class T > | |
-| std::string | [to\_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a154aa745e9a4aa8ed5008a1a038f0071) (const object\_ptr< T > &value) |
+| std::string | [to_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3dafcf36aec2b80bdd33f6d40001ed0c) (const BaseObject &value) |
 |  | |
 | template<class T > | |
-| std::string | [to\_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a0b2ceb9fd73c30936b2724bc8067d850) (const std::vector< object\_ptr< T >> &values) |
+| std::string | [to_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a154aa745e9a4aa8ed5008a1a038f0071) (const object_ptr< T > &value) |
+|  | |
+| template<class T > | |
+| std::string | [to_string](https://core.telegram.org/tdlib/docs/td__api_8h.html#a0b2ceb9fd73c30936b2724bc8067d850) (const std::vector< object_ptr< T >> &values) |
 |  | |
 
 ## Typedef Documentation
@@ -6382,7 +6382,7 @@ Contains declarations of all functions and types which represent a public TDLib 
 
 |  |
 | --- |
-| using int32 = std::int32\_t |
+| using int32 = std::int32_t |
 
 This type is used to store 32-bit signed integers, which can be represented as Number in JSON.
 
@@ -6390,7 +6390,7 @@ This type is used to store 32-bit signed integers, which can be represented as N
 
 |  |
 | --- |
-| using int53 = std::int64\_t |
+| using int53 = std::int64_t |
 
 This type is used to store 53-bit signed integers, which can be represented as Number in JSON.
 
@@ -6398,7 +6398,7 @@ This type is used to store 53-bit signed integers, which can be represented as N
 
 |  |
 | --- |
-| using int64 = std::int64\_t |
+| using int64 = std::int64_t |
 
 This type is used to store 64-bit signed integers, which can't be represented as Number in JSON and are represented as String instead.
 
@@ -6434,33 +6434,33 @@ This type is used to store a list of objects of any type and is represented as A
 
 This class is a base class for all TDLib API classes and functions.
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)object\_ptr
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)object_ptr
 
 |  |
 | --- |
-| using object\_ptr = ::[td::tl\_object\_ptr](https://core.telegram.org/tdlib/docs/_tl_object_8h.html#a47959683fdf0caa941a6829279311b92)<Type> |
+| using object_ptr = ::[td::tl_object_ptr](https://core.telegram.org/tdlib/docs/_tl_object_8h.html#a47959683fdf0caa941a6829279311b92)<Type> |
 
-A smart wrapper to store a pointer to a TDLib API object. Can be treated as an analogue of std::unique\_ptr.
+A smart wrapper to store a pointer to a TDLib API object. Can be treated as an analogue of std::unique_ptr.
 
 ## Function Documentation
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#abc794c57f627f8cc36f91d58bf127eb9)make\_object()
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#abc794c57f627f8cc36f91d58bf127eb9)make_object()
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| object\_ptr<Type> td::td\_api::make\_object | ( | Args &&... | *args* | ) |  |
+| object_ptr<Type> td::td_api::make_object | ( | Args &&... | *args* | ) |  |
 
-A function to create a dynamically allocated TDLib API object. Can be treated as an analogue of std::make\_unique. Usage example:
+A function to create a dynamically allocated TDLib API object. Can be treated as an analogue of std::make_unique. Usage example:
 
-auto get\_me\_request = td::td\_api::make\_object<td::td\_api::getMe>();
+auto get_me_request = td::td_api::make_object<td::td_api::getMe>();
 
-auto message\_text = td::td\_api::make\_object<td::td\_api::formattedText>("Hello, world!!!",
+auto message_text = td::td_api::make_object<td::td_api::formattedText>("Hello, world!!!",
 
-[td::td\_api::array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)<[td::td\_api::object\_ptr<td::td\_api::textEntity>](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)>());
+[td::td_api::array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)<[td::td_api::object_ptr<td::td_api::textEntity>](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)>());
 
-auto send\_message\_request = td::td\_api::make\_object<td::td\_api::sendMessage>(chat\_id, nullptr, nullptr, nullptr, nullptr,
+auto send_message_request = td::td_api::make_object<td::td_api::sendMessage>(chat_id, nullptr, nullptr, nullptr, nullptr,
 
-td::td\_api::make\_object<td::td\_api::inputMessageText>(std::move(message\_text), nullptr, true));
+td::td_api::make_object<td::td_api::inputMessageText>(std::move(message_text), nullptr, true));
 
 Template Parameters
 :   |  |  |
@@ -6475,21 +6475,21 @@ Parameters
 Returns
 :   Wrapped pointer to the created object.
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a9b99ac750eb9b1795bbddc7fea70faff)move\_object\_as()
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a9b99ac750eb9b1795bbddc7fea70faff)move_object_as()
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| object\_ptr<ToType> td::td\_api::move\_object\_as | ( | FromType && | *from* | ) |  |
+| object_ptr<ToType> td::td_api::move_object_as | ( | FromType && | *from* | ) |  |
 
-A function to cast a wrapped in td::td\_api::object\_ptr TDLib API object to its subclass or superclass. Casting an object to an incorrect type will lead to undefined behaviour. Usage example:
+A function to cast a wrapped in td::td_api::object_ptr TDLib API object to its subclass or superclass. Casting an object to an incorrect type will lead to undefined behaviour. Usage example:
 
-[td::td\_api::object\_ptr<td::td\_api::callState>](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556) call\_state = ...;
+[td::td_api::object_ptr<td::td_api::callState>](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556) call_state = ...;
 
-switch (call\_state->get\_id()) {
+switch (call_state->get_id()) {
 
-case [td::td\_api::callStatePending::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStatePending::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_pending.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
-auto state = td::td\_api::move\_object\_as<td::td\_api::callStatePending>(call\_state);
+auto state = td::td_api::move_object_as<td::td_api::callStatePending>(call_state);
 
 // use state
 
@@ -6497,7 +6497,7 @@ break;
 
 }
 
-case [td::td\_api::callStateExchangingKeys::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_exchanging_keys.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStateExchangingKeys::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_exchanging_keys.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
 // no additional fields, no casting is needed
 
@@ -6505,9 +6505,9 @@ break;
 
 }
 
-case [td::td\_api::callStateReady::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_ready.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStateReady::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_ready.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
-auto state = td::td\_api::move\_object\_as<td::td\_api::callStateReady>(call\_state);
+auto state = td::td_api::move_object_as<td::td_api::callStateReady>(call_state);
 
 // use state
 
@@ -6515,7 +6515,7 @@ break;
 
 }
 
-case [td::td\_api::callStateHangingUp::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_hanging_up.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStateHangingUp::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_hanging_up.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
 // no additional fields, no casting is needed
 
@@ -6523,9 +6523,9 @@ break;
 
 }
 
-case [td::td\_api::callStateDiscarded::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStateDiscarded::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_discarded.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
-auto state = td::td\_api::move\_object\_as<td::td\_api::callStateDiscarded>(call\_state);
+auto state = td::td_api::move_object_as<td::td_api::callStateDiscarded>(call_state);
 
 // use state
 
@@ -6533,9 +6533,9 @@ break;
 
 }
 
-case [td::td\_api::callStateError::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
+case [td::td_api::callStateError::ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_state_error.html#ac8ca971fe7ed0677d67b1507df9bcc5f): {
 
-auto state = td::td\_api::move\_object\_as<td::td\_api::callStateError>(call\_state);
+auto state = td::td_api::move_object_as<td::td_api::callStateError>(call_state);
 
 // use state
 
@@ -6558,13 +6558,13 @@ Template Parameters
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | from | Wrapped in td::td\_api::object\_ptr pointer to a TDLib API object. |
+    | [in] | from | Wrapped in td::td_api::object_ptr pointer to a TDLib API object. |
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3dafcf36aec2b80bdd33f6d40001ed0c)to\_string() [1/3]
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3dafcf36aec2b80bdd33f6d40001ed0c)to_string() [1/3]
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| std::string td::td\_api::to\_string | ( | const [BaseObject](https://core.telegram.org/tdlib/docs/td__api_8h.html#aab786ce63c907dd26247956749ad9f2c) & | *value* | ) |  |
+| std::string td::td_api::to_string | ( | const [BaseObject](https://core.telegram.org/tdlib/docs/td__api_8h.html#aab786ce63c907dd26247956749ad9f2c) & | *value* | ) |  |
 
 Returns a string representation of a TDLib API object.
 
@@ -6576,11 +6576,11 @@ Parameters
 Returns
 :   Object string representation.
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a154aa745e9a4aa8ed5008a1a038f0071)to\_string() [2/3]
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a154aa745e9a4aa8ed5008a1a038f0071)to_string() [2/3]
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| std::string td::td\_api::to\_string | ( | const [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< T > & | *value* | ) |  |
+| std::string td::td_api::to_string | ( | const [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< T > & | *value* | ) |  |
 
 Returns a string representation of a TDLib API object.
 
@@ -6597,11 +6597,11 @@ Parameters
 Returns
 :   Object string representation.
 
-## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a0b2ceb9fd73c30936b2724bc8067d850)to\_string() [3/3]
+## [◆](https://core.telegram.org/tdlib/docs/td__api_8h.html#a0b2ceb9fd73c30936b2724bc8067d850)to_string() [3/3]
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| std::string td::td\_api::to\_string | ( | const std::vector< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< T >> & | *values* | ) |  |
+| std::string td::td_api::to_string | ( | const std::vector< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< T >> & | *values* | ) |  |
 
 Returns a string representation of a list of TDLib API objects.
 

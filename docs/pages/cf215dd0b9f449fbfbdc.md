@@ -11,16 +11,16 @@ A WebRTC server.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a1ee37eaede4098b7d83340cc202963d5) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a1ee37eaede4098b7d83340cc202963d5) |
 |  | Username to be used for authentication. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [password\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#afbc1b6b06e669783ad50b5cfdfbf3e7e) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [password_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#afbc1b6b06e669783ad50b5cfdfbf3e7e) |
 |  | Authentication password. |
 |  | |
-| bool | [supports\_turn\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ad3f432918ed7097d8fccd9fefcd8d71b) |
+| bool | [supports_turn_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ad3f432918ed7097d8fccd9fefcd8d71b) |
 |  | True, if the server supports TURN. |
 |  | |
-| bool | [supports\_stun\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a5446b9567a0ec4ecdb3df3c61ecb25f9) |
+| bool | [supports_stun_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a5446b9567a0ec4ecdb3df3c61ecb25f9) |
 |  | True, if the server supports STUN. |
 |  | |
 
@@ -29,9 +29,9 @@ A WebRTC server.
 | Public Instance Methods | |
 |  | [callServerTypeWebrtc](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#af3c866f1566f773bd2e0d25892511783) () |
 |  | |
-|  | [callServerTypeWebrtc](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a8f5921ca27d9a9fdb959fa1037a5daf7) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a1ee37eaede4098b7d83340cc202963d5), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[password\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#afbc1b6b06e669783ad50b5cfdfbf3e7e), bool [supports\_turn\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ad3f432918ed7097d8fccd9fefcd8d71b), bool [supports\_stun\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a5446b9567a0ec4ecdb3df3c61ecb25f9)) |
+|  | [callServerTypeWebrtc](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a8f5921ca27d9a9fdb959fa1037a5daf7) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a1ee37eaede4098b7d83340cc202963d5), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[password_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#afbc1b6b06e669783ad50b5cfdfbf3e7e), bool [supports_turn_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ad3f432918ed7097d8fccd9fefcd8d71b), bool [supports_stun_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a5446b9567a0ec4ecdb3df3c61ecb25f9)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ A WebRTC server.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1250622821 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1250622821 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,10 +72,10 @@ A WebRTC server.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [callServerTypeWebrtc](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *username\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *password\_*, |
-|  |  | bool | *supports\_turn\_*, |
-|  |  | bool | *supports\_stun\_* |
+| [callServerTypeWebrtc](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1call_server_type_webrtc.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *username_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *password_*, |
+|  |  | bool | *supports_turn_*, |
+|  |  | bool | *supports_stun_* |
 |  | ) |  |  |
 
 A WebRTC server.
@@ -83,10 +83,10 @@ A WebRTC server.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | username\_ | Username to be used for authentication. |
-    | [in] | password\_ | Authentication password. |
-    | [in] | supports\_turn\_ | True, if the server supports TURN. |
-    | [in] | supports\_stun\_ | True, if the server supports STUN. |
+    | [in] | username_ | Username to be used for authentication. |
+    | [in] | password_ | Authentication password. |
+    | [in] | supports_turn_ | True, if the server supports TURN. |
+    | [in] | supports_stun_ | True, if the server supports STUN. |
 
 ## Method Documentation
 
@@ -94,15 +94,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -110,4 +110,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

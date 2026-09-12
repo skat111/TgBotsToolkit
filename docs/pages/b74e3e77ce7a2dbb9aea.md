@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputPhoneCall
 
 Identifies a [phone call](https://core.telegram.org/api/calls).
 
-* [Layer 223](https://core.telegram.org/constructor/inputPhoneCall#) 
+* [Layer 223](https://core.telegram.org/constructor/inputPhoneCall) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputPhoneCall?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputPhoneCall?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputPhoneCall?layer=3)
@@ -129,7 +129,7 @@ inputPhoneCall#1e36fded id:long access_hash:long = InputPhoneCall;
 | Name | Type | Description |
 | --- | --- | --- |
 | **id** | [long](https://core.telegram.org/type/long) | Call ID |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Access hash |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Access hash |
 
 ### Type
 

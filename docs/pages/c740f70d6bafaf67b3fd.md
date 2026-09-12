@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateTranscribedAudio
 
 A pending [voice message transcription »](https://core.telegram.org/api/transcribe) initiated with [messages.transcribeAudio](https://core.telegram.org/method/messages.transcribeAudio) was updated.
 
-* [Layer 223](https://core.telegram.org/constructor/updateTranscribedAudio#) 
+* [Layer 223](https://core.telegram.org/constructor/updateTranscribedAudio) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateTranscribedAudio?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateTranscribedAudio?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateTranscribedAudio?layer=3)
@@ -131,8 +131,8 @@ updateTranscribedAudio#84cd5a flags:# pending:flags.0?true peer:Peer msg_id:int 
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **pending** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether this transcription is still pending and further [updateTranscribedAudio](https://core.telegram.org/constructor/updateTranscribedAudio) about it will be sent in the future. |
 | **peer** | [Peer](https://core.telegram.org/type/Peer) | Peer of the transcribed message |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | Transcribed message ID |
-| **transcription\_id** | [long](https://core.telegram.org/type/long) | Transcription ID |
+| **msg_id** | [int](https://core.telegram.org/type/int) | Transcribed message ID |
+| **transcription_id** | [long](https://core.telegram.org/type/long) | Transcription ID |
 | **text** | [string](https://core.telegram.org/type/string) | Transcribed text |
 
 ### Type

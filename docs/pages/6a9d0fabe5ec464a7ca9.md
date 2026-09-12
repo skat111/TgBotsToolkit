@@ -8,28 +8,28 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns approximate number of messages of the specified type in the chat or its topic.
 
-Returns object\_ptr<Count>.
+Returns object_ptr<Count>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Identifier of the chat in which to count messages. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > | [topic\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#adf6e2906ee2f8b6a06150747aa41f7e0) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > | [topic_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#adf6e2906ee2f8b6a06150747aa41f7e0) |
 |  | Pass topic identifier to get number of messages only in specific topic; pass null to get number of messages in all topics; message threads aren't supported. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > | [filter\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a7afa6154c3257c83be5fdcc89c747b21) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > | [filter_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a7afa6154c3257c83be5fdcc89c747b21) |
 |  | Filter for message content; [searchMessagesFilterEmpty](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_empty.html) is unsupported in this function. |
 |  | |
-| bool | [return\_local\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a0a5c5e660fdff44430fa6811531e10ab) |
+| bool | [return_local_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a0a5c5e660fdff44430fa6811531e10ab) |
 |  | Pass true to get the number of messages without sending network requests, or -1 if the number of messages is unknown locally. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a374f4381635e14b8e131155eb397a4cc) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [count](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1count.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a374f4381635e14b8e131155eb397a4cc) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [count](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1count.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -38,9 +38,9 @@ Returns object\_ptr<Count>.
 | Public Instance Methods | |
 |  | [getChatMessageCount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a8ffa837c161998119634755a99051f6e) () |
 |  | |
-|  | [getChatMessageCount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#acaefe735b09ddf54ab1788be40c3abe0) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#aa8a7803161092ff97e60d58707199e1f), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > &&[topic\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#adf6e2906ee2f8b6a06150747aa41f7e0), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > &&[filter\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a7afa6154c3257c83be5fdcc89c747b21), bool [return\_local\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a0a5c5e660fdff44430fa6811531e10ab)) |
+|  | [getChatMessageCount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#acaefe735b09ddf54ab1788be40c3abe0) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#aa8a7803161092ff97e60d58707199e1f), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > &&[topic_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#adf6e2906ee2f8b6a06150747aa41f7e0), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > &&[filter_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a7afa6154c3257c83be5fdcc89c747b21), bool [return_local_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a0a5c5e660fdff44430fa6811531e10ab)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -63,7 +63,7 @@ Returns object\_ptr<Count>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1641001101 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1641001101 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -77,29 +77,29 @@ Returns object\_ptr<Count>.
 
 Default constructor for a function, which returns approximate number of messages of the specified type in the chat or its topic.
 
-Returns object\_ptr<Count>.
+Returns object_ptr<Count>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html#acaefe735b09ddf54ab1788be40c3abe0)getChatMessageCount() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [getChatMessageCount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > && | *topic\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > && | *filter\_*, |
-|  |  | bool | *return\_local\_* |
+| [getChatMessageCount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_message_count.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_topic.html) > && | *topic_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [SearchMessagesFilter](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_search_messages_filter.html) > && | *filter_*, |
+|  |  | bool | *return_local_* |
 |  | ) |  |  |
 
 Creates a function, which returns approximate number of messages of the specified type in the chat or its topic.
 
-Returns object\_ptr<Count>.
+Returns object_ptr<Count>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Identifier of the chat in which to count messages. |
-    | [in] | topic\_id\_ | Pass topic identifier to get number of messages only in specific topic; pass null to get number of messages in all topics; message threads aren't supported. |
-    | [in] | filter\_ | Filter for message content; [searchMessagesFilterEmpty](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_empty.html) is unsupported in this function. |
-    | [in] | return\_local\_ | Pass true to get the number of messages without sending network requests, or -1 if the number of messages is unknown locally. |
+    | [in] | chat_id_ | Identifier of the chat in which to count messages. |
+    | [in] | topic_id_ | Pass topic identifier to get number of messages only in specific topic; pass null to get number of messages in all topics; message threads aren't supported. |
+    | [in] | filter_ | Filter for message content; [searchMessagesFilterEmpty](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_messages_filter_empty.html) is unsupported in this function. |
+    | [in] | return_local_ | Pass true to get the number of messages without sending network requests, or -1 if the number of messages is unknown locally. |
 
 ## Method Documentation
 
@@ -107,15 +107,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -123,4 +123,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

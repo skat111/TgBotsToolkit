@@ -11,19 +11,19 @@ Describes a passkey.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8315e6b3eb0f25e33fd70bfed8a6ee2a) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8315e6b3eb0f25e33fd70bfed8a6ee2a) |
 |  | Unique identifier of the passkey. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a79cfd788b219a7f48068d0e96e5e8e77) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a79cfd788b219a7f48068d0e96e5e8e77) |
 |  | Name of the passkey. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [addition\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a77a5d6e4c82a86f09fecc6cb0a30b8a6) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [addition_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a77a5d6e4c82a86f09fecc6cb0a30b8a6) |
 |  | Point in time (Unix timestamp) when the passkey was added. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [last\_usage\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a1280b3943be03e6a3186207df7228bac) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [last_usage_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a1280b3943be03e6a3186207df7228bac) |
 |  | Point in time (Unix timestamp) when the passkey was used last time; 0 if never. |
 |  | |
-| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [software\_icon\_custom\_emoji\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac28ad5c5eee962b4928fe0d15d379d7f) |
+| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [software_icon_custom_emoji_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac28ad5c5eee962b4928fe0d15d379d7f) |
 |  | Identifier of the custom emoji that is used as the icon of the software, which created the passkey; 0 if unknown. |
 |  | |
 
@@ -32,9 +32,9 @@ Describes a passkey.
 | Public Instance Methods | |
 |  | [passkey](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ae4b256f2b7d93dd302304b426b3446b1) () |
 |  | |
-|  | [passkey](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a076a5731db94b44e99d877cd22e046dc) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8315e6b3eb0f25e33fd70bfed8a6ee2a), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[name\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a79cfd788b219a7f48068d0e96e5e8e77), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [addition\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a77a5d6e4c82a86f09fecc6cb0a30b8a6), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [last\_usage\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a1280b3943be03e6a3186207df7228bac), [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [software\_icon\_custom\_emoji\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac28ad5c5eee962b4928fe0d15d379d7f)) |
+|  | [passkey](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a076a5731db94b44e99d877cd22e046dc) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8315e6b3eb0f25e33fd70bfed8a6ee2a), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[name_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a79cfd788b219a7f48068d0e96e5e8e77), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [addition_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a77a5d6e4c82a86f09fecc6cb0a30b8a6), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [last_usage_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a1280b3943be03e6a3186207df7228bac), [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [software_icon_custom_emoji_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac28ad5c5eee962b4928fe0d15d379d7f)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Describes a passkey.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1200601505 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1200601505 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -75,11 +75,11 @@ Describes a passkey.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [passkey](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *id\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *name\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *addition\_date\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *last\_usage\_date\_*, |
-|  |  | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *software\_icon\_custom\_emoji\_id\_* |
+| [passkey](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1passkey.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *id_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *name_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *addition_date_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *last_usage_date_*, |
+|  |  | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *software_icon_custom_emoji_id_* |
 |  | ) |  |  |
 
 Describes a passkey.
@@ -87,11 +87,11 @@ Describes a passkey.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | id\_ | Unique identifier of the passkey. |
-    | [in] | name\_ | Name of the passkey. |
-    | [in] | addition\_date\_ | Point in time (Unix timestamp) when the passkey was added. |
-    | [in] | last\_usage\_date\_ | Point in time (Unix timestamp) when the passkey was used last time; 0 if never. |
-    | [in] | software\_icon\_custom\_emoji\_id\_ | Identifier of the custom emoji that is used as the icon of the software, which created the passkey; 0 if unknown. |
+    | [in] | id_ | Unique identifier of the passkey. |
+    | [in] | name_ | Name of the passkey. |
+    | [in] | addition_date_ | Point in time (Unix timestamp) when the passkey was added. |
+    | [in] | last_usage_date_ | Point in time (Unix timestamp) when the passkey was used last time; 0 if never. |
+    | [in] | software_icon_custom_emoji_id_ | Identifier of the custom emoji that is used as the icon of the software, which created the passkey; 0 if unknown. |
 
 ## Method Documentation
 
@@ -99,15 +99,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -115,4 +115,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

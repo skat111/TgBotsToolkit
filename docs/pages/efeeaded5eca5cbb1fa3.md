@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/recentStory
 
 Summary of a peer's [active stories »](https://core.telegram.org/api/stories#recent-story-summaries), embedded in [user](https://core.telegram.org/constructor/user).`stories_max_id` and [channel](https://core.telegram.org/constructor/channel).`stories_max_id` and returned by [stories.getPeerMaxIDs](https://core.telegram.org/method/stories.getPeerMaxIDs).
 
-* [Layer 223](https://core.telegram.org/constructor/recentStory#) 
+* [Layer 223](https://core.telegram.org/constructor/recentStory) 
   + [1 – Base layer](https://core.telegram.org/constructor/recentStory?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/recentStory?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/recentStory?layer=3)
@@ -130,7 +130,7 @@ recentStory#711d692d flags:# live:flags.0?true max_id:flags.1?int = RecentStory;
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **live** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether the peer is currently broadcasting a [live story »](https://core.telegram.org/api/stories#live-stories). |
-| **max\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If `live` is set, ID of the peer's active [live story »](https://core.telegram.org/api/stories#live-stories); otherwise, ID of the peer's maximum active story. |
+| **max_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[int](https://core.telegram.org/type/int) | If `live` is set, ID of the peer's active [live story »](https://core.telegram.org/api/stories#live-stories); otherwise, ID of the peer's maximum active story. |
 
 ### Type
 

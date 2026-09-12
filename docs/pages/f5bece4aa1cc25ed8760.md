@@ -6,7 +6,7 @@ Specifies the chats that **can** receive Telegram Business [away »](https://cor
 
 If `exclude_selected` is set, specifies all chats that **cannot** receive Telegram Business [away »](https://core.telegram.org/api/business#away-messages) and [greeting »](https://core.telegram.org/api/business#greeting-messages) messages.
 
-* [Layer 223](https://core.telegram.org/constructor/inputBusinessRecipients#) 
+* [Layer 223](https://core.telegram.org/constructor/inputBusinessRecipients) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputBusinessRecipients?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputBusinessRecipients?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputBusinessRecipients?layer=3)
@@ -131,11 +131,11 @@ inputBusinessRecipients#6f8b32aa flags:# existing_chats:flags.0?true new_chats:f
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **existing\_chats** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | All existing private chats. |
-| **new\_chats** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | All new private chats. |
+| **existing_chats** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | All existing private chats. |
+| **new_chats** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | All new private chats. |
 | **contacts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | All private chats with contacts. |
-| **non\_contacts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | All private chats with non-contacts. |
-| **exclude\_selected** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | If set, inverts the selection. |
+| **non_contacts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | All private chats with non-contacts. |
+| **exclude_selected** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | If set, inverts the selection. |
 | **users** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[Vector](https://core.telegram.org/type/Vector%20t)<[InputUser](https://core.telegram.org/type/InputUser)> | Only private chats with the specified users. |
 
 ### Type

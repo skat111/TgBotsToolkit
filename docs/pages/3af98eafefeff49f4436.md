@@ -11,16 +11,16 @@ Describes a task in a checklist.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a083e2bcfb02882e41b8251e766c957f9) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a083e2bcfb02882e41b8251e766c957f9) |
 |  | Unique identifier of the task. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > | [text\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a82250655835bea3abad039d944dcd788) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > | [text_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a82250655835bea3abad039d944dcd788) |
 |  | Text of the task; may contain only Bold, Italic, Underline, Strikethrough, Spoiler, CustomEmoji, Url, EmailAddress, Mention, Hashtag, Cashtag and PhoneNumber entities. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [completed\_by\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#aa7c468271b50f75a1b52fbe11a2f4a79) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [completed_by_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#aa7c468271b50f75a1b52fbe11a2f4a79) |
 |  | Identifier of the user or chat that completed the task; may be null if the task isn't completed yet. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [completion\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a62f79bcd1fb272b30ec676d836ea865c) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [completion_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a62f79bcd1fb272b30ec676d836ea865c) |
 |  | Point in time (Unix timestamp) when the task was completed; 0 if the task isn't completed. |
 |  | |
 
@@ -29,9 +29,9 @@ Describes a task in a checklist.
 | Public Instance Methods | |
 |  | [checklistTask](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a83caf3ce40a4ce25d71cf4e3369adf2c) () |
 |  | |
-|  | [checklistTask](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a7d13069cc9e80a3d633a2bf3d9a03be9) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a083e2bcfb02882e41b8251e766c957f9), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > &&[text\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a82250655835bea3abad039d944dcd788), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[completed\_by\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#aa7c468271b50f75a1b52fbe11a2f4a79), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [completion\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a62f79bcd1fb272b30ec676d836ea865c)) |
+|  | [checklistTask](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a7d13069cc9e80a3d633a2bf3d9a03be9) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a083e2bcfb02882e41b8251e766c957f9), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > &&[text_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a82250655835bea3abad039d944dcd788), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[completed_by_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#aa7c468271b50f75a1b52fbe11a2f4a79), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [completion_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a62f79bcd1fb272b30ec676d836ea865c)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Describes a task in a checklist.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 464950512 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 464950512 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,10 +72,10 @@ Describes a task in a checklist.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [checklistTask](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > && | *text\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *completed\_by\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *completion\_date\_* |
+| [checklistTask](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1checklist_task.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [formattedText](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1formatted_text.html) > && | *text_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *completed_by_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *completion_date_* |
 |  | ) |  |  |
 
 Describes a task in a checklist.
@@ -83,10 +83,10 @@ Describes a task in a checklist.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | id\_ | Unique identifier of the task. |
-    | [in] | text\_ | Text of the task; may contain only Bold, Italic, Underline, Strikethrough, Spoiler, CustomEmoji, Url, EmailAddress, Mention, Hashtag, Cashtag and PhoneNumber entities. |
-    | [in] | completed\_by\_ | Identifier of the user or chat that completed the task; may be null if the task isn't completed yet. |
-    | [in] | completion\_date\_ | Point in time (Unix timestamp) when the task was completed; 0 if the task isn't completed. |
+    | [in] | id_ | Unique identifier of the task. |
+    | [in] | text_ | Text of the task; may contain only Bold, Italic, Underline, Strikethrough, Spoiler, CustomEmoji, Url, EmailAddress, Mention, Hashtag, Cashtag and PhoneNumber entities. |
+    | [in] | completed_by_ | Identifier of the user or chat that completed the task; may be null if the task isn't completed yet. |
+    | [in] | completion_date_ | Point in time (Unix timestamp) when the task was completed; 0 if the task isn't completed. |
 
 ## Method Documentation
 
@@ -94,15 +94,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -110,4 +110,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

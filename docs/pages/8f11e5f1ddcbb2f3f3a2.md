@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/account.PaidMessagesRevenue
 
 Total number of non-refunded [Telegram Stars](https://core.telegram.org/api/stars) a user has spent on sending us messages either directly or through a channel, see [here »](https://core.telegram.org/api/paid-messages) for more info on paid messages.
 
-* [Layer 223](https://core.telegram.org/type/account.PaidMessagesRevenue#) 
+* [Layer 223](https://core.telegram.org/type/account.PaidMessagesRevenue) 
   + [1 – Base layer](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=3)
@@ -138,7 +138,7 @@ account.getPaidMessagesRevenue#19ba4a67 flags:# parent_peer:flags.0?InputPeer us
 
 | Method | Description |
 | --- | --- |
-| [account.getPaidMessagesRevenue](https://core.telegram.org/method/account.getPaidMessagesRevenue) | Get the number of stars we have received from the specified user thanks to [paid messages »](https://core.telegram.org/api/paid-messages); the received amount will be equal to the sent amount multiplied by [stars\_paid\_message\_commission\_permille](https://core.telegram.org/api/config#stars-paid-message-commission-permille) divided by 1000. |
+| [account.getPaidMessagesRevenue](https://core.telegram.org/method/account.getPaidMessagesRevenue) | Get the number of stars we have received from the specified user thanks to [paid messages »](https://core.telegram.org/api/paid-messages); the received amount will be equal to the sent amount multiplied by [stars_paid_message_commission_permille](https://core.telegram.org/api/config#stars-paid-message-commission-permille) divided by 1000. |
 
 ### Related pages
 

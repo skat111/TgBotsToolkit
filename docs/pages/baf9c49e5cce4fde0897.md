@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/help.getAppConfig
 
 Get app-specific configuration, see [client configuration](https://core.telegram.org/api/config#client-configuration) for more info on the result.
 
-* [Layer 223](https://core.telegram.org/method/help.getAppConfig#) 
+* [Layer 223](https://core.telegram.org/method/help.getAppConfig) 
   + [1 – Base layer](https://core.telegram.org/method/help.getAppConfig?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/help.getAppConfig?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/help.getAppConfig?layer=3)

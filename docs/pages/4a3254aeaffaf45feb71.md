@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/profileTabMusic
 
 Represents the [music](https://core.telegram.org/api/profile#music) tab of a profile page.
 
-* [Layer 223](https://core.telegram.org/constructor/profileTabMusic#) 
+* [Layer 223](https://core.telegram.org/constructor/profileTabMusic) 
   + [1 – Base layer](https://core.telegram.org/constructor/profileTabMusic?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/profileTabMusic?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/profileTabMusic?layer=3)

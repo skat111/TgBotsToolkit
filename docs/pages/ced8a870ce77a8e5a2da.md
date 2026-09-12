@@ -6,7 +6,7 @@ Get the RTMP URL and stream key used by the single external streamer that publis
 
 See [here »](https://core.telegram.org/api/group-calls#creating-and-publishing-an-rtmp-livestream) for the full flow.
 
-* [Layer 223](https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl#) 
+* [Layer 223](https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl) 
   + [1 – Base layer](https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.getGroupCallStreamRtmpUrl?layer=3)
@@ -133,7 +133,7 @@ phone.getGroupCallStreamRtmpUrl#5af4c73a flags:# live_story:flags.0?true peer:In
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **live\_story** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Obtain credentials for an RTMP live story instead of a video chat/livestream |
+| **live_story** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Obtain credentials for an RTMP live story instead of a video chat/livestream |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Peer that will host the RTMP video chat, livestream or live story |
 | **revoke** | [Bool](https://core.telegram.org/type/Bool) | Whether to invalidate the previous stream key and generate a new one, instead of returning the existing key |
 
@@ -147,8 +147,8 @@ phone.getGroupCallStreamRtmpUrl#5af4c73a flags:# live_story:flags.0?true peer:In
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

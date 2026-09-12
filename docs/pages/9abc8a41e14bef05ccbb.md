@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA
 
 PBKDF2 with SHA512 and 100000 iterations KDF algo
 
-* [Layer 223](https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000#) 
+* [Layer 223](https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000) 
   + [1 – Base layer](https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/securePasswordKdfAlgoPBKDF2HMACSHA512iter100000?layer=3)

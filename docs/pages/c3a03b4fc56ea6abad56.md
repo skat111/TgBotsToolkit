@@ -11,10 +11,10 @@ The revenue earned from sponsored messages in a chat has changed. If chat revenu
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Identifier of the chat. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > | [revenue\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a077153f581a68f11b99adb3011453c8f) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > | [revenue_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a077153f581a68f11b99adb3011453c8f) |
 |  | New amount of earned revenue. |
 |  | |
 
@@ -23,9 +23,9 @@ The revenue earned from sponsored messages in a chat has changed. If chat revenu
 | Public Instance Methods | |
 |  | [updateChatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a7962d260a26a82c68daa8f2a659bc648) () |
 |  | |
-|  | [updateChatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a933341d976968359bf2c3a071e3c05c1) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#aa8a7803161092ff97e60d58707199e1f), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > &&[revenue\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a077153f581a68f11b99adb3011453c8f)) |
+|  | [updateChatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a933341d976968359bf2c3a071e3c05c1) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#aa8a7803161092ff97e60d58707199e1f), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > &&[revenue_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a077153f581a68f11b99adb3011453c8f)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ The revenue earned from sponsored messages in a chat has changed. If chat revenu
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -959857468 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -959857468 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ The revenue earned from sponsored messages in a chat has changed. If chat revenu
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [updateChatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > && | *revenue\_amount\_* |
+| [updateChatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_revenue_amount.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatRevenueAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_revenue_amount.html) > && | *revenue_amount_* |
 |  | ) |  |  |
 
 The revenue earned from sponsored messages in a chat has changed. If chat revenue screen is opened, then [getChatRevenueTransactions](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_revenue_transactions.html) may be called to fetch new transactions.
@@ -75,8 +75,8 @@ The revenue earned from sponsored messages in a chat has changed. If chat revenu
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Identifier of the chat. |
-    | [in] | revenue\_amount\_ | New amount of earned revenue. |
+    | [in] | chat_id_ | Identifier of the chat. |
+    | [in] | revenue_amount_ | New amount of earned revenue. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

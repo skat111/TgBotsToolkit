@@ -11,13 +11,13 @@ The transaction is a receiving of a paid group call reaction; relevant for regul
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [sender\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aa4efedb303e2a085519405e8a018e184) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [sender_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aa4efedb303e2a085519405e8a018e184) |
 |  | Identifier of the sender of the reaction. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [commission\_per\_mille\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ae4a1d59b6deb73dbcd1b09212c9c61dc) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [commission_per_mille_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ae4a1d59b6deb73dbcd1b09212c9c61dc) |
 |  | The number of Telegram Stars received by the Telegram for each 1000 Telegram Stars paid for reaction sending. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [commission\_star\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aaedc798981a0a9faa237905d25a50c64) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > | [commission_star_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aaedc798981a0a9faa237905d25a50c64) |
 |  | The Telegram Star amount that was received by Telegram; can be negative for refunds. |
 |  | |
 
@@ -26,9 +26,9 @@ The transaction is a receiving of a paid group call reaction; relevant for regul
 | Public Instance Methods | |
 |  | [starTransactionTypePaidGroupCallReactionReceive](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ab1afd486da40611c493c1f765b9c35fb) () |
 |  | |
-|  | [starTransactionTypePaidGroupCallReactionReceive](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#a9bc9c85edd9e9620fe3c9f63834908a6) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[sender\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aa4efedb303e2a085519405e8a018e184), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [commission\_per\_mille\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ae4a1d59b6deb73dbcd1b09212c9c61dc), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[commission\_star\_amount\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aaedc798981a0a9faa237905d25a50c64)) |
+|  | [starTransactionTypePaidGroupCallReactionReceive](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#a9bc9c85edd9e9620fe3c9f63834908a6) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[sender_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aa4efedb303e2a085519405e8a018e184), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [commission_per_mille_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ae4a1d59b6deb73dbcd1b09212c9c61dc), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > &&[commission_star_amount_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#aaedc798981a0a9faa237905d25a50c64)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -51,7 +51,7 @@ The transaction is a receiving of a paid group call reaction; relevant for regul
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1410001679 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1410001679 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,9 +69,9 @@ The transaction is a receiving of a paid group call reaction; relevant for regul
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [starTransactionTypePaidGroupCallReactionReceive](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *sender\_id\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *commission\_per\_mille\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *commission\_star\_amount\_* |
+| [starTransactionTypePaidGroupCallReactionReceive](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_transaction_type_paid_group_call_reaction_receive.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *sender_id_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *commission_per_mille_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [starAmount](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1star_amount.html) > && | *commission_star_amount_* |
 |  | ) |  |  |
 
 The transaction is a receiving of a paid group call reaction; relevant for regular users and channel chats only.
@@ -79,9 +79,9 @@ The transaction is a receiving of a paid group call reaction; relevant for regul
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | sender\_id\_ | Identifier of the sender of the reaction. |
-    | [in] | commission\_per\_mille\_ | The number of Telegram Stars received by the Telegram for each 1000 Telegram Stars paid for reaction sending. |
-    | [in] | commission\_star\_amount\_ | The Telegram Star amount that was received by Telegram; can be negative for refunds. |
+    | [in] | sender_id_ | Identifier of the sender of the reaction. |
+    | [in] | commission_per_mille_ | The number of Telegram Stars received by the Telegram for each 1000 Telegram Stars paid for reaction sending. |
+    | [in] | commission_star_amount_ | The Telegram Star amount that was received by Telegram; can be negative for refunds. |
 
 ## Method Documentation
 
@@ -89,15 +89,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -105,4 +105,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

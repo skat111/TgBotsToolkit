@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputMediaAreaChannelPost
 
 Represents a channel post
 
-* [Layer 223](https://core.telegram.org/constructor/inputMediaAreaChannelPost#) 
+* [Layer 223](https://core.telegram.org/constructor/inputMediaAreaChannelPost) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputMediaAreaChannelPost?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputMediaAreaChannelPost?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputMediaAreaChannelPost?layer=3)
@@ -130,7 +130,7 @@ inputMediaAreaChannelPost#2271f2bf coordinates:MediaAreaCoordinates channel:Inpu
 | --- | --- | --- |
 | **coordinates** | [MediaAreaCoordinates](https://core.telegram.org/type/MediaAreaCoordinates) | The size and location of the media area corresponding to the location sticker on top of the story media. |
 | **channel** | [InputChannel](https://core.telegram.org/type/InputChannel) | The channel that posted the message |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | ID of the channel message |
+| **msg_id** | [int](https://core.telegram.org/type/int) | ID of the channel message |
 
 ### Type
 

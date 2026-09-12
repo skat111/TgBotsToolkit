@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/businessBotRights
 
 [Business bot rights](https://core.telegram.org/api/bots/connected-business-bots).
 
-* [Layer 223](https://core.telegram.org/constructor/businessBotRights#) 
+* [Layer 223](https://core.telegram.org/constructor/businessBotRights) 
   + [1 – Base layer](https://core.telegram.org/constructor/businessBotRights?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/businessBotRights?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/businessBotRights?layer=3)
@@ -130,19 +130,19 @@ businessBotRights#a0624cf7 flags:# reply:flags.0?true read_messages:flags.1?true
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **reply** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether the bot can send and edit messages in private chats that had incoming messages in the last 24 hours. |
-| **read\_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Whether the bot can mark incoming private messages as read. |
-| **delete\_sent\_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether the bot can delete messages sent by the bot. |
-| **delete\_received\_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | Whether the bot can delete received private messages in managed chats. |
-| **edit\_name** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the first and last name of the business account. |
-| **edit\_bio** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the bio of the business account. |
-| **edit\_profile\_photo** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the profile photo of the business account. |
-| **edit\_username** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).7?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the username of the business account. |
-| **view\_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).8?[true](https://core.telegram.org/constructor/true) | Whether the bot can view gifts and the amount of Telegram Stars owned by the business account. |
-| **sell\_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).9?[true](https://core.telegram.org/constructor/true) | Whether the bot can convert regular gifts owned by the business account to Telegram Stars. |
-| **change\_gift\_settings** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).10?[true](https://core.telegram.org/constructor/true) | Whether the bot can change the privacy settings pertaining to gifts for the business account. |
-| **transfer\_and\_upgrade\_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).11?[true](https://core.telegram.org/constructor/true) | Whether the bot can transfer and upgrade gifts owned by the business account. |
-| **transfer\_stars** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).12?[true](https://core.telegram.org/constructor/true) | Whether the bot can transfer Telegram Stars received by the business account to its own account, or use them to upgrade and transfer gifts. |
-| **manage\_stories** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).13?[true](https://core.telegram.org/constructor/true) | Whether the bot can post, edit and delete stories on behalf of the business account. |
+| **read_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | Whether the bot can mark incoming private messages as read. |
+| **delete_sent_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether the bot can delete messages sent by the bot. |
+| **delete_received_messages** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | Whether the bot can delete received private messages in managed chats. |
+| **edit_name** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the first and last name of the business account. |
+| **edit_bio** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the bio of the business account. |
+| **edit_profile_photo** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the profile photo of the business account. |
+| **edit_username** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).7?[true](https://core.telegram.org/constructor/true) | Whether the bot can edit the username of the business account. |
+| **view_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).8?[true](https://core.telegram.org/constructor/true) | Whether the bot can view gifts and the amount of Telegram Stars owned by the business account. |
+| **sell_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).9?[true](https://core.telegram.org/constructor/true) | Whether the bot can convert regular gifts owned by the business account to Telegram Stars. |
+| **change_gift_settings** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).10?[true](https://core.telegram.org/constructor/true) | Whether the bot can change the privacy settings pertaining to gifts for the business account. |
+| **transfer_and_upgrade_gifts** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).11?[true](https://core.telegram.org/constructor/true) | Whether the bot can transfer and upgrade gifts owned by the business account. |
+| **transfer_stars** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).12?[true](https://core.telegram.org/constructor/true) | Whether the bot can transfer Telegram Stars received by the business account to its own account, or use them to upgrade and transfer gifts. |
+| **manage_stories** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).13?[true](https://core.telegram.org/constructor/true) | Whether the bot can post, edit and delete stories on behalf of the business account. |
 
 ### Type
 

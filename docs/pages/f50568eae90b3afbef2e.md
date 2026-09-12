@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageMediaContact
 
 Attached contact.
 
-* [Layer 223](https://core.telegram.org/constructor/messageMediaContact#) 
+* [Layer 223](https://core.telegram.org/constructor/messageMediaContact) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageMediaContact?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageMediaContact?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageMediaContact?layer=3)
@@ -128,11 +128,11 @@ messageMediaContact#70322949 phone_number:string first_name:string last_name:str
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **phone\_number** | [string](https://core.telegram.org/type/string) | Phone number |
-| **first\_name** | [string](https://core.telegram.org/type/string) | Contact's first name |
-| **last\_name** | [string](https://core.telegram.org/type/string) | Contact's last name |
+| **phone_number** | [string](https://core.telegram.org/type/string) | Phone number |
+| **first_name** | [string](https://core.telegram.org/type/string) | Contact's first name |
+| **last_name** | [string](https://core.telegram.org/type/string) | Contact's last name |
 | **vcard** | [string](https://core.telegram.org/type/string) | VCARD of contact |
-| **user\_id** | [long](https://core.telegram.org/type/long) | User identifier or `0`, if the user with the given phone number is not registered |
+| **user_id** | [long](https://core.telegram.org/type/long) | User identifier or `0`, if the user with the given phone number is not registered |
 
 ### Type
 

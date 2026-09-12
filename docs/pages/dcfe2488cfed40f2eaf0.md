@@ -11,10 +11,10 @@ A button that forces an inline query to the bot to be inserted in the input fiel
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [query\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#aaaa76f32332cb6e06f63911054261bbb) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [query_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#aaaa76f32332cb6e06f63911054261bbb) |
 |  | Inline query to be sent to the bot. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > | [target\_chat\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a104cb687f8fd5ff58726feca2dcd2328) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > | [target_chat_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a104cb687f8fd5ff58726feca2dcd2328) |
 |  | Target chat from which to send the inline query. |
 |  | |
 
@@ -23,9 +23,9 @@ A button that forces an inline query to the bot to be inserted in the input fiel
 | Public Instance Methods | |
 |  | [inlineKeyboardButtonTypeSwitchInline](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#aa02354ca977092dd02106f9a87096040) () |
 |  | |
-|  | [inlineKeyboardButtonTypeSwitchInline](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#abd00e16f95e0fdc107c5a26acf956e20) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[query\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#aaaa76f32332cb6e06f63911054261bbb), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > &&[target\_chat\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a104cb687f8fd5ff58726feca2dcd2328)) |
+|  | [inlineKeyboardButtonTypeSwitchInline](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#abd00e16f95e0fdc107c5a26acf956e20) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[query_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#aaaa76f32332cb6e06f63911054261bbb), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > &&[target_chat_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a104cb687f8fd5ff58726feca2dcd2328)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ A button that forces an inline query to the bot to be inserted in the input fiel
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 544906485 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 544906485 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ A button that forces an inline query to the bot to be inserted in the input fiel
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [inlineKeyboardButtonTypeSwitchInline](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *query\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > && | *target\_chat\_* |
+| [inlineKeyboardButtonTypeSwitchInline](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1inline_keyboard_button_type_switch_inline.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *query_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [TargetChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_target_chat.html) > && | *target_chat_* |
 |  | ) |  |  |
 
 A button that forces an inline query to the bot to be inserted in the input field.
@@ -75,8 +75,8 @@ A button that forces an inline query to the bot to be inserted in the input fiel
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | query\_ | Inline query to be sent to the bot. |
-    | [in] | target\_chat\_ | Target chat from which to send the inline query. |
+    | [in] | query_ | Inline query to be sent to the bot. |
+    | [in] | target_chat_ | Target chat from which to send the inline query. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

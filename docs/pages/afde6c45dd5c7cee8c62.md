@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auth.passwordRecovery
 
 Recovery info of a [2FA password](https://core.telegram.org/api/srp), only for accounts with a [recovery email configured](https://core.telegram.org/api/srp#email-verification).
 
-* [Layer 223](https://core.telegram.org/constructor/auth.passwordRecovery#) 
+* [Layer 223](https://core.telegram.org/constructor/auth.passwordRecovery) 
   + [1 – Base layer](https://core.telegram.org/constructor/auth.passwordRecovery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auth.passwordRecovery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auth.passwordRecovery?layer=3)
@@ -128,7 +128,7 @@ auth.passwordRecovery#137948a5 email_pattern:string = auth.PasswordRecovery;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **email\_pattern** | [string](https://core.telegram.org/type/string) | The email to which the recovery code was sent must match this [pattern](https://core.telegram.org/api/pattern). |
+| **email_pattern** | [string](https://core.telegram.org/type/string) | The email to which the recovery code was sent must match this [pattern](https://core.telegram.org/api/pattern). |
 
 ### Type
 

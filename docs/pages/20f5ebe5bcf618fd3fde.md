@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputBotInlineMessageID
 
 Represents a sent inline message from the perspective of a bot (legacy constructor)
 
-* [Layer 223](https://core.telegram.org/constructor/inputBotInlineMessageID#) 
+* [Layer 223](https://core.telegram.org/constructor/inputBotInlineMessageID) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputBotInlineMessageID?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputBotInlineMessageID?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputBotInlineMessageID?layer=3)
@@ -128,9 +128,9 @@ inputBotInlineMessageID#890c3d89 dc_id:int id:long access_hash:long = InputBotIn
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **dc\_id** | [int](https://core.telegram.org/type/int) | DC ID to use when working with this inline message |
+| **dc_id** | [int](https://core.telegram.org/type/int) | DC ID to use when working with this inline message |
 | **id** | [long](https://core.telegram.org/type/long) | ID of message, contains both the (32-bit, legacy) owner ID and the message ID, used only for Bot API backwards compatibility with 32-bit user ID. |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Access hash of message |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Access hash of message |
 
 ### Type
 

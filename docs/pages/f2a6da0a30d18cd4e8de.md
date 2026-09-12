@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/account.SavedRingtone
 
 Contains information about a saved notification sound
 
-* [Layer 223](https://core.telegram.org/type/account.SavedRingtone#) 
+* [Layer 223](https://core.telegram.org/type/account.SavedRingtone) 
   + [1 – Base layer](https://core.telegram.org/type/account.SavedRingtone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/account.SavedRingtone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/account.SavedRingtone?layer=3)

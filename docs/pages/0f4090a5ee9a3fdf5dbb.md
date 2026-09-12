@@ -6,7 +6,7 @@ Summarize the contents of a message with AI, see [here »](https://core.telegram
 
 Clients should use [message](https://core.telegram.org/constructor/message).`summary_from_language` as a hint for showing a summarization button; its absence does not forbid invoking this method.
 
-* [Layer 223](https://core.telegram.org/method/messages.summarizeText#) 
+* [Layer 223](https://core.telegram.org/method/messages.summarizeText) 
   + [1 – Base layer](https://core.telegram.org/method/messages.summarizeText?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.summarizeText?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.summarizeText?layer=3)
@@ -135,7 +135,7 @@ messages.summarizeText#9d4104e2 flags:# peer:InputPeer id:int to_lang:flags.0?st
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | The peer where the message is located. |
 | **id** | [int](https://core.telegram.org/type/int) | Message ID. |
-| **to\_lang** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | If set, generates the summary in the specified target language (two-letter ISO 639-1 language code) instead of the message's language. |
+| **to_lang** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | If set, generates the summary in the specified target language (two-letter ISO 639-1 language code) instead of the message's language. |
 | **tone** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | If set, rephrases the summary using the specified [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones) (pass the tone identifier) |
 
 ### Result
@@ -148,9 +148,9 @@ messages.summarizeText#9d4104e2 flags:# peer:InputPeer id:int to_lang:flags.0?st
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | INPUT\_TEXT\_TOO\_LONG | The specified text is too long. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | INPUT_TEXT_TOO_LONG | The specified text is too long. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

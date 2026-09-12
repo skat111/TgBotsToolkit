@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/bots.setBotInfo
 
 Set localized name, about text and description of a bot (or of the current account, if called by a bot).
 
-* [Layer 223](https://core.telegram.org/method/bots.setBotInfo#) 
+* [Layer 223](https://core.telegram.org/method/bots.setBotInfo) 
   + [1 – Base layer](https://core.telegram.org/method/bots.setBotInfo?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/bots.setBotInfo?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/bots.setBotInfo?layer=3)
@@ -133,7 +133,7 @@ bots.setBotInfo#10cf3123 flags:# bot:flags.2?InputUser lang_code:string name:fla
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **bot** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[InputUser](https://core.telegram.org/type/InputUser) | If called by a user, **must** contain the peer of a bot we own. |
-| **lang\_code** | [string](https://core.telegram.org/type/string) | Language code, if left empty update the fallback about text and description |
+| **lang_code** | [string](https://core.telegram.org/type/string) | Language code, if left empty update the fallback about text and description |
 | **name** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[string](https://core.telegram.org/type/string) | New bot name |
 | **about** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[string](https://core.telegram.org/type/string) | New about text |
 | **description** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | New description |
@@ -148,5 +148,5 @@ bots.setBotInfo#10cf3123 flags:# bot:flags.2?InputUser lang_code:string name:fla
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BOT\_INVALID | This is not a valid bot. |
-| 400 | USER\_BOT\_INVALID | User accounts must provide the `bot` method parameter when calling this method. If there is no such method parameter, this method can only be invoked by bot accounts. |
+| 400 | BOT_INVALID | This is not a valid bot. |
+| 400 | USER_BOT_INVALID | User accounts must provide the `bot` method parameter when calling this method. If there is no such method parameter, this method can only be invoked by bot accounts. |

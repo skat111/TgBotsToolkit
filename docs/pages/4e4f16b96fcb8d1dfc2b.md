@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/peerColorCollectible
 
 Represents a [color palette »](https://core.telegram.org/api/colors) associated to a [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts), see [here »](https://core.telegram.org/api/colors#collectible-gift-palettes) for more info.
 
-* [Layer 223](https://core.telegram.org/constructor/peerColorCollectible#) 
+* [Layer 223](https://core.telegram.org/constructor/peerColorCollectible) 
   + [1 – Base layer](https://core.telegram.org/constructor/peerColorCollectible?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/peerColorCollectible?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/peerColorCollectible?layer=3)
@@ -129,13 +129,13 @@ peerColorCollectible#b9c0639a flags:# collectible_id:long gift_emoji_id:long bac
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **collectible\_id** | [long](https://core.telegram.org/type/long) | ID of the [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts). |
-| **gift\_emoji\_id** | [long](https://core.telegram.org/type/long) | [Custom emoji ID »](https://core.telegram.org/api/custom-emoji) of the collectible gift: a single copy of this custom emoji should be displayed as-is (without recoloring it, unlike for `background_emoji_id`) in the top-right corner of the palette. |
-| **background\_emoji\_id** | [long](https://core.telegram.org/type/long) | [Custom emoji ID »](https://core.telegram.org/api/custom-emoji) used to generate the pattern. |
-| **accent\_color** | [int](https://core.telegram.org/type/int) | Accent color in RGB24 format, used for reply backgrounds and the user's name in messages. |
+| **collectible_id** | [long](https://core.telegram.org/type/long) | ID of the [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts). |
+| **gift_emoji_id** | [long](https://core.telegram.org/type/long) | [Custom emoji ID »](https://core.telegram.org/api/custom-emoji) of the collectible gift: a single copy of this custom emoji should be displayed as-is (without recoloring it, unlike for `background_emoji_id`) in the top-right corner of the palette. |
+| **background_emoji_id** | [long](https://core.telegram.org/type/long) | [Custom emoji ID »](https://core.telegram.org/api/custom-emoji) used to generate the pattern. |
+| **accent_color** | [int](https://core.telegram.org/type/int) | Accent color in RGB24 format, used for reply backgrounds and the user's name in messages. |
 | **colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | 1-3 RGB24 colors to be used in the reply strip. |
-| **dark\_accent\_color** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Accent color in RGB24 format, used for reply backgrounds and the user's name in messages in dark mode (fallback to `accent_color` if absent). |
-| **dark\_colors** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | 1-3 RGB24 colors to be used in the reply strip in dark mode (fallback to `colors` if absent). |
+| **dark_accent_color** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Accent color in RGB24 format, used for reply backgrounds and the user's name in messages in dark mode (fallback to `accent_color` if absent). |
+| **dark_colors** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | 1-3 RGB24 colors to be used in the reply strip in dark mode (fallback to `colors` if absent). |
 
 ### Type
 

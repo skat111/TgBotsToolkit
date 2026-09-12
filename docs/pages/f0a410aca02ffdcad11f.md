@@ -8,22 +8,22 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Adds a message to TDLib internal log. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [verbosity\_level\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1b7a4729c655728a0046865381e8bcf0) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [verbosity_level_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1b7a4729c655728a0046865381e8bcf0) |
 |  | The minimum verbosity level needed for the message to be logged; 0-1023. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [text\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1e07078cd658903987f94f1a39482856) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [text_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1e07078cd658903987f94f1a39482856) |
 |  | Text of a message to log. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#ab684327f0ee9cbf9afb740503d89f019) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#ab684327f0ee9cbf9afb740503d89f019) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [ok](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1ok.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -32,9 +32,9 @@ Returns object\_ptr<Ok>.
 | Public Instance Methods | |
 |  | [addLogMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a9fe0adc844bcfebb8b65d8d46a5b385e) () |
 |  | |
-|  | [addLogMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a89ff1f3b5495ab154c9be951bac2fc06) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [verbosity\_level\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1b7a4729c655728a0046865381e8bcf0), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[text\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1e07078cd658903987f94f1a39482856)) |
+|  | [addLogMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a89ff1f3b5495ab154c9be951bac2fc06) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [verbosity_level_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1b7a4729c655728a0046865381e8bcf0), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[text_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a1e07078cd658903987f94f1a39482856)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Returns object\_ptr<Ok>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1597427692 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1597427692 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -71,25 +71,25 @@ Returns object\_ptr<Ok>.
 
 Default constructor for a function, which adds a message to TDLib internal log. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html#a89ff1f3b5495ab154c9be951bac2fc06)addLogMessage() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [addLogMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *verbosity\_level\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *text\_* |
+| [addLogMessage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1add_log_message.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *verbosity_level_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *text_* |
 |  | ) |  |  |
 
 Creates a function, which adds a message to TDLib internal log. Can be called synchronously.
 
-Returns object\_ptr<Ok>.
+Returns object_ptr<Ok>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | verbosity\_level\_ | The minimum verbosity level needed for the message to be logged; 0-1023. |
-    | [in] | text\_ | Text of a message to log. |
+    | [in] | verbosity_level_ | The minimum verbosity level needed for the message to be logged; 0-1023. |
+    | [in] | text_ | Text of a message to log. |
 
 ## Method Documentation
 
@@ -97,15 +97,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -113,4 +113,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

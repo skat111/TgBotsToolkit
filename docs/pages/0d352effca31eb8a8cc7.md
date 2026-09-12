@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateReadFeaturedStickers
 
 Some featured stickers were marked as read
 
-* [Layer 223](https://core.telegram.org/constructor/updateReadFeaturedStickers#) 
+* [Layer 223](https://core.telegram.org/constructor/updateReadFeaturedStickers) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateReadFeaturedStickers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateReadFeaturedStickers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateReadFeaturedStickers?layer=3)

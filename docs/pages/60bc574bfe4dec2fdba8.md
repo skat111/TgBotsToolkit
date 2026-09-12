@@ -11,10 +11,10 @@ The link is a link to a background. Link preview title and description are avail
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > | [document\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a5613fcca3b412b4faf119edfe151e2f1) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > | [document_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a5613fcca3b412b4faf119edfe151e2f1) |
 |  | Document with the background; may be null for filled backgrounds. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > | [background\_type\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a073353cd33b4baa96f35b41723d49c88) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > | [background_type_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a073353cd33b4baa96f35b41723d49c88) |
 |  | Type of the background; may be null if unknown. |
 |  | |
 
@@ -23,9 +23,9 @@ The link is a link to a background. Link preview title and description are avail
 | Public Instance Methods | |
 |  | [linkPreviewTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a71fe4d2529b384f801e9be7a65777ec5) () |
 |  | |
-|  | [linkPreviewTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a0c6688f8853ba1ce56f4b037168a82d9) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > &&[document\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a5613fcca3b412b4faf119edfe151e2f1), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > &&[background\_type\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a073353cd33b4baa96f35b41723d49c88)) |
+|  | [linkPreviewTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a0c6688f8853ba1ce56f4b037168a82d9) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > &&[document_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a5613fcca3b412b4faf119edfe151e2f1), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > &&[background_type_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a073353cd33b4baa96f35b41723d49c88)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ The link is a link to a background. Link preview title and description are avail
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 977838560 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 977838560 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ The link is a link to a background. Link preview title and description are avail
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [linkPreviewTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > && | *document\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > && | *background\_type\_* |
+| [linkPreviewTypeBackground](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1link_preview_type_background.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [document](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1document.html) > && | *document_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BackgroundType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_background_type.html) > && | *background_type_* |
 |  | ) |  |  |
 
 The link is a link to a background. Link preview title and description are available only for filled backgrounds.
@@ -75,8 +75,8 @@ The link is a link to a background. Link preview title and description are avail
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | document\_ | Document with the background; may be null for filled backgrounds. |
-    | [in] | background\_type\_ | Type of the background; may be null if unknown. |
+    | [in] | document_ | Document with the background; may be null for filled backgrounds. |
+    | [in] | background_type_ | Type of the background; may be null if unknown. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

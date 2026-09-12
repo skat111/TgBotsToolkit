@@ -11,10 +11,10 @@ Represents one member of a JSON object.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [key\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a5bd51408274585a92e79a2d0ca2aadb2) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [key_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a5bd51408274585a92e79a2d0ca2aadb2) |
 |  | Member's key. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > | [value\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#aa30aaa13db0476460b7927c0f38d0f19) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > | [value_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#aa30aaa13db0476460b7927c0f38d0f19) |
 |  | Member's value. |
 |  | |
 
@@ -23,9 +23,9 @@ Represents one member of a JSON object.
 | Public Instance Methods | |
 |  | [jsonObjectMember](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#afcbd3fa19cd6195b7fe60da09e829a08) () |
 |  | |
-|  | [jsonObjectMember](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#abecb68043b692dba4d3077725a73b152) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[key\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a5bd51408274585a92e79a2d0ca2aadb2), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > &&[value\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#aa30aaa13db0476460b7927c0f38d0f19)) |
+|  | [jsonObjectMember](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#abecb68043b692dba4d3077725a73b152) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[key_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a5bd51408274585a92e79a2d0ca2aadb2), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > &&[value_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#aa30aaa13db0476460b7927c0f38d0f19)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ Represents one member of a JSON object.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1803309418 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1803309418 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ Represents one member of a JSON object.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [jsonObjectMember](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *key\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > && | *value\_* |
+| [jsonObjectMember](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1json_object_member.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *key_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [JsonValue](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_json_value.html) > && | *value_* |
 |  | ) |  |  |
 
 Represents one member of a JSON object.
@@ -75,8 +75,8 @@ Represents one member of a JSON object.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | key\_ | Member's key. |
-    | [in] | value\_ | Member's value. |
+    | [in] | key_ | Member's key. |
+    | [in] | value_ | Member's value. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

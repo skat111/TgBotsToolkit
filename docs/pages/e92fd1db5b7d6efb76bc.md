@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/help.supportName
 
 Localized name for telegram support
 
-* [Layer 223](https://core.telegram.org/constructor/help.supportName#) 
+* [Layer 223](https://core.telegram.org/constructor/help.supportName) 
   + [1 – Base layer](https://core.telegram.org/constructor/help.supportName?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/help.supportName?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/help.supportName?layer=3)

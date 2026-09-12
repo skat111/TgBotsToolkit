@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.searchStickers
 
 Search for stickers using AI-powered keyword search
 
-* [Layer 223](https://core.telegram.org/method/messages.searchStickers#) 
+* [Layer 223](https://core.telegram.org/method/messages.searchStickers) 
   + [1 – Base layer](https://core.telegram.org/method/messages.searchStickers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.searchStickers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.searchStickers?layer=3)
@@ -135,7 +135,7 @@ messages.searchStickers#29b1c66a flags:# emojis:flags.0?true q:string emoticon:s
 | **emojis** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, returns [custom emoji stickers](https://core.telegram.org/api/custom-emoji) |
 | **q** | [string](https://core.telegram.org/type/string) | The search term |
 | **emoticon** | [string](https://core.telegram.org/type/string) | Space-separated list of emojis to search for |
-| **lang\_code** | [Vector](https://core.telegram.org/type/Vector%20t)<[string](https://core.telegram.org/type/string)> | List of possible IETF language tags of the user's input language; may be empty if unknown |
+| **lang_code** | [Vector](https://core.telegram.org/type/Vector%20t)<[string](https://core.telegram.org/type/string)> | List of possible IETF language tags of the user's input language; may be empty if unknown |
 | **offset** | [int](https://core.telegram.org/type/int) | [Offset for pagination](https://core.telegram.org/api/offsets) |
 | **limit** | [int](https://core.telegram.org/type/int) | Maximum number of results to return, [see pagination](https://core.telegram.org/api/offsets) |
 | **hash** | [long](https://core.telegram.org/type/long) | [Hash used for caching, for more info click here](https://core.telegram.org/api/offsets#hash-generation).  The hash may be generated locally by using the `id`s of the returned or stored sticker [document](https://core.telegram.org/constructor/document)s. |

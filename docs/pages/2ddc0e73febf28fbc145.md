@@ -11,7 +11,7 @@ Basic information about a Saved Messages topic has changed. This update is guara
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > | [topic\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a69c4eba576bd6a769581af27779b7424) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > | [topic_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a69c4eba576bd6a769581af27779b7424) |
 |  | New data about the topic. |
 |  | |
 
@@ -20,9 +20,9 @@ Basic information about a Saved Messages topic has changed. This update is guara
 | Public Instance Methods | |
 |  | [updateSavedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a7f7d9dd71bb9d1a8e68c945a0a6b4352) () |
 |  | |
-|  | [updateSavedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a29d558baef19954505eb3b8dedf9427c) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > &&[topic\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a69c4eba576bd6a769581af27779b7424)) |
+|  | [updateSavedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a29d558baef19954505eb3b8dedf9427c) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > &&[topic_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a69c4eba576bd6a769581af27779b7424)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Basic information about a Saved Messages topic has changed. This update is guara
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1618855120 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1618855120 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Basic information about a Saved Messages topic has changed. This update is guara
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [updateSavedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > && | *topic\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [updateSavedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_saved_messages_topic.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [savedMessagesTopic](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1saved_messages_topic.html) > && | *topic_* | ) |  | | explicit |
 
 Basic information about a Saved Messages topic has changed. This update is guaranteed to come before the topic identifier is returned to the application.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | topic\_ | New data about the topic. |
+    | [in] | topic_ | New data about the topic. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

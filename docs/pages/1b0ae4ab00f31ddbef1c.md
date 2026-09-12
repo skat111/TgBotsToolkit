@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.deleteQuickReplyMessages
 
 Delete one or more messages from a [quick reply shortcut](https://core.telegram.org/api/business#quick-reply-shortcuts). This will also emit an [updateDeleteQuickReplyMessages](https://core.telegram.org/constructor/updateDeleteQuickReplyMessages) update.
 
-* [Layer 223](https://core.telegram.org/method/messages.deleteQuickReplyMessages#) 
+* [Layer 223](https://core.telegram.org/method/messages.deleteQuickReplyMessages) 
   + [1 – Base layer](https://core.telegram.org/method/messages.deleteQuickReplyMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.deleteQuickReplyMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.deleteQuickReplyMessages?layer=3)
@@ -136,7 +136,7 @@ messages.deleteQuickReplyMessages#e105e910 shortcut_id:int id:Vector<int> = Upda
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **shortcut\_id** | [int](https://core.telegram.org/type/int) | [Shortcut ID](https://core.telegram.org/api/business#quick-reply-shortcuts). |
+| **shortcut_id** | [int](https://core.telegram.org/type/int) | [Shortcut ID](https://core.telegram.org/api/business#quick-reply-shortcuts). |
 | **id** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | IDs of shortcut messages to delete. |
 
 ### Result
@@ -149,7 +149,7 @@ messages.deleteQuickReplyMessages#e105e910 shortcut_id:int id:Vector<int> = Upda
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | SHORTCUT\_INVALID | The specified shortcut is invalid. |
+| 400 | SHORTCUT_INVALID | The specified shortcut is invalid. |
 
 ### Related pages
 

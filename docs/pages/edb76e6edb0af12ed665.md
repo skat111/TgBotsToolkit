@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionChangeEm
 
 The supergroup's [custom emoji stickerset](https://core.telegram.org/api/boost#setting-a-custom-emoji-stickerset-for-supergroups) was changed.
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeEmojiStickerSet#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionChangeEmojiStickerSet) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionChangeEmojiStickerSet?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionChangeEmojiStickerSet?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionChangeEmojiStickerSet?layer=3)
@@ -128,8 +128,8 @@ channelAdminLogEventActionChangeEmojiStickerSet#46d840ab prev_stickerset:InputSt
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **prev\_stickerset** | [InputStickerSet](https://core.telegram.org/type/InputStickerSet) | Old value |
-| **new\_stickerset** | [InputStickerSet](https://core.telegram.org/type/InputStickerSet) | New value |
+| **prev_stickerset** | [InputStickerSet](https://core.telegram.org/type/InputStickerSet) | Old value |
+| **new_stickerset** | [InputStickerSet](https://core.telegram.org/type/InputStickerSet) | New value |
 
 ### Type
 

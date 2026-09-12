@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/InputStickeredMedia
 
 Represents a media with attached stickers
 
-* [Layer 223](https://core.telegram.org/type/InputStickeredMedia#) 
+* [Layer 223](https://core.telegram.org/type/InputStickeredMedia) 
   + [1 – Base layer](https://core.telegram.org/type/InputStickeredMedia?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/InputStickeredMedia?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/InputStickeredMedia?layer=3)

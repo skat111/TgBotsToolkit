@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.foundStickersNotModified
 
 No new stickers were found for the specified query
 
-* [Layer 223](https://core.telegram.org/constructor/messages.foundStickersNotModified#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.foundStickersNotModified) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.foundStickersNotModified?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.foundStickersNotModified?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.foundStickersNotModified?layer=3)
@@ -129,7 +129,7 @@ messages.foundStickersNotModified#6010c534 flags:# next_offset:flags.0?int = mes
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **next\_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Offset for [pagination](https://core.telegram.org/api/offsets) |
+| **next_offset** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Offset for [pagination](https://core.telegram.org/api/offsets) |
 
 ### Type
 

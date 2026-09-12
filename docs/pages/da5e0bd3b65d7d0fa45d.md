@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.readReactions
 
 Mark [message reactions »](https://core.telegram.org/api/reactions) as read
 
-* [Layer 223](https://core.telegram.org/method/messages.readReactions#) 
+* [Layer 223](https://core.telegram.org/method/messages.readReactions) 
   + [1 – Base layer](https://core.telegram.org/method/messages.readReactions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.readReactions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.readReactions?layer=3)
@@ -132,8 +132,8 @@ messages.readReactions#9ec44f93 flags:# peer:InputPeer top_msg_id:flags.0?int sa
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Peer |
-| **top\_msg\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Mark as read only reactions to messages within the specified [forum topic](https://core.telegram.org/api/forum#forum-topics) |
-| **saved\_peer\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, must be equal to the ID of a [monoforum topic](https://core.telegram.org/api/monoforum): will affect that topic in the monoforum passed in `peer`. |
+| **top_msg_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Mark as read only reactions to messages within the specified [forum topic](https://core.telegram.org/api/forum#forum-topics) |
+| **saved_peer_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[InputPeer](https://core.telegram.org/type/InputPeer) | If set, must be equal to the ID of a [monoforum topic](https://core.telegram.org/api/monoforum): will affect that topic in the monoforum passed in `peer`. |
 
 ### Result
 
@@ -145,7 +145,7 @@ messages.readReactions#9ec44f93 flags:# peer:InputPeer top_msg_id:flags.0?int sa
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

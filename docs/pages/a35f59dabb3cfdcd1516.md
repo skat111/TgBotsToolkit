@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512
 
 SHA512 KDF algo
 
-* [Layer 223](https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512#) 
+* [Layer 223](https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512) 
   + [1 – Base layer](https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/securePasswordKdfAlgoSHA512?layer=3)

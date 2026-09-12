@@ -11,13 +11,13 @@ Contains information about features, available to Premium users.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) > > | [features\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a3f2ac002a7b5ae77ab6dbd7d75bd8f31) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) > > | [features_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a3f2ac002a7b5ae77ab6dbd7d75bd8f31) |
 |  | The list of available features. |
 |  | |
-| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) > > | [limits\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a9693f5033376b8065672a5d15f97d289) |
+| [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) > > | [limits_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a9693f5033376b8065672a5d15f97d289) |
 |  | The list of limits, increased for Premium users. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > | [payment\_link\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a351042515e3f7d682ce3bc5bb137ed50) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > | [payment_link_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a351042515e3f7d682ce3bc5bb137ed50) |
 |  | An internal link to be opened to pay for Telegram Premium if store payment isn't possible; may be null if direct payment isn't available. |
 |  | |
 
@@ -26,9 +26,9 @@ Contains information about features, available to Premium users.
 | Public Instance Methods | |
 |  | [premiumFeatures](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#acfbf7e0df0d1a4ac8ea9adb58481e51b) () |
 |  | |
-|  | [premiumFeatures](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a59652268823314ac90251cb5332b5d24) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) >> &&[features\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a3f2ac002a7b5ae77ab6dbd7d75bd8f31), [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) >> &&[limits\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a9693f5033376b8065672a5d15f97d289), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > &&[payment\_link\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a351042515e3f7d682ce3bc5bb137ed50)) |
+|  | [premiumFeatures](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a59652268823314ac90251cb5332b5d24) ([array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) >> &&[features_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a3f2ac002a7b5ae77ab6dbd7d75bd8f31), [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) >> &&[limits_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a9693f5033376b8065672a5d15f97d289), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > &&[payment_link_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a351042515e3f7d682ce3bc5bb137ed50)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -51,7 +51,7 @@ Contains information about features, available to Premium users.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1875162172 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1875162172 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,9 +69,9 @@ Contains information about features, available to Premium users.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [premiumFeatures](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) >> && | *features\_*, |
-|  |  | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) >> && | *limits\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > && | *payment\_link\_* |
+| [premiumFeatures](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_features.html) | ( | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [PremiumFeature](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_premium_feature.html) >> && | *features_*, |
+|  |  | [array](https://core.telegram.org/tdlib/docs/td__api_8h.html#af1fc9e22ea256af1e507bbaf7885b312)< [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [premiumLimit](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_limit.html) >> && | *limits_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [InternalLinkType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_internal_link_type.html) > && | *payment_link_* |
 |  | ) |  |  |
 
 Contains information about features, available to Premium users.
@@ -79,9 +79,9 @@ Contains information about features, available to Premium users.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | features\_ | The list of available features. |
-    | [in] | limits\_ | The list of limits, increased for Premium users. |
-    | [in] | payment\_link\_ | An internal link to be opened to pay for Telegram Premium if store payment isn't possible; may be null if direct payment isn't available. |
+    | [in] | features_ | The list of available features. |
+    | [in] | limits_ | The list of limits, increased for Premium users. |
+    | [in] | payment_link_ | An internal link to be opened to pay for Telegram Premium if store payment isn't possible; may be null if direct payment isn't available. |
 
 ## Method Documentation
 
@@ -89,15 +89,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -105,4 +105,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

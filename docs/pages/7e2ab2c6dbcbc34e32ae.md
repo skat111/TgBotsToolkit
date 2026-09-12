@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/DecryptedMessageLayer
 
 Object describes encrypted message content in relation to the required layer.
 
-* [Layer 223](https://core.telegram.org/type/DecryptedMessageLayer#) 
+* [Layer 223](https://core.telegram.org/type/DecryptedMessageLayer) 
   + [1 – Base layer](https://core.telegram.org/type/DecryptedMessageLayer?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/DecryptedMessageLayer?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/DecryptedMessageLayer?layer=3)

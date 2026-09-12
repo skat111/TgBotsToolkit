@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/StarGiftCollection
 
 Represents a [star gift collection »](https://core.telegram.org/api/gifts#gift-collections).
 
-* [Layer 223](https://core.telegram.org/type/StarGiftCollection#) 
+* [Layer 223](https://core.telegram.org/type/StarGiftCollection) 
   + [1 – Base layer](https://core.telegram.org/type/StarGiftCollection?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/StarGiftCollection?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/StarGiftCollection?layer=3)

@@ -11,7 +11,7 @@ Contains the result of a custom request.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [result\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a939b9ce8506366cc1b4052595b54bb84) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [result_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a939b9ce8506366cc1b4052595b54bb84) |
 |  | A JSON-serialized result. |
 |  | |
 
@@ -20,9 +20,9 @@ Contains the result of a custom request.
 | Public Instance Methods | |
 |  | [customRequestResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a10314aa1877bd59f68c28b97f30b7614) () |
 |  | |
-|  | [customRequestResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a4062f04c738e4ea4a114d874f8c32bf0) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[result\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a939b9ce8506366cc1b4052595b54bb84)) |
+|  | [customRequestResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a4062f04c738e4ea4a114d874f8c32bf0) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[result_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a939b9ce8506366cc1b4052595b54bb84)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ Contains the result of a custom request.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2009960452 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -2009960452 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ Contains the result of a custom request.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [customRequestResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *result\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [customRequestResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1custom_request_result.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *result_* | ) |  | | explicit |
 
 Contains the result of a custom request.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | result\_ | A JSON-serialized result. |
+    | [in] | result_ | A JSON-serialized result. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -11,10 +11,10 @@ The link is a link to an album of stories. Call [searchPublicChat](https://core.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [story\_album\_owner\_username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#affd15966a5cbb637c7291ad8551c1a1a) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [story_album_owner_username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#affd15966a5cbb637c7291ad8551c1a1a) |
 |  | Username of the owner of the story album. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [story\_album\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a0d7421151adbbcaedc120e3114d79494) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [story_album_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a0d7421151adbbcaedc120e3114d79494) |
 |  | Story album identifier. |
 |  | |
 
@@ -23,9 +23,9 @@ The link is a link to an album of stories. Call [searchPublicChat](https://core.
 | Public Instance Methods | |
 |  | [internalLinkTypeStoryAlbum](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a64b674863bf31904c82ab53a1e61a656) () |
 |  | |
-|  | [internalLinkTypeStoryAlbum](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a1a741eb7963422dfcb3a35cf20391f4d) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[story\_album\_owner\_username\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#affd15966a5cbb637c7291ad8551c1a1a), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [story\_album\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a0d7421151adbbcaedc120e3114d79494)) |
+|  | [internalLinkTypeStoryAlbum](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a1a741eb7963422dfcb3a35cf20391f4d) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[story_album_owner_username_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#affd15966a5cbb637c7291ad8551c1a1a), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [story_album_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a0d7421151adbbcaedc120e3114d79494)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ The link is a link to an album of stories. Call [searchPublicChat](https://core.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -332692184 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -332692184 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ The link is a link to an album of stories. Call [searchPublicChat](https://core.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [internalLinkTypeStoryAlbum](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *story\_album\_owner\_username\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *story\_album\_id\_* |
+| [internalLinkTypeStoryAlbum](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_story_album.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *story_album_owner_username_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *story_album_id_* |
 |  | ) |  |  |
 
 The link is a link to an album of stories. Call [searchPublicChat](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1search_public_chat.html) with the given username, then call [getStoryAlbumStories](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_story_album_stories.html) with the received chat identifier and the given story album identifier, then show the story album if received.
@@ -75,8 +75,8 @@ The link is a link to an album of stories. Call [searchPublicChat](https://core.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | story\_album\_owner\_username\_ | Username of the owner of the story album. |
-    | [in] | story\_album\_id\_ | Story album identifier. |
+    | [in] | story_album_owner_username_ | Username of the owner of the story album. |
+    | [in] | story_album_id_ | Story album identifier. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

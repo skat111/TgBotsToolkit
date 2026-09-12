@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/aiComposeTone
 
 A custom [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones), used to rephrase messages in a specific style with the [AI message composer](https://core.telegram.org/api/ai#compose-messages).
 
-* [Layer 223](https://core.telegram.org/constructor/aiComposeTone#) 
+* [Layer 223](https://core.telegram.org/constructor/aiComposeTone) 
   + [1 – Base layer](https://core.telegram.org/constructor/aiComposeTone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/aiComposeTone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/aiComposeTone?layer=3)
@@ -131,14 +131,14 @@ Constructor schema is available as of layer 225. Switch »
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **creator** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether the current user is the creator of this tone |
 | **id** | [long](https://core.telegram.org/type/long) | Tone identifier |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Tone access hash |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Tone access hash |
 | **slug** | [string](https://core.telegram.org/type/string) | Unique tone slug, used to share and install the tone via [AI compose tone links »](https://core.telegram.org/api/links#ai-compose-tone-links) |
-| **title** | [string](https://core.telegram.org/type/string) | Human-readable tone name, up to [aicompose\_tone\_title\_length\_max »](https://core.telegram.org/api/config#aicompose-tone-title-length-max) UTF-8 characters long |
-| **emoji\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | [Custom emoji ID](https://core.telegram.org/api/custom-emoji) of the tone's icon |
-| **prompt** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | The prompt that describes how the AI should rephrase messages using this tone, up to [aicompose\_tone\_prompt\_length\_max »](https://core.telegram.org/api/config#aicompose-tone-prompt-length-max) UTF-8 characters long; only present for tones created by the current user |
-| **installs\_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | Number of users that have installed this tone |
-| **author\_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[long](https://core.telegram.org/type/long) | ID of the user that created this tone, if made public by the author. |
-| **example\_english** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[AiComposeToneExample](https://core.telegram.org/type/AiComposeToneExample) | An example showing how a sample English message is rephrased by this tone; use [aicompose.getToneExample](https://core.telegram.org/method/aicompose.getToneExample) to fetch more examples. |
+| **title** | [string](https://core.telegram.org/type/string) | Human-readable tone name, up to [aicompose_tone_title_length_max »](https://core.telegram.org/api/config#aicompose-tone-title-length-max) UTF-8 characters long |
+| **emoji_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[long](https://core.telegram.org/type/long) | [Custom emoji ID](https://core.telegram.org/api/custom-emoji) of the tone's icon |
+| **prompt** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | The prompt that describes how the AI should rephrase messages using this tone, up to [aicompose_tone_prompt_length_max »](https://core.telegram.org/api/config#aicompose-tone-prompt-length-max) UTF-8 characters long; only present for tones created by the current user |
+| **installs_count** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[int](https://core.telegram.org/type/int) | Number of users that have installed this tone |
+| **author_id** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[long](https://core.telegram.org/type/long) | ID of the user that created this tone, if made public by the author. |
+| **example_english** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[AiComposeToneExample](https://core.telegram.org/type/AiComposeToneExample) | An example showing how a sample English message is rephrased by this tone; use [aicompose.getToneExample](https://core.telegram.org/method/aicompose.getToneExample) to fetch more examples. |
 
 ### Type
 

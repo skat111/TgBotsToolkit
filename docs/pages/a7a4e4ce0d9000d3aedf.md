@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/payments.CheckedGiftCode
 
 Info about a [Telegram Premium Giftcode](https://core.telegram.org/api/giveaways).
 
-* [Layer 223](https://core.telegram.org/type/payments.CheckedGiftCode#) 
+* [Layer 223](https://core.telegram.org/type/payments.CheckedGiftCode) 
   + [1 – Base layer](https://core.telegram.org/type/payments.CheckedGiftCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/payments.CheckedGiftCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/payments.CheckedGiftCode?layer=3)

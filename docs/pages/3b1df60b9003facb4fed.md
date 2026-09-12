@@ -11,13 +11,13 @@ The message was originally a post in a channel.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Identifier of the channel chat to which the message was originally sent. |
 |  | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a946f46ee90c465619214e056e4d91ce4) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a946f46ee90c465619214e056e4d91ce4) |
 |  | Message identifier of the original message. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [author\_signature\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#adab596c616a042fe957a271ef2c5d17e) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [author_signature_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#adab596c616a042fe957a271ef2c5d17e) |
 |  | Original post author signature. |
 |  | |
 
@@ -26,9 +26,9 @@ The message was originally a post in a channel.
 | Public Instance Methods | |
 |  | [messageOriginChannel](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#ad8028ca8591e3f2580dab6755f1303c1) () |
 |  | |
-|  | [messageOriginChannel](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a01ef17ec8a4bff20b31dd8658c819646) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [message\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a946f46ee90c465619214e056e4d91ce4), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[author\_signature\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#adab596c616a042fe957a271ef2c5d17e)) |
+|  | [messageOriginChannel](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a01ef17ec8a4bff20b31dd8658c819646) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#aa8a7803161092ff97e60d58707199e1f), [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [message_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a946f46ee90c465619214e056e4d91ce4), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[author_signature_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#adab596c616a042fe957a271ef2c5d17e)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -51,7 +51,7 @@ The message was originally a post in a channel.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1451535938 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1451535938 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,9 +69,9 @@ The message was originally a post in a channel.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [messageOriginChannel](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *message\_id\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *author\_signature\_* |
+| [messageOriginChannel](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1message_origin_channel.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *message_id_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *author_signature_* |
 |  | ) |  |  |
 
 The message was originally a post in a channel.
@@ -79,9 +79,9 @@ The message was originally a post in a channel.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Identifier of the channel chat to which the message was originally sent. |
-    | [in] | message\_id\_ | Message identifier of the original message. |
-    | [in] | author\_signature\_ | Original post author signature. |
+    | [in] | chat_id_ | Identifier of the channel chat to which the message was originally sent. |
+    | [in] | message_id_ | Message identifier of the original message. |
+    | [in] | author_signature_ | Original post author signature. |
 
 ## Method Documentation
 
@@ -89,15 +89,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -105,4 +105,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

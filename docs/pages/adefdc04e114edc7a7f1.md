@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/phoneCallAccepted
 
 An accepted phone call, see [here »](https://core.telegram.org/api/calls) for more info on the full flow.
 
-* [Layer 223](https://core.telegram.org/constructor/phoneCallAccepted#) 
+* [Layer 223](https://core.telegram.org/constructor/phoneCallAccepted) 
   + [1 – Base layer](https://core.telegram.org/constructor/phoneCallAccepted?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/phoneCallAccepted?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/phoneCallAccepted?layer=3)
@@ -131,11 +131,11 @@ phoneCallAccepted#3660c311 flags:# video:flags.6?true id:long access_hash:long d
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **video** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[true](https://core.telegram.org/constructor/true) | Whether this is a video call |
 | **id** | [long](https://core.telegram.org/type/long) | ID of accepted phone call |
-| **access\_hash** | [long](https://core.telegram.org/type/long) | Access hash of phone call |
+| **access_hash** | [long](https://core.telegram.org/type/long) | Access hash of phone call |
 | **date** | [int](https://core.telegram.org/type/int) | When was the call accepted |
-| **admin\_id** | [long](https://core.telegram.org/type/long) | ID of the call creator |
-| **participant\_id** | [long](https://core.telegram.org/type/long) | ID of the other user in the call |
-| **g\_b** | [bytes](https://core.telegram.org/type/bytes) | B parameter for [secure E2E phone call key exchange](https://core.telegram.org/api/end-to-end/voice-calls) |
+| **admin_id** | [long](https://core.telegram.org/type/long) | ID of the call creator |
+| **participant_id** | [long](https://core.telegram.org/type/long) | ID of the other user in the call |
+| **g_b** | [bytes](https://core.telegram.org/type/bytes) | B parameter for [secure E2E phone call key exchange](https://core.telegram.org/api/end-to-end/voice-calls) |
 | **protocol** | [PhoneCallProtocol](https://core.telegram.org/type/PhoneCallProtocol) | Protocol to use for phone call |
 
 ### Type

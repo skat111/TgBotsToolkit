@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageMediaStory
 
 Represents a forwarded [story](https://core.telegram.org/api/stories) or a story mention.
 
-* [Layer 223](https://core.telegram.org/constructor/messageMediaStory#) 
+* [Layer 223](https://core.telegram.org/constructor/messageMediaStory) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageMediaStory?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageMediaStory?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageMediaStory?layer=3)
@@ -129,7 +129,7 @@ messageMediaStory#68cb6283 flags:# via_mention:flags.1?true peer:Peer id:int sto
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **via\_mention** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | If set, indicates that this someone has mentioned us in this story (i.e. by tagging us in the description) or vice versa, we have mentioned the other peer (if the message is outgoing). |
+| **via_mention** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | If set, indicates that this someone has mentioned us in this story (i.e. by tagging us in the description) or vice versa, we have mentioned the other peer (if the message is outgoing). |
 | **peer** | [Peer](https://core.telegram.org/type/Peer) | Peer that posted the story. |
 | **id** | [int](https://core.telegram.org/type/int) | Story ID |
 | **story** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[StoryItem](https://core.telegram.org/type/StoryItem) | The story itself, if absent fetch it using [stories.getStoriesByID](https://core.telegram.org/method/stories.getStoriesByID) and the `peer`/`id` parameters specified above. |

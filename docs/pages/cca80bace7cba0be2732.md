@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateReadMonoForumInbox
 
 Incoming messages in a [monoforum topic](https://core.telegram.org/api/monoforum) were read
 
-* [Layer 223](https://core.telegram.org/constructor/updateReadMonoForumInbox#) 
+* [Layer 223](https://core.telegram.org/constructor/updateReadMonoForumInbox) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateReadMonoForumInbox?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateReadMonoForumInbox?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateReadMonoForumInbox?layer=3)
@@ -128,9 +128,9 @@ updateReadMonoForumInbox#77b0e372 channel_id:long saved_peer_id:Peer read_max_id
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **channel\_id** | [long](https://core.telegram.org/type/long) | ID of the monoforum. |
-| **saved\_peer\_id** | [Peer](https://core.telegram.org/type/Peer) | Topic ID. |
-| **read\_max\_id** | [int](https://core.telegram.org/type/int) | Position up to which all incoming messages are read. |
+| **channel_id** | [long](https://core.telegram.org/type/long) | ID of the monoforum. |
+| **saved_peer_id** | [Peer](https://core.telegram.org/type/Peer) | Topic ID. |
+| **read_max_id** | [int](https://core.telegram.org/type/int) | Position up to which all incoming messages are read. |
 
 ### Type
 

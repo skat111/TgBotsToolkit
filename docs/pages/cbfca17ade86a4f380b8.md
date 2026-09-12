@@ -10,19 +10,19 @@ The TDLib instance is created for the lifetime of the [Client](https://core.tele
 
 General pattern of usage:
 
-std::shared\_ptr<td::Client> client = std::make\_shared<td::Client>();
+std::shared_ptr<td::Client> client = std::make_shared<td::Client>();
 
 // somehow share the client with other threads, which will be able to send requests via client->send
 
-const double WAIT\_TIMEOUT = 10.0; // seconds
+const double WAIT_TIMEOUT = 10.0; // seconds
 
-bool is\_closed = false; // should be set to true, when updateAuthorizationState with
+bool is_closed = false; // should be set to true, when updateAuthorizationState with
 
 // authorizationStateClosed is received
 
-while (!is\_closed) {
+while (!is_closed) {
 
-auto response = client->[receive](https://core.telegram.org/tdlib/docs/classtd_1_1_client.html#a95ed6da3afd8b605b3bf94f1f8915aff)(WAIT\_TIMEOUT);
+auto response = client->[receive](https://core.telegram.org/tdlib/docs/classtd_1_1_client.html#a95ed6da3afd8b605b3bf94f1f8915aff)(WAIT_TIMEOUT);
 
 if (response.object == nullptr) {
 
@@ -32,7 +32,7 @@ continue;
 
 if (response.id == 0) {
 
-// process response.object as an incoming update of type td\_api::Update
+// process response.object as an incoming update of type td_api::Update
 
 } else {
 

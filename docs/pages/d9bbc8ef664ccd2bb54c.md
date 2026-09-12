@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/phone.groupCall
 
 Contains group call information and an initial participant page, see [getting info about a group call »](https://core.telegram.org/api/group-calls#getting-info-about-a-group-call).
 
-* [Layer 223](https://core.telegram.org/constructor/phone.groupCall#) 
+* [Layer 223](https://core.telegram.org/constructor/phone.groupCall) 
   + [1 – Base layer](https://core.telegram.org/constructor/phone.groupCall?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/phone.groupCall?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/phone.groupCall?layer=3)
@@ -130,7 +130,7 @@ phone.groupCall#9e727aad call:GroupCall participants:Vector<GroupCallParticipant
 | --- | --- | --- |
 | **call** | [GroupCall](https://core.telegram.org/type/GroupCall) | Info about the group call |
 | **participants** | [Vector](https://core.telegram.org/type/Vector%20t)<[GroupCallParticipant](https://core.telegram.org/type/GroupCallParticipant)> | A partial list of participants. |
-| **participants\_next\_offset** | [string](https://core.telegram.org/type/string) | Next offset to use when fetching the remaining participants using [phone.getGroupParticipants](https://core.telegram.org/method/phone.getGroupParticipants) |
+| **participants_next_offset** | [string](https://core.telegram.org/type/string) | Next offset to use when fetching the remaining participants using [phone.getGroupParticipants](https://core.telegram.org/method/phone.getGroupParticipants) |
 | **chats** | [Vector](https://core.telegram.org/type/Vector%20t)<[Chat](https://core.telegram.org/type/Chat)> | Chats mentioned in the participants vector |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | Users mentioned in the participants vector |
 

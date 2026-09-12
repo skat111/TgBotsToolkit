@@ -11,7 +11,7 @@ A user opened an internal link of the type [internalLinkTypePremiumFeaturesPage]
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [referrer\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ad43593ca1828b4e3cec333cd11c2cb94) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [referrer_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ad43593ca1828b4e3cec333cd11c2cb94) |
 |  | The referrer from the link. |
 |  | |
 
@@ -20,9 +20,9 @@ A user opened an internal link of the type [internalLinkTypePremiumFeaturesPage]
 | Public Instance Methods | |
 |  | [premiumSourceLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#a453cdf5495e61e6e5b06c2b362f02471) () |
 |  | |
-|  | [premiumSourceLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#a69d08cbcb03722f86eff1bbeb4b88151) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[referrer\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ad43593ca1828b4e3cec333cd11c2cb94)) |
+|  | [premiumSourceLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#a69d08cbcb03722f86eff1bbeb4b88151) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[referrer_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ad43593ca1828b4e3cec333cd11c2cb94)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ A user opened an internal link of the type [internalLinkTypePremiumFeaturesPage]
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2135071132 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 2135071132 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ A user opened an internal link of the type [internalLinkTypePremiumFeaturesPage]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [premiumSourceLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *referrer\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [premiumSourceLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1premium_source_link.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *referrer_* | ) |  | | explicit |
 
 A user opened an internal link of the type [internalLinkTypePremiumFeaturesPage](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1internal_link_type_premium_features_page.html).
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | referrer\_ | The referrer from the link. |
+    | [in] | referrer_ | The referrer from the link. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -11,16 +11,16 @@ Represents interaction with a story.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [actor\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a522bf2b4dace5631a59b962b8e840618) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > | [actor_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a522bf2b4dace5631a59b962b8e840618) |
 |  | Identifier of the user or chat that made the interaction. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [interaction\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aeab862aa2d8e6dacc52dc103dbc2cbcb) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [interaction_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aeab862aa2d8e6dacc52dc103dbc2cbcb) |
 |  | Approximate point in time (Unix timestamp) when the interaction happened. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > | [block\_list\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a6c204c912ab0ecb43b85ea2e033b89cf) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > | [block_list_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a6c204c912ab0ecb43b85ea2e033b89cf) |
 |  | Block list to which the actor is added; may be null if none or for chat stories. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > | [type\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aedf9e4b5f647f505038d084a50fc2c8a) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > | [type_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aedf9e4b5f647f505038d084a50fc2c8a) |
 |  | Type of the interaction. |
 |  | |
 
@@ -29,9 +29,9 @@ Represents interaction with a story.
 | Public Instance Methods | |
 |  | [storyInteraction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aa4769cba7ec84b230b0b1aa494e1a031) () |
 |  | |
-|  | [storyInteraction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a72648d64518730b0d8f5767389428f7c) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[actor\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a522bf2b4dace5631a59b962b8e840618), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [interaction\_date\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aeab862aa2d8e6dacc52dc103dbc2cbcb), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > &&[block\_list\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a6c204c912ab0ecb43b85ea2e033b89cf), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > &&[type\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aedf9e4b5f647f505038d084a50fc2c8a)) |
+|  | [storyInteraction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a72648d64518730b0d8f5767389428f7c) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > &&[actor_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a522bf2b4dace5631a59b962b8e840618), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [interaction_date_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aeab862aa2d8e6dacc52dc103dbc2cbcb), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > &&[block_list_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a6c204c912ab0ecb43b85ea2e033b89cf), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > &&[type_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#aedf9e4b5f647f505038d084a50fc2c8a)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Represents interaction with a story.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -702229982 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -702229982 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -72,10 +72,10 @@ Represents interaction with a story.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [storyInteraction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *actor\_id\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *interaction\_date\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > && | *block\_list\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > && | *type\_* |
+| [storyInteraction](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story_interaction.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [MessageSender](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_message_sender.html) > && | *actor_id_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *interaction_date_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [BlockList](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_block_list.html) > && | *block_list_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [StoryInteractionType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_story_interaction_type.html) > && | *type_* |
 |  | ) |  |  |
 
 Represents interaction with a story.
@@ -83,10 +83,10 @@ Represents interaction with a story.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | actor\_id\_ | Identifier of the user or chat that made the interaction. |
-    | [in] | interaction\_date\_ | Approximate point in time (Unix timestamp) when the interaction happened. |
-    | [in] | block\_list\_ | Block list to which the actor is added; may be null if none or for chat stories. |
-    | [in] | type\_ | Type of the interaction. |
+    | [in] | actor_id_ | Identifier of the user or chat that made the interaction. |
+    | [in] | interaction_date_ | Approximate point in time (Unix timestamp) when the interaction happened. |
+    | [in] | block_list_ | Block list to which the actor is added; may be null if none or for chat stories. |
+    | [in] | type_ | Type of the interaction. |
 
 ## Method Documentation
 
@@ -94,15 +94,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -110,4 +110,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

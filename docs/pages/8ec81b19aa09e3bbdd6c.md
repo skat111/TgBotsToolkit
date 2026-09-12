@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/users.getSavedMusicByID
 
 Check if the passed songs are still pinned to the user's profile, or refresh the file references of songs pinned on a user's profile [see here »](https://core.telegram.org/api/profile#music) for more info.
 
-* [Layer 223](https://core.telegram.org/method/users.getSavedMusicByID#) 
+* [Layer 223](https://core.telegram.org/method/users.getSavedMusicByID) 
   + [1 – Base layer](https://core.telegram.org/method/users.getSavedMusicByID?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/users.getSavedMusicByID?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/users.getSavedMusicByID?layer=3)
@@ -144,7 +144,7 @@ users.getSavedMusicByID#7573a4e9 id:InputUser documents:Vector<InputDocument> = 
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |
 
 ### Related pages
 

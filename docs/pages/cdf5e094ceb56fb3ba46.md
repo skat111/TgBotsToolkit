@@ -5,7 +5,7 @@ Source: https://core.telegram.org/constructor/statsPercentValue
 [Channel statistics percentage](https://core.telegram.org/api/stats).  
 Compute the percentage simply by doing `part * total / 100`
 
-* [Layer 223](https://core.telegram.org/constructor/statsPercentValue#) 
+* [Layer 223](https://core.telegram.org/constructor/statsPercentValue) 
   + [1 – Base layer](https://core.telegram.org/constructor/statsPercentValue?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/statsPercentValue?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/statsPercentValue?layer=3)

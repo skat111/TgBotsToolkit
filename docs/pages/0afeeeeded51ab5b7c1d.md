@@ -6,7 +6,7 @@ Open a [bot mini app](https://core.telegram.org/bots/webapps) from a [direct Min
 
 After calling this method, until the user closes the webview, [messages.prolongWebView](https://core.telegram.org/method/messages.prolongWebView) must be called every 60 seconds.
 
-* [Layer 223](https://core.telegram.org/method/messages.requestAppWebView#) 
+* [Layer 223](https://core.telegram.org/method/messages.requestAppWebView) 
   + [1 – Base layer](https://core.telegram.org/method/messages.requestAppWebView?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.requestAppWebView?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.requestAppWebView?layer=3)
@@ -133,13 +133,13 @@ messages.requestAppWebView#53618bce flags:# write_allowed:flags.0?true compact:f
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **write\_allowed** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Set this flag if the bot is asking permission to send messages to the user as specified in the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links) docs, and the user agreed. |
+| **write_allowed** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Set this flag if the bot is asking permission to send messages to the user as specified in the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links) docs, and the user agreed. |
 | **compact** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).7?[true](https://core.telegram.org/constructor/true) | If set, requests to open the mini app in compact mode (as opposed to normal or fullscreen mode). Must be set if the `mode` parameter of the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links) is equal to `compact`. |
 | **fullscreen** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).8?[true](https://core.telegram.org/constructor/true) | If set, requests to open the mini app in fullscreen mode (as opposed to compact or normal mode). Must be set if the `mode` parameter of the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links) is equal to `fullscreen`. |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | If the client has clicked on the link in a Telegram chat, pass the chat's peer information; otherwise pass the bot's peer information, instead. |
 | **app** | [InputBotApp](https://core.telegram.org/type/InputBotApp) | The app obtained by invoking [messages.getBotApp](https://core.telegram.org/method/messages.getBotApp) as specified in the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links) docs. |
-| **start\_param** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | If the `startapp` query string parameter is present in the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links), pass it to `start_param`. |
-| **theme\_params** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[DataJSON](https://core.telegram.org/type/DataJSON) | [Theme parameters »](https://core.telegram.org/api/bots/webapps#theme-parameters) |
+| **start_param** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[string](https://core.telegram.org/type/string) | If the `startapp` query string parameter is present in the [direct Mini App deep link](https://core.telegram.org/api/links#direct-mini-app-links), pass it to `start_param`. |
+| **theme_params** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[DataJSON](https://core.telegram.org/type/DataJSON) | [Theme parameters »](https://core.telegram.org/api/bots/webapps#theme-parameters) |
 | **platform** | [string](https://core.telegram.org/type/string) | Short name of the application; 0-64 English letters, digits, and underscores |
 
 ### Result
@@ -152,11 +152,11 @@ messages.requestAppWebView#53618bce flags:# write_allowed:flags.0?true compact:f
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BOT\_APP\_BOT\_INVALID | The bot\_id passed in the inputBotAppShortName constructor is invalid. |
-| 400 | BOT\_APP\_INVALID | The specified bot app is invalid. |
-| 400 | BOT\_APP\_SHORTNAME\_INVALID | The specified bot app short name is invalid. |
-| 400 | MSG\_ID\_INVALID | Invalid message ID provided. |
-| 400 | THEME\_PARAMS\_INVALID | The specified `theme_params` field is invalid. |
+| 400 | BOT_APP_BOT_INVALID | The bot_id passed in the inputBotAppShortName constructor is invalid. |
+| 400 | BOT_APP_INVALID | The specified bot app is invalid. |
+| 400 | BOT_APP_SHORTNAME_INVALID | The specified bot app short name is invalid. |
+| 400 | MSG_ID_INVALID | Invalid message ID provided. |
+| 400 | THEME_PARAMS_INVALID | The specified `theme_params` field is invalid. |
 
 ### Related pages
 

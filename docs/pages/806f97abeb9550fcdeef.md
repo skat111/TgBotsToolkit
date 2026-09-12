@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/bots.setBotCommands
 
 Set bot command list
 
-* [Layer 223](https://core.telegram.org/method/bots.setBotCommands#) 
+* [Layer 223](https://core.telegram.org/method/bots.setBotCommands) 
   + [1 – Base layer](https://core.telegram.org/method/bots.setBotCommands?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/bots.setBotCommands?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/bots.setBotCommands?layer=3)
@@ -132,7 +132,7 @@ bots.setBotCommands#517165a scope:BotCommandScope lang_code:string commands:Vect
 | Name | Type | Description |
 | --- | --- | --- |
 | **scope** | [BotCommandScope](https://core.telegram.org/type/BotCommandScope) | Command scope |
-| **lang\_code** | [string](https://core.telegram.org/type/string) | Language code |
+| **lang_code** | [string](https://core.telegram.org/type/string) | Language code |
 | **commands** | [Vector](https://core.telegram.org/type/Vector%20t)<[BotCommand](https://core.telegram.org/type/BotCommand)> | Bot commands |
 
 ### Result
@@ -145,9 +145,9 @@ bots.setBotCommands#517165a scope:BotCommandScope lang_code:string commands:Vect
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | BOT\_COMMAND\_DESCRIPTION\_INVALID | The specified command description is invalid. |
-| 400 | BOT\_COMMAND\_INVALID | The specified command is invalid. |
-| 400 | LANG\_CODE\_INVALID | The specified language code is invalid. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
-| 400 | USER\_BOT\_REQUIRED | This method can only be called by a bot. |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
+| 400 | BOT_COMMAND_DESCRIPTION_INVALID | The specified command description is invalid. |
+| 400 | BOT_COMMAND_INVALID | The specified command is invalid. |
+| 400 | LANG_CODE_INVALID | The specified language code is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
+| 400 | USER_BOT_REQUIRED | This method can only be called by a bot. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |

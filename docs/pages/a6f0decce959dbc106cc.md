@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/pageBlockUnsupported
 
 Unsupported IV element
 
-* [Layer 223](https://core.telegram.org/constructor/pageBlockUnsupported#) 
+* [Layer 223](https://core.telegram.org/constructor/pageBlockUnsupported) 
   + [1 – Base layer](https://core.telegram.org/constructor/pageBlockUnsupported?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/pageBlockUnsupported?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/pageBlockUnsupported?layer=3)

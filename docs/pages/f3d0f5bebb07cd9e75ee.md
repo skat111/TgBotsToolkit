@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageActionGiftCode
 
 Contains a [Telegram Premium giftcode link](https://core.telegram.org/api/links#premium-giftcode-links).
 
-* [Layer 223](https://core.telegram.org/constructor/messageActionGiftCode#) 
+* [Layer 223](https://core.telegram.org/constructor/messageActionGiftCode) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageActionGiftCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageActionGiftCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageActionGiftCode?layer=3)
@@ -129,15 +129,15 @@ messageActionGiftCode#31c48347 flags:# via_giveaway:flags.0?true unclaimed:flags
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **via\_giveaway** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, this gift code was received from a [giveaway »](https://core.telegram.org/api/giveaways) started by a channel/supergroup we're subscribed to. |
+| **via_giveaway** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, this gift code was received from a [giveaway »](https://core.telegram.org/api/giveaways) started by a channel/supergroup we're subscribed to. |
 | **unclaimed** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[true](https://core.telegram.org/constructor/true) | If set, the link was not [redeemed](https://core.telegram.org/api/links#premium-giftcode-links) yet. |
-| **boost\_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Peer](https://core.telegram.org/type/Peer) | Identifier of the channel/supergroup that created the gift code [either directly or through a giveaway](https://core.telegram.org/api/giveaways): if we import this giftcode link, we will also automatically [boost](https://core.telegram.org/api/boost) this channel/supergroup. |
+| **boost_peer** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Peer](https://core.telegram.org/type/Peer) | Identifier of the channel/supergroup that created the gift code [either directly or through a giveaway](https://core.telegram.org/api/giveaways): if we import this giftcode link, we will also automatically [boost](https://core.telegram.org/api/boost) this channel/supergroup. |
 | **days** | [int](https://core.telegram.org/type/int) | Duration of the gifted Telegram Premium subscription, in days. |
 | **slug** | [string](https://core.telegram.org/type/string) | Slug of the [Telegram Premium giftcode link](https://core.telegram.org/api/links#premium-giftcode-links) |
 | **currency** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[string](https://core.telegram.org/type/string) | Three-letter ISO 4217 [currency](https://core.telegram.org/bots/payments#supported-currencies) code |
 | **amount** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[long](https://core.telegram.org/type/long) | Total price in the smallest units of the currency (integer, not float/double). For example, for a price of `US$ 1.45` pass `amount = 145`. See the exp parameter in [currencies.json](https://core.telegram.org/bots/payments/currencies.json), it shows the number of digits past the decimal point for each currency (2 for the majority of currencies). |
-| **crypto\_currency** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[string](https://core.telegram.org/type/string) | If set, the gift was made using the specified cryptocurrency. |
-| **crypto\_amount** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[long](https://core.telegram.org/type/long) | If `crypto_currency` is set, contains the paid amount, in the smallest units of the cryptocurrency. |
+| **crypto_currency** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[string](https://core.telegram.org/type/string) | If set, the gift was made using the specified cryptocurrency. |
+| **crypto_amount** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[long](https://core.telegram.org/type/long) | If `crypto_currency` is set, contains the paid amount, in the smallest units of the cryptocurrency. |
 | **message** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[TextWithEntities](https://core.telegram.org/type/TextWithEntities) | Message attached with the gift |
 
 ### Type

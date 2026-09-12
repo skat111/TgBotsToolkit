@@ -6,21 +6,21 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 ## Description
 
-Checks whether a gift with next\_send\_date in the future can be sent already.
+Checks whether a gift with next_send_date in the future can be sent already.
 
-Returns object\_ptr<CanSendGiftResult>.
+Returns object_ptr<CanSendGiftResult>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [gift\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ad8fa083fdde8772552ac42adae3befa1) |
+| [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | [gift_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ad8fa083fdde8772552ac42adae3befa1) |
 |  | Identifier of the gift to send. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a402cbf6542b1bf2836939a21b2dc5090) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CanSendGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_gift_result.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a402cbf6542b1bf2836939a21b2dc5090) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [CanSendGiftResult](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_can_send_gift_result.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<CanSendGiftResult>.
 | Public Instance Methods | |
 |  | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a644318623dc697ad102b6187dd25548c) () |
 |  | |
-|  | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a821eb5a379dba56a62737e1e0b3b84d2) ([int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [gift\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ad8fa083fdde8772552ac42adae3befa1)) |
+|  | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a821eb5a379dba56a62737e1e0b3b84d2) ([int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) [gift_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ad8fa083fdde8772552ac42adae3befa1)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<CanSendGiftResult>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1307059830 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1307059830 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,24 +66,24 @@ Returns object\_ptr<CanSendGiftResult>.
 | --- | --- | --- | --- | --- |
 | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html) | ( |  | ) |  |
 
-Default constructor for a function, which checks whether a gift with next\_send\_date in the future can be sent already.
+Default constructor for a function, which checks whether a gift with next_send_date in the future can be sent already.
 
-Returns object\_ptr<CanSendGiftResult>.
+Returns object_ptr<CanSendGiftResult>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html#a821eb5a379dba56a62737e1e0b3b84d2)canSendGift() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html) | ( | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *gift\_id\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [canSendGift](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1can_send_gift.html) | ( | [int64](https://core.telegram.org/tdlib/docs/td__api_8h.html#a552928ab323811c9694f5b7c9f53d0fb) | *gift_id_* | ) |  | | explicit |
 
-Creates a function, which checks whether a gift with next\_send\_date in the future can be sent already.
+Creates a function, which checks whether a gift with next_send_date in the future can be sent already.
 
-Returns object\_ptr<CanSendGiftResult>.
+Returns object_ptr<CanSendGiftResult>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | gift\_id\_ | Identifier of the gift to send. |
+    | [in] | gift_id_ | Identifier of the gift to send. |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/auth.SentCodeType
 
 Type of the verification code that was sent
 
-* [Layer 223](https://core.telegram.org/type/auth.SentCodeType#) 
+* [Layer 223](https://core.telegram.org/type/auth.SentCodeType) 
   + [1 – Base layer](https://core.telegram.org/type/auth.SentCodeType?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/auth.SentCodeType?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/auth.SentCodeType?layer=3)

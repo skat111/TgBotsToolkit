@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.exportedChatInvite
 
 Info about a chat invite
 
-* [Layer 223](https://core.telegram.org/constructor/messages.exportedChatInvite#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.exportedChatInvite) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.exportedChatInvite?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.exportedChatInvite?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.exportedChatInvite?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageActionPollDeleteAnswer
 
 An answer option was removed from an [open-answer poll »](https://core.telegram.org/api/poll#open-answer-polls)
 
-* [Layer 223](https://core.telegram.org/constructor/messageActionPollDeleteAnswer#) 
+* [Layer 223](https://core.telegram.org/constructor/messageActionPollDeleteAnswer) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageActionPollDeleteAnswer?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageActionPollDeleteAnswer?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageActionPollDeleteAnswer?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/pageListOrderedItemText
 
 Ordered list of text items
 
-* [Layer 223](https://core.telegram.org/constructor/pageListOrderedItemText#) 
+* [Layer 223](https://core.telegram.org/constructor/pageListOrderedItemText) 
   + [1 – Base layer](https://core.telegram.org/constructor/pageListOrderedItemText?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/pageListOrderedItemText?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/pageListOrderedItemText?layer=3)

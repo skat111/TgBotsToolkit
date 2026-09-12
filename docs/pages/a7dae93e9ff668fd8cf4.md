@@ -8,19 +8,19 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 Returns information about a basic group by its identifier. This is an offline method if the current user is not a bot.
 
-Returns object\_ptr<BasicGroup>.
+Returns object_ptr<BasicGroup>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [basic\_group\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac2dae0c694e1bc3019465a63148d4e9b) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [basic_group_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac2dae0c694e1bc3019465a63148d4e9b) |
 |  | Basic group identifier. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a441220290136805aa133a14598872354) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [basicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1basic_group.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a441220290136805aa133a14598872354) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [basicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1basic_group.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -29,9 +29,9 @@ Returns object\_ptr<BasicGroup>.
 | Public Instance Methods | |
 |  | [getBasicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a0de047102c402e89d69e56e0d1adeb69) () |
 |  | |
-|  | [getBasicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a588c0291f90144e862f447babbfb1f21) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [basic\_group\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac2dae0c694e1bc3019465a63148d4e9b)) |
+|  | [getBasicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a588c0291f90144e862f447babbfb1f21) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [basic_group_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac2dae0c694e1bc3019465a63148d4e9b)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -54,7 +54,7 @@ Returns object\_ptr<BasicGroup>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1635174828 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1635174828 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -68,22 +68,22 @@ Returns object\_ptr<BasicGroup>.
 
 Default constructor for a function, which returns information about a basic group by its identifier. This is an offline method if the current user is not a bot.
 
-Returns object\_ptr<BasicGroup>.
+Returns object_ptr<BasicGroup>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html#a588c0291f90144e862f447babbfb1f21)getBasicGroup() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [getBasicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *basic\_group\_id\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [getBasicGroup](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_basic_group.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *basic_group_id_* | ) |  | | explicit |
 
 Creates a function, which returns information about a basic group by its identifier. This is an offline method if the current user is not a bot.
 
-Returns object\_ptr<BasicGroup>.
+Returns object_ptr<BasicGroup>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | basic\_group\_id\_ | Basic group identifier. |
+    | [in] | basic_group_id_ | Basic group identifier. |
 
 ## Method Documentation
 
@@ -91,15 +91,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -107,4 +107,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/messages.MyStickers
 
 The list of [stickersets owned by the current account »](https://core.telegram.org/api/stickers).
 
-* [Layer 223](https://core.telegram.org/type/messages.MyStickers#) 
+* [Layer 223](https://core.telegram.org/type/messages.MyStickers) 
   + [1 – Base layer](https://core.telegram.org/type/messages.MyStickers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/messages.MyStickers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/messages.MyStickers?layer=3)

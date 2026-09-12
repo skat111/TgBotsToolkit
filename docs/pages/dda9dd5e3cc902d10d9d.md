@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateNotifySettings
 
 Changes in notification settings.
 
-* [Layer 223](https://core.telegram.org/constructor/updateNotifySettings#) 
+* [Layer 223](https://core.telegram.org/constructor/updateNotifySettings) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateNotifySettings?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateNotifySettings?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateNotifySettings?layer=3)
@@ -129,7 +129,7 @@ updateNotifySettings#bec268ef peer:NotifyPeer notify_settings:PeerNotifySettings
 | Name | Type | Description |
 | --- | --- | --- |
 | **peer** | [NotifyPeer](https://core.telegram.org/type/NotifyPeer) | Notification source |
-| **notify\_settings** | [PeerNotifySettings](https://core.telegram.org/type/PeerNotifySettings) | New notification settings |
+| **notify_settings** | [PeerNotifySettings](https://core.telegram.org/type/PeerNotifySettings) | New notification settings |
 
 ### Type
 

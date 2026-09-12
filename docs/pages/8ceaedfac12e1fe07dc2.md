@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/businessAwayMessage
 
 Describes a [Telegram Business away message](https://core.telegram.org/api/business#away-messages), automatically sent to users writing to us when we're offline, during closing hours, while we're on vacation, or in some other custom time period when we cannot immediately answer to the user.
 
-* [Layer 223](https://core.telegram.org/constructor/businessAwayMessage#) 
+* [Layer 223](https://core.telegram.org/constructor/businessAwayMessage) 
   + [1 – Base layer](https://core.telegram.org/constructor/businessAwayMessage?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/businessAwayMessage?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/businessAwayMessage?layer=3)
@@ -129,8 +129,8 @@ businessAwayMessage#ef156a5c flags:# offline_only:flags.0?true shortcut_id:int s
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **offline\_only** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, the messages will not be sent if the account was online in the last 10 minutes. |
-| **shortcut\_id** | [int](https://core.telegram.org/type/int) | ID of a [quick reply shorcut, containing the away messages to send, see here » for more info](https://core.telegram.org/api/business#quick-reply-shortcuts). |
+| **offline_only** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | If set, the messages will not be sent if the account was online in the last 10 minutes. |
+| **shortcut_id** | [int](https://core.telegram.org/type/int) | ID of a [quick reply shorcut, containing the away messages to send, see here » for more info](https://core.telegram.org/api/business#quick-reply-shortcuts). |
 | **schedule** | [BusinessAwayMessageSchedule](https://core.telegram.org/type/BusinessAwayMessageSchedule) | Specifies when should the away messages be sent. |
 | **recipients** | [BusinessRecipients](https://core.telegram.org/type/BusinessRecipients) | Allowed recipients for the away messages. |
 

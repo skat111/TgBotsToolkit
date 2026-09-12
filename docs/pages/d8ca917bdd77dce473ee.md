@@ -11,10 +11,10 @@ Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a80aca422ea16bbb3ab3b62fafa43af6c) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a80aca422ea16bbb3ab3b62fafa43af6c) |
 |  | User identifier. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > | [user\_full\_info\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a86dfe6d97130a4ca29859fef8295c7d0) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > | [user_full_info_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a86dfe6d97130a4ca29859fef8295c7d0) |
 |  | New full information about the user. |
 |  | |
 
@@ -23,9 +23,9 @@ Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__
 | Public Instance Methods | |
 |  | [updateUserFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#aed659df88db66f16aac5c6ea0ad01e61) () |
 |  | |
-|  | [updateUserFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a914bd2491e5587d91f358be1ebdc04b7) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [user\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a80aca422ea16bbb3ab3b62fafa43af6c), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > &&[user\_full\_info\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a86dfe6d97130a4ca29859fef8295c7d0)) |
+|  | [updateUserFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a914bd2491e5587d91f358be1ebdc04b7) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [user_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a80aca422ea16bbb3ab3b62fafa43af6c), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > &&[user_full_info_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a86dfe6d97130a4ca29859fef8295c7d0)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -51197161 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -51197161 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [updateUserFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *user\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > && | *user\_full\_info\_* |
+| [updateUserFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_user_full_info.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *user_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) > && | *user_full_info_* |
 |  | ) |  |  |
 
 Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1user_full_info.html) has been changed.
@@ -75,8 +75,8 @@ Some data in [userFullInfo](https://core.telegram.org/tdlib/docs/classtd_1_1td__
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | user\_id\_ | User identifier. |
-    | [in] | user\_full\_info\_ | New full information about the user. |
+    | [in] | user_id_ | User identifier. |
+    | [in] | user_full_info_ | New full information about the user. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

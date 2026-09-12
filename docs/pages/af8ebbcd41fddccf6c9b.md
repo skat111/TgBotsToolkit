@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/starGiftAttributeIdPattern
 
 The ID of a pattern of a [collectible gift »](https://core.telegram.org/api/gifts#collectible-gifts).
 
-* [Layer 223](https://core.telegram.org/constructor/starGiftAttributeIdPattern#) 
+* [Layer 223](https://core.telegram.org/constructor/starGiftAttributeIdPattern) 
   + [1 – Base layer](https://core.telegram.org/constructor/starGiftAttributeIdPattern?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/starGiftAttributeIdPattern?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/starGiftAttributeIdPattern?layer=3)
@@ -128,7 +128,7 @@ starGiftAttributeIdPattern#4a162433 document_id:long = StarGiftAttributeId;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **document\_id** | [long](https://core.telegram.org/type/long) | The [sticker](https://core.telegram.org/api/stickers) representing the symbol |
+| **document_id** | [long](https://core.telegram.org/type/long) | The [sticker](https://core.telegram.org/api/stickers) representing the symbol |
 
 ### Type
 

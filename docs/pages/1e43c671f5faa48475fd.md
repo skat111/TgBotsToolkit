@@ -22,26 +22,26 @@ A (re-keying initiator) generates a new value of *a*, subject to the same limita
 decryptedMessageActionRequestKey#f3c9611b exchange_id:long g_a:bytes = DecryptedMessageAction;
 ```
 
-* *exchange\_id* is a random number identifying this instance of the Re-Keying Protocol for both parties
-* *g\_a* is the value of *pow(g,a) mod p*
+* *exchange_id* is a random number identifying this instance of the Re-Keying Protocol for both parties
+* *g_a* is the value of *pow(g,a) mod p*
 
 Note that the same Diffie--Hellman parameters *(p,g)* as for the initial Diffie--Hellman key exchange in this secret chat are used. They do not need to be re-transmitted explicitly.
 
 ##### 2. decryptedMessageActionAcceptKey
 
-Upon receipt of the above service message, B checks its content, and generates a response with same *exchange\_id*, for a newly generated value of *b*:
+Upon receipt of the above service message, B checks its content, and generates a response with same *exchange_id*, for a newly generated value of *b*:
 
 ```
 decryptedMessageActionAcceptKey#6fe1735b exchange_id:long g_b:bytes key_fingerprint:long = DecryptedMessageAction;
 ```
 
-* *exchange\_id* is the same as in the received [decryptedMessageActionRequestKey](https://core.telegram.org/constructor/decryptedMessageActionRequestKey)
-* *g\_b* is the value of *pow(g,b) mod p*
-* *key\_fingerprint* is the 64-bit fingerprint of the newly generated *key = pow(g\_a, b) mod p*, used as a sanity check of the implementation
+* *exchange_id* is the same as in the received [decryptedMessageActionRequestKey](https://core.telegram.org/constructor/decryptedMessageActionRequestKey)
+* *g_b* is the value of *pow(g,b) mod p*
+* *key_fingerprint* is the 64-bit fingerprint of the newly generated *key = pow(g_a, b) mod p*, used as a sanity check of the implementation
 
-At this stage, B can already compute the new key *key* = *pow(g\_a, b) mod p* and its *key\_fingerprint* (last 64 bits of its SHA-1). However, it continues using the previous key until the completion of the exchange.
+At this stage, B can already compute the new key *key* = *pow(g_a, b) mod p* and its *key_fingerprint* (last 64 bits of its SHA-1). However, it continues using the previous key until the completion of the exchange.
 
-Once side B sends [decryptedMessageActionAcceptKey](https://core.telegram.org/constructor/decryptedMessageActionAcceptKey), it cannot abort the key exchange; it must be ready to switch to the new key immediately after a `decryptedMessageActionCommitKey` is received. Therefore, if side B wishes to delay the usage of new key, for example in order to fill some seq\_no gaps first, it must delay the `decryptedMessageActionAcceptKey` answer accordingly.
+Once side B sends [decryptedMessageActionAcceptKey](https://core.telegram.org/constructor/decryptedMessageActionAcceptKey), it cannot abort the key exchange; it must be ready to switch to the new key immediately after a `decryptedMessageActionCommitKey` is received. Therefore, if side B wishes to delay the usage of new key, for example in order to fill some seq_no gaps first, it must delay the `decryptedMessageActionAcceptKey` answer accordingly.
 
 ##### 3. decryptedMessageActionCommitKey
 
@@ -51,16 +51,16 @@ Once A receives a valid `decryptedMessageActionAcceptKey`, it performs all neces
 decryptedMessageActionCommitKey#ec2e0b9b exchange_id:long key_fingerprint:long = DecryptedMessageAction;
 ```
 
-* *exchange\_id* is the same as in the two previous messages
-* *key\_fingerprint* is the value of the hash (last 64 bits of SHA-1) of the new key computed by A, for implementation sanity check
+* *exchange_id* is the same as in the two previous messages
+* *key_fingerprint* is the value of the hash (last 64 bits of SHA-1) of the new key computed by A, for implementation sanity check
 
 After that, A can (and must) encrypt all following messages with the new key.
 
-If side A wishes to delay installation of the new key, for example because there are some seq\_no gaps that it wants to fill first, it must delay [decryptedMessageActionCommitKey](https://core.telegram.org/constructor/decryptedMessageActionCommitKey) answer accordingly.
+If side A wishes to delay installation of the new key, for example because there are some seq_no gaps that it wants to fill first, it must delay [decryptedMessageActionCommitKey](https://core.telegram.org/constructor/decryptedMessageActionCommitKey) answer accordingly.
 
 ##### 4. Final step
 
-When B receives either a `decryptedMessageActionCommitKey` or a message encrypted by the new key, recognized by the value of *key\_fingerprint* prepended to the encrypted message (it may happen that the `decryptedMessageActionCommitKey` has been lost and will be re-requested later), it assumes that A has started using the new key for encryption, and does the same.
+When B receives either a `decryptedMessageActionCommitKey` or a message encrypted by the new key, recognized by the value of *key_fingerprint* prepended to the encrypted message (it may happen that the `decryptedMessageActionCommitKey` has been lost and will be re-requested later), it assumes that A has started using the new key for encryption, and does the same.
 
 However, the previous key may be kept until there are no gaps in received messages up to the switch to the new key. Once all the gaps have been filled, the old key must be securely discarded.
 
@@ -74,7 +74,7 @@ Any of the parties may abort any instance of an uncompleted re-keying protocol, 
 decryptedMessageActionAbortKey#dd05ec6b exchange_id:long = DecryptedMessageAction;
 ```
 
-This could be done, for example, if the party is already participating in a different instance of the re-keying protocol, or if the received values of *g\_a*, *g\_b* and other parameters do not pass security checks. In the latter case, it might be advisable to abort the Secret Chat altogether.
+This could be done, for example, if the party is already participating in a different instance of the re-keying protocol, or if the received values of *g_a*, *g_b* and other parameters do not pass security checks. In the latter case, it might be advisable to abort the Secret Chat altogether.
 
 #### Discarding Previous Keys
 
@@ -88,16 +88,16 @@ decryptedMessageActionNoop#a82fdd63 = DecryptedMessageAction;
 
 It may happen that both parties concurrently initiate re-keying by sending `decryptedMessageActionRequestKey` without knowing that the other party has already done so. If each side aborts re-keying because it is already participating in another instance of the protocol initiated by itself, the re-keying will never happen.
 
-Because of this possibility, we suggest that only the instance with the smaller *exchange\_id* is aborted, with the option to re-use its *(a,g\_a)* for the re-keying protocol instance with the larger *exchange\_id* (when compared as a `long`, i.e. signed little-endian 64-bit integer).
+Because of this possibility, we suggest that only the instance with the smaller *exchange_id* is aborted, with the option to re-use its *(a,g_a)* for the re-keying protocol instance with the larger *exchange_id* (when compared as a `long`, i.e. signed little-endian 64-bit integer).
 
 In other words, if a `decryptedMessageActionRequestKey` is received after A has sent its `decryptedMessageActionRequestKey`, but has not yet received `decryptedMessageActionAcceptKey`, the following is to be done:
 
-* if *exchange\_id* in the sent `decryptedMessageActionRequestKey` was larger than that in the `decryptionActionRequestKey` just received, abort the newly-suggested re-keying protocol instance without sending explicit [decryptedMessageActionAbortKey](https://core.telegram.org/constructor/decryptedMessageActionAbortKey) (the other side will do the same according to the next rule).
-* if *exchange\_id* in our `decryptedMessageActionRequestKey` was smaller, respond to the newly-received `decryptedMessageActionRequestKey` with a `decryptedMessageActionAcceptKey`, and participate only in the re-keying protocol instance initiated by the other side. It is possible to re-use at this stage the value of *g\_a* (now called *g\_b*) that was generated for the original `decryptedMessageActionRequestKey`, now abandoned, or totally new *(b,g\_b)* can be generated.
-* in the unlikely (2^{-64}) case both *exchange\_id* are equal, abort both instances without sending an explicit `decryptedMessageActionAbortKey`. The other side will do the same.
+* if *exchange_id* in the sent `decryptedMessageActionRequestKey` was larger than that in the `decryptionActionRequestKey` just received, abort the newly-suggested re-keying protocol instance without sending explicit [decryptedMessageActionAbortKey](https://core.telegram.org/constructor/decryptedMessageActionAbortKey) (the other side will do the same according to the next rule).
+* if *exchange_id* in our `decryptedMessageActionRequestKey` was smaller, respond to the newly-received `decryptedMessageActionRequestKey` with a `decryptedMessageActionAcceptKey`, and participate only in the re-keying protocol instance initiated by the other side. It is possible to re-use at this stage the value of *g_a* (now called *g_b*) that was generated for the original `decryptedMessageActionRequestKey`, now abandoned, or totally new *(b,g_b)* can be generated.
+* in the unlikely (2^{-64}) case both *exchange_id* are equal, abort both instances without sending an explicit `decryptedMessageActionAbortKey`. The other side will do the same.
 
 ##### Key Visualization
 
 Since all re-keying instances are carried over the secure channel established when the secret chat is created, it is necessary for the user to confirm that no MITM attack had taken place during the initial exchange. The key visualization on the clients uses the first 128-bits of the SHA-1 of the original key created when the Secret Chat was first established, followed by the first 160 bits of the SHA-256 of the key in use when the secret chat was updated to layer 46 (coincides with the original key if chat was created using layer 46).
 
-> Please note that the *key\_fingerprint* parameter was introduced as a maintenance tool (with a misleading name) and is **not** related to key visualization on the clients.
+> Please note that the *key_fingerprint* parameter was introduced as a maintenance tool (with a misleading name) and is **not** related to key visualization on the clients.

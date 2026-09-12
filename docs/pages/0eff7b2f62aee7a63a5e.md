@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.checkUsername
 
 Validates a username and checks availability.
 
-* [Layer 223](https://core.telegram.org/method/account.checkUsername#) 
+* [Layer 223](https://core.telegram.org/method/account.checkUsername) 
   + [1 – Base layer](https://core.telegram.org/method/account.checkUsername?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.checkUsername?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.checkUsername?layer=3)
@@ -143,6 +143,6 @@ account.checkUsername#2714d86c username:string = Bool;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | USERNAME\_INVALID | The provided username is not valid. |
-| 400 | USERNAME\_OCCUPIED | The provided username is already occupied. |
-| 400 | USERNAME\_PURCHASE\_AVAILABLE | The specified username can be purchased on <https://fragment.com>. |
+| 400 | USERNAME_INVALID | The provided username is not valid. |
+| 400 | USERNAME_OCCUPIED | The provided username is already occupied. |
+| 400 | USERNAME_PURCHASE_AVAILABLE | The specified username can be purchased on <https://fragment.com>. |

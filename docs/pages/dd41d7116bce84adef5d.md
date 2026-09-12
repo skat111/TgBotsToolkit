@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/PeerStories
 
 [Stories](https://core.telegram.org/api/stories) associated to a peer
 
-* [Layer 223](https://core.telegram.org/type/PeerStories#) 
+* [Layer 223](https://core.telegram.org/type/PeerStories) 
   + [1 – Base layer](https://core.telegram.org/type/PeerStories?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/PeerStories?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/PeerStories?layer=3)

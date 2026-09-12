@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.setGlobalPrivacySettings
 
 Set global privacy settings
 
-* [Layer 223](https://core.telegram.org/method/account.setGlobalPrivacySettings#) 
+* [Layer 223](https://core.telegram.org/method/account.setGlobalPrivacySettings) 
   + [1 – Base layer](https://core.telegram.org/method/account.setGlobalPrivacySettings?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.setGlobalPrivacySettings?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.setGlobalPrivacySettings?layer=3)
@@ -144,10 +144,10 @@ account.setGlobalPrivacySettings#1edaaac2 settings:GlobalPrivacySettings = Globa
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | AUTOARCHIVE\_NOT\_AVAILABLE | The autoarchive setting is not available at this time: please check the value of the [autoarchive\_setting\_available field in client config »](https://core.telegram.org/api/config#client-configuration) before calling this method. |
-| 403 | BOT\_ACCESS\_FORBIDDEN | The specified method *can* be used over a [business connection](https://core.telegram.org/api/bots/connected-business-bots) for some operations, but the specified query attempted an operation that is not allowed over a business connection. |
-| 400 | BUSINESS\_CONNECTION\_INVALID | The `connection_id` passed to the wrapping [invokeWithBusinessConnection](https://core.telegram.org/api/business) call is invalid. |
-| 403 | PREMIUM\_ACCOUNT\_REQUIRED | A premium account is required to execute this action. |
+| 400 | AUTOARCHIVE_NOT_AVAILABLE | The autoarchive setting is not available at this time: please check the value of the [autoarchive_setting_available field in client config »](https://core.telegram.org/api/config#client-configuration) before calling this method. |
+| 403 | BOT_ACCESS_FORBIDDEN | The specified method *can* be used over a [business connection](https://core.telegram.org/api/bots/connected-business-bots) for some operations, but the specified query attempted an operation that is not allowed over a business connection. |
+| 400 | BUSINESS_CONNECTION_INVALID | The `connection_id` passed to the wrapping [invokeWithBusinessConnection](https://core.telegram.org/api/business) call is invalid. |
+| 403 | PREMIUM_ACCOUNT_REQUIRED | A premium account is required to execute this action. |
 
 ### Related pages
 

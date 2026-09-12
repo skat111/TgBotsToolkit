@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/connectedBotStarRef
 
 Info about an [active affiliate program we have with a Mini App](https://core.telegram.org/api/bots/referrals#becoming-an-affiliate)
 
-* [Layer 223](https://core.telegram.org/constructor/connectedBotStarRef#) 
+* [Layer 223](https://core.telegram.org/constructor/connectedBotStarRef) 
   + [1 – Base layer](https://core.telegram.org/constructor/connectedBotStarRef?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/connectedBotStarRef?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/connectedBotStarRef?layer=3)
@@ -132,9 +132,9 @@ connectedBotStarRef#19a13f71 flags:# revoked:flags.1?true url:string date:int bo
 | **revoked** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[true](https://core.telegram.org/constructor/true) | If set, this affiliation was revoked by the affiliate using [payments.editConnectedStarRefBot](https://core.telegram.org/method/payments.editConnectedStarRefBot), or by the affiliation program owner using [bots.updateStarRefProgram](https://core.telegram.org/method/bots.updateStarRefProgram) |
 | **url** | [string](https://core.telegram.org/type/string) | [Referral link](https://core.telegram.org/api/links#referral-links) to be shared |
 | **date** | [int](https://core.telegram.org/type/int) | When did we affiliate with `bot_id` |
-| **bot\_id** | [long](https://core.telegram.org/type/long) | ID of the mini app that created the affiliate program |
-| **commission\_permille** | [int](https://core.telegram.org/type/int) | The number of Telegram Stars received by the affiliate for each 1000 Telegram Stars received by `bot_id` |
-| **duration\_months** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Number of months the program will be active; if not set, there is no expiration date. |
+| **bot_id** | [long](https://core.telegram.org/type/long) | ID of the mini app that created the affiliate program |
+| **commission_permille** | [int](https://core.telegram.org/type/int) | The number of Telegram Stars received by the affiliate for each 1000 Telegram Stars received by `bot_id` |
+| **duration_months** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[int](https://core.telegram.org/type/int) | Number of months the program will be active; if not set, there is no expiration date. |
 | **participants** | [long](https://core.telegram.org/type/long) | The number of users that used the affiliate program |
 | **revenue** | [long](https://core.telegram.org/type/long) | The number of Telegram Stars that were earned by the affiliate program |
 

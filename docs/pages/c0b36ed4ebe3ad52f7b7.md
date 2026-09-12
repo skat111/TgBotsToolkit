@@ -11,7 +11,7 @@ A purchase through App Store.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) | [receipt\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#acd344fbddb9f72e7e42acc9173bbc535) |
+| [bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) | [receipt_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#acd344fbddb9f72e7e42acc9173bbc535) |
 |  | App Store receipt. |
 |  | |
 
@@ -20,9 +20,9 @@ A purchase through App Store.
 | Public Instance Methods | |
 |  | [storeTransactionAppStore](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#ae3be5385e48f2418370acdec177dfba2) () |
 |  | |
-|  | [storeTransactionAppStore](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#a8bdb0d5a40ad9799ab7958fb2ff6c595) ([bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) const &[receipt\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#acd344fbddb9f72e7e42acc9173bbc535)) |
+|  | [storeTransactionAppStore](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#a8bdb0d5a40ad9799ab7958fb2ff6c595) ([bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) const &[receipt_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#acd344fbddb9f72e7e42acc9173bbc535)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ A purchase through App Store.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1625562441 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1625562441 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ A purchase through App Store.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [storeTransactionAppStore](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html) | ( | [bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) const & | *receipt\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [storeTransactionAppStore](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1store_transaction_app_store.html) | ( | [bytes](https://core.telegram.org/tdlib/docs/td__api_8h.html#a124171ebb3663f1cbd4f902257dced87) const & | *receipt_* | ) |  | | explicit |
 
 A purchase through App Store.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | receipt\_ | App Store receipt. |
+    | [in] | receipt_ | App Store receipt. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

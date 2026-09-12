@@ -6,7 +6,7 @@ Restriction reason.
 
 See [here »](https://core.telegram.org/api/age-verification) for the full flow to use for restricted or age-gated content.
 
-* [Layer 223](https://core.telegram.org/constructor/restrictionReason#) 
+* [Layer 223](https://core.telegram.org/constructor/restrictionReason) 
   + [1 – Base layer](https://core.telegram.org/constructor/restrictionReason?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/restrictionReason?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/restrictionReason?layer=3)
@@ -131,7 +131,7 @@ restrictionReason#d072acb4 platform:string reason:string text:string = Restricti
 | Name | Type | Description |
 | --- | --- | --- |
 | **platform** | [string](https://core.telegram.org/type/string) | Platform identifier (ios, android, wp, all, etc.), can be concatenated with a dash as separator (`android-ios`, `ios-wp`, etc) |
-| **reason** | [string](https://core.telegram.org/type/string) | Restriction reason (`porno`, `terms`, etc.). Ignore this restriction reason if it is contained in the [ignore\_restriction\_reasons »](https://core.telegram.org/api/config#ignore-restriction-reasons) client configuration parameter. |
+| **reason** | [string](https://core.telegram.org/type/string) | Restriction reason (`porno`, `terms`, etc.). Ignore this restriction reason if it is contained in the [ignore_restriction_reasons »](https://core.telegram.org/api/config#ignore-restriction-reasons) client configuration parameter. |
 | **text** | [string](https://core.telegram.org/type/string) | Error message to be shown to the user |
 
 ### Type

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/SecureCredentialsEncrypted
 
 Encrypted secure credentials
 
-* [Layer 223](https://core.telegram.org/type/SecureCredentialsEncrypted#) 
+* [Layer 223](https://core.telegram.org/type/SecureCredentialsEncrypted) 
   + [1 – Base layer](https://core.telegram.org/type/SecureCredentialsEncrypted?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/SecureCredentialsEncrypted?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/SecureCredentialsEncrypted?layer=3)

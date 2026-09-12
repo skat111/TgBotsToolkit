@@ -9,9 +9,9 @@ A request to the TDLib.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| std::uint64\_t | [id](https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html#a3e3507be967a9cec9979b9ab1179b210) |
+| std::uint64_t | [id](https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html#a3e3507be967a9cec9979b9ab1179b210) |
 |  | |
-| [td\_api::object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [td\_api::Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html) > | [function](https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html#a77f036373636e74bfa54fa5155b4fe76) |
+| [td_api::object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [td_api::Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html) > | [function](https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html#a77f036373636e74bfa54fa5155b4fe76) |
 |  | |
 
 ## Member Data Documentation
@@ -20,7 +20,7 @@ A request to the TDLib.
 
 |  |
 | --- |
-| std::uint64\_t id |
+| std::uint64_t id |
 
 [Request](https://core.telegram.org/tdlib/docs/structtd_1_1_client_1_1_request.html) identifier. Responses to TDLib requests will have the same id as the corresponding request. Updates from TDLib will have id == 0, incoming requests are thus disallowed to have id == 0.
 
@@ -28,7 +28,7 @@ A request to the TDLib.
 
 |  |
 | --- |
-| [td\_api::object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)<[td\_api::Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html)> function |
+| [td_api::object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)<[td_api::Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html)> function |
 
 TDLib API function representing a request to TDLib.
 

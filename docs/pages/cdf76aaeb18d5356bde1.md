@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.paymentForm
 
 Payment form
 
-* [Layer 223](https://core.telegram.org/constructor/payments.paymentForm#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.paymentForm) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.paymentForm?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.paymentForm?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.paymentForm?layer=3)
@@ -129,21 +129,21 @@ payments.paymentForm#a0058751 flags:# can_save_credentials:flags.2?true password
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **can\_save\_credentials** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether the user can choose to save credentials. |
-| **password\_missing** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | Indicates that the user can save payment credentials, but only after setting up a [2FA password](https://core.telegram.org/api/srp) (currently the account doesn't have a [2FA password](https://core.telegram.org/api/srp)) |
-| **form\_id** | [long](https://core.telegram.org/type/long) | Form ID |
-| **bot\_id** | [long](https://core.telegram.org/type/long) | Bot ID |
+| **can_save_credentials** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[true](https://core.telegram.org/constructor/true) | Whether the user can choose to save credentials. |
+| **password_missing** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).3?[true](https://core.telegram.org/constructor/true) | Indicates that the user can save payment credentials, but only after setting up a [2FA password](https://core.telegram.org/api/srp) (currently the account doesn't have a [2FA password](https://core.telegram.org/api/srp)) |
+| **form_id** | [long](https://core.telegram.org/type/long) | Form ID |
+| **bot_id** | [long](https://core.telegram.org/type/long) | Bot ID |
 | **title** | [string](https://core.telegram.org/type/string) | Form title |
 | **description** | [string](https://core.telegram.org/type/string) | Description |
 | **photo** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).5?[WebDocument](https://core.telegram.org/type/WebDocument) | Product photo |
 | **invoice** | [Invoice](https://core.telegram.org/type/Invoice) | Invoice |
-| **provider\_id** | [long](https://core.telegram.org/type/long) | Payment provider ID. |
+| **provider_id** | [long](https://core.telegram.org/type/long) | Payment provider ID. |
 | **url** | [string](https://core.telegram.org/type/string) | Payment form URL |
-| **native\_provider** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | Payment provider name. One of the following: - `stripe` |
-| **native\_params** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[DataJSON](https://core.telegram.org/type/DataJSON) | Contains information about the payment provider, if available, to support it natively without the need for opening the URL. A JSON object that can contain the following fields:  - `apple_pay_merchant_id`: Apple Pay merchant ID - `google_pay_public_key`: Google Pay public key - `need_country`: True, if the user country must be provided, - `need_zip`: True, if the user ZIP/postal code must be provided, - `need_cardholder_name`: True, if the cardholder name must be provided |
-| **additional\_methods** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[Vector](https://core.telegram.org/type/Vector%20t)<[PaymentFormMethod](https://core.telegram.org/type/PaymentFormMethod)> | Additional payment methods |
-| **saved\_info** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[PaymentRequestedInfo](https://core.telegram.org/type/PaymentRequestedInfo) | Saved server-side order information |
-| **saved\_credentials** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[PaymentSavedCredentials](https://core.telegram.org/type/PaymentSavedCredentials)> | Contains information about saved card credentials |
+| **native_provider** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[string](https://core.telegram.org/type/string) | Payment provider name. One of the following: - `stripe` |
+| **native_params** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).4?[DataJSON](https://core.telegram.org/type/DataJSON) | Contains information about the payment provider, if available, to support it natively without the need for opening the URL. A JSON object that can contain the following fields:  - `apple_pay_merchant_id`: Apple Pay merchant ID - `google_pay_public_key`: Google Pay public key - `need_country`: True, if the user country must be provided, - `need_zip`: True, if the user ZIP/postal code must be provided, - `need_cardholder_name`: True, if the cardholder name must be provided |
+| **additional_methods** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).6?[Vector](https://core.telegram.org/type/Vector%20t)<[PaymentFormMethod](https://core.telegram.org/type/PaymentFormMethod)> | Additional payment methods |
+| **saved_info** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[PaymentRequestedInfo](https://core.telegram.org/type/PaymentRequestedInfo) | Saved server-side order information |
+| **saved_credentials** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).1?[Vector](https://core.telegram.org/type/Vector%20t)<[PaymentSavedCredentials](https://core.telegram.org/type/PaymentSavedCredentials)> | Contains information about saved card credentials |
 | **users** | [Vector](https://core.telegram.org/type/Vector%20t)<[User](https://core.telegram.org/type/User)> | Users |
 
 ### Type

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGi
 
 Describes all the gifts that the current user won in an [auction](https://core.telegram.org/api/auctions).
 
-* [Layer 223](https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGifts#) 
+* [Layer 223](https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGifts) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGifts?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGifts?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.starGiftAuctionAcquiredGifts?layer=3)

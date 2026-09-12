@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/channels.editLocation
 
 Edit location of geogroup, see [here »](https://core.telegram.org/api/nearby) for more info on geogroups.
 
-* [Layer 223](https://core.telegram.org/method/channels.editLocation#) 
+* [Layer 223](https://core.telegram.org/method/channels.editLocation) 
   + [1 – Base layer](https://core.telegram.org/method/channels.editLocation?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.editLocation?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.editLocation?layer=3)
@@ -132,7 +132,7 @@ channels.editLocation#58e63f6d channel:InputChannel geo_point:InputGeoPoint addr
 | Name | Type | Description |
 | --- | --- | --- |
 | **channel** | [InputChannel](https://core.telegram.org/type/InputChannel) | [Geogroup](https://core.telegram.org/api/channel) |
-| **geo\_point** | [InputGeoPoint](https://core.telegram.org/type/InputGeoPoint) | New geolocation |
+| **geo_point** | [InputGeoPoint](https://core.telegram.org/type/InputGeoPoint) | New geolocation |
 | **address** | [string](https://core.telegram.org/type/string) | Address string |
 
 ### Result
@@ -145,11 +145,11 @@ channels.editLocation#58e63f6d channel:InputChannel geo_point:InputGeoPoint addr
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | CHAT\_NOT\_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
-| 400 | MEGAGROUP\_GEO\_REQUIRED | This method can only be invoked on a geogroup. |
-| 400 | MEGAGROUP\_REQUIRED | You can only use this method on a supergroup. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | CHAT_NOT_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
+| 400 | MEGAGROUP_GEO_REQUIRED | This method can only be invoked on a geogroup. |
+| 400 | MEGAGROUP_REQUIRED | You can only use this method on a supergroup. |
 
 ### Related pages
 

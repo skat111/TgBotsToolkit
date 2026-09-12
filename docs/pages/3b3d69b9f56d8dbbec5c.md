@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/cdnConfig
 
 Configuration for [CDN](https://core.telegram.org/cdn) file downloads.
 
-* [Layer 223](https://core.telegram.org/constructor/cdnConfig#) 
+* [Layer 223](https://core.telegram.org/constructor/cdnConfig) 
   + [1 – Base layer](https://core.telegram.org/constructor/cdnConfig?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/cdnConfig?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/cdnConfig?layer=3)
@@ -128,7 +128,7 @@ cdnConfig#5725e40a public_keys:Vector<CdnPublicKey> = CdnConfig;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **public\_keys** | [Vector](https://core.telegram.org/type/Vector%20t)<[CdnPublicKey](https://core.telegram.org/type/CdnPublicKey)> | Vector of public keys to use **only** during handshakes to [CDN](https://core.telegram.org/cdn) DCs. |
+| **public_keys** | [Vector](https://core.telegram.org/type/Vector%20t)<[CdnPublicKey](https://core.telegram.org/type/CdnPublicKey)> | Vector of public keys to use **only** during handshakes to [CDN](https://core.telegram.org/cdn) DCs. |
 
 ### Type
 

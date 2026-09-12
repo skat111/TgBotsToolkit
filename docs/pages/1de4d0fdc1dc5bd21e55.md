@@ -2,9 +2,9 @@
 
 Source: https://core.telegram.org/method/messages.reportMessagesDelivery
 
-Used for [Telegram Gateway verification messages »](https://telegram.org/blog/star-messages-gateway-2-0-and-more#save-even-more-on-user-verification): indicate to the server that one or more [message](https://core.telegram.org/constructor/message)s were received by the client, if requested by the [message](https://core.telegram.org/constructor/message).**report\_delivery\_until\_date** flag or the equivalent flag in [push notifications](https://core.telegram.org/api/push-updates).
+Used for [Telegram Gateway verification messages »](https://telegram.org/blog/star-messages-gateway-2-0-and-more#save-even-more-on-user-verification): indicate to the server that one or more [message](https://core.telegram.org/constructor/message)s were received by the client, if requested by the [message](https://core.telegram.org/constructor/message).**report_delivery_until_date** flag or the equivalent flag in [push notifications](https://core.telegram.org/api/push-updates).
 
-* [Layer 223](https://core.telegram.org/method/messages.reportMessagesDelivery#) 
+* [Layer 223](https://core.telegram.org/method/messages.reportMessagesDelivery) 
   + [1 – Base layer](https://core.telegram.org/method/messages.reportMessagesDelivery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.reportMessagesDelivery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.reportMessagesDelivery?layer=3)
@@ -146,7 +146,7 @@ messages.reportMessagesDelivery#5a6d7395 flags:# push:flags.0?true peer:InputPee
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
 
 ### Related pages
 

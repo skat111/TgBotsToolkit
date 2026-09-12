@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/phone.declineConferenceCallInvite
 
 Decline a [conference call](https://core.telegram.org/api/group-calls#conference-calls) invite.
 
-* [Layer 223](https://core.telegram.org/method/phone.declineConferenceCallInvite#) 
+* [Layer 223](https://core.telegram.org/method/phone.declineConferenceCallInvite) 
   + [1 – Base layer](https://core.telegram.org/method/phone.declineConferenceCallInvite?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/phone.declineConferenceCallInvite?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.declineConferenceCallInvite?layer=3)
@@ -136,7 +136,7 @@ phone.declineConferenceCallInvite#3c479971 msg_id:int = Updates;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **msg\_id** | [int](https://core.telegram.org/type/int) | The ID of the [messageActionConferenceCall](https://core.telegram.org/constructor/messageActionConferenceCall) to decline. |
+| **msg_id** | [int](https://core.telegram.org/type/int) | The ID of the [messageActionConferenceCall](https://core.telegram.org/constructor/messageActionConferenceCall) to decline. |
 
 ### Result
 
@@ -148,7 +148,7 @@ phone.declineConferenceCallInvite#3c479971 msg_id:int = Updates;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | MESSAGE\_ID\_INVALID | The provided message id is invalid. |
+| 400 | MESSAGE_ID_INVALID | The provided message id is invalid. |
 
 ### Related pages
 
@@ -156,7 +156,7 @@ phone.declineConferenceCallInvite#3c479971 msg_id:int = Updates;
 
 Represents a [conference call »](https://core.telegram.org/api/group-calls#conference-calls), or an invitation to one if neither the `missed` nor `active` flags are set.
 
-If [call\_requests\_disabled](https://core.telegram.org/api/config#call-requests-disabled) is not set or false, an incoming [messageActionConferenceCall](https://core.telegram.org/constructor/messageActionConferenceCall) with the `missed` and `active` flags **not** set should trigger ringing and an incoming call screen, just like for one-on-one calls.
+If [call_requests_disabled](https://core.telegram.org/api/config#call-requests-disabled) is not set or false, an incoming [messageActionConferenceCall](https://core.telegram.org/constructor/messageActionConferenceCall) with the `missed` and `active` flags **not** set should trigger ringing and an incoming call screen, just like for one-on-one calls.
 
 #### [Group calls](https://core.telegram.org/api/group-calls)
 

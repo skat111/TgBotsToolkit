@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/foundStory
 
 A story found using [global story search »](https://core.telegram.org/api/stories#searching-stories).
 
-* [Layer 223](https://core.telegram.org/constructor/foundStory#) 
+* [Layer 223](https://core.telegram.org/constructor/foundStory) 
   + [1 – Base layer](https://core.telegram.org/constructor/foundStory?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/foundStory?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/foundStory?layer=3)

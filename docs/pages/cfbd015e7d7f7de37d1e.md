@@ -11,7 +11,7 @@ An area pointing to a HTTP or tg:// link.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [url\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a541e0f072a74af71d6978eea722fc5fe) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [url_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a541e0f072a74af71d6978eea722fc5fe) |
 |  | HTTP or tg:// URL to be opened when the area is clicked. |
 |  | |
 
@@ -20,9 +20,9 @@ An area pointing to a HTTP or tg:// link.
 | Public Instance Methods | |
 |  | [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a6e0873704df5541018bc22888363b9ef) () |
 |  | |
-|  | [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a499681affd41f7279f8c251fe9afdb0e) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[url\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a541e0f072a74af71d6978eea722fc5fe)) |
+|  | [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a499681affd41f7279f8c251fe9afdb0e) ([string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[url_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a541e0f072a74af71d6978eea722fc5fe)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ An area pointing to a HTTP or tg:// link.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1408441160 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1408441160 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -63,14 +63,14 @@ An area pointing to a HTTP or tg:// link.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *url\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [inputStoryAreaTypeLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1input_story_area_type_link.html) | ( | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *url_* | ) |  | | explicit |
 
 An area pointing to a HTTP or tg:// link.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | url\_ | HTTP or tg:// URL to be opened when the area is clicked. |
+    | [in] | url_ | HTTP or tg:// URL to be opened when the area is clicked. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

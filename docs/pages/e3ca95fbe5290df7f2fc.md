@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/InputChatlist
 
 Represents a folder
 
-* [Layer 223](https://core.telegram.org/type/InputChatlist#) 
+* [Layer 223](https://core.telegram.org/type/InputChatlist) 
   + [1 – Base layer](https://core.telegram.org/type/InputChatlist?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/InputChatlist?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/InputChatlist?layer=3)

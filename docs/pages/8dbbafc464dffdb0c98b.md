@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputPeerPhotoFileLocation
 
 Location of profile photo of channel/group/supergroup/user
 
-* [Layer 223](https://core.telegram.org/constructor/inputPeerPhotoFileLocation#) 
+* [Layer 223](https://core.telegram.org/constructor/inputPeerPhotoFileLocation) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputPeerPhotoFileLocation?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputPeerPhotoFileLocation?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputPeerPhotoFileLocation?layer=3)
@@ -131,7 +131,7 @@ inputPeerPhotoFileLocation#37257e99 flags:# big:flags.0?true peer:InputPeer phot
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **big** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether to download the high-quality version of the picture |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | The peer whose profile picture should be downloaded |
-| **photo\_id** | [long](https://core.telegram.org/type/long) | Photo ID |
+| **photo_id** | [long](https://core.telegram.org/type/long) | Photo ID |
 
 ### Type
 

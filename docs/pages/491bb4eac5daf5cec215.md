@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/contacts.setBlocked
 
 Replace the contents of an entire [blocklist, see here for more info »](https://core.telegram.org/api/block).
 
-* [Layer 223](https://core.telegram.org/method/contacts.setBlocked#) 
+* [Layer 223](https://core.telegram.org/method/contacts.setBlocked) 
   + [1 – Base layer](https://core.telegram.org/method/contacts.setBlocked?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/contacts.setBlocked?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/contacts.setBlocked?layer=3)
@@ -132,7 +132,7 @@ contacts.setBlocked#94c65c76 flags:# my_stories_from:flags.0?true id:Vector<Inpu
 | Name | Type | Description |
 | --- | --- | --- |
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
-| **my\_stories\_from** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether to edit the story blocklist; if not set, will edit the main blocklist. See [here »](https://core.telegram.org/api/block) for differences between the two. |
+| **my_stories_from** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).0?[true](https://core.telegram.org/constructor/true) | Whether to edit the story blocklist; if not set, will edit the main blocklist. See [here »](https://core.telegram.org/api/block) for differences between the two. |
 | **id** | [Vector](https://core.telegram.org/type/Vector%20t)<[InputPeer](https://core.telegram.org/type/InputPeer)> | Full content of the blocklist. |
 | **limit** | [int](https://core.telegram.org/type/int) | Maximum number of results to return, [see pagination](https://core.telegram.org/api/offsets) |
 

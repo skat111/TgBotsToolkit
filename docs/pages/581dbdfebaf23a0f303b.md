@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice
 
 An invoice
 
-* [Layer 223](https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice#) 
+* [Layer 223](https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputBotInlineMessageMediaInvoice?layer=3)
@@ -135,8 +135,8 @@ inputBotInlineMessageMediaInvoice#d7e78225 flags:# title:string description:stri
 | **invoice** | [Invoice](https://core.telegram.org/type/Invoice) | The invoice |
 | **payload** | [bytes](https://core.telegram.org/type/bytes) | Bot-defined invoice payload, 1-128 bytes. This will not be displayed to the user, use for your internal processes. |
 | **provider** | [string](https://core.telegram.org/type/string) | Payments provider token, obtained via [Botfather](https://t.me/botfather) |
-| **provider\_data** | [DataJSON](https://core.telegram.org/type/DataJSON) | A JSON-serialized object for data about the invoice, which will be shared with the payment provider. A detailed description of the required fields should be provided by the payment provider. |
-| **reply\_markup** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[ReplyMarkup](https://core.telegram.org/type/ReplyMarkup) | Inline keyboard |
+| **provider_data** | [DataJSON](https://core.telegram.org/type/DataJSON) | A JSON-serialized object for data about the invoice, which will be shared with the payment provider. A detailed description of the required fields should be provided by the payment provider. |
+| **reply_markup** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).2?[ReplyMarkup](https://core.telegram.org/type/ReplyMarkup) | Inline keyboard |
 
 ### Type
 

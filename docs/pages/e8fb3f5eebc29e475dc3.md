@@ -140,7 +140,7 @@ The constructor accepts the following parameters:
 
 * `peer`: Identifier of the user or channel (only if [channelFull](https://core.telegram.org/constructor/channelFull).`stargifts_available` is set) that will receive the gift
 * `gift_id`: Identifier of the gift, from [starGift](https://core.telegram.org/constructor/starGift).`id`
-* `message`: Optional message that will be attached with the gift if we end up winning this round: the maximum length for this field is specified in the [stargifts\_message\_length\_max client configuration value »](https://core.telegram.org/api/config#stargifts-message-length-max).  
+* `message`: Optional message that will be attached with the gift if we end up winning this round: the maximum length for this field is specified in the [stargifts_message_length_max client configuration value »](https://core.telegram.org/api/config#stargifts-message-length-max).  
   Must not be set when updating an existing bid, as the value cannot be changed for existing bids.
 * `hide_name`: If set, your name will be hidden if the destination peer decides to display the gift on their profile (they will still see that you sent the gift).  
   Must not be set when updating an existing bid, as the value cannot be changed for existing bids.

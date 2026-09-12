@@ -11,10 +11,10 @@ A file was removed from the file download list. This update is sent only after f
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [file\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac1aebf3d9d209699b87093ecff110b52) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [file_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac1aebf3d9d209699b87093ecff110b52) |
 |  | File identifier. |
 |  | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > | [counts\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a41111a1663d7a262dff0affb18b265fb) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > | [counts_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a41111a1663d7a262dff0affb18b265fb) |
 |  | New number of being downloaded and recently downloaded files found. |
 |  | |
 
@@ -23,9 +23,9 @@ A file was removed from the file download list. This update is sent only after f
 | Public Instance Methods | |
 |  | [updateFileRemovedFromDownloads](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a0b00c7f2cd01286819eabe395582864a) () |
 |  | |
-|  | [updateFileRemovedFromDownloads](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ace691dfd55dcce88b52814985d464589) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [file\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac1aebf3d9d209699b87093ecff110b52), [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > &&[counts\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a41111a1663d7a262dff0affb18b265fb)) |
+|  | [updateFileRemovedFromDownloads](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ace691dfd55dcce88b52814985d464589) ([int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [file_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac1aebf3d9d209699b87093ecff110b52), [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > &&[counts_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a41111a1663d7a262dff0affb18b265fb)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ A file was removed from the file download list. This update is sent only after f
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1853625576 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = 1853625576 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ A file was removed from the file download list. This update is sent only after f
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [updateFileRemovedFromDownloads](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *file\_id\_*, |
-|  |  | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > && | *counts\_* |
+| [updateFileRemovedFromDownloads](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_file_removed_from_downloads.html) | ( | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *file_id_*, |
+|  |  | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [downloadedFileCounts](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1downloaded_file_counts.html) > && | *counts_* |
 |  | ) |  |  |
 
 A file was removed from the file download list. This update is sent only after file download list is loaded for the first time.
@@ -75,8 +75,8 @@ A file was removed from the file download list. This update is sent only after f
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | file\_id\_ | File identifier. |
-    | [in] | counts\_ | New number of being downloaded and recently downloaded files found. |
+    | [in] | file_id_ | File identifier. |
+    | [in] | counts_ | New number of being downloaded and recently downloaded files found. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

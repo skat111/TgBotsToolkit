@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/users.UserFull
 
 Full user information, with attached context peers for reactions
 
-* [Layer 223](https://core.telegram.org/type/users.UserFull#) 
+* [Layer 223](https://core.telegram.org/type/users.UserFull) 
   + [1 – Base layer](https://core.telegram.org/type/users.UserFull?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/users.UserFull?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/users.UserFull?layer=3)

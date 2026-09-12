@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputEncryptedFileEmpty
 
 Empty constructor.
 
-* [Layer 223](https://core.telegram.org/constructor/inputEncryptedFileEmpty#) 
+* [Layer 223](https://core.telegram.org/constructor/inputEncryptedFileEmpty) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputEncryptedFileEmpty?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputEncryptedFileEmpty?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputEncryptedFileEmpty?layer=3)

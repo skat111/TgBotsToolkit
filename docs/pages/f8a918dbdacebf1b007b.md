@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.getAttachedStickers
 
 Get stickers attached to a photo or video
 
-* [Layer 223](https://core.telegram.org/method/messages.getAttachedStickers#) 
+* [Layer 223](https://core.telegram.org/method/messages.getAttachedStickers) 
   + [1 – Base layer](https://core.telegram.org/method/messages.getAttachedStickers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.getAttachedStickers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.getAttachedStickers?layer=3)
@@ -141,4 +141,4 @@ messages.getAttachedStickers#cc5b67cc media:InputStickeredMedia = Vector<Sticker
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | MEDIA\_EMPTY | The provided media object is invalid. |
+| 400 | MEDIA_EMPTY | The provided media object is invalid. |

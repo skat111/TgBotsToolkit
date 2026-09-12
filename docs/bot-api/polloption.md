@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#polloption
-Snapshot: 2026-09-11T06:04:42Z
+Snapshot: 2026-09-12T07:57:24Z
 
 #### PollOption
 

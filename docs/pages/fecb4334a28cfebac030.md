@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/messages.editChatTitle
 
 Changes chat name and sends a service message on it.
 
-* [Layer 223](https://core.telegram.org/method/messages.editChatTitle#) 
+* [Layer 223](https://core.telegram.org/method/messages.editChatTitle) 
   + [1 – Base layer](https://core.telegram.org/method/messages.editChatTitle?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.editChatTitle?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.editChatTitle?layer=3)
@@ -136,7 +136,7 @@ messages.editChatTitle#73783ffd chat_id:long title:string = Updates;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **chat\_id** | [long](https://core.telegram.org/type/long) | Chat ID |
+| **chat_id** | [long](https://core.telegram.org/type/long) | Chat ID |
 | **title** | [string](https://core.telegram.org/type/string) | New chat name, different from the old one |
 
 ### Result
@@ -149,8 +149,8 @@ messages.editChatTitle#73783ffd chat_id:long title:string = Updates;
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHAT\_ADMIN\_REQUIRED | You must be an admin in this chat to do this. |
-| 400 | CHAT\_ID\_INVALID | The provided chat id is invalid. |
-| 400 | CHAT\_NOT\_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
-| 400 | CHAT\_TITLE\_EMPTY | No chat title provided. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
+| 400 | CHAT_ADMIN_REQUIRED | You must be an admin in this chat to do this. |
+| 400 | CHAT_ID_INVALID | The provided chat id is invalid. |
+| 400 | CHAT_NOT_MODIFIED | No changes were made to chat information because the new information you passed is identical to the current information. |
+| 400 | CHAT_TITLE_EMPTY | No chat title provided. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |

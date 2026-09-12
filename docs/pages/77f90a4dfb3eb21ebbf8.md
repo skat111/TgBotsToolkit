@@ -11,10 +11,10 @@ A story has been successfully posted.
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > | [story\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8bb52439c39d932213e25fa44068ac37) |
+| [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > | [story_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8bb52439c39d932213e25fa44068ac37) |
 |  | The posted story. |
 |  | |
-| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [old\_story\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a2b2596c86e87aa72a3019b070b955290) |
+| [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | [old_story_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a2b2596c86e87aa72a3019b070b955290) |
 |  | The previous temporary story identifier. |
 |  | |
 
@@ -23,9 +23,9 @@ A story has been successfully posted.
 | Public Instance Methods | |
 |  | [updateStoryPostSucceeded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#aaeed57c55277b3f06fa56f9d2aed0d42) () |
 |  | |
-|  | [updateStoryPostSucceeded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a650c8ef6b2ffca7d8e35a841e2741340) ([object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > &&[story\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8bb52439c39d932213e25fa44068ac37), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [old\_story\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a2b2596c86e87aa72a3019b070b955290)) |
+|  | [updateStoryPostSucceeded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a650c8ef6b2ffca7d8e35a841e2741340) ([object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > &&[story_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8bb52439c39d932213e25fa44068ac37), [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) [old_story_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a2b2596c86e87aa72a3019b070b955290)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -48,7 +48,7 @@ A story has been successfully posted.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1712432318 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -1712432318 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -66,8 +66,8 @@ A story has been successfully posted.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [updateStoryPostSucceeded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html) | ( | [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > && | *story\_*, |
-|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *old\_story\_id\_* |
+| [updateStoryPostSucceeded](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_story_post_succeeded.html) | ( | [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [story](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1story.html) > && | *story_*, |
+|  |  | [int32](https://core.telegram.org/tdlib/docs/td__api_8h.html#a3d594eb72953c94a18a03d929ebd9167) | *old_story_id_* |
 |  | ) |  |  |
 
 A story has been successfully posted.
@@ -75,8 +75,8 @@ A story has been successfully posted.
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | story\_ | The posted story. |
-    | [in] | old\_story\_id\_ | The previous temporary story identifier. |
+    | [in] | story_ | The posted story. |
+    | [in] | old_story_id_ | The previous temporary story identifier. |
 
 ## Method Documentation
 
@@ -84,15 +84,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -100,4 +100,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/InputUser
 
 Defines a user for subsequent interaction.
 
-* [Layer 223](https://core.telegram.org/type/InputUser#) 
+* [Layer 223](https://core.telegram.org/type/InputUser) 
   + [1 – Base layer](https://core.telegram.org/type/InputUser?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/InputUser?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/InputUser?layer=3)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/help.peerColorProfileSet
 
 Represents a [color palette that can be used in profile pages »](https://core.telegram.org/api/colors).
 
-* [Layer 223](https://core.telegram.org/constructor/help.peerColorProfileSet#) 
+* [Layer 223](https://core.telegram.org/constructor/help.peerColorProfileSet) 
   + [1 – Base layer](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=3)
@@ -128,9 +128,9 @@ help.peerColorProfileSet#767d61eb palette_colors:Vector<int> bg_colors:Vector<in
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **palette\_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 1-2 colors in RGB format, shown in the color palette settings to describe the current palette. |
-| **bg\_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 1-2 colors in RGB format describing the colors used to generate the actual background used in the profile page. |
-| **story\_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 2 colors in RGB format describing the colors of the gradient used for the unread active story indicator around the profile photo. |
+| **palette_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 1-2 colors in RGB format, shown in the color palette settings to describe the current palette. |
+| **bg_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 1-2 colors in RGB format describing the colors used to generate the actual background used in the profile page. |
+| **story_colors** | [Vector](https://core.telegram.org/type/Vector%20t)<[int](https://core.telegram.org/type/int)> | A list of 2 colors in RGB format describing the colors of the gradient used for the unread active story indicator around the profile photo. |
 
 ### Type
 

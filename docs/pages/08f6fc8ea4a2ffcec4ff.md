@@ -6,13 +6,13 @@ Inherits [ChatEventAction](https://core.telegram.org/tdlib/docs/classtd_1_1td__a
 
 ## Description
 
-The has\_protected\_content setting of a channel was toggled.
+The has_protected_content setting of a channel was toggled.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| bool | [has\_protected\_content\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a465fc0c2c21a5ef1a2de8916d0f4176c) |
-|  | New value of has\_protected\_content. |
+| bool | [has_protected_content_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a465fc0c2c21a5ef1a2de8916d0f4176c) |
+|  | New value of has_protected_content. |
 |  | |
 
 |  |  |
@@ -20,9 +20,9 @@ The has\_protected\_content setting of a channel was toggled.
 | Public Instance Methods | |
 |  | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#ac1c011c3ba66d7b4cffed4a3ab30edc8) () |
 |  | |
-|  | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a5568119cd50e335e5f74ae1a265fcf0a) (bool [has\_protected\_content\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a465fc0c2c21a5ef1a2de8916d0f4176c)) |
+|  | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a5568119cd50e335e5f74ae1a265fcf0a) (bool [has_protected_content_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a465fc0c2c21a5ef1a2de8916d0f4176c)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -45,7 +45,7 @@ The has\_protected\_content setting of a channel was toggled.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -184270335 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -184270335 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -57,20 +57,20 @@ The has\_protected\_content setting of a channel was toggled.
 | --- | --- | --- | --- | --- |
 | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html) | ( |  | ) |  |
 
-The has\_protected\_content setting of a channel was toggled.
+The has_protected_content setting of a channel was toggled.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html#a5568119cd50e335e5f74ae1a265fcf0a)chatEventHasProtectedContentToggled() [2/2]
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html) | ( | bool | *has\_protected\_content\_* | ) |  | | explicit |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | [chatEventHasProtectedContentToggled](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_event_has_protected_content_toggled.html) | ( | bool | *has_protected_content_* | ) |  | | explicit |
 
-The has\_protected\_content setting of a channel was toggled.
+The has_protected_content setting of a channel was toggled.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | has\_protected\_content\_ | New value of has\_protected\_content. |
+    | [in] | has_protected_content_ | New value of has_protected_content. |
 
 ## Method Documentation
 
@@ -78,15 +78,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -94,4 +94,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

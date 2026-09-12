@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionCreateTo
 
 A [forum topic](https://core.telegram.org/api/forum#forum-topics) was created
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=3)

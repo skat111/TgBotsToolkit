@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/auth.loginTokenMigrateTo
 
 Repeat the query to the specified DC
 
-* [Layer 223](https://core.telegram.org/constructor/auth.loginTokenMigrateTo#) 
+* [Layer 223](https://core.telegram.org/constructor/auth.loginTokenMigrateTo) 
   + [1 – Base layer](https://core.telegram.org/constructor/auth.loginTokenMigrateTo?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/auth.loginTokenMigrateTo?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/auth.loginTokenMigrateTo?layer=3)
@@ -128,7 +128,7 @@ auth.loginTokenMigrateTo#68e9916 dc_id:int token:bytes = auth.LoginToken;
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **dc\_id** | [int](https://core.telegram.org/type/int) | DC ID |
+| **dc_id** | [int](https://core.telegram.org/type/int) | DC ID |
 | **token** | [bytes](https://core.telegram.org/type/bytes) | Token to use for login |
 
 ### Type

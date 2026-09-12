@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/messages.MessageViews
 
 View, forward counter + info about replies
 
-* [Layer 223](https://core.telegram.org/type/messages.MessageViews#) 
+* [Layer 223](https://core.telegram.org/type/messages.MessageViews) 
   + [1 – Base layer](https://core.telegram.org/type/messages.MessageViews?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/messages.MessageViews?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/messages.MessageViews?layer=3)

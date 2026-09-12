@@ -6,7 +6,7 @@ Button that links directly to a user profile
 
 Use this constructor to send a [keyboardButtonUserProfile](https://core.telegram.org/constructor/keyboardButtonUserProfile) button in an [inline keyboard](https://core.telegram.org/bots/features#inline-keyboards).
 
-* [Layer 223](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile#) 
+* [Layer 223](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputKeyboardButtonUserProfile?layer=3)
@@ -133,7 +133,7 @@ inputKeyboardButtonUserProfile#7d5e07c7 flags:# style:flags.10?KeyboardButtonSty
 | **flags** | [#](https://core.telegram.org/type/%23) | Flags, see [TL conditional fields](https://core.telegram.org/mtproto/TL-combinators#conditional-fields) |
 | **style** | [flags](https://core.telegram.org/mtproto/TL-combinators#conditional-fields).10?[KeyboardButtonStyle](https://core.telegram.org/type/KeyboardButtonStyle) | Button style, see [here »](https://core.telegram.org/api/bots/buttons#button-styles) for more info on button styles. |
 | **text** | [string](https://core.telegram.org/type/string) | Button text |
-| **user\_id** | [InputUser](https://core.telegram.org/type/InputUser) | User ID |
+| **user_id** | [InputUser](https://core.telegram.org/type/InputUser) | User ID |
 
 ### Type
 

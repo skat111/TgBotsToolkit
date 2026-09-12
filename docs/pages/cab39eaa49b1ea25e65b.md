@@ -29,13 +29,13 @@ When invoking [bots.updateStarRefProgram](https://core.telegram.org/method/bots.
 
 * The `bot` parameter must contain the ID of the bot that owns the [mini app](https://core.telegram.org/api/bots/webapps).
 * The `commission_permille` parameter specifies the permille commission rate: it indicates the share of Telegram Stars received by affiliates for every transaction made by users they referred inside of the mini app.  
-  The minimum and maximum values for this parameter are contained in the [starref\_min\_commission\_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref\_max\_commission\_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters.
+  The minimum and maximum values for this parameter are contained in the [starref_min_commission_permille](https://core.telegram.org/api/config#starref-min-commission-permille) and [starref_max_commission_permille](https://core.telegram.org/api/config#starref-max-commission-permille) client configuration parameters.
 * The `duration_months` can be optionally populated, indicating the duration of the affiliate program; if not set, there is no expiration date.
 
 Both the duration and the commission may only be raised after creation of the program: to lower them, the program must first be terminated and a new one created.
 
 To end an affiliate program, pass `0` to `commission_permille`: around 24 hours after invoking the method (specifically, exactly at the time specified in [userFull](https://core.telegram.org/constructor/userFull).`starref_program`.`end_date`), the program will be terminated, invalidating all [created affiliate links](https://core.telegram.org/api/bots/referrals#becoming-an-affiliate).  
-A new affiliate program can only be created after termination of the current one (after [userFull](https://core.telegram.org/constructor/userFull).`starref_program`.`end_date`); invoking the method before the end\_date will emit a `STARREF_AWAITING_END` RPC error.  
+A new affiliate program can only be created after termination of the current one (after [userFull](https://core.telegram.org/constructor/userFull).`starref_program`.`end_date`); invoking the method before the end_date will emit a `STARREF_AWAITING_END` RPC error.  
 Note that after termination, affiliates will still retain all commissions they earned before the program was terminated. Additionally, future purchases by users who were referred by affiliates that joined while the program was active will continue generating commissions for those affiliates until their originally specified commission period has elapsed.
 
 If a bot has an active affiliate program, the [userFull](https://core.telegram.org/constructor/userFull).`starref_program` flag will be set, containing info about the referral program.  

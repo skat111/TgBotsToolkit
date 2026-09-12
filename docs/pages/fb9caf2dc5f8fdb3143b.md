@@ -6,24 +6,24 @@ Inherits [Function](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_
 
 ## Description
 
-Returns information about an invite link. Requires administrator privileges and can\_invite\_users right in the chat to get own links and owner privileges to get other links.
+Returns information about an invite link. Requires administrator privileges and can_invite_users right in the chat to get own links and owner privileges to get other links.
 
-Returns object\_ptr<ChatInviteLink>.
+Returns object_ptr<ChatInviteLink>.
 
 |  |  |
 | --- | --- |
 | Public Fields | |
-| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#aa8a7803161092ff97e60d58707199e1f) |
+| [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#aa8a7803161092ff97e60d58707199e1f) |
 |  | Chat identifier. |
 |  | |
-| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [invite\_link\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8837b4bdc197c673d1ea9b7b36ac105b) |
+| [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) | [invite_link_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8837b4bdc197c673d1ea9b7b36ac105b) |
 |  | Invite link to get. |
 |  | |
 
 |  |  |
 | --- | --- |
 | Public Types | |
-| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a814a0cce63e6f7ad2c43aae0296081a5) = [object\_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link.html) > |
+| using | [ReturnType](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a814a0cce63e6f7ad2c43aae0296081a5) = [object_ptr](https://core.telegram.org/tdlib/docs/td__api_8h.html#a7b249263de52128c32781ba0e713b556)< [chatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_invite_link.html) > |
 |  | Typedef for the type returned by the function. |
 |  | |
 
@@ -32,9 +32,9 @@ Returns object\_ptr<ChatInviteLink>.
 | Public Instance Methods | |
 |  | [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a7744f2ce684601dee48a9f6852e91c72) () |
 |  | |
-|  | [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a9e3b27a7d05c5862dafb6a17c8b91be5) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat\_id\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#aa8a7803161092ff97e60d58707199e1f), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[invite\_link\_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8837b4bdc197c673d1ea9b7b36ac105b)) |
+|  | [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a9e3b27a7d05c5862dafb6a17c8b91be5) ([int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) [chat_id_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#aa8a7803161092ff97e60d58707199e1f), [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const &[invite_link_](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8837b4bdc197c673d1ea9b7b36ac105b)) |
 |  | |
-| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field\_name) const final |
+| void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a8044dab2ba3c75066745014259c050c7) (TlStorerToString &s, const char \*field_name) const final |
 |  | |
 | - Public Instance Methods inherited from [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html) | |
 | virtual void | [store](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#aed3fac8962d039b3c4827cd013ba8050) (TlStorerUnsafe &s) const |
@@ -57,7 +57,7 @@ Returns object\_ptr<ChatInviteLink>.
 |  |  |
 | --- | --- |
 | Static Public Attributes | |
-| static const std::int32\_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -479575555 |
+| static const std::int32_t | [ID](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#ac8ca971fe7ed0677d67b1507df9bcc5f) = -479575555 |
 |  | Identifier uniquely determining a type of the object. |
 |  | |
 
@@ -69,27 +69,27 @@ Returns object\_ptr<ChatInviteLink>.
 | --- | --- | --- | --- | --- |
 | [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html) | ( |  | ) |  |
 
-Default constructor for a function, which returns information about an invite link. Requires administrator privileges and can\_invite\_users right in the chat to get own links and owner privileges to get other links.
+Default constructor for a function, which returns information about an invite link. Requires administrator privileges and can_invite_users right in the chat to get own links and owner privileges to get other links.
 
-Returns object\_ptr<ChatInviteLink>.
+Returns object_ptr<ChatInviteLink>.
 
 ## [◆](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html#a9e3b27a7d05c5862dafb6a17c8b91be5)getChatInviteLink() [2/2]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat\_id\_*, |
-|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *invite\_link\_* |
+| [getChatInviteLink](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1get_chat_invite_link.html) | ( | [int53](https://core.telegram.org/tdlib/docs/td__api_8h.html#a6f57ab89c6371535f0fb7fec2d770126) | *chat_id_*, |
+|  |  | [string](https://core.telegram.org/tdlib/docs/td__api_8h.html#aca454f84dd198a937af6499dd758aa3d) const & | *invite_link_* |
 |  | ) |  |  |
 
-Creates a function, which returns information about an invite link. Requires administrator privileges and can\_invite\_users right in the chat to get own links and owner privileges to get other links.
+Creates a function, which returns information about an invite link. Requires administrator privileges and can_invite_users right in the chat to get own links and owner privileges to get other links.
 
-Returns object\_ptr<ChatInviteLink>.
+Returns object_ptr<ChatInviteLink>.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
-    | [in] | chat\_id\_ | Chat identifier. |
-    | [in] | invite\_link\_ | Invite link to get. |
+    | [in] | chat_id_ | Chat identifier. |
+    | [in] | invite_link_ | Invite link to get. |
 
 ## Method Documentation
 
@@ -97,15 +97,15 @@ Parameters
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field\_name* | |  | ) |  | const | | finalvirtual |
+| |  |  |  |  | | --- | --- | --- | --- | | void store | ( | TlStorerToString & | *s*, | |  |  | const char \* | *field_name* | |  | ) |  | const | | finalvirtual |
 
-Helper function for to\_string method. Appends string representation of the object to the storer.
+Helper function for to_string method. Appends string representation of the object to the storer.
 
 Parameters
 :   |  |  |  |
     | --- | --- | --- |
     | [in] | s | Storer to which object string representation will be appended. |
-    | [in] | field\_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field\_name if applicable. |
+    | [in] | field_name | [Object](https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_object.html) field_name if applicable. |
 
 Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object.html#a4f1eab7385f340a2ab0aa8751cdcedc6).
 
@@ -113,4 +113,4 @@ Implements [TlObject](https://core.telegram.org/tdlib/docs/classtd_1_1_tl_object
 
 The documentation for this class was generated from the following file:
 
-* td/generate/auto/td/telegram/[td\_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)
+* td/generate/auto/td/telegram/[td_api.h](https://core.telegram.org/tdlib/docs/td__api_8h_source.html)

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionToggleSi
 
 Channel signature profiles were enabled/disabled.
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles#) 
+* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionToggleSignatureProfiles?layer=3)
@@ -128,7 +128,7 @@ channelAdminLogEventActionToggleSignatureProfiles#60a79c79 new_value:Bool = Chan
 
 | Name | Type | Description |
 | --- | --- | --- |
-| **new\_value** | [Bool](https://core.telegram.org/type/Bool) | New value |
+| **new_value** | [Bool](https://core.telegram.org/type/Bool) | New value |
 
 ### Type
 

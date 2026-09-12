@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messages.recentStickers
 
 Recently used stickers
 
-* [Layer 223](https://core.telegram.org/constructor/messages.recentStickers#) 
+* [Layer 223](https://core.telegram.org/constructor/messages.recentStickers) 
   + [1 – Base layer](https://core.telegram.org/constructor/messages.recentStickers?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messages.recentStickers?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messages.recentStickers?layer=3)

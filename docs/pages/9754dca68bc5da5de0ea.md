@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stories.getPinnedStories
 
 Fetch the [stories](https://core.telegram.org/api/stories#pinned-or-archived-stories) pinned on a peer's profile.
 
-* [Layer 223](https://core.telegram.org/method/stories.getPinnedStories#) 
+* [Layer 223](https://core.telegram.org/method/stories.getPinnedStories) 
   + [1 – Base layer](https://core.telegram.org/method/stories.getPinnedStories?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stories.getPinnedStories?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stories.getPinnedStories?layer=3)
@@ -131,7 +131,7 @@ stories.getPinnedStories#5821a5dc peer:InputPeer offset_id:int limit:int = stori
 | Name | Type | Description |
 | --- | --- | --- |
 | **peer** | [InputPeer](https://core.telegram.org/type/InputPeer) | Peer whose pinned stories should be fetched |
-| **offset\_id** | [int](https://core.telegram.org/type/int) | [Offsets for pagination, for more info click here](https://core.telegram.org/api/offsets) |
+| **offset_id** | [int](https://core.telegram.org/type/int) | [Offsets for pagination, for more info click here](https://core.telegram.org/api/offsets) |
 | **limit** | [int](https://core.telegram.org/type/int) | Maximum number of results to return, [see pagination](https://core.telegram.org/api/offsets) |
 
 ### Result
@@ -144,9 +144,9 @@ stories.getPinnedStories#5821a5dc peer:InputPeer offset_id:int limit:int = stori
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
-| 400 | PEER\_ID\_INVALID | The provided peer id is invalid. |
-| 400 | USER\_ID\_INVALID | The provided user ID is invalid. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
+| 400 | PEER_ID_INVALID | The provided peer id is invalid. |
+| 400 | USER_ID_INVALID | The provided user ID is invalid. |
 
 ### Related pages
 

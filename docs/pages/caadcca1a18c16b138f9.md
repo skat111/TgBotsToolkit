@@ -6,7 +6,7 @@ Disable ads on the specified channel, for all users.
 
 Available only after reaching at least the [boost level »](https://core.telegram.org/api/boost) specified in the [`channel_restrict_sponsored_level_min` »](https://core.telegram.org/api/config#channel-restrict-sponsored-level-min) config parameter.
 
-* [Layer 223](https://core.telegram.org/method/channels.restrictSponsoredMessages#) 
+* [Layer 223](https://core.telegram.org/method/channels.restrictSponsoredMessages) 
   + [1 – Base layer](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=3)
@@ -151,7 +151,7 @@ channels.restrictSponsoredMessages#9ae91519 channel:InputChannel restricted:Bool
 
 | Code | Type | Description |
 | --- | --- | --- |
-| 400 | CHANNEL\_INVALID | The provided channel is invalid. |
+| 400 | CHANNEL_INVALID | The provided channel is invalid. |
 
 ### Related pages
 
