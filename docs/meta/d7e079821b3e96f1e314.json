@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.uninstallStickerSet",
   "final_url": "https://core.telegram.org/method/messages.uninstallStickerSet",
   "title": "messages.uninstallStickerSet",
-  "fetched_at": "2026-09-12T07:59:15Z",
+  "fetched_at": "2026-09-13T08:23:01Z",
   "sha256": "5d8da724031507dd31464899ce0a5797016a707e3fecca6cc6e5efdd20a041a4",
   "bytes": 14975,
   "content_type": "text/html; charset=utf-8",
