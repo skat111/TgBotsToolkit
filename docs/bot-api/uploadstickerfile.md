@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#uploadstickerfile
-Snapshot: 2026-09-15T08:44:15Z
+Snapshot: 2026-09-16T08:38:32Z
 
 #### uploadStickerFile
 

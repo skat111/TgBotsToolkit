@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/bots/payments/currencies.json",
   "final_url": "https://core.telegram.org/bots/payments/currencies.json",
   "title": "https://core.telegram.org/bots/payments/currencies.json",
-  "fetched_at": "2026-09-15T08:44:29Z",
+  "fetched_at": "2026-09-16T08:38:45Z",
   "sha256": "e10e6ea338de356639d29b4a280f2109a13db2a48bb20f8baa34e921f131f49c",
   "bytes": 21399,
   "content_type": "application/json; charset=utf-8",
