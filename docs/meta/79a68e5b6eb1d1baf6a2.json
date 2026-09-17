@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.searchCustomEmoji",
   "final_url": "https://core.telegram.org/method/messages.searchCustomEmoji",
   "title": "messages.searchCustomEmoji",
-  "fetched_at": "2026-09-16T08:40:36Z",
+  "fetched_at": "2026-09-17T08:43:53Z",
   "sha256": "7885303c52f8b4d45910ef12e108a406966f8d4819c28c81e97ba5c276854652",
   "bytes": 16071,
   "content_type": "text/html; charset=utf-8",

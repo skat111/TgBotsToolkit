@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/stats.getMessageStats",
   "final_url": "https://core.telegram.org/method/stats.getMessageStats",
   "title": "stats.getMessageStats",
-  "fetched_at": "2026-09-16T08:40:48Z",
+  "fetched_at": "2026-09-17T08:44:01Z",
   "sha256": "24d10d61c0d10c5a6aa32c7465fe22d474776ace52aee445c52f3ba90f73fcad",
   "bytes": 16396,
   "content_type": "text/html; charset=utf-8",

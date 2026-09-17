@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richblockvoicenote
-Snapshot: 2026-09-16T08:38:32Z
+Snapshot: 2026-09-17T08:42:18Z
 
 #### RichBlockVoiceNote
 
