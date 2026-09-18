@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/schema/mtproto-json",
   "final_url": "https://core.telegram.org/schema/mtproto-json",
   "title": "https://core.telegram.org/schema/mtproto-json",
-  "fetched_at": "2026-09-17T08:44:05Z",
+  "fetched_at": "2026-09-18T08:19:58Z",
   "sha256": "0d01d96b7df87fe76ea6d034380644ce138e8ba092d4ad2a00e041ff89509b59",
   "bytes": 8063,
   "content_type": "application/json; charset=utf-8",

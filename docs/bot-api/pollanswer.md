@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#pollanswer
-Snapshot: 2026-09-17T08:42:18Z
+Snapshot: 2026-09-18T08:17:54Z
 
 #### PollAnswer
 
