@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#pinchatmessage
-Snapshot: 2026-09-18T08:17:54Z
+Snapshot: 2026-09-19T08:05:57Z
 
 #### pinChatMessage
 

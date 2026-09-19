@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/constructor/sendMessageGeoLocationAction",
   "final_url": "https://core.telegram.org/constructor/sendMessageGeoLocationAction",
   "title": "sendMessageGeoLocationAction",
-  "fetched_at": "2026-09-18T08:19:02Z",
+  "fetched_at": "2026-09-19T08:07:09Z",
   "sha256": "7a63c025fbbda7aa463f45e3a713683b08b873f6f1aaeae747d5dd038346508c",
   "bytes": 14512,
   "content_type": "text/html; charset=utf-8",

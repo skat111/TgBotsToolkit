@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/account.installTheme",
   "final_url": "https://core.telegram.org/method/account.installTheme",
   "title": "account.installTheme",
-  "fetched_at": "2026-09-18T08:19:23Z",
+  "fetched_at": "2026-09-19T08:07:30Z",
   "sha256": "5633ab42df4101c8434cbf88b8435e9ca839746d48bc5aac3bbcb3e4898b8679",
   "bytes": 15679,
   "content_type": "text/html; charset=utf-8",
