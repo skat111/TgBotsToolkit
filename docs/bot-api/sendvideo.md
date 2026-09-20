@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sendvideo
-Snapshot: 2026-09-19T08:05:57Z
+Snapshot: 2026-09-20T08:38:20Z
 
 #### sendVideo
 

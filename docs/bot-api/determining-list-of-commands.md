@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#determining-list-of-commands
-Snapshot: 2026-09-19T08:05:57Z
+Snapshot: 2026-09-20T08:38:20Z
 
 #### Determining list of commands
 
