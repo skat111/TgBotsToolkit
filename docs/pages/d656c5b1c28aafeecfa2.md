@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/mediaAreaGeoPoint
 
 Represents a geolocation tag attached to a [story](https://core.telegram.org/api/stories).
 
-* [Layer 223](https://core.telegram.org/constructor/mediaAreaGeoPoint) 
+* [Layer 225](https://core.telegram.org/constructor/mediaAreaGeoPoint) 
   + [1 – Base layer](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=3)
@@ -117,7 +117,9 @@ Represents a geolocation tag attached to a [story](https://core.telegram.org/api
   + [219 – Passkeys](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/mediaAreaGeoPoint?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

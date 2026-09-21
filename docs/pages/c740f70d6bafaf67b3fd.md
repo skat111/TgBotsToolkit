@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateTranscribedAudio
 
 A pending [voice message transcription »](https://core.telegram.org/api/transcribe) initiated with [messages.transcribeAudio](https://core.telegram.org/method/messages.transcribeAudio) was updated.
 
-* [Layer 223](https://core.telegram.org/constructor/updateTranscribedAudio) 
+* [Layer 225](https://core.telegram.org/constructor/updateTranscribedAudio) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateTranscribedAudio?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateTranscribedAudio?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateTranscribedAudio?layer=3)
@@ -117,7 +117,9 @@ A pending [voice message transcription »](https://core.telegram.org/api/transcr
   + [219 – Passkeys](https://core.telegram.org/constructor/updateTranscribedAudio?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/updateTranscribedAudio?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/updateTranscribedAudio?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/updateTranscribedAudio?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/updateTranscribedAudio?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/updateTranscribedAudio?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/updateTranscribedAudio?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

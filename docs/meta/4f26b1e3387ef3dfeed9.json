@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/method/messages.setBotGuestChatResult",
   "final_url": "https://core.telegram.org/method/messages.setBotGuestChatResult",
   "title": "messages.setBotGuestChatResult",
-  "fetched_at": "2026-09-20T08:40:03Z",
-  "sha256": "3dceaac9456b508076610e5c8d4cee24883ca8d095db7fc43c9fc14b56d6299e",
-  "bytes": 17046,
+  "fetched_at": "2026-09-21T09:02:14Z",
+  "sha256": "61dded58b36e072af8abfde8cb162657947a7fef4fc4dd4de88d45154bcb3f4f",
+  "bytes": 18029,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/4f26b1e3387ef3dfeed9.html",
   "markdown": "docs/pages/4f26b1e3387ef3dfeed9.md",
@@ -14,6 +14,8 @@
     "https://core.telegram.org/api/bots/guest-mode",
     "https://core.telegram.org/api/content-protection",
     "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/inputBotInlineMessageID",
+    "https://core.telegram.org/constructor/inputBotInlineMessageID64",
     "https://core.telegram.org/constructor/updateBotGuestChatQuery",
     "https://core.telegram.org/method/messages.setBotGuestChatResult",
     "https://core.telegram.org/methods",
@@ -21,6 +23,7 @@
     "https://core.telegram.org/schema",
     "https://core.telegram.org/type/InputBotInlineMessageID",
     "https://core.telegram.org/type/InputBotInlineResult",
+    "https://core.telegram.org/type/int",
     "https://core.telegram.org/type/long"
   ]
 }

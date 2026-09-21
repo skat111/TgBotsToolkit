@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/aicompose.Tones",
   "final_url": "https://core.telegram.org/type/aicompose.Tones",
   "title": "Aicompose.Tones",
-  "fetched_at": "2026-09-20T08:45:00Z",
-  "sha256": "817e0ed976b2adb979112703abfb3f7fc336b7dc2816ff643a9f1cd91a9e1dcb",
-  "bytes": 15389,
+  "fetched_at": "2026-09-21T09:07:33Z",
+  "sha256": "a7a7b3c70b8369df5795ff3207ebd67e94ab14bdc7b9c6d4fc5038594cf44062",
+  "bytes": 16442,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/4cde9444e241d2b95ea9.html",
   "markdown": "docs/pages/4cde9444e241d2b95ea9.md",
@@ -19,6 +19,11 @@
     "https://core.telegram.org/method/aicompose.getTones",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
-    "https://core.telegram.org/type/aicompose.Tones"
+    "https://core.telegram.org/type/AiComposeTone",
+    "https://core.telegram.org/type/InputAiComposeTone",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/aicompose.Tones",
+    "https://core.telegram.org/type/long"
   ]
 }

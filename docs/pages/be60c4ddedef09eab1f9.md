@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey
 
 Public-key passkey credential used both for registration and for login, see [creating a passkey »](https://core.telegram.org/api/passkeys#creating-a-passkey) and [logging in with a passkey »](https://core.telegram.org/api/passkeys#logging-in-with-a-passkey) for the full flows.
 
-* [Layer 223](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey) 
+* [Layer 225](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=3)
@@ -117,7 +117,9 @@ Public-key passkey credential used both for registration and for login, see [cre
   + [219 – Passkeys](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/inputPasskeyCredentialPublicKey?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

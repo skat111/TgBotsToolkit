@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/method/aicompose.getToneExample",
   "final_url": "https://core.telegram.org/method/aicompose.getToneExample",
   "title": "aicompose.getToneExample",
-  "fetched_at": "2026-09-20T08:39:43Z",
-  "sha256": "b773cf47987b567bfa95e64f2a525caa03c8b541eed2c7cec477f2ddd89e74d2",
-  "bytes": 15970,
+  "fetched_at": "2026-09-21T09:01:55Z",
+  "sha256": "b256f6e9b6c77dda530cf526ede7d8339959b2d5098965733052d39813f55635",
+  "bytes": 16597,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/bfafeb1bac3b43732f9a.html",
   "markdown": "docs/pages/bfafeb1bac3b43732f9a.md",
@@ -14,12 +14,14 @@
     "https://core.telegram.org/api/ai",
     "https://core.telegram.org/api/config",
     "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/aiComposeToneExample",
     "https://core.telegram.org/method/aicompose.getToneExample",
     "https://core.telegram.org/methods",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
     "https://core.telegram.org/type/AiComposeToneExample",
     "https://core.telegram.org/type/InputAiComposeTone",
+    "https://core.telegram.org/type/TextWithEntities",
     "https://core.telegram.org/type/int"
   ]
 }

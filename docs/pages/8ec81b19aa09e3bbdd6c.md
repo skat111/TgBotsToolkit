@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/users.getSavedMusicByID
 
 Check if the passed songs are still pinned to the user's profile, or refresh the file references of songs pinned on a user's profile [see here »](https://core.telegram.org/api/profile#music) for more info.
 
-* [Layer 223](https://core.telegram.org/method/users.getSavedMusicByID) 
+* [Layer 225](https://core.telegram.org/method/users.getSavedMusicByID) 
   + [1 – Base layer](https://core.telegram.org/method/users.getSavedMusicByID?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/users.getSavedMusicByID?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/users.getSavedMusicByID?layer=3)
@@ -117,7 +117,9 @@ Check if the passed songs are still pinned to the user's profile, or refresh the
   + [219 – Passkeys](https://core.telegram.org/method/users.getSavedMusicByID?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/users.getSavedMusicByID?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/users.getSavedMusicByID?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/users.getSavedMusicByID?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/users.getSavedMusicByID?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/users.getSavedMusicByID?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/users.getSavedMusicByID?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

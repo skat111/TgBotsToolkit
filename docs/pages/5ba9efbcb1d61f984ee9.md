@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.sendConfirmPhoneCode
 
 Send confirmation code to cancel account deletion, for more info [click here »](https://core.telegram.org/api/account-deletion)
 
-* [Layer 223](https://core.telegram.org/method/account.sendConfirmPhoneCode) 
+* [Layer 225](https://core.telegram.org/method/account.sendConfirmPhoneCode) 
   + [1 – Base layer](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=3)
@@ -117,13 +117,15 @@ Send confirmation code to cancel account deletion, for more info [click here »]
   + [219 – Passkeys](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/account.sendConfirmPhoneCode?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
 auth.sentCode#5e002502 flags:# type:auth.SentCodeType phone_code_hash:string next_type:flags.1?auth.CodeType timeout:flags.2?int = auth.SentCode;
 auth.sentCodeSuccess#2390fe44 authorization:auth.Authorization = auth.SentCode;
-auth.sentCodePaymentRequired#e0955a3c store_product:string phone_code_hash:string support_email_address:string support_email_subject:string currency:string amount:long = auth.SentCode;
+auth.sentCodePaymentRequired#f8827ebf store_product:string phone_code_hash:string support_email_address:string support_email_subject:string premium_days:int currency:string amount:long = auth.SentCode;
 ---functions---
 account.sendConfirmPhoneCode#1b3faa88 hash:string settings:CodeSettings = auth.SentCode;
 ```

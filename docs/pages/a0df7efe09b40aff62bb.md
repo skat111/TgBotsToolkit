@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/account.resetNotifySettings
 
 Resets all notification settings from users and groups.
 
-* [Layer 223](https://core.telegram.org/method/account.resetNotifySettings) 
+* [Layer 225](https://core.telegram.org/method/account.resetNotifySettings) 
   + [1 – Base layer](https://core.telegram.org/method/account.resetNotifySettings?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/account.resetNotifySettings?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/account.resetNotifySettings?layer=3)
@@ -117,7 +117,9 @@ Resets all notification settings from users and groups.
   + [219 – Passkeys](https://core.telegram.org/method/account.resetNotifySettings?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/account.resetNotifySettings?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/account.resetNotifySettings?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/account.resetNotifySettings?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/account.resetNotifySettings?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/account.resetNotifySettings?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/account.resetNotifySettings?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

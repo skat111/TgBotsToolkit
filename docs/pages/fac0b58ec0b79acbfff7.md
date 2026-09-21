@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/stickerSetNoCovered
 
 Just the stickerset information, with no previews.
 
-* [Layer 223](https://core.telegram.org/constructor/stickerSetNoCovered) 
+* [Layer 225](https://core.telegram.org/constructor/stickerSetNoCovered) 
   + [1 – Base layer](https://core.telegram.org/constructor/stickerSetNoCovered?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/stickerSetNoCovered?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/stickerSetNoCovered?layer=3)
@@ -117,7 +117,9 @@ Just the stickerset information, with no previews.
   + [219 – Passkeys](https://core.telegram.org/constructor/stickerSetNoCovered?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/stickerSetNoCovered?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/stickerSetNoCovered?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/stickerSetNoCovered?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/stickerSetNoCovered?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/stickerSetNoCovered?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/stickerSetNoCovered?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

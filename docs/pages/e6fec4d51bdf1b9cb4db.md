@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/contacts.blockedSlice
 
 Incomplete list of blocked users.
 
-* [Layer 223](https://core.telegram.org/constructor/contacts.blockedSlice) 
+* [Layer 225](https://core.telegram.org/constructor/contacts.blockedSlice) 
   + [1 – Base layer](https://core.telegram.org/constructor/contacts.blockedSlice?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/contacts.blockedSlice?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/contacts.blockedSlice?layer=3)
@@ -117,7 +117,9 @@ Incomplete list of blocked users.
   + [219 – Passkeys](https://core.telegram.org/constructor/contacts.blockedSlice?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/contacts.blockedSlice?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/contacts.blockedSlice?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/contacts.blockedSlice?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/contacts.blockedSlice?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/contacts.blockedSlice?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/contacts.blockedSlice?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

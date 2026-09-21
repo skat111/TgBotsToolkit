@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/method/bots.requestWebViewButton",
   "final_url": "https://core.telegram.org/method/bots.requestWebViewButton",
   "title": "bots.requestWebViewButton",
-  "fetched_at": "2026-09-20T08:39:46Z",
-  "sha256": "0b70adb1e2b567c69f584bc225ca047da93b28ade1186baebf066ffeb3f28d60",
-  "bytes": 17167,
+  "fetched_at": "2026-09-21T09:01:57Z",
+  "sha256": "dbb059b6afe686b14355acacd9fc28149626b2f4a571ba06c596585f06c3a7b1",
+  "bytes": 17737,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/4ac885f6a651480cd2bd.html",
   "markdown": "docs/pages/4ac885f6a651480cd2bd.md",
@@ -15,6 +15,7 @@
     "https://core.telegram.org/api/bots/webapps",
     "https://core.telegram.org/api/layers",
     "https://core.telegram.org/bots/features",
+    "https://core.telegram.org/constructor/bots.requestedButton",
     "https://core.telegram.org/constructor/inputKeyboardButtonRequestPeer",
     "https://core.telegram.org/constructor/keyboardButtonRequestPeer",
     "https://core.telegram.org/method/bots.requestWebViewButton",
@@ -25,6 +26,7 @@
     "https://core.telegram.org/type/InputUser",
     "https://core.telegram.org/type/KeyboardButton",
     "https://core.telegram.org/type/RequestPeerType",
-    "https://core.telegram.org/type/bots.RequestedButton"
+    "https://core.telegram.org/type/bots.RequestedButton",
+    "https://core.telegram.org/type/string"
   ]
 }

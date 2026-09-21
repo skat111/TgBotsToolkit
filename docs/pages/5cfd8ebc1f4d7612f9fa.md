@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotWebhookJSONQuery
 
 A new incoming query; for bots only
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotWebhookJSONQuery) 
+* [Layer 225](https://core.telegram.org/constructor/updateBotWebhookJSONQuery) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=3)
@@ -117,7 +117,9 @@ A new incoming query; for bots only
   + [219 – Passkeys](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/updateBotWebhookJSONQuery?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

@@ -6,7 +6,7 @@ Obtain a list of suggested [mini apps](https://core.telegram.org/api/bots/webapp
 
 `order_by_revenue` and `order_by_date` are mutually exclusive: if neither is set, results are sorted by profitability.
 
-* [Layer 223](https://core.telegram.org/method/payments.getSuggestedStarRefBots) 
+* [Layer 225](https://core.telegram.org/method/payments.getSuggestedStarRefBots) 
   + [1 – Base layer](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=3)
@@ -119,7 +119,9 @@ Obtain a list of suggested [mini apps](https://core.telegram.org/api/bots/webapp
   + [219 – Passkeys](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/payments.getSuggestedStarRefBots?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

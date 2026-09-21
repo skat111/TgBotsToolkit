@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/reportResultAddComment
 
 The user should enter an additional comment for the moderators, and then [messages.report](https://core.telegram.org/method/messages.report) must be re-invoked, passing the comment to [messages.report](https://core.telegram.org/method/messages.report).`message`.
 
-* [Layer 223](https://core.telegram.org/constructor/reportResultAddComment) 
+* [Layer 225](https://core.telegram.org/constructor/reportResultAddComment) 
   + [1 – Base layer](https://core.telegram.org/constructor/reportResultAddComment?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/reportResultAddComment?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/reportResultAddComment?layer=3)
@@ -117,7 +117,9 @@ The user should enter an additional comment for the moderators, and then [messag
   + [219 – Passkeys](https://core.telegram.org/constructor/reportResultAddComment?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/reportResultAddComment?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/reportResultAddComment?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/reportResultAddComment?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/reportResultAddComment?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/reportResultAddComment?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/reportResultAddComment?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

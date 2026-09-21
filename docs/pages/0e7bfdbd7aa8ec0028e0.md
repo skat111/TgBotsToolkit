@@ -13,7 +13,7 @@ This service message should be displayed below the appropriate sticker from the 
 * If `months == 24`, choose the sticker with emoji equal to "![5️⃣](//telegram.org/img/emoji/40/35E283A3.png)"
 * Otherwise, fallback to the sticker with emoji equal to "![1️⃣](//telegram.org/img/emoji/40/31E283A3.png)"
 
-* [Layer 223](https://core.telegram.org/constructor/messageActionGiftPremium) 
+* [Layer 225](https://core.telegram.org/constructor/messageActionGiftPremium) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageActionGiftPremium?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageActionGiftPremium?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageActionGiftPremium?layer=3)
@@ -126,7 +126,9 @@ This service message should be displayed below the appropriate sticker from the 
   + [219 – Passkeys](https://core.telegram.org/constructor/messageActionGiftPremium?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/messageActionGiftPremium?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/messageActionGiftPremium?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/messageActionGiftPremium?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/messageActionGiftPremium?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/messageActionGiftPremium?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/messageActionGiftPremium?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

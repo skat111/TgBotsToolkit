@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/phone.inviteToGroupCall
 
 Invite a set of users to a [video chat/livestream »](https://core.telegram.org/api/group-calls#video-chats-livestreams); cannot be used for [live stories »](https://core.telegram.org/api/group-calls#live-stories) or [conference calls »](https://core.telegram.org/api/group-calls#conference-calls).
 
-* [Layer 223](https://core.telegram.org/method/phone.inviteToGroupCall) 
+* [Layer 225](https://core.telegram.org/method/phone.inviteToGroupCall) 
   + [1 – Base layer](https://core.telegram.org/method/phone.inviteToGroupCall?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/phone.inviteToGroupCall?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/phone.inviteToGroupCall?layer=3)
@@ -117,7 +117,9 @@ Invite a set of users to a [video chat/livestream »](https://core.telegram.org/
   + [219 – Passkeys](https://core.telegram.org/method/phone.inviteToGroupCall?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/phone.inviteToGroupCall?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/phone.inviteToGroupCall?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/phone.inviteToGroupCall?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/phone.inviteToGroupCall?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/phone.inviteToGroupCall?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/phone.inviteToGroupCall?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

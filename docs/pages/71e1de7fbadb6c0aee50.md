@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updates.channelDifferenceEmpty
 
 There are no new updates
 
-* [Layer 223](https://core.telegram.org/constructor/updates.channelDifferenceEmpty) 
+* [Layer 225](https://core.telegram.org/constructor/updates.channelDifferenceEmpty) 
   + [1 – Base layer](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=3)
@@ -117,7 +117,9 @@ There are no new updates
   + [219 – Passkeys](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/updates.channelDifferenceEmpty?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

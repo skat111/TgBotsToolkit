@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/help.peerColorProfileSet
 
 Represents a [color palette that can be used in profile pages »](https://core.telegram.org/api/colors).
 
-* [Layer 223](https://core.telegram.org/constructor/help.peerColorProfileSet) 
+* [Layer 225](https://core.telegram.org/constructor/help.peerColorProfileSet) 
   + [1 – Base layer](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=3)
@@ -117,7 +117,9 @@ Represents a [color palette that can be used in profile pages »](https://core.t
   + [219 – Passkeys](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/help.peerColorProfileSet?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

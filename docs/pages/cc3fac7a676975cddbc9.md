@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/Vector%20t
 
 Universal vector.
 
-* [Layer 223](https://core.telegram.org/type/Vector%20t) 
+* [Layer 225](https://core.telegram.org/type/Vector%20t) 
   + [1 – Base layer](https://core.telegram.org/type/Vector%20t?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/Vector%20t?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/Vector%20t?layer=3)
@@ -117,7 +117,9 @@ Universal vector.
   + [219 – Passkeys](https://core.telegram.org/type/Vector%20t?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/type/Vector%20t?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/type/Vector%20t?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/type/Vector%20t?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/type/Vector%20t?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/type/Vector%20t?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/type/Vector%20t?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

@@ -6,7 +6,7 @@ Summarize the contents of a message with AI, see [here »](https://core.telegram
 
 Clients should use [message](https://core.telegram.org/constructor/message).`summary_from_language` as a hint for showing a summarization button; its absence does not forbid invoking this method.
 
-* [Layer 223](https://core.telegram.org/method/messages.summarizeText) 
+* [Layer 225](https://core.telegram.org/method/messages.summarizeText) 
   + [1 – Base layer](https://core.telegram.org/method/messages.summarizeText?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/messages.summarizeText?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/messages.summarizeText?layer=3)
@@ -119,13 +119,15 @@ Clients should use [message](https://core.telegram.org/constructor/message).`sum
   + [219 – Passkeys](https://core.telegram.org/method/messages.summarizeText?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/messages.summarizeText?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/messages.summarizeText?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/messages.summarizeText?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/messages.summarizeText?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/messages.summarizeText?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/messages.summarizeText?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
 textWithEntities#751f3146 text:string entities:Vector<MessageEntity> = TextWithEntities;
 ---functions---
-messages.summarizeText#9d4104e2 flags:# peer:InputPeer id:int to_lang:flags.0?string = TextWithEntities;
+messages.summarizeText#abbbd346 flags:# peer:InputPeer id:int to_lang:flags.0?string tone:flags.2?string = TextWithEntities;
 ```
 
 ### Parameters

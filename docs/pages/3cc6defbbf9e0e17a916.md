@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/prepaidStarsGiveaway
 
 Contains info about a [prepaid Telegram Star giveaway »](https://core.telegram.org/api/giveaways#star-giveaways).
 
-* [Layer 223](https://core.telegram.org/constructor/prepaidStarsGiveaway) 
+* [Layer 225](https://core.telegram.org/constructor/prepaidStarsGiveaway) 
   + [1 – Base layer](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=3)
@@ -117,7 +117,9 @@ Contains info about a [prepaid Telegram Star giveaway »](https://core.telegram.
   + [219 – Passkeys](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/prepaidStarsGiveaway?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

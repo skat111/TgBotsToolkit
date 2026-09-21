@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/MessageReplyHeader",
   "final_url": "https://core.telegram.org/type/MessageReplyHeader",
   "title": "MessageReplyHeader",
-  "fetched_at": "2026-09-20T08:44:51Z",
-  "sha256": "2f0109ceddba124c1f2bfb7ea941ef89ba177023bb0c9f45cc043fa6bdd3db51",
-  "bytes": 15011,
+  "fetched_at": "2026-09-21T09:07:23Z",
+  "sha256": "68bba4997d963b9a89283bc1ec3700bfe9b235f41a96a9f1ec04332772fe82c8",
+  "bytes": 15248,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/fd9b37cb711bb2e8fc74.html",
   "markdown": "docs/pages/fd9b37cb711bb2e8fc74.md",
@@ -25,6 +25,7 @@
     "https://core.telegram.org/type/MessageReplyHeader",
     "https://core.telegram.org/type/Peer",
     "https://core.telegram.org/type/Vector%20t",
+    "https://core.telegram.org/type/bytes",
     "https://core.telegram.org/type/int",
     "https://core.telegram.org/type/string"
   ]

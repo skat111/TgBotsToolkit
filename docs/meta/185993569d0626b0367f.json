@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/AiComposeTone",
   "final_url": "https://core.telegram.org/type/AiComposeTone",
   "title": "AiComposeTone",
-  "fetched_at": "2026-09-20T08:40:17Z",
-  "sha256": "5ba8006b0cfcd1fe0693dec88f16d1c190f6dac488f76bc367ce89fb5b6e2bba",
-  "bytes": 15516,
+  "fetched_at": "2026-09-21T09:02:28Z",
+  "sha256": "f10b05fe75ef0e61c6805ce2b78f325aee34e36596181590c33fecada213f26b",
+  "bytes": 17344,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/185993569d0626b0367f.html",
   "markdown": "docs/pages/185993569d0626b0367f.md",
@@ -19,6 +19,13 @@
     "https://core.telegram.org/method/aicompose.updateTone",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
-    "https://core.telegram.org/type/AiComposeTone"
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/AiComposeTone",
+    "https://core.telegram.org/type/AiComposeToneExample",
+    "https://core.telegram.org/type/Bool",
+    "https://core.telegram.org/type/InputAiComposeTone",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long",
+    "https://core.telegram.org/type/string"
   ]
 }

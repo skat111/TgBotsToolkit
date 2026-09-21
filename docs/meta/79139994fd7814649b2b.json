@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/method/bots.getAccessSettings",
   "final_url": "https://core.telegram.org/method/bots.getAccessSettings",
   "title": "bots.getAccessSettings",
-  "fetched_at": "2026-09-20T08:39:45Z",
-  "sha256": "73b414f30cac17fb691014ad4967cb336eb3faac650e5f3c421f2cc83f4c246a",
-  "bytes": 15509,
+  "fetched_at": "2026-09-21T09:01:56Z",
+  "sha256": "46c1833bd5aec06e2b99d84462c214b7e28c4d3c0ade21f339a7f322769aa4e3",
+  "bytes": 16110,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/79139994fd7814649b2b.html",
   "markdown": "docs/pages/79139994fd7814649b2b.md",
@@ -13,11 +13,15 @@
     "https://core.telegram.org/api",
     "https://core.telegram.org/api/bots/managed-bots",
     "https://core.telegram.org/api/layers",
+    "https://core.telegram.org/constructor/bots.accessSettings",
     "https://core.telegram.org/method/bots.getAccessSettings",
     "https://core.telegram.org/methods",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
     "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
     "https://core.telegram.org/type/bots.AccessSettings"
   ]
 }

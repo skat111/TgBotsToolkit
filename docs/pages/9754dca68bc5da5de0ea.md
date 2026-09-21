@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/stories.getPinnedStories
 
 Fetch the [stories](https://core.telegram.org/api/stories#pinned-or-archived-stories) pinned on a peer's profile.
 
-* [Layer 223](https://core.telegram.org/method/stories.getPinnedStories) 
+* [Layer 225](https://core.telegram.org/method/stories.getPinnedStories) 
   + [1 – Base layer](https://core.telegram.org/method/stories.getPinnedStories?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/stories.getPinnedStories?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/stories.getPinnedStories?layer=3)
@@ -117,7 +117,9 @@ Fetch the [stories](https://core.telegram.org/api/stories#pinned-or-archived-sto
   + [219 – Passkeys](https://core.telegram.org/method/stories.getPinnedStories?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/stories.getPinnedStories?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/stories.getPinnedStories?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/stories.getPinnedStories?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/stories.getPinnedStories?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/stories.getPinnedStories?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/stories.getPinnedStories?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

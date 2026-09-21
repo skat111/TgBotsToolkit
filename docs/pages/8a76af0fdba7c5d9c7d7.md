@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/stats.PublicForwards
 
 Contains info about the forwards of a [story](https://core.telegram.org/api/stories) as a message to public chats and reposts by public channels.
 
-* [Layer 223](https://core.telegram.org/type/stats.PublicForwards) 
+* [Layer 225](https://core.telegram.org/type/stats.PublicForwards) 
   + [1 – Base layer](https://core.telegram.org/type/stats.PublicForwards?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/stats.PublicForwards?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/stats.PublicForwards?layer=3)
@@ -117,7 +117,9 @@ Contains info about the forwards of a [story](https://core.telegram.org/api/stor
   + [219 – Passkeys](https://core.telegram.org/type/stats.PublicForwards?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/type/stats.PublicForwards?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/type/stats.PublicForwards?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/type/stats.PublicForwards?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/type/stats.PublicForwards?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/type/stats.PublicForwards?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/type/stats.PublicForwards?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

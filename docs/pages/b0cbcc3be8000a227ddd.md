@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/webPageAttributeAiComposeTone
 
 [Webpage attribute](https://core.telegram.org/type/WebPageAttribute) attached to a [webPage](https://core.telegram.org/constructor/webPage) of type `telegram_aicomposetone`, generated when previewing a shared [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones) via an [AI compose tone link »](https://core.telegram.org/api/links#ai-compose-tone-links).
 
-* [Layer 223](https://core.telegram.org/constructor/webPageAttributeAiComposeTone) 
+* [Layer 225](https://core.telegram.org/constructor/webPageAttributeAiComposeTone) 
   + [1 – Base layer](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=3)
@@ -117,11 +117,13 @@ Source: https://core.telegram.org/constructor/webPageAttributeAiComposeTone
   + [219 – Passkeys](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/webPageAttributeAiComposeTone?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
-Constructor schema is available as of layer 225. Switch »
+webPageAttributeAiComposeTone#7781fe18 emoji_id:long = WebPageAttribute;
 ```
 
 ### Parameters

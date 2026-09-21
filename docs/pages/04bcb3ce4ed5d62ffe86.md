@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/secureValueErrorTranslationFiles
 
 Represents an issue with the translated version of a document. The error is considered resolved when a file with the document translation changes.
 
-* [Layer 223](https://core.telegram.org/constructor/secureValueErrorTranslationFiles) 
+* [Layer 225](https://core.telegram.org/constructor/secureValueErrorTranslationFiles) 
   + [1 – Base layer](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=3)
@@ -117,7 +117,9 @@ Represents an issue with the translated version of a document. The error is cons
   + [219 – Passkeys](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/secureValueErrorTranslationFiles?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

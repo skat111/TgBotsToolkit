@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/payments.resaleStarGifts
 
 List of gifts currently on [resale »](https://core.telegram.org/api/gifts#reselling-collectible-gifts).
 
-* [Layer 223](https://core.telegram.org/constructor/payments.resaleStarGifts) 
+* [Layer 225](https://core.telegram.org/constructor/payments.resaleStarGifts) 
   + [1 – Base layer](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=3)
@@ -117,7 +117,9 @@ List of gifts currently on [resale »](https://core.telegram.org/api/gifts#resel
   + [219 – Passkeys](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/payments.resaleStarGifts?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/timezone
 
 Timezone information.
 
-* [Layer 223](https://core.telegram.org/constructor/timezone) 
+* [Layer 225](https://core.telegram.org/constructor/timezone) 
   + [1 – Base layer](https://core.telegram.org/constructor/timezone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/timezone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/timezone?layer=3)
@@ -117,7 +117,9 @@ Timezone information.
   + [219 – Passkeys](https://core.telegram.org/constructor/timezone?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/timezone?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/timezone?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/timezone?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/timezone?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/timezone?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/timezone?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

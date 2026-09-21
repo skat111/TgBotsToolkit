@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/businessAwayMessage
 
 Describes a [Telegram Business away message](https://core.telegram.org/api/business#away-messages), automatically sent to users writing to us when we're offline, during closing hours, while we're on vacation, or in some other custom time period when we cannot immediately answer to the user.
 
-* [Layer 223](https://core.telegram.org/constructor/businessAwayMessage) 
+* [Layer 225](https://core.telegram.org/constructor/businessAwayMessage) 
   + [1 – Base layer](https://core.telegram.org/constructor/businessAwayMessage?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/businessAwayMessage?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/businessAwayMessage?layer=3)
@@ -117,7 +117,9 @@ Describes a [Telegram Business away message](https://core.telegram.org/api/busin
   + [219 – Passkeys](https://core.telegram.org/constructor/businessAwayMessage?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/businessAwayMessage?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/businessAwayMessage?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/businessAwayMessage?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/businessAwayMessage?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/businessAwayMessage?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/businessAwayMessage?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

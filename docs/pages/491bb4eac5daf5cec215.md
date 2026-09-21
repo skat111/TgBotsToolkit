@@ -4,7 +4,7 @@ Source: https://core.telegram.org/method/contacts.setBlocked
 
 Replace the contents of an entire [blocklist, see here for more info »](https://core.telegram.org/api/block).
 
-* [Layer 223](https://core.telegram.org/method/contacts.setBlocked) 
+* [Layer 225](https://core.telegram.org/method/contacts.setBlocked) 
   + [1 – Base layer](https://core.telegram.org/method/contacts.setBlocked?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/contacts.setBlocked?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/contacts.setBlocked?layer=3)
@@ -117,7 +117,9 @@ Replace the contents of an entire [blocklist, see here for more info »](https:/
   + [219 – Passkeys](https://core.telegram.org/method/contacts.setBlocked?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/contacts.setBlocked?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/contacts.setBlocked?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/contacts.setBlocked?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/contacts.setBlocked?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/contacts.setBlocked?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/contacts.setBlocked?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

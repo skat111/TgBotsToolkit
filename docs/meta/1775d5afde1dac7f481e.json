@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/bots.AccessSettings",
   "final_url": "https://core.telegram.org/type/bots.AccessSettings",
   "title": "Bots.AccessSettings",
-  "fetched_at": "2026-09-20T08:45:00Z",
-  "sha256": "a7a80f1140d4337f71ecfdd5939c2016364ab5007d2097849d04ba6948c20609",
-  "bytes": 14430,
+  "fetched_at": "2026-09-21T09:07:34Z",
+  "sha256": "1292a998f958a91ded4f70368964c1bd7ba1245496122279ecbe443505cb618f",
+  "bytes": 15060,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/1775d5afde1dac7f481e.html",
   "markdown": "docs/pages/1775d5afde1dac7f481e.md",
@@ -17,6 +17,10 @@
     "https://core.telegram.org/method/bots.getAccessSettings",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputUser",
+    "https://core.telegram.org/type/User",
+    "https://core.telegram.org/type/Vector%20t",
     "https://core.telegram.org/type/bots.AccessSettings"
   ]
 }

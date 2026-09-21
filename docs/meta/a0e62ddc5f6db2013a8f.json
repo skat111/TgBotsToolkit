@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/InputMessageReadMetric",
   "final_url": "https://core.telegram.org/type/InputMessageReadMetric",
   "title": "InputMessageReadMetric",
-  "fetched_at": "2026-09-20T08:44:42Z",
-  "sha256": "06e157aaca2950ab0672fc65b1fafd71b4f7a34d40e777c1dd177e4986888d3e",
-  "bytes": 14159,
+  "fetched_at": "2026-09-21T09:07:15Z",
+  "sha256": "07cea4f4624f7c362745ebb0564bf5bd08d31cf516f5f0fbbeb88bc1d6723cbe",
+  "bytes": 14708,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/a0e62ddc5f6db2013a8f.html",
   "markdown": "docs/pages/a0e62ddc5f6db2013a8f.md",
@@ -15,6 +15,8 @@
     "https://core.telegram.org/constructor/inputMessageReadMetric",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
-    "https://core.telegram.org/type/InputMessageReadMetric"
+    "https://core.telegram.org/type/InputMessageReadMetric",
+    "https://core.telegram.org/type/int",
+    "https://core.telegram.org/type/long"
   ]
 }

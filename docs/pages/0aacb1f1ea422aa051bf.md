@@ -13,7 +13,7 @@ photoCachedSize#e9a734fa type:string location:FileLocation w:int h:int bytes:byt
 
 #### API schema
 
-* [Layer 223](https://core.telegram.org/constructor/photoCachedSize) 
+* [Layer 225](https://core.telegram.org/constructor/photoCachedSize) 
   + [1 – Base layer](https://core.telegram.org/constructor/photoCachedSize?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/photoCachedSize?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/photoCachedSize?layer=3)
@@ -126,7 +126,9 @@ photoCachedSize#e9a734fa type:string location:FileLocation w:int h:int bytes:byt
   + [219 – Passkeys](https://core.telegram.org/constructor/photoCachedSize?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/photoCachedSize?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/photoCachedSize?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/photoCachedSize?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/photoCachedSize?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/photoCachedSize?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/photoCachedSize?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

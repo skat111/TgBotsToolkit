@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/KeyboardButton
 
 Bot or inline keyboard buttons
 
-* [Layer 223](https://core.telegram.org/type/KeyboardButton) 
+* [Layer 225](https://core.telegram.org/type/KeyboardButton) 
   + [1 – Base layer](https://core.telegram.org/type/KeyboardButton?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/KeyboardButton?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/KeyboardButton?layer=3)
@@ -117,7 +117,9 @@ Bot or inline keyboard buttons
   + [219 – Passkeys](https://core.telegram.org/type/KeyboardButton?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/type/KeyboardButton?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/type/KeyboardButton?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/type/KeyboardButton?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/type/KeyboardButton?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/type/KeyboardButton?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/type/KeyboardButton?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
@@ -139,6 +141,10 @@ keyboardButtonSimpleWebView#e15c4370 flags:# style:flags.10?KeyboardButtonStyle 
 keyboardButtonRequestPeer#5b0f15f5 flags:# style:flags.10?KeyboardButtonStyle text:string button_id:int peer_type:RequestPeerType max_quantity:int = KeyboardButton;
 inputKeyboardButtonRequestPeer#2b78156 flags:# name_requested:flags.0?true username_requested:flags.1?true photo_requested:flags.2?true style:flags.10?KeyboardButtonStyle text:string button_id:int peer_type:RequestPeerType max_quantity:int = KeyboardButton;
 keyboardButtonCopy#bcc4af10 flags:# style:flags.10?KeyboardButtonStyle text:string copy_text:string = KeyboardButton;
+
+---functions---
+
+bots.getRequestedWebViewButton#bf25b7f3 bot:InputUser webapp_req_id:string = KeyboardButton;
 ```
 
 ### Constructors

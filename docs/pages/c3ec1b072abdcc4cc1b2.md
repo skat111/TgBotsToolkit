@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/aiComposeTone
 
 A custom [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones), used to rephrase messages in a specific style with the [AI message composer](https://core.telegram.org/api/ai#compose-messages).
 
-* [Layer 223](https://core.telegram.org/constructor/aiComposeTone) 
+* [Layer 225](https://core.telegram.org/constructor/aiComposeTone) 
   + [1 – Base layer](https://core.telegram.org/constructor/aiComposeTone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/aiComposeTone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/aiComposeTone?layer=3)
@@ -117,11 +117,13 @@ A custom [AI composer tone »](https://core.telegram.org/api/ai#ai-compose-tones
   + [219 – Passkeys](https://core.telegram.org/constructor/aiComposeTone?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/aiComposeTone?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/aiComposeTone?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/aiComposeTone?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/aiComposeTone?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/aiComposeTone?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/aiComposeTone?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
-Constructor schema is available as of layer 225. Switch »
+aiComposeTone#cff63ea9 flags:# creator:flags.0?true id:long access_hash:long slug:string title:string emoji_id:flags.1?long prompt:flags.4?string installs_count:flags.2?int author_id:flags.3?long example_english:flags.5?AiComposeToneExample = AiComposeTone;
 ```
 
 ### Parameters

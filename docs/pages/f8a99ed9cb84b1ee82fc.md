@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/channelAdminLogEventActionCreateTo
 
 A [forum topic](https://core.telegram.org/api/forum#forum-topics) was created
 
-* [Layer 223](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic) 
+* [Layer 225](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic) 
   + [1 – Base layer](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=3)
@@ -117,7 +117,9 @@ A [forum topic](https://core.telegram.org/api/forum#forum-topics) was created
   + [219 – Passkeys](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/channelAdminLogEventActionCreateTopic?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

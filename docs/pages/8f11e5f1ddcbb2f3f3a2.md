@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/account.PaidMessagesRevenue
 
 Total number of non-refunded [Telegram Stars](https://core.telegram.org/api/stars) a user has spent on sending us messages either directly or through a channel, see [here »](https://core.telegram.org/api/paid-messages) for more info on paid messages.
 
-* [Layer 223](https://core.telegram.org/type/account.PaidMessagesRevenue) 
+* [Layer 225](https://core.telegram.org/type/account.PaidMessagesRevenue) 
   + [1 – Base layer](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=3)
@@ -117,7 +117,9 @@ Total number of non-refunded [Telegram Stars](https://core.telegram.org/api/star
   + [219 – Passkeys](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/type/account.PaidMessagesRevenue?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

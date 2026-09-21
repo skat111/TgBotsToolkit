@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParti
 
 Disallow only participants of certain chats
 
-* [Layer 223](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants) 
+* [Layer 225](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants) 
   + [1 – Base layer](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=3)
@@ -117,7 +117,9 @@ Disallow only participants of certain chats
   + [219 – Passkeys](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/inputPrivacyValueDisallowChatParticipants?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

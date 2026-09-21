@@ -6,7 +6,7 @@ Represents a [collectible star gift, see here »](https://core.telegram.org/api/
 
 The sticker that represents the gift is contained in a [starGiftAttributeModel](https://core.telegram.org/constructor/starGiftAttributeModel) object in `attributes`.
 
-* [Layer 223](https://core.telegram.org/constructor/starGiftUnique) 
+* [Layer 225](https://core.telegram.org/constructor/starGiftUnique) 
   + [1 – Base layer](https://core.telegram.org/constructor/starGiftUnique?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/starGiftUnique?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/starGiftUnique?layer=3)
@@ -119,7 +119,9 @@ The sticker that represents the gift is contained in a [starGiftAttributeModel](
   + [219 – Passkeys](https://core.telegram.org/constructor/starGiftUnique?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/starGiftUnique?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/starGiftUnique?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/starGiftUnique?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/starGiftUnique?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/starGiftUnique?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/starGiftUnique?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

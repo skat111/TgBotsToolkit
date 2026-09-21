@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/messageEntityPhone
 
 Message entity representing a phone number.
 
-* [Layer 223](https://core.telegram.org/constructor/messageEntityPhone) 
+* [Layer 225](https://core.telegram.org/constructor/messageEntityPhone) 
   + [1 – Base layer](https://core.telegram.org/constructor/messageEntityPhone?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/messageEntityPhone?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/messageEntityPhone?layer=3)
@@ -117,7 +117,9 @@ Message entity representing a phone number.
   + [219 – Passkeys](https://core.telegram.org/constructor/messageEntityPhone?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/messageEntityPhone?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/messageEntityPhone?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/messageEntityPhone?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/messageEntityPhone?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/messageEntityPhone?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/messageEntityPhone?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

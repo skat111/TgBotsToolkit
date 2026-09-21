@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updatePinnedForumTopics
 
 The [pinned topics](https://core.telegram.org/api/forum#forum-topics) of a forum have changed.
 
-* [Layer 223](https://core.telegram.org/constructor/updatePinnedForumTopics) 
+* [Layer 225](https://core.telegram.org/constructor/updatePinnedForumTopics) 
   + [1 – Base layer](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=3)
@@ -117,7 +117,9 @@ The [pinned topics](https://core.telegram.org/api/forum#forum-topics) of a forum
   + [219 – Passkeys](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/updatePinnedForumTopics?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

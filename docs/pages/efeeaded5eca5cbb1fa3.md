@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/recentStory
 
 Summary of a peer's [active stories »](https://core.telegram.org/api/stories#recent-story-summaries), embedded in [user](https://core.telegram.org/constructor/user).`stories_max_id` and [channel](https://core.telegram.org/constructor/channel).`stories_max_id` and returned by [stories.getPeerMaxIDs](https://core.telegram.org/method/stories.getPeerMaxIDs).
 
-* [Layer 223](https://core.telegram.org/constructor/recentStory) 
+* [Layer 225](https://core.telegram.org/constructor/recentStory) 
   + [1 – Base layer](https://core.telegram.org/constructor/recentStory?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/recentStory?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/recentStory?layer=3)
@@ -117,7 +117,9 @@ Summary of a peer's [active stories »](https://core.telegram.org/api/stories#re
   + [219 – Passkeys](https://core.telegram.org/constructor/recentStory?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/recentStory?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/recentStory?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/recentStory?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/recentStory?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/recentStory?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/recentStory?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/type/PollAnswer",
   "final_url": "https://core.telegram.org/type/PollAnswer",
   "title": "PollAnswer",
-  "fetched_at": "2026-09-20T08:44:53Z",
-  "sha256": "2280a061759a21162db66d8ca0159bd6e27b23b9db38f2d9831903bfd076a62a",
-  "bytes": 14435,
+  "fetched_at": "2026-09-21T09:07:25Z",
+  "sha256": "9a7c1873346dd8b1383a370dcdc6315af5159747af0fc312bb3a3be545d30ac7",
+  "bytes": 15070,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/1e4d0abc0dd9dbbe5522.html",
   "markdown": "docs/pages/1e4d0abc0dd9dbbe5522.md",
@@ -17,9 +17,14 @@
     "https://core.telegram.org/constructor/pollAnswer",
     "https://core.telegram.org/mtproto",
     "https://core.telegram.org/schema",
+    "https://core.telegram.org/type/%23",
+    "https://core.telegram.org/type/InputMedia",
+    "https://core.telegram.org/type/MessageMedia",
+    "https://core.telegram.org/type/Peer",
     "https://core.telegram.org/type/Poll",
     "https://core.telegram.org/type/PollAnswer",
     "https://core.telegram.org/type/TextWithEntities",
-    "https://core.telegram.org/type/bytes"
+    "https://core.telegram.org/type/bytes",
+    "https://core.telegram.org/type/int"
   ]
 }

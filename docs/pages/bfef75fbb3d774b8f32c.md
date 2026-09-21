@@ -4,7 +4,7 @@ Source: https://core.telegram.org/constructor/updateBotMessageReactions
 
 Bots only: the number of reactions on a message with anonymous reactions has changed.
 
-* [Layer 223](https://core.telegram.org/constructor/updateBotMessageReactions) 
+* [Layer 225](https://core.telegram.org/constructor/updateBotMessageReactions) 
   + [1 – Base layer](https://core.telegram.org/constructor/updateBotMessageReactions?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/constructor/updateBotMessageReactions?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/constructor/updateBotMessageReactions?layer=3)
@@ -117,7 +117,9 @@ Bots only: the number of reactions on a message with anonymous reactions has cha
   + [219 – Passkeys](https://core.telegram.org/constructor/updateBotMessageReactions?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/constructor/updateBotMessageReactions?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/constructor/updateBotMessageReactions?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/constructor/updateBotMessageReactions?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/constructor/updateBotMessageReactions?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/constructor/updateBotMessageReactions?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/constructor/updateBotMessageReactions?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

@@ -4,7 +4,7 @@ Source: https://core.telegram.org/type/stats.PollStats
 
 [Statistics](https://core.telegram.org/api/stats#poll-statistics) for a poll sent in a message.
 
-* [Layer 223](https://core.telegram.org/type/stats.PollStats) 
+* [Layer 225](https://core.telegram.org/type/stats.PollStats) 
   + [1 – Base layer](https://core.telegram.org/type/stats.PollStats?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/type/stats.PollStats?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/type/stats.PollStats?layer=3)
@@ -117,11 +117,17 @@ Source: https://core.telegram.org/type/stats.PollStats
   + [219 – Passkeys](https://core.telegram.org/type/stats.PollStats?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/type/stats.PollStats?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/type/stats.PollStats?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/type/stats.PollStats?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/type/stats.PollStats?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/type/stats.PollStats?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/type/stats.PollStats?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
-Method schema is available as of layer 225. Switch »
+stats.pollStats#2999beed votes_graph:StatsGraph = stats.PollStats;
+
+---functions---
+
+stats.getPollStats#c27dfa68 flags:# dark:flags.0?true peer:InputPeer msg_id:int = stats.PollStats;
 ```
 
 ### Constructors

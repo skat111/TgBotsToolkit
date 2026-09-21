@@ -6,7 +6,7 @@ Disable ads on the specified channel, for all users.
 
 Available only after reaching at least the [boost level »](https://core.telegram.org/api/boost) specified in the [`channel_restrict_sponsored_level_min` »](https://core.telegram.org/api/config#channel-restrict-sponsored-level-min) config parameter.
 
-* [Layer 223](https://core.telegram.org/method/channels.restrictSponsoredMessages) 
+* [Layer 225](https://core.telegram.org/method/channels.restrictSponsoredMessages) 
   + [1 – Base layer](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=3)
@@ -119,7 +119,9 @@ Available only after reaching at least the [boost level »](https://core.telegra
   + [219 – Passkeys](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/channels.restrictSponsoredMessages?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```

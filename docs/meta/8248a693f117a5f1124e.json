@@ -2,9 +2,9 @@
   "url": "https://core.telegram.org/constructor/inputMediaPoll",
   "final_url": "https://core.telegram.org/constructor/inputMediaPoll",
   "title": "inputMediaPoll",
-  "fetched_at": "2026-09-20T08:38:55Z",
-  "sha256": "d06e12ed35b015030e31c2f23a832a497d1504bf0f15ba1de8a36c22e4b221d7",
-  "bytes": 16535,
+  "fetched_at": "2026-09-21T09:01:02Z",
+  "sha256": "b3501edc123a0b02c1269f55a97fc2e83e43e29f041a087edad488ce0bb41de7",
+  "bytes": 16815,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/8248a693f117a5f1124e.html",
   "markdown": "docs/pages/8248a693f117a5f1124e.md",
@@ -22,7 +22,6 @@
     "https://core.telegram.org/type/MessageEntity",
     "https://core.telegram.org/type/Poll",
     "https://core.telegram.org/type/Vector%20t",
-    "https://core.telegram.org/type/bytes",
     "https://core.telegram.org/type/int",
     "https://core.telegram.org/type/string"
   ]

@@ -6,7 +6,7 @@ Hide or display the participants list in a [supergroup](https://core.telegram.or
 
 The supergroup must have at least `hidden_members_group_size_min` participants in order to use this method, as specified by the [client configuration parameters »](https://core.telegram.org/api/config#client-configuration).
 
-* [Layer 223](https://core.telegram.org/method/channels.toggleParticipantsHidden) 
+* [Layer 225](https://core.telegram.org/method/channels.toggleParticipantsHidden) 
   + [1 – Base layer](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=1)
   + [2 – New userpic notifications](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=2)
   + [3 – Send message can trigger link change](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=3)
@@ -119,7 +119,9 @@ The supergroup must have at least `hidden_members_group_size_min` participants i
   + [219 – Passkeys](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=219)
   + [220 – Gift Offers](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=220)
   + [222 – Gift Crafts](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=222)
-  + [**223 – User tags in groups**](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=223)
+  + [223 – User tags in groups](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=223)
+  + [224 – AI Editor, Live photos](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=224)
+  + [**225 – Guest mode, Custom AI compose tones**](https://core.telegram.org/method/channels.toggleParticipantsHidden?layer=225)
   + [More...](https://core.telegram.org/api/layers)
 
 ```
