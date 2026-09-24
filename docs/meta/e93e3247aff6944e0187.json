@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.checkUrlAuthMatchCode",
   "final_url": "https://core.telegram.org/method/messages.checkUrlAuthMatchCode",
   "title": "messages.checkUrlAuthMatchCode",
-  "fetched_at": "2026-09-23T08:39:52Z",
+  "fetched_at": "2026-09-24T08:32:01Z",
   "sha256": "0efdedd96f2a1169a032b7ec28f6b61531bd51346fa395f02d1bee02888bbff9",
   "bytes": 18427,
   "content_type": "text/html; charset=utf-8",
