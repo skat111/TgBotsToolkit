@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getchatadministrators
-Snapshot: 2026-09-24T08:30:39Z
+Snapshot: 2026-09-25T08:52:18Z
 
 #### getChatAdministrators
 

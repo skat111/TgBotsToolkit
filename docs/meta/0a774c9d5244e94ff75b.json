@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/schema/end-to-end-json",
   "final_url": "https://core.telegram.org/schema/end-to-end-json",
   "title": "https://core.telegram.org/schema/end-to-end-json",
-  "fetched_at": "2026-09-24T08:32:18Z",
+  "fetched_at": "2026-09-25T08:54:28Z",
   "sha256": "787d42a3ff0082c596f4dd7b42d8de0667e44d214dd2f82738dc06b2cfa180d0",
   "bytes": 17836,
   "content_type": "application/json; charset=utf-8",

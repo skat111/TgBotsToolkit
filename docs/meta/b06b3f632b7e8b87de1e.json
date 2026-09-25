@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.getExportedChatInvites",
   "final_url": "https://core.telegram.org/method/messages.getExportedChatInvites",
   "title": "messages.getExportedChatInvites",
-  "fetched_at": "2026-09-24T08:32:04Z",
+  "fetched_at": "2026-09-25T08:54:08Z",
   "sha256": "fee01ac3b50b407e7aa5ef8c5f10634e25423e601c6e752195c2659fe8af5b1b",
   "bytes": 18050,
   "content_type": "text/html; charset=utf-8",
