@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/api/bots%2Fattach",
   "final_url": "https://core.telegram.org/api/bots%2Fattach",
   "title": "Bot attachment menu and side menu entries",
-  "fetched_at": "2026-09-25T08:52:36Z",
+  "fetched_at": "2026-09-26T08:38:58Z",
   "sha256": "bffa23c5e93c676e2d5188aa2b279a7bb56949e085b86539a1b6c83e58e57e64",
   "bytes": 20668,
   "content_type": "text/html; charset=utf-8",

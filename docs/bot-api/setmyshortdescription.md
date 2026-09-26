@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#setmyshortdescription
-Snapshot: 2026-09-25T08:52:18Z
+Snapshot: 2026-09-26T08:38:44Z
 
 #### setMyShortDescription
 
