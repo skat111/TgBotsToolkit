@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#forumtopicedited
-Snapshot: 2026-09-26T08:38:44Z
+Snapshot: 2026-09-27T09:19:00Z
 
 #### ForumTopicEdited
 
