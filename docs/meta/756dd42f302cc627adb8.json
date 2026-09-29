@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/stories.getAllStories",
   "final_url": "https://core.telegram.org/method/stories.getAllStories",
   "title": "stories.getAllStories",
-  "fetched_at": "2026-09-28T09:53:17Z",
+  "fetched_at": "2026-09-29T09:55:11Z",
   "sha256": "c1879da045709b059c01dbc8ae0271c2dbaca5771e81a2c2f0badd67862d7923",
   "bytes": 17851,
   "content_type": "text/html; charset=utf-8",

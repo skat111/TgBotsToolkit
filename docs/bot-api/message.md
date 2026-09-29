@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#message
-Snapshot: 2026-09-28T09:51:06Z
+Snapshot: 2026-09-29T09:53:16Z
 
 #### Message
 
