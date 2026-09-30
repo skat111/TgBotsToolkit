@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getuserpersonalchatmessages
-Snapshot: 2026-09-29T09:53:16Z
+Snapshot: 2026-09-30T09:45:34Z
 
 #### getUserPersonalChatMessages
 
