@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getusergifts
-Snapshot: 2026-09-30T09:45:34Z
+Snapshot: 2026-10-01T10:12:06Z
 
 #### getUserGifts
 
