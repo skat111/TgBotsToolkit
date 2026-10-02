@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deleteforumtopic
-Snapshot: 2026-10-01T10:12:06Z
+Snapshot: 2026-10-02T09:49:46Z
 
 #### deleteForumTopic
 
