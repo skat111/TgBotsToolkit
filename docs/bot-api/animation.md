@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#animation
-Snapshot: 2026-10-02T09:49:46Z
+Snapshot: 2026-10-03T09:12:16Z
 
 #### Animation
 
