@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#suggestedpostinfo
-Snapshot: 2026-10-03T09:12:16Z
+Snapshot: 2026-10-04T09:53:33Z
 
 #### SuggestedPostInfo
 

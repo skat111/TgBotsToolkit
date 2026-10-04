@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#approvechatjoinrequest
-Snapshot: 2026-10-03T09:12:16Z
+Snapshot: 2026-10-04T09:53:33Z
 
 #### approveChatJoinRequest
 
