@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#managedbotupdated
-Snapshot: 2026-10-04T09:53:33Z
+Snapshot: 2026-10-05T10:31:16Z
 
 #### ManagedBotUpdated
 
