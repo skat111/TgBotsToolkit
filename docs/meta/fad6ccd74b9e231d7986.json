@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/stories.deleteAlbum",
   "final_url": "https://core.telegram.org/method/stories.deleteAlbum",
   "title": "stories.deleteAlbum",
-  "fetched_at": "2026-10-06T10:24:19Z",
+  "fetched_at": "2026-10-07T10:21:36Z",
   "sha256": "d38674e0fe8b13f133ffc95efd4c966dd76b0da493d41a3921440208dee540eb",
   "bytes": 15645,
   "content_type": "text/html; charset=utf-8",

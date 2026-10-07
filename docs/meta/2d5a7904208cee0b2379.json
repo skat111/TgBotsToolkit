@@ -1,0 +1,20 @@
+{
+  "url": "https://core.telegram.org/bots/serverless",
+  "final_url": "https://core.telegram.org/bots/serverless",
+  "title": "Telegram Serverless",
+  "fetched_at": "2026-10-07T10:19:45Z",
+  "sha256": "11144dc6c625adc77adbc8e9ead02361c3195b952e230239c152b1da113c4087",
+  "bytes": 91800,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/2d5a7904208cee0b2379.html",
+  "markdown": "docs/pages/2d5a7904208cee0b2379.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/serverless",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

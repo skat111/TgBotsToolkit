@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#createchatsubscriptioninvitelink
-Snapshot: 2026-10-06T10:22:47Z
+Snapshot: 2026-10-07T10:19:26Z
 
 #### createChatSubscriptionInviteLink
 

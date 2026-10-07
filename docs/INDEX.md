@@ -180,6 +180,7 @@ Reachable query-free links on core.telegram.org, plus telegra.ph/api. Common ass
 - [Hellobot](pages/ae0b77efb5f25d53cad2.md) — https://core.telegram.org/bots/samples%2Fhellobot
 - [Hellobot](pages/2710f7e24247b2bedec8.md) — https://core.telegram.org/bots/samples/hellobot
 - [Using self-signed certificates](pages/3a5c2a2f9cc06d7e3b5c.md) — https://core.telegram.org/bots/self-signed
+- [Telegram Serverless](pages/2d5a7904208cee0b2379.md) — https://core.telegram.org/bots/serverless
 - [Log In With Telegram](pages/83f59a28f5c6be85e794.md) — https://core.telegram.org/bots/telegram-login
 - [From BotFather to 'Hello World'](pages/a0e2397145f829ce23a3.md) — https://core.telegram.org/bots/tutorial
 - [Telegram Mini Apps](pages/cf59d799e82d4031ec8c.md) — https://core.telegram.org/bots/webapps
