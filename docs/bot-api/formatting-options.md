@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#formatting-options
-Snapshot: 2026-10-07T10:19:26Z
+Snapshot: 2026-10-08T10:38:53Z
 
 #### Formatting options
 
