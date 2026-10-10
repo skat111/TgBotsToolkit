@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/bots.getBotRecommendations",
   "final_url": "https://core.telegram.org/method/bots.getBotRecommendations",
   "title": "bots.getBotRecommendations",
-  "fetched_at": "2026-10-09T10:39:03Z",
+  "fetched_at": "2026-10-10T09:55:49Z",
   "sha256": "d0dfaf419c1a1f8e2b94404025dd0785886e02655b1b2c36ea6120c1e012d0e5",
   "bytes": 16194,
   "content_type": "text/html; charset=utf-8",
