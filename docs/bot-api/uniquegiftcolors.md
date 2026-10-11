@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#uniquegiftcolors
-Snapshot: 2026-10-10T09:54:02Z
+Snapshot: 2026-10-11T10:03:57Z
 
 #### UniqueGiftColors
 
