@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deletestory
-Snapshot: 2026-10-11T10:03:57Z
+Snapshot: 2026-10-12T10:55:24Z
 
 #### deleteStory
 

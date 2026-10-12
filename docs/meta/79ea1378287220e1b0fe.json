@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.getPreparedInlineMessage",
   "final_url": "https://core.telegram.org/method/messages.getPreparedInlineMessage",
   "title": "messages.getPreparedInlineMessage",
-  "fetched_at": "2026-10-11T10:05:22Z",
+  "fetched_at": "2026-10-12T10:56:40Z",
   "sha256": "7b482c862c0a3b3048cac1b010240f67c972466db7bc5021d4ea347fe70790b7",
   "bytes": 17401,
   "content_type": "text/html; charset=utf-8",
