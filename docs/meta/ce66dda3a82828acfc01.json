@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/bots.canSendMessage",
   "final_url": "https://core.telegram.org/method/bots.canSendMessage",
   "title": "bots.canSendMessage",
-  "fetched_at": "2026-10-12T10:56:31Z",
+  "fetched_at": "2026-10-13T10:41:23Z",
   "sha256": "94a77ea2f83102670f52ee977453b6cd0c889120064626b5dd94948156f93040",
   "bytes": 15074,
   "content_type": "text/html; charset=utf-8",
