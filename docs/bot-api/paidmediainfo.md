@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#paidmediainfo
-Snapshot: 2026-10-14T08:46:29Z
+Snapshot: 2026-10-15T08:21:43Z
 
 #### PaidMediaInfo
 
