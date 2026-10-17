@@ -4,152 +4,77 @@
     <meta charset="utf-8">
     <title>Authorization</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="apple-itunes-app" content="app-id=686449807">
     <link rel="icon" type="image/svg+xml" href="/img/website_icon.svg?4">
 <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
 <link rel="alternate icon" href="/img/favicon.ico" type="image/x-icon" />
-    <link href="/css/bootstrap.min.css?3" rel="stylesheet">
-    <link href="/css/bootstrap-extra.css?2" rel="stylesheet">
-    
-    <link href="/css/telegram.css?256" rel="stylesheet" media="screen">
-    <style>
-    </style>
+    <script>(function(){var t=null;try{t=new URLSearchParams(location.search).get("theme")||localStorage.getItem("theme")}catch(e){}if(t)document.documentElement.dataset.theme=t})();</script>
+    <link href="/css/my-telegram.css?12" rel="stylesheet">
   </head>
   <body>
-    <div id="fb-root"></div>
-    <div class="tl_page_wrap">
-      <div class="tl_page_head navbar navbar-static-top navbar-tg">
-        <div class="navbar-inner">
-          <div class="container">
-            <ul class="nav navbar-nav">
-  <li><a href="//telegram.org/">Home</a></li>
-  <li><a href="//telegram.org/faq">FAQ</a></li>
-  <li><a href="//telegram.org/apps">Apps</a></li>
-  <li class="hidden-xs"><a href="//core.telegram.org/api">API</a></li>
-  <li class="hidden-xs"><a href="//core.telegram.org/mtproto">Protocol</a></li>
-</ul>
+    <header class="topbar">
+      <a class="brand" href="/"><img class="brand-logo" src="/img/website_icon.svg?4" alt="">my.telegram.org</a>
+      
+      <div class="spacer"></div>
+      <button class="theme-toggle" type="button" aria-label="Toggle light/dark theme"><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></svg></button>
+      
+    </header>
+    <main class="page narrow">
+  <section class="auth">
+    <div class="alert-slot" id="my_login_alert"></div>
+
+    <div id="stage_phone">
+      <img class="hero-logo" src="/img/website_icon.svg?4" alt="">
+      <h1>Sign in to My Telegram</h1>
+      <p>Manage your API apps or delete your account.<br>We’ll send a code to your Telegram app, not&nbsp;by&nbsp;SMS.</p>
+
+      <form class="card" id="my_send_form">
+        <div class="field phone-field" id="phoneField">
+          <input id="my_login_phone" type="text" placeholder=" " inputmode="tel" autocomplete="off" autofocus>
+          <label for="my_login_phone">Phone number</label>
+          <button type="button" class="country-btn" id="countryBtn" aria-haspopup="listbox" aria-expanded="false">
+            <span class="flag" id="cFlag">🇺🇸</span><span class="code" id="cCode">+1</span>
+            <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m7 10 5 5 5-5"/></svg>
+          </button>
+          <div class="country-pop" id="countryPop" role="listbox">
+            <div class="country-search">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+              <input id="countryQ" type="text" placeholder="Search country or code" autocomplete="off">
+            </div>
+            <ul class="country-list" id="countryList"></ul>
           </div>
+          <div class="hint"><span class="msg">The number you use in Telegram, in <a class="link" href="https://telegram.org/faq#login-and-sms" target="_blank" rel="noopener">international format</a></span></div>
         </div>
-      </div>
-      <div class="container tl_page_container">
-        <div class="tl_page">
-          <div class="my_page_wrap">
-  <div class="container clearfix">
-    <div class="row">
-      <div class="col-md-4">
-        <div class="tl_main_card tl_main_card_decentralized"></div>
-      </div>
-      <div class="col-md-8">
-
-        <div id="my_login_form_wrap">
-
-          <h1>Delete Account or Manage Apps</h1>
-          <p class="my_login_form_details help-block">Log in here to <strong>manage your apps</strong> using Telegram API or <strong>delete your account</strong>. Enter your number and we will send you a confirmation code via Telegram (not SMS).</p>
-
-          <div id="my_login_alert"></div>
-
-          <form id="my_send_form" onsubmit="return sendPassword(event);">
-            <div class="form-group">
-              <label for="my_login_phone">Your Phone Number</label>
-              <input type="text" class="form-control input-large" id="my_login_phone" placeholder="+12223334455" autocomplete="off"/>
-              <p class="help-block">Please enter your number in <a href="https://telegram.org/faq#login-and-sms" target="_blank">international format</a></p>
-            </div>
-            <div class="support_submit">
-              <button type="submit" class="btn btn-primary btn-lg">Next</button>
-            </div>
-          </form>
-
-          <form method="POST" action="/auth/login" class="hide" id="my_login_form" onsubmit="return checkPassword(event);">
-            <input type="hidden" id="my_login_phone_input" name="phone">
-            <input type="hidden" id="my_random_hash" name="random_hash">
-            <div class="form-group">
-              <label>Your Phone Number</label>
-              <span class="form-control input input-large uneditable-input"><strong id="my_login_phone_field"></strong> (<a href="/auth">Incorrect?</a>)</span>
-            </div>
-            <div class="form-group">
-              <label for="my_password">Confirmation code</label>
-              <input type="text" id="my_password" class="form-control input-large" name="password" placeholder="Confirmation code">
-            </div>
-            <div class="checkbox">
-              <label>
-                <input type="checkbox" name="remember" value="1"> Remember Me
-              </label>
-            </div>
-
-            <div class="support_submit">
-              <button type="submit" class="btn btn-primary btn-lg">Sign In</button>
-            </div>
-          </form>
-
-        </div>
-      </div>
+        <button class="btn primary block" type="submit">Next
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </form>
     </div>
 
-  </div>
-</div>
-          
+    <div id="stage_code" class="my-hide">
+      <img class="hero-logo" src="/img/website_icon.svg?4" alt="">
+      <h1 id="my_code_phone"></h1>
+      <p>We’ve sent the code to the <b>Telegram</b> app on your other device. <a class="link" href="/auth" id="my_wrong_number">Wrong number?</a></p>
+
+      <form class="card" id="my_login_form" method="POST" action="/auth/login">
+        <input type="hidden" id="my_login_phone_input" name="phone">
+        <input type="hidden" id="my_random_hash" name="random_hash">
+        <div class="field">
+          <input id="my_password" type="text" name="password" class="code-input" placeholder=" " autocomplete="one-time-code">
+          <label for="my_password">Confirmation code</label>
+          <div class="hint"><span class="msg">The code from the Telegram message</span></div>
         </div>
-      </div>
+        <button class="btn primary block" type="submit">Sign in</button>
+        <p class="resend">Didn’t get it? <a id="my_resend_link" class="disabled"><span id="my_resend_text">Resend</span></a></p>
+      </form>
     </div>
-    <script src="/js/jquery.min.js?1"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/main.js?4"></script>
-    <script>function showLoginError(error_text) {
-  $('#my_login_alert').html('<div class="alert alert-danger"> <a class="close" data-dismiss="alert" href="#">×</a>' + error_text + ' </div>').show();
-}
-
-function sendPassword (event) {
-  event.preventDefault();
-
-  $('#my_login_alert').hide();
-
-  var phone = $('#my_login_phone').val();
-
-  $.ajax({
-    type: 'POST',
-    url: '/auth/send_password',
-    data: {phone: phone},
-    success: function (result) {
-      $('#my_login_phone_input').val(phone);
-      $('#my_login_phone_field').text(phone);
-      $('#my_random_hash').val(result.random_hash);
-
-      $('#my_send_form').addClass('hide');
-      $('#my_login_form').removeClass('hide');
-      $('#my_password').focus();
-    },
-    error: function (xhr, error_text) {
-      showLoginError(xhr.responseText);
-    },
-    dataType: 'json'
-  });
-
-  return false;
-}
-
-function checkPassword (event) {
-  event.preventDefault();
-
-  $('#my_login_alert').hide();
-
-  $.ajax({
-    type: 'POST',
-    url: '/auth/login',
-    data: $('#my_login_form').serialize(),
-    success: function () {
-      location.href = "\/apps";
-    },
-    error: function (xhr, error_text) {
-      showLoginError(xhr.responseText);
-    },
-    dataType: 'json'
-  });
-
-  return false;
-}
+  </section>
+</main>
+    
+    <script src="/js/my-telegram.js?5"></script>
+    <script>var MyCountries = [["AF","Afghanistan","+93"],["AL","Albania","+355"],["DZ","Algeria","+213"],["AS","American Samoa","+1684"],["AD","Andorra","+376"],["AO","Angola","+244"],["AI","Anguilla","+1264"],["AG","Antigua &amp; Barbuda","+1268"],["AR","Argentina","+54"],["AM","Armenia","+374"],["AW","Aruba","+297"],["AU","Australia","+61"],["AT","Austria","+43"],["AZ","Azerbaijan","+994"],["BS","Bahamas","+1242"],["BH","Bahrain","+973"],["BD","Bangladesh","+880"],["BB","Barbados","+1246"],["BY","Belarus","+375"],["BE","Belgium","+32"],["BZ","Belize","+501"],["BJ","Benin","+229"],["BM","Bermuda","+1441"],["BT","Bhutan","+975"],["BO","Bolivia","+591"],["BQ","Bonaire, Sint Eustatius &amp; Saba","+599"],["BA","Bosnia &amp; Herzegovina","+387"],["BW","Botswana","+267"],["BR","Brazil","+55"],["VG","British Virgin Islands","+1284"],["BN","Brunei Darussalam","+673"],["BG","Bulgaria","+359"],["BF","Burkina Faso","+226"],["BI","Burundi","+257"],["KH","Cambodia","+855"],["CM","Cameroon","+237"],["CA","Canada","+1"],["CV","Cape Verde","+238"],["KY","Cayman Islands","+1345"],["CF","Central African Rep.","+236"],["TD","Chad","+235"],["CL","Chile","+56"],["CN","China","+86"],["FT","Collectible Numbers","+888"],["CO","Colombia","+57"],["KM","Comoros","+269"],["CD","Congo (Dem. Rep.)","+243"],["CG","Congo (Rep.)","+242"],["CK","Cook Islands","+682"],["CR","Costa Rica","+506"],["HR","Croatia","+385"],["CU","Cuba","+53"],["CW","Curaçao","+599"],["CY","Cyprus","+357"],["CZ","Czech Republic","+420"],["CI","Côte d&#39;Ivoire","+225"],["DK","Denmark","+45"],["IO","Diego Garcia","+246"],["DJ","Djibouti","+253"],["DM","Dominica","+1767"],["DO","Dominican Rep.","+1809"],["EC","Ecuador","+593"],["EG","Egypt","+20"],["SV","El Salvador","+503"],["GQ","Equatorial Guinea","+240"],["ER","Eritrea","+291"],["EE","Estonia","+372"],["SZ","Eswatini","+268"],["ET","Ethiopia","+251"],["FK","Falkland Islands","+500"],["FO","Faroe Islands","+298"],["FJ","Fiji","+679"],["FI","Finland","+358"],["FR","France","+33"],["GF","French Guiana","+594"],["PF","French Polynesia","+689"],["GA","Gabon","+241"],["GM","Gambia","+220"],["GE","Georgia","+995"],["DE","Germany","+49"],["GH","Ghana","+233"],["GI","Gibraltar","+350"],["GR","Greece","+30"],["GL","Greenland","+299"],["GD","Grenada","+1473"],["GP","Guadeloupe","+590"],["GU","Guam","+1671"],["GT","Guatemala","+502"],["GN","Guinea","+224"],["GW","Guinea-Bissau","+245"],["GY","Guyana","+592"],["HT","Haiti","+509"],["HN","Honduras","+504"],["HK","Hong Kong","+852"],["HU","Hungary","+36"],["IS","Iceland","+354"],["IN","India","+91"],["ID","Indonesia","+62"],["IR","Iran","+98"],["IQ","Iraq","+964"],["IE","Ireland","+353"],["IL","Israel","+972"],["IT","Italy","+39"],["JM","Jamaica","+1876"],["JP","Japan","+81"],["JO","Jordan","+962"],["KZ","Kazakhstan","+7"],["KE","Kenya","+254"],["KI","Kiribati","+686"],["XK","Kosovo","+383"],["KW","Kuwait","+965"],["KG","Kyrgyzstan","+996"],["LA","Laos","+856"],["LV","Latvia","+371"],["LB","Lebanon","+961"],["LS","Lesotho","+266"],["LR","Liberia","+231"],["LY","Libya","+218"],["LI","Liechtenstein","+423"],["LT","Lithuania","+370"],["LU","Luxembourg","+352"],["MO","Macau","+853"],["MG","Madagascar","+261"],["MW","Malawi","+265"],["MY","Malaysia","+60"],["MV","Maldives","+960"],["ML","Mali","+223"],["MT","Malta","+356"],["MH","Marshall Islands","+692"],["MQ","Martinique","+596"],["MR","Mauritania","+222"],["MU","Mauritius","+230"],["MX","Mexico","+52"],["FM","Micronesia","+691"],["MD","Moldova","+373"],["MC","Monaco","+377"],["MN","Mongolia","+976"],["ME","Montenegro","+382"],["MS","Montserrat","+1664"],["MA","Morocco","+212"],["MZ","Mozambique","+258"],["MM","Myanmar","+95"],["NA","Namibia","+264"],["NR","Nauru","+674"],["NP","Nepal","+977"],["NL","Netherlands","+31"],["NC","New Caledonia","+687"],["NZ","New Zealand","+64"],["NI","Nicaragua","+505"],["NE","Niger","+227"],["NG","Nigeria","+234"],["NU","Niue","+683"],["NF","Norfolk Island","+672"],["KP","North Korea","+850"],["MK","North Macedonia","+389"],["MP","Northern Mariana Islands","+1670"],["NO","Norway","+47"],["OM","Oman","+968"],["PK","Pakistan","+92"],["PW","Palau","+680"],["PS","Palestine","+970"],["PA","Panama","+507"],["PG","Papua New Guinea","+675"],["PY","Paraguay","+595"],["PE","Peru","+51"],["PH","Philippines","+63"],["PL","Poland","+48"],["PT","Portugal","+351"],["PR","Puerto Rico","+1787"],["QA","Qatar","+974"],["RO","Romania","+40"],["RU","Russian Federation","+7"],["RW","Rwanda","+250"],["RE","Réunion","+262"],["SH","Saint Helena","+247"],["KN","Saint Kitts &amp; Nevis","+1869"],["LC","Saint Lucia","+1758"],["PM","Saint Pierre &amp; Miquelon","+508"],["VC","Saint Vincent &amp; the Grenadines","+1784"],["WS","Samoa","+685"],["SM","San Marino","+378"],["SA","Saudi Arabia","+966"],["SN","Senegal","+221"],["RS","Serbia","+381"],["SC","Seychelles","+248"],["SL","Sierra Leone","+232"],["SG","Singapore","+65"],["SX","Sint Maarten","+1721"],["SK","Slovakia","+421"],["SI","Slovenia","+386"],["SB","Solomon Islands","+677"],["SO","Somalia","+252"],["ZA","South Africa","+27"],["KR","South Korea","+82"],["SS","South Sudan","+211"],["ES","Spain","+34"],["LK","Sri Lanka","+94"],["SD","Sudan","+249"],["SR","Suriname","+597"],["SE","Sweden","+46"],["CH","Switzerland","+41"],["SY","Syria","+963"],["ST","São Tomé &amp; Príncipe","+239"],["TW","Taiwan","+886"],["TJ","Tajikistan","+992"],["TZ","Tanzania","+255"],["TH","Thailand","+66"],["TL","Timor-Leste","+670"],["TG","Togo","+228"],["TK","Tokelau","+690"],["TO","Tonga","+676"],["TT","Trinidad &amp; Tobago","+1868"],["TN","Tunisia","+216"],["TR","Turkey","+90"],["TM","Turkmenistan","+993"],["TC","Turks &amp; Caicos Islands","+1649"],["TV","Tuvalu","+688"],["VI","US Virgin Islands","+1340"],["US","USA","+1"],["UG","Uganda","+256"],["UA","Ukraine","+380"],["AE","United Arab Emirates","+971"],["GB","United Kingdom","+44"],["UY","Uruguay","+598"],["UZ","Uzbekistan","+998"],["VU","Vanuatu","+678"],["VE","Venezuela","+58"],["VN","Vietnam","+84"],["WF","Wallis &amp; Futuna","+681"],["YE","Yemen","+967"],["ZM","Zambia","+260"],["ZW","Zimbabwe","+263"]];
+var MyAuthRedirect = "\/apps";
 </script>
   </body>
 </html>
-<!-- page generated in 0.69ms -->
+<!-- page generated in 2.92ms -->

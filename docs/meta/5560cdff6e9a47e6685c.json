@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/api/end-to-end%2Fseq_no",
   "final_url": "https://core.telegram.org/api/end-to-end%2Fseq_no",
   "title": "Sequence numbers in Secret Chats",
-  "fetched_at": "2026-10-16T08:14:25Z",
+  "fetched_at": "2026-10-17T07:51:26Z",
   "sha256": "8c86253cc467c88e8b7f1503d4d05224ae7fc158f5b3f72e95d20f5864e15c30",
   "bytes": 15628,
   "content_type": "text/html; charset=utf-8",
