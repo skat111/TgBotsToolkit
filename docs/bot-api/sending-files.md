@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sending-files
-Snapshot: 2026-10-17T07:51:09Z
+Snapshot: 2026-10-18T08:05:06Z
 
 #### Sending files
 
