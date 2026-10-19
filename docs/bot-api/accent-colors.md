@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#accent-colors
-Snapshot: 2026-10-18T08:05:06Z
+Snapshot: 2026-10-19T08:57:15Z
 
 #### Accent colors
 

@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/payments.getStarGiftWithdrawalUrl",
   "final_url": "https://core.telegram.org/method/payments.getStarGiftWithdrawalUrl",
   "title": "payments.getStarGiftWithdrawalUrl",
-  "fetched_at": "2026-10-18T08:06:30Z",
+  "fetched_at": "2026-10-19T08:58:42Z",
   "sha256": "ab8075692826990cc5f581dba723890d955c3d60acc053ecfc8e35a8d1adbeaa",
   "bytes": 17126,
   "content_type": "text/html; charset=utf-8",

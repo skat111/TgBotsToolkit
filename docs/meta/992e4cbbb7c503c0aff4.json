@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/payments.getGiveawayInfo",
   "final_url": "https://core.telegram.org/method/payments.getGiveawayInfo",
   "title": "payments.getGiveawayInfo",
-  "fetched_at": "2026-10-18T08:06:29Z",
+  "fetched_at": "2026-10-19T08:58:41Z",
   "sha256": "edc374563d9a4be62171ccff4d72dd6696f233207a62313535d69b909319dce9",
   "bytes": 17474,
   "content_type": "text/html; charset=utf-8",
