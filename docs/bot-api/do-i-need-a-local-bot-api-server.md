@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#do-i-need-a-local-bot-api-server
-Snapshot: 2026-10-19T08:57:15Z
+Snapshot: 2026-10-20T08:36:25Z
 
 #### Do I need a Local Bot API Server
 

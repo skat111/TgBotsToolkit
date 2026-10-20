@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inlinequeryresultcachedmpeg4gif
-Snapshot: 2026-10-19T08:57:15Z
+Snapshot: 2026-10-20T08:36:25Z
 
 #### InlineQueryResultCachedMpeg4Gif
 
