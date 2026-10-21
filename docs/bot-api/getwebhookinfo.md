@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getwebhookinfo
-Snapshot: 2026-10-20T08:36:25Z
+Snapshot: 2026-10-21T08:37:52Z
 
 #### getWebhookInfo
 

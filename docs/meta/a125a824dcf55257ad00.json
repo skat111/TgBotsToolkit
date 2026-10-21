@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.sendQuickReplyMessages",
   "final_url": "https://core.telegram.org/method/messages.sendQuickReplyMessages",
   "title": "messages.sendQuickReplyMessages",
-  "fetched_at": "2026-10-20T08:38:34Z",
+  "fetched_at": "2026-10-21T08:39:33Z",
   "sha256": "7415a643a5c86e9975d47db78d079ea5241b7e355ff586d24af9a33f5dbf4674",
   "bytes": 20664,
   "content_type": "text/html; charset=utf-8",
