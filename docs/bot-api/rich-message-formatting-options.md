@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#rich-message-formatting-options
-Snapshot: 2026-10-22T08:40:09Z
+Snapshot: 2026-10-23T08:35:49Z
 
 #### Rich Message Formatting Options
 
