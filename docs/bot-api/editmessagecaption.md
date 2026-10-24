@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#editmessagecaption
-Snapshot: 2026-10-23T08:35:49Z
+Snapshot: 2026-10-24T08:10:53Z
 
 #### editMessageCaption
 
