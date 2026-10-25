@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#acceptedgifttypes
-Snapshot: 2026-10-24T08:10:53Z
+Snapshot: 2026-10-25T08:28:42Z
 
 #### AcceptedGiftTypes
 
