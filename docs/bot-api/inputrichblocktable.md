@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inputrichblocktable
-Snapshot: 2026-10-26T09:00:00Z
+Snapshot: 2026-10-27T09:03:51Z
 
 #### InputRichBlockTable
 
