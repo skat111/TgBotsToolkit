@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richblockparagraph
-Snapshot: 2026-10-27T09:03:51Z
+Snapshot: 2026-10-28T09:43:43Z
 
 #### RichBlockParagraph
 
