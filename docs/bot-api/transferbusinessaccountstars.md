@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#transferbusinessaccountstars
-Snapshot: 2026-10-30T10:05:25Z
+Snapshot: 2026-10-31T09:42:22Z
 
 #### transferBusinessAccountStars
 
