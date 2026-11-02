@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/channels.updateEmojiStatus",
   "final_url": "https://core.telegram.org/method/channels.updateEmojiStatus",
   "title": "channels.updateEmojiStatus",
-  "fetched_at": "2026-11-01T10:33:08Z",
+  "fetched_at": "2026-11-02T11:16:51Z",
   "sha256": "29b4545506e76f720ceedbcd0af79cfbfb2be0801c27c7e5d48e715401c95c3d",
   "bytes": 19844,
   "content_type": "text/html; charset=utf-8",

@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richtextspoiler
-Snapshot: 2026-11-01T10:31:24Z
+Snapshot: 2026-11-02T11:15:04Z
 
 #### RichTextSpoiler
 

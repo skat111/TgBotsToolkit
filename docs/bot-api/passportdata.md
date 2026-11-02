@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#passportdata
-Snapshot: 2026-11-01T10:31:24Z
+Snapshot: 2026-11-02T11:15:04Z
 
 #### PassportData
 
