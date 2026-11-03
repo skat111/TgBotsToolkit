@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/help.getNearestDc",
   "final_url": "https://core.telegram.org/method/help.getNearestDc",
   "title": "help.getNearestDc",
-  "fetched_at": "2026-11-02T11:16:54Z",
+  "fetched_at": "2026-11-03T10:57:11Z",
   "sha256": "d8b8d362b412607d9488f0b671c6893b647a10754b7a40dc27c4c9e68c9c66da",
   "bytes": 15027,
   "content_type": "text/html; charset=utf-8",

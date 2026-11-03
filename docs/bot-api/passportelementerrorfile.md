@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#passportelementerrorfile
-Snapshot: 2026-11-02T11:15:04Z
+Snapshot: 2026-11-03T10:56:07Z
 
 #### PassportElementErrorFile
 
