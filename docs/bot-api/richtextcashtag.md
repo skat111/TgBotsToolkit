@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richtextcashtag
-Snapshot: 2026-11-03T10:56:07Z
+Snapshot: 2026-11-04T10:59:30Z
 
 #### RichTextCashtag
 

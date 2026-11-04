@@ -2,11 +2,15 @@
   "url": "https://core.telegram.org/myapp",
   "final_url": "https://my.telegram.org/auth?to=apps",
   "title": "Authorization",
-  "fetched_at": "2026-11-03T10:57:27Z",
-  "sha256": "8b633c5307080910f9d9212862c1229f12f9dbc2a530160c08a857cb352e4cda",
-  "bytes": 10960,
+  "fetched_at": "2026-11-04T11:01:40Z",
+  "sha256": "3b038acbb4139d0c70ed72db3df5dd0d19077d985bbfb067f80a511d3b8373ea",
+  "bytes": 21922,
   "content_type": "text/html; charset=utf-8",
   "raw": "docs/raw/f0d9613cba5aa033762b.html",
   "markdown": "docs/pages/f0d9613cba5aa033762b.md",
-  "links": []
+  "links": [
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/api/terms",
+    "https://core.telegram.org/tdlib"
+  ]
 }
