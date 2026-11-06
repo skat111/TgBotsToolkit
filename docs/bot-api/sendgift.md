@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sendgift
-Snapshot: 2026-11-05T10:59:33Z
+Snapshot: 2026-11-06T10:57:39Z
 
 #### sendGift
 
