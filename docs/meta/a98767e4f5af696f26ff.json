@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/stickers.changeStickerPosition",
   "final_url": "https://core.telegram.org/method/stickers.changeStickerPosition",
   "title": "stickers.changeStickerPosition",
-  "fetched_at": "2026-11-07T10:18:27Z",
+  "fetched_at": "2026-11-08T10:29:17Z",
   "sha256": "4a10cdb74e8ce012633a8d3b5f37699e910696689f64e24274420efad081bf20",
   "bytes": 16437,
   "content_type": "text/html; charset=utf-8",

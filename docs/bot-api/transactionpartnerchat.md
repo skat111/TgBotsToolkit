@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#transactionpartnerchat
-Snapshot: 2026-11-07T10:16:45Z
+Snapshot: 2026-11-08T10:27:12Z
 
 #### TransactionPartnerChat
 

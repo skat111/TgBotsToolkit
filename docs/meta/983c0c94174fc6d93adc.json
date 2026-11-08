@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/account.getPasswordSettings",
   "final_url": "https://core.telegram.org/method/account.getPasswordSettings",
   "title": "account.getPasswordSettings",
-  "fetched_at": "2026-11-07T10:18:00Z",
+  "fetched_at": "2026-11-08T10:28:44Z",
   "sha256": "3eb852e95e8137db787a1a9149a09cea8ce40635c48fb3f80c083b0090fce4ef",
   "bytes": 16607,
   "content_type": "text/html; charset=utf-8",
