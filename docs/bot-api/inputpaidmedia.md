@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inputpaidmedia
-Snapshot: 2026-11-08T10:27:12Z
+Snapshot: 2026-11-09T11:38:14Z
 
 #### InputPaidMedia
 

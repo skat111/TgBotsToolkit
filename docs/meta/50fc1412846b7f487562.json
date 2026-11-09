@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/payments.getStarsTransactions",
   "final_url": "https://core.telegram.org/method/payments.getStarsTransactions",
   "title": "payments.getStarsTransactions",
-  "fetched_at": "2026-11-08T10:29:12Z",
+  "fetched_at": "2026-11-09T11:39:56Z",
   "sha256": "013b53063efcdf28831345c44277ba7967cd7f7d692b121c205e3f3a2ec86443",
   "bytes": 20135,
   "content_type": "text/html; charset=utf-8",

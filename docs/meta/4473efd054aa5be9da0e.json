@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/bots.getBotMenuButton",
   "final_url": "https://core.telegram.org/method/bots.getBotMenuButton",
   "title": "bots.getBotMenuButton",
-  "fetched_at": "2026-11-08T10:28:49Z",
+  "fetched_at": "2026-11-09T11:39:36Z",
   "sha256": "eab73830b937ce4500271484e4a9f809ee3b1b88a0c34a266174aa1086d52c45",
   "bytes": 16725,
   "content_type": "text/html; charset=utf-8",
