@@ -1,5 +1,5 @@
 {
-  "saved": 9738,
+  "saved": 9739,
   "fetch_errors": [
     {
       "url": "https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1chat_list_filter.html",
@@ -14,12 +14,12 @@
       "error": "404 Client Error: Not Found for url: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1update_chat_message_ttl.html"
     }
   ],
-  "raw_bytes": 209834598,
+  "raw_bytes": 210028210,
   "groups": {
     "animated_stickers": 1,
     "api": 159,
     "articles": 1,
-    "bots": 22,
+    "bots": 23,
     "bug-bounty": 1,
     "cdn": 3,
     "constructor": 1615,
@@ -45,5 +45,5 @@
     "widgets": 7
   },
   "verification_failures": [],
-  "bot_api_sections": 601
+  "bot_api_sections": 636
 }

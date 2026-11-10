@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sendanimation
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### sendAnimation
 
@@ -8,7 +8,7 @@ Use this method to send animation files (GIF or H.264/MPEG-4 AVC video without s
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | business_connection_id | String | Optional | Unique identifier of the business connection on behalf of which the message will be sent |
-| chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot, supergroup or channel in the format `@username` |
+| chat_id | Integer or String | Optional | Unique identifier for the target chat or username of the target bot, supergroup, or channel in the format `@username`; required unless the message is sent as an ephemeral reply to a callback query |
 | message_thread_id | Integer | Optional | Unique identifier for the target message thread (topic) of a forum; for forum supergroups and private chats of bots with forum topic mode enabled only |
 | direct_messages_topic_id | Integer | Optional | Identifier of the direct messages topic to which the message will be sent; required if the message is sent to a direct messages chat |
 | ephemeral_message_parameters | [EphemeralMessageParameters](https://core.telegram.org/bots/api#ephemeralmessageparameters) | Optional | A JSON-serialized object containing the parameters of the ephemeral message to send |

@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deletemessage
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### deleteMessage
 
@@ -17,5 +17,5 @@ Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
-| chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot, supergroup or channel in the format `@username` |
+| chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot, supergroup, or channel in the format `@username` |
 | message_id | Integer | Yes | Identifier of the message to delete |

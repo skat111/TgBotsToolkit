@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#message
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### Message
 
@@ -57,9 +57,10 @@ This object represents a message.
 | video | [Video](https://core.telegram.org/bots/api#video) | *Optional*. Message is a video, information about the video |
 | video_note | [VideoNote](https://core.telegram.org/bots/api#videonote) | *Optional*. Message is a [video note](https://telegram.org/blog/video-messages-and-telescope), information about the video message |
 | voice | [Voice](https://core.telegram.org/bots/api#voice) | *Optional*. Message is a voice message, information about the file |
-| caption | String | *Optional*. Caption for the animation, audio, document, paid media, photo, video or voice |
+| widget | [Widget](https://core.telegram.org/bots/api#widget) | *Optional*. Message is an HTML widget, information about the widget |
+| caption | String | *Optional*. Caption for the animation, audio, document, live photo, paid media, photo, video, voice, or widget |
 | caption_entities | Array of [MessageEntity](https://core.telegram.org/bots/api#messageentity) | *Optional*. For messages with a caption, special entities like usernames, URLs, bot commands, etc. that appear in the caption |
-| show_caption_above_media | True | *Optional*. *True*, if the caption must be shown above the message media |
+| show_caption_above_media | True | *Optional*. *True*, if the caption must be shown above the message media or the widget |
 | has_media_spoiler | True | *Optional*. *True*, if the message media is covered by a spoiler animation |
 | checklist | [Checklist](https://core.telegram.org/bots/api#checklist) | *Optional*. Message is a checklist |
 | contact | [Contact](https://core.telegram.org/bots/api#contact) | *Optional*. Message is a shared contact, information about the contact |
@@ -114,6 +115,7 @@ This object represents a message.
 | giveaway_completed | [GiveawayCompleted](https://core.telegram.org/bots/api#giveawaycompleted) | *Optional*. Service message: a giveaway without public winners was completed |
 | managed_bot_created | [ManagedBotCreated](https://core.telegram.org/bots/api#managedbotcreated) | *Optional*. Service message: user created a bot that will be managed by the current bot |
 | paid_message_price_changed | [PaidMessagePriceChanged](https://core.telegram.org/bots/api#paidmessagepricechanged) | *Optional*. Service message: the price for paid messages has changed in the chat |
+| paid_messages_waived | [PaidMessagesWaived](https://core.telegram.org/bots/api#paidmessageswaived) | *Optional*. Service message: the sender of the message used a link of the other user, which allows sending messages to the user without paying Telegram Stars |
 | poll_option_added | [PollOptionAdded](https://core.telegram.org/bots/api#polloptionadded) | *Optional*. Service message: answer option was added to a poll |
 | poll_option_deleted | [PollOptionDeleted](https://core.telegram.org/bots/api#polloptiondeleted) | *Optional*. Service message: answer option was deleted from a poll |
 | suggested_post_approved | [SuggestedPostApproved](https://core.telegram.org/bots/api#suggestedpostapproved) | *Optional*. Service message: a suggested post was approved |
@@ -121,6 +123,7 @@ This object represents a message.
 | suggested_post_declined | [SuggestedPostDeclined](https://core.telegram.org/bots/api#suggestedpostdeclined) | *Optional*. Service message: a suggested post was declined |
 | suggested_post_paid | [SuggestedPostPaid](https://core.telegram.org/bots/api#suggestedpostpaid) | *Optional*. Service message: payment for a suggested post was received |
 | suggested_post_refunded | [SuggestedPostRefunded](https://core.telegram.org/bots/api#suggestedpostrefunded) | *Optional*. Service message: payment for a suggested post was refunded |
+| ton_wallet_transfer | [TonWalletTransfer](https://core.telegram.org/bots/api#tonwallettransfer) | *Optional*. Service message: a transfer with a TON wallet |
 | video_chat_scheduled | [VideoChatScheduled](https://core.telegram.org/bots/api#videochatscheduled) | *Optional*. Service message: video chat scheduled |
 | video_chat_started | [VideoChatStarted](https://core.telegram.org/bots/api#videochatstarted) | *Optional*. Service message: video chat started |
 | video_chat_ended | [VideoChatEnded](https://core.telegram.org/bots/api#videochatended) | *Optional*. Service message: video chat ended |

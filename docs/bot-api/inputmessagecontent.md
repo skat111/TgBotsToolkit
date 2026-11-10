@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inputmessagecontent
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### InputMessageContent
 
@@ -11,3 +11,5 @@ This object represents the content of a message to be sent as a result of an inl
 * [InputVenueMessageContent](https://core.telegram.org/bots/api#inputvenuemessagecontent)
 * [InputContactMessageContent](https://core.telegram.org/bots/api#inputcontactmessagecontent)
 * [InputInvoiceMessageContent](https://core.telegram.org/bots/api#inputinvoicemessagecontent)
+* [InputWidgetMessageContent](https://core.telegram.org/bots/api#inputwidgetmessagecontent)
+* [InputSharedWidgetMessageContent](https://core.telegram.org/bots/api#inputsharedwidgetmessagecontent)

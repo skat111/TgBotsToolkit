@@ -185,6 +185,7 @@ Reachable query-free links on core.telegram.org, plus telegra.ph/api. Common ass
 - [From BotFather to 'Hello World'](pages/a0e2397145f829ce23a3.md) — https://core.telegram.org/bots/tutorial
 - [Telegram Mini Apps](pages/cf59d799e82d4031ec8c.md) — https://core.telegram.org/bots/webapps
 - [Marvin's Marvellous Guide to All Things Webhook](pages/765e4b522aa0650c4bbf.md) — https://core.telegram.org/bots/webhooks
+- [Telegram Widgets](pages/9b654e89e5bb7cb5ef8c.md) — https://core.telegram.org/bots/widgets
 - [Telegram Bug Bounty Program](pages/4654e758455ffe4ff98b.md) — https://core.telegram.org/bug-bounty
 - [Encrypted CDNs for Speed and Security](pages/61eb8a623d2826afaec4.md) — https://core.telegram.org/cdn
 - [شبکه‌های تحویل محتوا (CDN) رمزنگاری شده](pages/051551f95d59bde5d02b.md) — https://core.telegram.org/cdn/faq_ir

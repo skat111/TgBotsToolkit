@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#update
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### Update
 
@@ -23,6 +23,8 @@ At most **one** of the optional fields can be present in any given update.
 | inline_query | [InlineQuery](https://core.telegram.org/bots/api#inlinequery) | *Optional*. New incoming [inline](https://core.telegram.org/bots/api#inline-mode) query |
 | chosen_inline_result | [ChosenInlineResult](https://core.telegram.org/bots/api#choseninlineresult) | *Optional*. The result of an [inline](https://core.telegram.org/bots/api#inline-mode) query that was chosen by a user and sent to their chat partner. Please see our documentation on the [feedback collecting](https://core.telegram.org/bots/inline#collecting-feedback) for details on how to enable these updates for your bot. |
 | callback_query | [CallbackQuery](https://core.telegram.org/bots/api#callbackquery) | *Optional*. New incoming callback query |
+| widget_query | [WidgetQuery](https://core.telegram.org/bots/api#widgetquery) | *Optional*. New incoming query from a widget in a message sent by the bot or via the bot |
+| shared_widget_query | [SharedWidgetQuery](https://core.telegram.org/bots/api#sharedwidgetquery) | *Optional*. New incoming query from a forwarded message with a shared widget |
 | shipping_query | [ShippingQuery](https://core.telegram.org/bots/api#shippingquery) | *Optional*. New incoming shipping query. Only for invoices with flexible price. |
 | pre_checkout_query | [PreCheckoutQuery](https://core.telegram.org/bots/api#precheckoutquery) | *Optional*. New incoming pre-checkout query. Contains full information about checkout. |
 | purchased_paid_media | [PaidMediaPurchased](https://core.telegram.org/bots/api#paidmediapurchased) | *Optional*. A user purchased paid media with a non-empty payload sent by the bot in a non-channel chat |

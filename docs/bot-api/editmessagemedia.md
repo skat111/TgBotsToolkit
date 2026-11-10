@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#editmessagemedia
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### editMessageMedia
 
@@ -8,7 +8,7 @@ Use this method to edit animation, audio, document, live photo, photo, or video 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | business_connection_id | String | Optional | Unique identifier of the business connection on behalf of which the message to be edited was sent |
-| chat_id | Integer or String | Optional | Required if *inline_message_id* is not specified. Unique identifier for the target chat or username of the target bot, supergroup or channel in the format `@username`. |
+| chat_id | Integer or String | Optional | Required if *inline_message_id* is not specified. Unique identifier for the target chat or username of the target bot, supergroup, or channel in the format `@username`. |
 | message_id | Integer | Optional | Required if *inline_message_id* is not specified. Identifier of the message to edit. |
 | inline_message_id | String | Optional | Required if *chat_id* and *message_id* are not specified. Identifier of the inline message. |
 | media | [InputMedia](https://core.telegram.org/bots/api#inputmedia) | Yes | A JSON-serialized object for the new media content of the message |

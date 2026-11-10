@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatfullinfo
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### ChatFullInfo
 
@@ -60,3 +60,5 @@ This object contains full information about a chat.
 | paid_message_star_count | Integer | *Optional*. The number of Telegram Stars a general user has to pay to send a message to the chat |
 | guard_bot | [User](https://core.telegram.org/bots/api#user) | *Optional*. The bot that processes join request queries in the chat. The field is only available to chat administrators. |
 | community | [Community](https://core.telegram.org/bots/api#community) | *Optional*. The [Community](https://core.telegram.org/bots/api#community) to which the chat belongs |
+| ton_wallet_card | [TonWalletCard](https://core.telegram.org/bots/api#tonwalletcard) | *Optional*. For private chats, the TON wallet card of the user, which is shown on their profile page |
+| share_theme | [ChatShareTheme](https://core.telegram.org/bots/api#chatsharetheme) | *Optional*. For private chats, supergroups and channels, the theme of the screen for sharing a link to the user or the chat; omitted if the default theme is used |

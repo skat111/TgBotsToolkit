@@ -1,0 +1,21 @@
+{
+  "url": "https://core.telegram.org/bots/widgets",
+  "final_url": "https://core.telegram.org/bots/widgets",
+  "title": "Telegram Widgets",
+  "fetched_at": "2026-11-10T11:16:54Z",
+  "sha256": "0b6727f7325ce17a173ed8bf7ee17be260c64daa465c54261c84b21191eb7bec",
+  "bytes": 143227,
+  "content_type": "text/html; charset=utf-8",
+  "raw": "docs/raw/9b654e89e5bb7cb5ef8c.html",
+  "markdown": "docs/pages/9b654e89e5bb7cb5ef8c.md",
+  "links": [
+    "https://core.telegram.org/",
+    "https://core.telegram.org/api",
+    "https://core.telegram.org/bots",
+    "https://core.telegram.org/bots/api",
+    "https://core.telegram.org/bots/webapps",
+    "https://core.telegram.org/bots/widgets",
+    "https://core.telegram.org/mtproto",
+    "https://core.telegram.org/schema"
+  ]
+}

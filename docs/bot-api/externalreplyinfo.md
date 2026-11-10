@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#externalreplyinfo
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### ExternalReplyInfo
 
@@ -22,6 +22,7 @@ This object contains information about a message that is being replied to, which
 | video | [Video](https://core.telegram.org/bots/api#video) | *Optional*. Message is a video, information about the video |
 | video_note | [VideoNote](https://core.telegram.org/bots/api#videonote) | *Optional*. Message is a [video note](https://telegram.org/blog/video-messages-and-telescope), information about the video message |
 | voice | [Voice](https://core.telegram.org/bots/api#voice) | *Optional*. Message is a voice message, information about the file |
+| widget | [Widget](https://core.telegram.org/bots/api#widget) | *Optional*. Message is an HTML widget, information about the widget |
 | has_media_spoiler | True | *Optional*. *True*, if the message media is covered by a spoiler animation |
 | checklist | [Checklist](https://core.telegram.org/bots/api#checklist) | *Optional*. Message is a checklist |
 | contact | [Contact](https://core.telegram.org/bots/api#contact) | *Optional*. Message is a shared contact, information about the contact |

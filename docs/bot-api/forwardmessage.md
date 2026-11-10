@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#forwardmessage
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### forwardMessage
 
@@ -7,10 +7,10 @@ Use this method to forward messages of any kind. Service messages and messages w
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
-| chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot, supergroup or channel in the format `@username` |
+| chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot, supergroup, or channel in the format `@username` |
 | message_thread_id | Integer | Optional | Unique identifier for the target message thread (topic) of a forum; for forum supergroups and private chats of bots with forum topic mode enabled only |
 | direct_messages_topic_id | Integer | Optional | Identifier of the direct messages topic to which the message will be forwarded; required if the message is forwarded to a direct messages chat |
-| from_chat_id | Integer or String | Yes | Unique identifier for the chat where the original message was sent (or username of the target bot, supergroup or channel in the format `@username`) |
+| from_chat_id | Integer or String | Yes | Unique identifier for the chat where the original message was sent (or username of the target bot, supergroup, or channel in the format `@username`) |
 | video_start_timestamp | Integer | Optional | New start timestamp for the forwarded video in the message |
 | disable_notification | Boolean | Optional | Sends the message [silently](https://telegram.org/blog/channels-2-0#silent-messages). Users will receive a notification with no sound. |
 | protect_content | Boolean | Optional | Protects the contents of the forwarded message from forwarding and saving |

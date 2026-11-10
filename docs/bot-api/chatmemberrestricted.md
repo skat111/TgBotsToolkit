@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatmemberrestricted
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### ChatMemberRestricted
 
@@ -19,7 +19,7 @@ Represents a [chat member](https://core.telegram.org/bots/api#chatmember) that i
 | can_send_video_notes | Boolean | *True*, if the user is allowed to send video notes |
 | can_send_voice_notes | Boolean | *True*, if the user is allowed to send voice notes |
 | can_send_polls | Boolean | *True*, if the user is allowed to send polls and checklists |
-| can_send_other_messages | Boolean | *True*, if the user is allowed to send animations, games, stickers and use inline bots |
+| can_send_other_messages | Boolean | *True*, if the user is allowed to send animations, games, stickers, widgets and use inline bots |
 | can_add_web_page_previews | Boolean | *True*, if the user is allowed to add web page previews to their messages |
 | can_react_to_messages | Boolean | *True*, if the user is allowed to react to messages |
 | can_edit_tag | Boolean | *True*, if the user is allowed to edit their own tag |

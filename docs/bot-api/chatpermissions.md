@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatpermissions
-Snapshot: 2026-11-09T11:38:14Z
+Snapshot: 2026-11-10T11:16:42Z
 
 #### ChatPermissions
 
@@ -15,7 +15,7 @@ Describes actions that a non-administrator user is allowed to take in a chat.
 | can_send_video_notes | Boolean | *Optional*. *True*, if the user is allowed to send video notes |
 | can_send_voice_notes | Boolean | *Optional*. *True*, if the user is allowed to send voice notes |
 | can_send_polls | Boolean | *Optional*. *True*, if the user is allowed to send polls and checklists |
-| can_send_other_messages | Boolean | *Optional*. *True*, if the user is allowed to send animations, games, stickers and use inline bots |
+| can_send_other_messages | Boolean | *Optional*. *True*, if the user is allowed to send animations, games, stickers, widgets and use inline bots |
 | can_add_web_page_previews | Boolean | *Optional*. *True*, if the user is allowed to add web page previews to their messages |
 | can_react_to_messages | Boolean | *Optional*. *True*, if the user is allowed to react to messages. If omitted, defaults to the value of *can_send_messages*. |
 | can_edit_tag | Boolean | *Optional*. *True*, if the user is allowed to edit their own tag. If omitted, defaults to the value of *can_pin_messages*. |
