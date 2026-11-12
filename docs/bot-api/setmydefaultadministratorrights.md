@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#setmydefaultadministratorrights
-Snapshot: 2026-11-11T11:02:11Z
+Snapshot: 2026-11-12T11:19:03Z
 
 #### setMyDefaultAdministratorRights
 

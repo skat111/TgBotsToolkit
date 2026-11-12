@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.toggleDialogFilterTags",
   "final_url": "https://core.telegram.org/method/messages.toggleDialogFilterTags",
   "title": "messages.toggleDialogFilterTags",
-  "fetched_at": "2026-11-11T11:04:13Z",
+  "fetched_at": "2026-11-12T11:20:28Z",
   "sha256": "f942683d3c316354d9b19f5160f862dff0c736862f3535f4d14bf1eb2b8a7ab5",
   "bytes": 15863,
   "content_type": "text/html; charset=utf-8",
