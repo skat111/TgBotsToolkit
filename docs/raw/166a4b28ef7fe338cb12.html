@@ -428,7 +428,7 @@ Telegram.Passport.createAuthButton('telegram_passport_login_btn', function() {
     <script src="/js/main-theme.js?6"></script>
     <script>function updatePending() {
   $.ajax({
-    url: '/loadpassport?hash=a3a8be30f6157202bd',
+    url: '/loadpassport?hash=64138ea69adb1a6739',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
@@ -537,7 +537,7 @@ function updateForm() {
     form.ad_mode[i].disabled = (ad_sel_cnt <= 1);
   }
 }
-var authOptions = {"bot_id":543260180,"public_key":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv6m1zBF8lZOCqcxf8hnj\nkvHwuWdU8s4rBWaxKXH\/vDDUklcCS5uhSnmjhxWca9suubaG3lW4HxlCilkeJPVf\njimg5Q8ZqWrR3OoOihEpcG9iJZTOEpsEk7VtEiabgacBG3Quv9JslTrDe95Fn801\nt9d21HXwgMrHeHpWDOn31Dr+woEH+kwySUWa6L\/ZbnGwSNP7eeDTE7Amz1RMDk3t\n8EWGq58u0IQatPcEH09aUQlKzk6MIiALkZ9ILBKCBk6d2WCokKnsdBctovNbxwSx\nhP1qst1r+Yc8iPBZozsDC0ZsC5jXCkcODI3OC0tkNtYzN2XKalW5R0DjDRUDmGhT\nzQIDAQAB\n-----END PUBLIC KEY-----\n","nonce":"33c809970885960aae71bc5371997b23_55565721_a1f728fdfc87ab5de0","callback_url":"https:\/\/core.telegram.org\/passport\/example?passport_ssid=33c809970885960aae71bc5371997b23_55565721_0e47271119cbfc960a"};
+var authOptions = {"bot_id":543260180,"public_key":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv6m1zBF8lZOCqcxf8hnj\nkvHwuWdU8s4rBWaxKXH\/vDDUklcCS5uhSnmjhxWca9suubaG3lW4HxlCilkeJPVf\njimg5Q8ZqWrR3OoOihEpcG9iJZTOEpsEk7VtEiabgacBG3Quv9JslTrDe95Fn801\nt9d21HXwgMrHeHpWDOn31Dr+woEH+kwySUWa6L\/ZbnGwSNP7eeDTE7Amz1RMDk3t\n8EWGq58u0IQatPcEH09aUQlKzk6MIiALkZ9ILBKCBk6d2WCokKnsdBctovNbxwSx\nhP1qst1r+Yc8iPBZozsDC0ZsC5jXCkcODI3OC0tkNtYzN2XKalW5R0DjDRUDmGhT\nzQIDAQAB\n-----END PUBLIC KEY-----\n","nonce":"43f7de277b5971c7ad195ced48c3e66d_35293723_676db125a671fc744c","callback_url":"https:\/\/core.telegram.org\/passport\/example?passport_ssid=43f7de277b5971c7ad195ced48c3e66d_35293723_46f5f9c239adf8ee6b"};
 function initPassportData(data) {
   window.passportData = data;
 }
@@ -573,7 +573,7 @@ function sendErrors(el) {
 }
 function restartAuth() {
   $.ajax({
-    url: '/restartpassport?hash=a3a8be30f6157202bd',
+    url: '/restartpassport?hash=64138ea69adb1a6739',
     type: 'GET',
   });
   $('#telegram_passport_form').show();
@@ -589,4 +589,4 @@ removePreloadInit();
 </script>
   </body>
 </html>
-<!-- page generated in 5.9ms -->
+<!-- page generated in 7.24ms -->
