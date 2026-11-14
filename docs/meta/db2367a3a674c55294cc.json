@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/payments.editConnectedStarRefBot",
   "final_url": "https://core.telegram.org/method/payments.editConnectedStarRefBot",
   "title": "payments.editConnectedStarRefBot",
-  "fetched_at": "2026-11-13T11:05:47Z",
+  "fetched_at": "2026-11-14T10:32:47Z",
   "sha256": "b6e1413f4f48640498fcf5b7d75573ccbfee30463e86b26373a3fb69f3bad24b",
   "bytes": 17025,
   "content_type": "text/html; charset=utf-8",

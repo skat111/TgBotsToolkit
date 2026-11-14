@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deletemessage
-Snapshot: 2026-11-13T11:03:46Z
+Snapshot: 2026-11-14T10:30:31Z
 
 #### deleteMessage
 
