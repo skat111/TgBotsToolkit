@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deletemycommands
-Snapshot: 2026-11-14T10:30:31Z
+Snapshot: 2026-11-15T10:58:56Z
 
 #### deleteMyCommands
 

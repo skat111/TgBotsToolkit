@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.getBotApp",
   "final_url": "https://core.telegram.org/method/messages.getBotApp",
   "title": "messages.getBotApp",
-  "fetched_at": "2026-11-14T10:32:35Z",
+  "fetched_at": "2026-11-15T11:00:21Z",
   "sha256": "e61b0af32ea908522d37809e6bf1ea00b31892a32ee6f278c56fc0cbf65ecf70",
   "bytes": 17029,
   "content_type": "text/html; charset=utf-8",

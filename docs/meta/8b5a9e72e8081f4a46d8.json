@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/langpack.getLanguages",
   "final_url": "https://core.telegram.org/method/langpack.getLanguages",
   "title": "langpack.getLanguages",
-  "fetched_at": "2026-11-14T10:32:31Z",
+  "fetched_at": "2026-11-15T11:00:19Z",
   "sha256": "55d19793332b0b68399c7d36d347611306c63aa62b83c300970e333c6691e830",
   "bytes": 15702,
   "content_type": "text/html; charset=utf-8",
