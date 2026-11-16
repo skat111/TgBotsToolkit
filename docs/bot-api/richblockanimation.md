@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richblockanimation
-Snapshot: 2026-11-15T10:58:56Z
+Snapshot: 2026-11-16T11:26:58Z
 
 #### RichBlockAnimation
 

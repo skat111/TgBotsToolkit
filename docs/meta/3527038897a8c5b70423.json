@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/type/PasswordKdfAlgo",
   "final_url": "https://core.telegram.org/type/PasswordKdfAlgo",
   "title": "PasswordKdfAlgo",
-  "fetched_at": "2026-11-15T11:04:34Z",
+  "fetched_at": "2026-11-16T11:33:54Z",
   "sha256": "bf12ebac4b2efbb7322a31fb719bc22f48e1ae92b0ab07c8a8349eebaedf1a0d",
   "bytes": 15634,
   "content_type": "text/html; charset=utf-8",
