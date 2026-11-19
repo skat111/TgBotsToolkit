@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#ephemeral-messages-and-commands
-Snapshot: 2026-11-18T11:47:50Z
+Snapshot: 2026-11-19T11:44:20Z
 
 #### Ephemeral Messages and Commands
 

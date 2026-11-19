@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/help.getAppConfig",
   "final_url": "https://core.telegram.org/method/help.getAppConfig",
   "title": "help.getAppConfig",
-  "fetched_at": "2026-11-18T11:49:23Z",
+  "fetched_at": "2026-11-19T11:45:42Z",
   "sha256": "35d33313fadc0e45d4005ca867f14910de454576d7bdfe55e28cc2e8a9f7b67d",
   "bytes": 16355,
   "content_type": "text/html; charset=utf-8",

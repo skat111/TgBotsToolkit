@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/constructor/auth.sentCodeTypeEmailCode",
   "final_url": "https://core.telegram.org/constructor/auth.sentCodeTypeEmailCode",
   "title": "auth.sentCodeTypeEmailCode",
-  "fetched_at": "2026-11-18T11:48:08Z",
+  "fetched_at": "2026-11-19T11:44:37Z",
   "sha256": "879a0c0d03e0e52932402718b05f00140f62168fed1031c9f8c4ac0dbaaaa399",
   "bytes": 17900,
   "content_type": "text/html; charset=utf-8",
