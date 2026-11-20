@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/fragment.getCollectibleInfo",
   "final_url": "https://core.telegram.org/method/fragment.getCollectibleInfo",
   "title": "fragment.getCollectibleInfo",
-  "fetched_at": "2026-11-19T11:45:42Z",
+  "fetched_at": "2026-11-20T11:46:25Z",
   "sha256": "f34b92615cdf27d6c2cc382d165c212eac834f6edb5cf5ce1b00466bbd9a3f80",
   "bytes": 16724,
   "content_type": "text/html; charset=utf-8",

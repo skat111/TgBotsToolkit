@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#november-9-2026
-Snapshot: 2026-11-19T11:44:20Z
+Snapshot: 2026-11-20T11:45:07Z
 
 #### November 9, 2026
 
