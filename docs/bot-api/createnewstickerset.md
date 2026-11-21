@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#createnewstickerset
-Snapshot: 2026-11-20T11:45:07Z
+Snapshot: 2026-11-21T11:09:20Z
 
 #### createNewStickerSet
 

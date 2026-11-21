@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#unbanchatsenderchat
-Snapshot: 2026-11-20T11:45:07Z
+Snapshot: 2026-11-21T11:09:20Z
 
 #### unbanChatSenderChat
 
