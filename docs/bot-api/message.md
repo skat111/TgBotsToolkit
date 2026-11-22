@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#message
-Snapshot: 2026-11-21T11:09:20Z
+Snapshot: 2026-11-22T11:29:57Z
 
 #### Message
 
@@ -92,7 +92,7 @@ This object represents a message.
 | unique_gift | [UniqueGiftInfo](https://core.telegram.org/bots/api#uniquegiftinfo) | *Optional*. Service message: a unique gift was sent or received |
 | gift_upgrade_sent | [GiftInfo](https://core.telegram.org/bots/api#giftinfo) | *Optional*. Service message: upgrade of a gift was purchased after the gift was sent |
 | connected_website | String | *Optional*. The domain name of the website on which the user has logged in. [More about Telegram Login »](https://core.telegram.org/widgets/login) |
-| write_access_allowed | [WriteAccessAllowed](https://core.telegram.org/bots/api#writeaccessallowed) | *Optional*. Service message: the user allowed the bot to write messages after adding it to the attachment or side menu, launching a Web App from a link, or accepting an explicit request from a Web App sent by the method [requestWriteAccess](https://core.telegram.org/bots/webapps#initializing-mini-apps) |
+| write_access_allowed | [WriteAccessAllowed](https://core.telegram.org/bots/api#writeaccessallowed) | *Optional*. Service message: the user allowed the bot to write messages after adding it to the attachment or side menu, launching a Web App from a link, or accepting an explicit request from a Web App sent by the method [requestWriteAccess](https://core.telegram.org/bots/webapps#initializing-mini-apps), or the user was invited to the private chat with the bot by the owner of the bot |
 | passport_data | [PassportData](https://core.telegram.org/bots/api#passportdata) | *Optional*. Telegram Passport data |
 | proximity_alert_triggered | [ProximityAlertTriggered](https://core.telegram.org/bots/api#proximityalerttriggered) | *Optional*. Service message: a user in the chat triggered another user's proximity alert while sharing Live Location |
 | boost_added | [ChatBoostAdded](https://core.telegram.org/bots/api#chatboostadded) | *Optional*. Service message: user boosted the chat |

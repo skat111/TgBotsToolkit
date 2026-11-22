@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#keyboardbutton
-Snapshot: 2026-11-21T11:09:20Z
+Snapshot: 2026-11-22T11:29:57Z
 
 #### KeyboardButton
 
@@ -12,7 +12,7 @@ This object represents one button of the reply keyboard. At most one of the fiel
 | style | String | *Optional*. Style of the button. Must be one of “danger” (red), “success” (green) or “primary” (blue). If omitted, then an app-specific style is used. |
 | request_users | [KeyboardButtonRequestUsers](https://core.telegram.org/bots/api#keyboardbuttonrequestusers) | *Optional*. If specified, pressing the button will open a list of suitable users. Identifiers of selected users will be sent to the bot in a “users_shared” service message. Available in private chats only. |
 | request_chat | [KeyboardButtonRequestChat](https://core.telegram.org/bots/api#keyboardbuttonrequestchat) | *Optional*. If specified, pressing the button will open a list of suitable chats. Tapping on a chat will send its identifier to the bot in a “chat_shared” service message. Available in private chats only. |
-| request_managed_bot | [KeyboardButtonRequestManagedBot](https://core.telegram.org/bots/api#keyboardbuttonrequestmanagedbot) | *Optional*. If specified, pressing the button will ask the user to create and share a bot that will be managed by the current bot. Available for bots that enabled management of other bots in the [@BotFather](https://t.me/BotFather) Mini App. Available in private chats only. |
+| request_managed_bot | [KeyboardButtonRequestManagedBot](https://core.telegram.org/bots/api#keyboardbuttonrequestmanagedbot) | *Optional*. If specified, pressing the button will ask the user to create and share a bot that will be managed by the current bot. Available for bots that enabled management of other bots in the [@BotFather](https://t.me/BotFather) Mini App or using the parameter *can_manage_bots* of the method [setMySettings](https://core.telegram.org/bots/api#setmysettings). Available in private chats only. |
 | request_contact | Boolean | *Optional*. If *True*, the user's phone number will be sent as a contact when the button is pressed. Available in private chats only. |
 | request_location | Boolean | *Optional*. If *True*, the user's current location will be sent when the button is pressed. Available in private chats only. |
 | request_poll | [KeyboardButtonPollType](https://core.telegram.org/bots/api#keyboardbuttonpolltype) | *Optional*. If specified, the user will be asked to create a poll and send it to the bot when the button is pressed. Available in private chats only. |

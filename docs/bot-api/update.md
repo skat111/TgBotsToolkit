@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#update
-Snapshot: 2026-11-21T11:09:20Z
+Snapshot: 2026-11-22T11:29:57Z
 
 #### Update
 
@@ -21,7 +21,7 @@ At most **one** of the optional fields can be present in any given update.
 | message_reaction | [MessageReactionUpdated](https://core.telegram.org/bots/api#messagereactionupdated) | *Optional*. A reaction to a message was changed by a user. The bot must be an administrator in the chat and must explicitly specify `"message_reaction"` in the list of *allowed_updates* to receive these updates. The update isn't received for reactions set by bots. |
 | message_reaction_count | [MessageReactionCountUpdated](https://core.telegram.org/bots/api#messagereactioncountupdated) | *Optional*. Reactions to a message with anonymous reactions were changed. The bot must be an administrator in the chat and must explicitly specify `"message_reaction_count"` in the list of *allowed_updates* to receive these updates. The updates are grouped and can be sent with delay up to a few minutes. |
 | inline_query | [InlineQuery](https://core.telegram.org/bots/api#inlinequery) | *Optional*. New incoming [inline](https://core.telegram.org/bots/api#inline-mode) query |
-| chosen_inline_result | [ChosenInlineResult](https://core.telegram.org/bots/api#choseninlineresult) | *Optional*. The result of an [inline](https://core.telegram.org/bots/api#inline-mode) query that was chosen by a user and sent to their chat partner. Please see our documentation on the [feedback collecting](https://core.telegram.org/bots/inline#collecting-feedback) for details on how to enable these updates for your bot. |
+| chosen_inline_result | [ChosenInlineResult](https://core.telegram.org/bots/api#choseninlineresult) | *Optional*. The result of an [inline](https://core.telegram.org/bots/api#inline-mode) query that was chosen by a user and sent to their chat partner. Please see our documentation on the [feedback collecting](https://core.telegram.org/bots/inline#collecting-feedback) for details on how to enable these updates for your bot. The updates can also be enabled using the parameter *inline_feedback_share_denominator* of the method [setMySettings](https://core.telegram.org/bots/api#setmysettings). |
 | callback_query | [CallbackQuery](https://core.telegram.org/bots/api#callbackquery) | *Optional*. New incoming callback query |
 | widget_query | [WidgetQuery](https://core.telegram.org/bots/api#widgetquery) | *Optional*. New incoming query from a widget in a message sent by the bot or via the bot |
 | shared_widget_query | [SharedWidgetQuery](https://core.telegram.org/bots/api#sharedwidgetquery) | *Optional*. New incoming query from a forwarded message with a shared widget |

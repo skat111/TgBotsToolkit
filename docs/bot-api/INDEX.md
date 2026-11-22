@@ -2,6 +2,7 @@
 
 Source: https://core.telegram.org/bots/api
 
+- [November 22, 2026](november-22-2026.md)
 - [November 9, 2026](november-9-2026.md)
 - [August 24, 2026](august-24-2026.md)
 - [July 14, 2026](july-14-2026.md)
@@ -13,6 +14,7 @@ Source: https://core.telegram.org/bots/api
 - [deleteWebhook](deletewebhook.md)
 - [getWebhookInfo](getwebhookinfo.md)
 - [WebhookInfo](webhookinfo.md)
+- [BotFullInfo](botfullinfo.md)
 - [User](user.md)
 - [Chat](chat.md)
 - [ChatFullInfo](chatfullinfo.md)
@@ -369,6 +371,7 @@ Source: https://core.telegram.org/bots/api
 - [replaceManagedBotToken](replacemanagedbottoken.md)
 - [getManagedBotAccessSettings](getmanagedbotaccesssettings.md)
 - [setManagedBotAccessSettings](setmanagedbotaccesssettings.md)
+- [setMySettings](setmysettings.md)
 - [setMyCommands](setmycommands.md)
 - [deleteMyCommands](deletemycommands.md)
 - [getMyCommands](getmycommands.md)

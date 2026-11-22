@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inputrichblockpreformatted
-Snapshot: 2026-11-21T11:09:20Z
+Snapshot: 2026-11-22T11:29:57Z
 
 #### InputRichBlockPreformatted
 

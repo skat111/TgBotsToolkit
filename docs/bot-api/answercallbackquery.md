@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#answercallbackquery
-Snapshot: 2026-11-21T11:09:20Z
+Snapshot: 2026-11-22T11:29:57Z
 
 #### answerCallbackQuery
 
-Use this method to send answers to callback queries sent from [inline keyboards](https://core.telegram.org/bots/features#inline-keyboards). The answer will be displayed to the user as a notification at the top of the chat screen or as an alert. On success, *True* is returned.
+Use this method to send answers to callback queries sent from [inline keyboards](https://core.telegram.org/bots/features#inline-keyboards) or [rich messages](https://core.telegram.org/bots/api#richmessage). The answer will be displayed to the user as a notification at the top of the chat screen or as an alert. On success, *True* is returned.
 
 > Alternatively, the user can be redirected to the specified Game URL. For this option to work, you must first create a game for your bot via [@BotFather](https://t.me/botfather) and accept the terms. Otherwise, you may use links like `t.me/your_bot?start=XXXX` that open your bot with a parameter.
 
