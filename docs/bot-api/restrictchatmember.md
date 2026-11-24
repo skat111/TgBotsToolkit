@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#restrictchatmember
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### restrictChatMember
 
@@ -11,4 +11,4 @@ Use this method to restrict a user in a supergroup. The bot must be an administr
 | user_id | Integer | Yes | Unique identifier of the target user |
 | permissions | [ChatPermissions](https://core.telegram.org/bots/api#chatpermissions) | Yes | A JSON-serialized object for new user permissions |
 | use_independent_chat_permissions | Boolean | Optional | Pass *True* if chat permissions are set independently. Otherwise, the *can_send_other_messages* and *can_add_web_page_previews* permissions will imply the *can_send_messages*, *can_send_audios*, *can_send_documents*, *can_send_photos*, *can_send_videos*, *can_send_video_notes*, and *can_send_voice_notes* permissions; the *can_send_polls* permission will imply the *can_send_messages* permission. |
-| until_date | Integer | Optional | Date when restrictions will be lifted for the user; Unix time. If user is restricted for more than 366 days or less than 30 seconds from the current time, they are considered to be restricted forever. |
+| until_date | Integer | Optional | Date when restrictions will be lifted for the user; Unix time. If the user is restricted for more than 366 days or less than 30 seconds from the current time, they are considered to be restricted forever. |

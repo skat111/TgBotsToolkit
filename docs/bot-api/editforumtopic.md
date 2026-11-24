@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#editforumtopic
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### editForumTopic
 
-Use this method to edit name and icon of a topic in a forum supergroup chat or a private chat with a user. In the case of a supergroup chat the bot must be an administrator in the chat for this to work and must have the *can_manage_topics* administrator rights, unless it is the creator of the topic. Returns *True* on success.
+Use this method to edit the name and icon of a topic in a forum supergroup chat or a private chat with a user. In the case of a supergroup chat the bot must be an administrator in the chat for this to work and must have the *can_manage_topics* administrator right, unless it is the creator of the topic. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

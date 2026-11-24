@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#createchatinvitelink
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### createChatInviteLink
 
-Use this method to create an additional invite link for a chat. The bot must be an administrator in the chat for this to work and must have the appropriate administrator rights. The link can be revoked using the method [revokeChatInviteLink](https://core.telegram.org/bots/api#revokechatinvitelink). Returns the new invite link as [ChatInviteLink](https://core.telegram.org/bots/api#chatinvitelink) object.
+Use this method to create an additional invite link for a chat. The bot must be an administrator in the chat for this to work and must have the appropriate administrator rights. The link can be revoked using the method [revokeChatInviteLink](https://core.telegram.org/bots/api#revokechatinvitelink). Returns the new invite link as a [ChatInviteLink](https://core.telegram.org/bots/api#chatinvitelink) object.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

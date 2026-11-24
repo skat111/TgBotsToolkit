@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/account.getRecentEmojiStatuses",
   "final_url": "https://core.telegram.org/method/account.getRecentEmojiStatuses",
   "title": "account.getRecentEmojiStatuses",
-  "fetched_at": "2026-11-23T12:53:52Z",
+  "fetched_at": "2026-11-24T13:49:05Z",
   "sha256": "89ea2fc1e6a7d17257676a3c823817400ec572b05e636faf2c7e0ed6607c6e2b",
   "bytes": 16075,
   "content_type": "text/html; charset=utf-8",

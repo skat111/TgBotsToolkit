@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#gifts
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Gifts
 
-This object represent a list of gifts.
+This object represents a list of gifts.
 
 | Field | Type | Description |
 | --- | --- | --- |

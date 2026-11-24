@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatboostsourcegiftcode
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### ChatBoostSourceGiftCode
 
@@ -8,4 +8,4 @@ The boost was obtained by the creation of Telegram Premium gift codes to boost a
 | Field | Type | Description |
 | --- | --- | --- |
 | source | String | Source of the boost, always “gift_code” |
-| user | [User](https://core.telegram.org/bots/api#user) | User for which the gift code was created |
+| user | [User](https://core.telegram.org/bots/api#user) | User for whom the gift code was created |

@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#keyboardbuttonpolltype
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### KeyboardButtonPollType
 
-This object represents type of a poll, which is allowed to be created and sent when the corresponding button is pressed.
+This object represents the type of a poll, which is allowed to be created and sent when the corresponding button is pressed.
 
 | Field | Type | Description |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#deleteforumtopic
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### deleteForumTopic
 
-Use this method to delete a forum topic along with all its messages in a forum supergroup chat or a private chat with a user. In the case of a supergroup chat the bot must be an administrator in the chat for this to work and must have the *can_delete_messages* administrator rights. Returns *True* on success.
+Use this method to delete a forum topic along with all its messages in a forum supergroup chat or a private chat with a user. In the case of a supergroup chat the bot must be an administrator in the chat for this to work and must have the *can_delete_messages* administrator right. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

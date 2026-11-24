@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inlinequeryresultvideo
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### InlineQueryResultVideo
 
@@ -24,4 +24,4 @@ Represents a link to a page containing an embedded video player or a video file.
 | video_duration | Integer | *Optional*. Video duration in seconds |
 | description | String | *Optional*. Short description of the result |
 | reply_markup | [InlineKeyboardMarkup](https://core.telegram.org/bots/api#inlinekeyboardmarkup) | *Optional*. [Inline keyboard](https://core.telegram.org/bots/features#inline-keyboards) attached to the message |
-| input_message_content | [InputMessageContent](https://core.telegram.org/bots/api#inputmessagecontent) | *Optional*. Content of the message to be sent instead of the video. This field is **required** if InlineQueryResultVideo is used to send an HTML-page as a result (e.g., a YouTube video). |
+| input_message_content | [InputMessageContent](https://core.telegram.org/bots/api#inputmessagecontent) | *Optional*. Content of the message to be sent instead of the video. This field is **required** if InlineQueryResultVideo is used to send an HTML page as a result (e.g., a YouTube video). |

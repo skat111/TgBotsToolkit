@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#sendmediagroup
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### sendMediaGroup
 
-Use this method to send a group of photos, live photos, videos, documents or audios as an album. Documents and audio files can be only grouped in an album with messages of the same type. On success, an Array of [Message](https://core.telegram.org/bots/api#message) objects that were sent is returned.
+Use this method to send a group of photos, live photos, videos, documents or audios as an album. Documents and audio files can only be grouped in an album with messages of the same type. On success, an Array of [Message](https://core.telegram.org/bots/api#message) objects that were sent is returned.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

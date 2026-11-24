@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatinvitelink
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### ChatInviteLink
 
@@ -13,7 +13,7 @@ Represents an invite link for a chat.
 | is_primary | Boolean | *True*, if the link is primary |
 | is_revoked | Boolean | *True*, if the link is revoked |
 | name | String | *Optional*. Invite link name |
-| expire_date | Integer | *Optional*. Point in time (Unix timestamp) when the link will expire or has been expired |
+| expire_date | Integer | *Optional*. Point in time (Unix timestamp) when the link will expire or has expired |
 | member_limit | Integer | *Optional*. The maximum number of users that can be members of the chat simultaneously after joining the chat via this invite link; 1-99999 |
 | pending_join_request_count | Integer | *Optional*. Number of pending join requests created using this link |
 | subscription_period | Integer | *Optional*. The number of seconds the subscription will be active for before the next payment |

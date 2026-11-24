@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#stopmessagelivelocation
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### stopMessageLiveLocation
 
-Use this method to stop updating a live location message before *live_period* expires. On success, if the message is not an inline message, the edited [Message](https://core.telegram.org/bots/api#message) is returned, otherwise *True* is returned.
+Use this method to stop updating a live location message before *live_period* expires. On success, if the message is not an inline message, the edited [Message](https://core.telegram.org/bots/api#message) is returned; otherwise, *True* is returned.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

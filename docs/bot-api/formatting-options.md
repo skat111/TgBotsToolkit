@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#formatting-options
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Formatting options
 
@@ -7,7 +7,7 @@ The Bot API supports basic formatting for messages. You can use bold, italic, un
 
 Note that Telegram clients will display an **alert** to the user before opening an inline link ('Open this link?' together with the full URL).
 
-Message entities can be nested, providing following restrictions are met:  
+Message entities can be nested, providing the following restrictions are met:  
 - If two entities have common characters, then one of them is fully contained inside another.  
 - *bold*, *italic*, *underline*, *strikethrough*, and *spoiler* entities can contain and can be part of any other entities, except *pre* and *code*.  
 - *blockquote* and *expandable_blockquote* entities can't be nested.  
@@ -15,7 +15,7 @@ Message entities can be nested, providing following restrictions are met:
 
 Links `tg://user?id=<user_id>` can be used to mention a user by their identifier without using a username. Please note:
 
-* These links will work **only** if they are used inside an inline link or in an inline keyboard button. For example, they will not work, when used in a message text.
+* These links will work **only** if they are used inside an inline link or in an inline keyboard button. For example, they will not work when used in a message text.
 * Unless the user is a member of the chat where they were mentioned, these mentions are only guaranteed to work if the user has contacted the bot in private in the past or has sent a callback query to the bot via an inline button and doesn't have Forwarded Messages privacy enabled for the bot.
 
 You can find the list of programming and markup languages for which syntax highlighting is supported at [libprisma#supported-languages](https://github.com/TelegramMessenger/libprisma#supported-languages).
@@ -120,7 +120,7 @@ Please note:
 * All `<`, `>` and `&` symbols that are not a part of a tag or an HTML entity must be replaced with the corresponding HTML entities (`<` with `&lt;`, `>` with `&gt;` and `&` with `&amp;`).
 * All numerical HTML entities are supported.
 * The API currently supports only the following named HTML entities: `&lt;`, `&gt;`, `&amp;` and `&quot;`.
-* Use nested `pre` and `code` tags, to define programming language for `pre` entity.
+* Use nested `pre` and `code` tags to define the programming language for a `pre` entity.
 * Programming language can't be specified for standalone `code` tags.
 * A valid emoji must be used as the content of the `tg-emoji` tag. The emoji will be shown instead of the custom emoji in places where a custom emoji cannot be displayed (e.g., system notifications) or if the message is forwarded by a non-premium user. It is recommended to use the emoji from the **emoji** field of the custom emoji [sticker](https://core.telegram.org/bots/api#sticker).
 * Custom emoji entities can only be used by bots that purchased additional usernames on [Fragment](https://fragment.com) or in the messages directly sent by the bot to private, group and supergroup chats if the owner of the bot has a Telegram Premium subscription.
@@ -146,7 +146,7 @@ pre-formatted fixed-width code block written in the Python programming language
 
 Please note:
 
-* Entities must not be nested, use parse mode [MarkdownV2](https://core.telegram.org/bots/api#markdownv2-style) instead.
-* There is no way to specify “underline”, “strikethrough”, “spoiler”, “blockquote”, “expandable_blockquote”, “custom_emoji”, and “date_time” entities, use parse mode [MarkdownV2](https://core.telegram.org/bots/api#markdownv2-style) instead.
+* Entities must not be nested; use parse mode [MarkdownV2](https://core.telegram.org/bots/api#markdownv2-style) instead.
+* There is no way to specify “underline”, “strikethrough”, “spoiler”, “blockquote”, “expandable_blockquote”, “custom_emoji”, and “date_time” entities; use parse mode [MarkdownV2](https://core.telegram.org/bots/api#markdownv2-style) instead.
 * To escape characters '_', '\*', '`', '[' outside of an entity, prepend the character '\' before them.
-* Escaping inside entities is not allowed, so entity must be closed first and reopened again: use `_snake_\__case_` for italic `snake_case` and `*2*\**2=4*` for bold `2*2=4`.
+* Escaping inside entities is not allowed, so the entity must be closed first and reopened again: use `_snake_\__case_` for italic `snake_case` and `*2*\**2=4*` for bold `2*2=4`.

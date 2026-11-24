@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#setbusinessaccountname
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### setBusinessAccountName
 
-Changes the first and last name of a managed business account. Requires the *can_change_name* business bot right. Returns *True* on success.
+Changes the first and last name of a managed business account. Requires the *can_edit_name* business bot right. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

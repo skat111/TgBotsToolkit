@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#reopenforumtopic
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### reopenForumTopic
 
-Use this method to reopen a closed topic in a forum supergroup chat. The bot must be an administrator in the chat for this to work and must have the *can_manage_topics* administrator rights, unless it is the creator of the topic. Returns *True* on success.
+Use this method to reopen a closed topic in a forum supergroup chat. The bot must be an administrator in the chat for this to work and must have the *can_manage_topics* administrator right, unless it is the creator of the topic. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

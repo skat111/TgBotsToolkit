@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sendpoll
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### sendPoll
 
@@ -17,7 +17,7 @@ Use this method to send a native poll. On success, the sent [Message](https://co
 | is_anonymous | Boolean | Optional | *True*, if the poll needs to be anonymous, defaults to *True* |
 | type | String | Optional | Poll type, “quiz” or “regular”, defaults to “regular” |
 | allows_multiple_answers | Boolean | Optional | Pass *True* if the poll allows multiple answers, defaults to *False* |
-| allows_revoting | Boolean | Optional | Pass *True* if the poll allows to change chosen answer options, defaults to *False* for quizzes and to *True* for regular polls |
+| allows_revoting | Boolean | Optional | Pass *True* if the poll allows changing the chosen answer options, defaults to *False* for quizzes and to *True* for regular polls |
 | shuffle_options | Boolean | Optional | Pass *True* if the poll options must be shown in random order |
 | allow_adding_options | Boolean | Optional | Pass *True* if answer options can be added to the poll after creation; not supported for anonymous polls and quizzes |
 | hide_results_until_closes | Boolean | Optional | Pass *True* if poll results must be shown only after the poll closes |

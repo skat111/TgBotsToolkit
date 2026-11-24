@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#sendlivephoto
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### sendLivePhoto
 
@@ -13,12 +13,12 @@ Use this method to send live photos. On success, the sent [Message](https://core
 | direct_messages_topic_id | Integer | Optional | Identifier of the direct messages topic to which the message will be sent; required if the message is sent to a direct messages chat |
 | ephemeral_message_parameters | [EphemeralMessageParameters](https://core.telegram.org/bots/api#ephemeralmessageparameters) | Optional | A JSON-serialized object containing the parameters of the ephemeral message to send |
 | live_photo | [InputFile](https://core.telegram.org/bots/api#inputfile) or String | Yes | Live photo video to send. The video must be no longer than 10 seconds and must not exceed 10 MB in size. Pass a file_id as String to send a video that exists on the Telegram servers (recommended) or upload a new video using multipart/form-data. [More information on Sending Files »](https://core.telegram.org/bots/api#sending-files). Sending live photos by a URL is currently unsupported. |
-| photo | [InputFile](https://core.telegram.org/bots/api#inputfile) or String | Yes | The static photo to send. Pass a file_id as String to send a photo that exists on the Telegram servers (recommended) or upload a new video using multipart/form-data. [More information on Sending Files »](https://core.telegram.org/bots/api#sending-files). Sending live photos by a URL is currently unsupported. |
-| caption | String | Optional | Video caption (may also be used when resending videos by *file_id*), 0-1024 characters after entities parsing |
-| parse_mode | String | Optional | Mode for parsing entities in the video caption. See [formatting options](https://core.telegram.org/bots/api#formatting-options) for more details. |
+| photo | [InputFile](https://core.telegram.org/bots/api#inputfile) or String | Yes | The static photo to send. Pass a file_id as String to send a photo that exists on the Telegram servers (recommended) or upload a new photo using multipart/form-data. [More information on Sending Files »](https://core.telegram.org/bots/api#sending-files). Sending live photos by a URL is currently unsupported. |
+| caption | String | Optional | Live photo caption (may also be used when resending live photos by *file_id*), 0-1024 characters after entities parsing |
+| parse_mode | String | Optional | Mode for parsing entities in the live photo caption. See [formatting options](https://core.telegram.org/bots/api#formatting-options) for more details. |
 | caption_entities | Array of [MessageEntity](https://core.telegram.org/bots/api#messageentity) | Optional | A JSON-serialized list of special entities that appear in the caption, which can be specified instead of *parse_mode* |
 | show_caption_above_media | Boolean | Optional | Pass *True* if the caption must be shown above the message media |
-| has_spoiler | Boolean | Optional | Pass *True* if the video needs to be covered with a spoiler animation |
+| has_spoiler | Boolean | Optional | Pass *True* if the live photo needs to be covered with a spoiler animation |
 | disable_notification | Boolean | Optional | Sends the message [silently](https://telegram.org/blog/channels-2-0#silent-messages). Users will receive a notification with no sound. |
 | protect_content | Boolean | Optional | Protects the contents of the sent message from forwarding and saving |
 | allow_paid_broadcast | Boolean | Optional | Pass *True* to allow up to 1000 messages per second, ignoring [broadcasting limits](https://core.telegram.org/bots/faq#how-can-i-message-all-of-my-bot-39s-subscribers-at-once) for a fee of 0.1 Telegram Stars per message. The relevant Stars will be withdrawn from the bot's balance. |

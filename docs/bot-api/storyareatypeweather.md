@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#storyareatypeweather
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### StoryAreaTypeWeather
 
@@ -8,6 +8,6 @@ Describes a story area containing weather information. Currently, a story can ha
 | Field | Type | Description |
 | --- | --- | --- |
 | type | String | Type of the area, always “weather” |
-| temperature | Float | Temperature, in degree Celsius |
+| temperature | Float | Temperature, in degrees Celsius |
 | emoji | String | Emoji representing the weather |
 | background_color | Integer | A color of the area background in the ARGB format |

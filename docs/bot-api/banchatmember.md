@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#banchatmember
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### banChatMember
 
@@ -9,5 +9,5 @@ Use this method to ban a user in a group, a supergroup or a channel. In the case
 | --- | --- | --- | --- |
 | chat_id | Integer or String | Yes | Unique identifier for the target group or username of the target supergroup or channel in the format `@username` |
 | user_id | Integer | Yes | Unique identifier of the target user |
-| until_date | Integer | Optional | Date when the user will be unbanned; Unix time. If user is banned for more than 366 days or less than 30 seconds from the current time they are considered to be banned forever. Applied for supergroups and channels only. |
+| until_date | Integer | Optional | Date when the user will be unbanned; Unix time. If the user is banned for more than 366 days or less than 30 seconds from the current time, they are considered to be banned forever. Applied for supergroups and channels only. |
 | revoke_messages | Boolean | Optional | Pass *True* to delete all messages from the chat for the user that is being removed. If *False*, the user will be able to see messages in the group that were sent before the user was removed. Always *True* for supergroups and channels. |

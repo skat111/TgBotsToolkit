@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#uniquegiftsymbol
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### UniqueGiftSymbol
 
@@ -9,4 +9,4 @@ This object describes the symbol shown on the pattern of a unique gift.
 | --- | --- | --- |
 | name | String | Name of the symbol |
 | sticker | [Sticker](https://core.telegram.org/bots/api#sticker) | The sticker that represents the unique gift |
-| rarity_per_mille | Integer | The number of unique gifts that receive this model for every 1000 gifts upgraded |
+| rarity_per_mille | Integer | The number of unique gifts that receive this symbol for every 1000 gifts upgraded |

@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#setmysettings
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### setMySettings
 
-Use this method to change settings of the bot. Settings that aren't specified remain unchanged. Returns *True* on success.
+Use this method to change the settings of the bot. Settings that aren't specified remain unchanged. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

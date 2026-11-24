@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#setbusinessaccountusername
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### setBusinessAccountUsername
 
-Changes the username of a managed business account. Requires the *can_change_username* business bot right. Returns *True* on success.
+Changes the username of a managed business account. Requires the *can_edit_username* business bot right. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

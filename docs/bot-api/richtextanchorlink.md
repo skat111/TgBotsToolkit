@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#richtextanchorlink
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### RichTextAnchorLink
 
@@ -9,4 +9,4 @@ A link to an anchor.
 | --- | --- | --- |
 | type | String | Type of the rich text, always “anchor_link” |
 | text | [RichText](https://core.telegram.org/bots/api#richtext) | The link text |
-| anchor_name | String | The name of the anchor. If the name is empty, then the link brings back to the top of the message. |
+| anchor_name | String | The name of the anchor. If the name is empty, then the link brings the user back to the top of the message. |

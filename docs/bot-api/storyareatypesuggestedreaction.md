@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#storyareatypesuggestedreaction
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### StoryAreaTypeSuggestedReaction
 
@@ -10,4 +10,4 @@ Describes a story area pointing to a suggested reaction. Currently, a story can 
 | type | String | Type of the area, always “suggested_reaction” |
 | reaction_type | [ReactionType](https://core.telegram.org/bots/api#reactiontype) | Type of the reaction |
 | is_dark | Boolean | *Optional*. Pass *True* if the reaction area has a dark background |
-| is_flipped | Boolean | *Optional*. Pass *True* if reaction area corner is flipped |
+| is_flipped | Boolean | *Optional*. Pass *True* if the reaction area corner is flipped |

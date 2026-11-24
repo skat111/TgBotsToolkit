@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#message
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Message
 
@@ -74,14 +74,14 @@ This object represents a message.
 | chat_owner_left | [ChatOwnerLeft](https://core.telegram.org/bots/api#chatownerleft) | *Optional*. Service message: chat owner has left |
 | chat_owner_changed | [ChatOwnerChanged](https://core.telegram.org/bots/api#chatownerchanged) | *Optional*. Service message: chat owner has changed |
 | new_chat_title | String | *Optional*. A chat title was changed to this value |
-| new_chat_photo | Array of [PhotoSize](https://core.telegram.org/bots/api#photosize) | *Optional*. A chat photo was change to this value |
+| new_chat_photo | Array of [PhotoSize](https://core.telegram.org/bots/api#photosize) | *Optional*. A chat photo was changed to this value |
 | delete_chat_photo | True | *Optional*. Service message: the chat photo was deleted |
 | group_chat_created | True | *Optional*. Service message: the group has been created |
-| supergroup_chat_created | True | *Optional*. Service message: the supergroup has been created. This field can't be received in a message coming through updates, because bot can't be a member of a supergroup when it is created. It can only be found in reply_to_message if someone replies to a very first message in a directly created supergroup. |
-| channel_chat_created | True | *Optional*. Service message: the channel has been created. This field can't be received in a message coming through updates, because bot can't be a member of a channel when it is created. It can only be found in reply_to_message if someone replies to a very first message in a channel. |
+| supergroup_chat_created | True | *Optional*. Service message: the supergroup has been created. This field can't be received in a message coming through updates, because a bot can't be a member of a supergroup when it is created. It can only be found in reply_to_message if someone replies to the very first message in a directly created supergroup. |
+| channel_chat_created | True | *Optional*. Service message: the channel has been created. This field can't be received in a message coming through updates, because a bot can't be a member of a channel when it is created. It can only be found in reply_to_message if someone replies to the very first message in a channel. |
 | message_auto_delete_timer_changed | [MessageAutoDeleteTimerChanged](https://core.telegram.org/bots/api#messageautodeletetimerchanged) | *Optional*. Service message: auto-delete timer settings changed in the chat |
-| migrate_to_chat_id | Integer | *Optional*. The group has been migrated to a supergroup with the specified identifier. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this identifier. |
-| migrate_from_chat_id | Integer | *Optional*. The supergroup has been migrated from a group with the specified identifier. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type are safe for storing this identifier. |
+| migrate_to_chat_id | Integer | *Optional*. The group has been migrated to a supergroup with the specified identifier. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type is safe for storing this identifier. |
+| migrate_from_chat_id | Integer | *Optional*. The supergroup has been migrated from a group with the specified identifier. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a signed 64-bit integer or double-precision float type is safe for storing this identifier. |
 | pinned_message | [MaybeInaccessibleMessage](https://core.telegram.org/bots/api#maybeinaccessiblemessage) | *Optional*. Specified message was pinned. Note that the [Message](https://core.telegram.org/bots/api#message) object in this field will not contain further *reply_to_message* fields even if it itself is a reply. |
 | invoice | [Invoice](https://core.telegram.org/bots/api#invoice) | *Optional*. Message is an invoice for a [payment](https://core.telegram.org/bots/api#payments), information about the invoice. [More about payments »](https://core.telegram.org/bots/api#payments) |
 | successful_payment | [SuccessfulPayment](https://core.telegram.org/bots/api#successfulpayment) | *Optional*. Message is a service message about a successful payment, information about the payment. [More about payments »](https://core.telegram.org/bots/api#payments) |

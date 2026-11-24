@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#game
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Game
 
-This object represents a game. Use BotFather to create and edit games, their short names will act as unique identifiers.
+This object represents a game. Use BotFather to create and edit games; their short names will act as unique identifiers.
 
 | Field | Type | Description |
 | --- | --- | --- |

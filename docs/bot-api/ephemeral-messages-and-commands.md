@@ -1,15 +1,15 @@
 Source: https://core.telegram.org/bots/api#ephemeral-messages-and-commands
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Ephemeral Messages and Commands
 
-Ephemeral interactions allow a bot and an individual member of a group or supergroup chat to communicate privately on the public timeline without cluttering the chat for other members. They may disappear automatically after some time, or if the app is restarted.
+Ephemeral interactions allow a bot and an individual member of a chat to communicate privately on the public timeline without cluttering the chat for other members. They may disappear automatically after some time, or if the app is restarted.
 
 **Ephemeral Commands (User to Bot)**  
 Bots can declare ephemeral commands by setting the *is_ephemeral* field to *True* in the [BotCommand](https://core.telegram.org/bots/api#botcommand) class. A user can then send an ephemeral command that is received by the target bot but remains invisible to all members of the chat, including both users and other bots.
 
 **Ephemeral Messages**  
-Bots can send an ephemeral message response back to a specific user designated by the *receiver_user_id* parameter. Other members of the group or supergroup chat will not see the message.
+Bots can send an ephemeral message response back to a specific user designated by the field *receiver_user_id* in the parameter *ephemeral_message_parameters*. Other members of the chat will not see the message. If *callback_query_id* is specified and *receiver_user_id* is omitted, then the message is sent as an ephemeral reply to the callback query and is shown only to the user who pressed the button. Such replies can be sent in any chat except channel direct messages chats.
 
 > It is **not guaranteed** that the ephemeral message will be received, especially if the user is offline.
 
@@ -17,6 +17,6 @@ Bots can send an ephemeral message response back to a specific user designated b
 
 * Any bot can send an ephemeral message to a user within **15 seconds** of the incoming eligible action. The message will be sent to the exact client application that triggered the action. For this the bot must provide either:
 
-  + The *callback_query_id* from a received callback query, or
+  + The *ephemeral_message_parameters.callback_query_id* from a received callback query, or
   + The *reply_parameters.ephemeral_message_id* from an incoming ephemeral message.
-* If the bot is a chat administrator, it can send an ephemeral message to any non-bot member of the chat at any time without needing to specify a *callback_query_id* or *reply_parameters.ephemeral_message_id*. In this case, the message may be delivered across multiple active client applications of the user, but is regardless not guaranteed to be delivered to any of them.
+* If the bot is a chat administrator, it can send an ephemeral message to any non-bot member of the chat at any time without needing to specify *ephemeral_message_parameters.callback_query_id* or *reply_parameters.ephemeral_message_id*. In this case, the message may be delivered across multiple active client applications of the user, but is regardless not guaranteed to be delivered to any of them.

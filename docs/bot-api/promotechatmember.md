@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#promotechatmember
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### promoteChatMember
 
@@ -15,7 +15,7 @@ Use this method to promote or demote a user in a supergroup or a channel. The bo
 | can_manage_video_chats | Boolean | Optional | Pass *True* if the administrator can manage video chats |
 | can_restrict_members | Boolean | Optional | Pass *True* if the administrator can restrict, ban or unban chat members, or access supergroup statistics. For backward compatibility, defaults to *True* for promotions of channel administrators. |
 | can_promote_members | Boolean | Optional | Pass *True* if the administrator can add new administrators with a subset of their own privileges or demote administrators that they have promoted, directly or indirectly (promoted by administrators that were appointed by him) |
-| can_change_info | Boolean | Optional | Pass *True* if the administrator can change chat title, photo and other settings |
+| can_change_info | Boolean | Optional | Pass *True* if the administrator can change the chat title, photo and other settings |
 | can_invite_users | Boolean | Optional | Pass *True* if the administrator can invite new users to the chat |
 | can_post_stories | Boolean | Optional | Pass *True* if the administrator can post stories to the chat |
 | can_edit_stories | Boolean | Optional | Pass *True* if the administrator can edit stories posted by other users, post stories to the chat page, pin chat stories, and access the chat's story archive |

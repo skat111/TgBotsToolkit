@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#chatjoinrequest
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### ChatJoinRequest
 
@@ -9,7 +9,7 @@ Represents a join request sent to a chat.
 | --- | --- | --- |
 | chat | [Chat](https://core.telegram.org/bots/api#chat) | Chat to which the request was sent |
 | from | [User](https://core.telegram.org/bots/api#user) | User that sent the join request |
-| user_chat_id | Integer | Identifier of a private chat with the user who sent the join request. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a 64-bit integer or double-precision float type are safe for storing this identifier. The bot can use this identifier for 5 minutes to send messages until the join request is processed, assuming no other administrator contacted the user. |
+| user_chat_id | Integer | Identifier of a private chat with the user who sent the join request. This number may have more than 32 significant bits and some programming languages may have difficulty/silent defects in interpreting it. But it has at most 52 significant bits, so a 64-bit integer or double-precision float type is safe for storing this identifier. The bot can use this identifier for 5 minutes to send messages until the join request is processed, assuming no other administrator contacted the user. |
 | date | Integer | Date the request was sent in Unix time |
 | bio | String | *Optional*. Bio of the user |
 | invite_link | [ChatInviteLink](https://core.telegram.org/bots/api#chatinvitelink) | *Optional*. Chat invite link that was used by the user to send the join request |

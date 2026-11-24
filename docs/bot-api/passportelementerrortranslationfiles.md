@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#passportelementerrortranslationfiles
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### PassportElementErrorTranslationFiles
 
-Represents an issue with the translated version of a document. The error is considered resolved when a file with the document translation change.
+Represents an issue with the translated version of a document. The error is considered resolved when a file with the document translation changes.
 
 | Field | Type | Description |
 | --- | --- | --- |

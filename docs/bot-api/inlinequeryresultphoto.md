@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#inlinequeryresultphoto
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### InlineQueryResultPhoto
 
-Represents a link to a photo. By default, this photo will be sent by the user with optional caption. Alternatively, you can use *input_message_content* to send a message with the specified content instead of the photo.
+Represents a link to a photo. By default, this photo will be sent by the user with an optional caption. Alternatively, you can use *input_message_content* to send a message with the specified content instead of the photo.
 
 | Field | Type | Description |
 | --- | --- | --- |

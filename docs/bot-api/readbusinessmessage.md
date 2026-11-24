@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#readbusinessmessage
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### readBusinessMessage
 
-Marks incoming message as read on behalf of a business account. Requires the *can_read_messages* business bot right. Returns *True* on success.
+Marks an incoming message as read on behalf of a business account. Requires the *can_read_messages* business bot right. Returns *True* on success.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

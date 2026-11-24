@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#setstickerkeywords
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### setStickerKeywords
 
@@ -8,4 +8,4 @@ Use this method to change search keywords assigned to a regular or custom emoji 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | sticker | String | Yes | File identifier of the sticker |
-| keywords | Array of String | Optional | A JSON-serialized list of 0-20 search keywords for the sticker with total length of up to 64 characters |
+| keywords | Array of String | Optional | A JSON-serialized list of 0-20 search keywords for the sticker with a total length of up to 64 characters |

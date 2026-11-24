@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#inlinequeryresultgif
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### InlineQueryResultGif
 
-Represents a link to an animated GIF file. By default, this animated GIF file will be sent by the user with optional caption. Alternatively, you can use *input_message_content* to send a message with the specified content instead of the animation.
+Represents a link to an animated GIF file. By default, this animated GIF file will be sent by the user with an optional caption. Alternatively, you can use *input_message_content* to send a message with the specified content instead of the animation.
 
 | Field | Type | Description |
 | --- | --- | --- |

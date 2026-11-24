@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getmydefaultadministratorrights
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### getMyDefaultAdministratorRights
 
@@ -7,4 +7,4 @@ Use this method to get the current default administrator rights of the bot. Retu
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
-| for_channels | Boolean | Optional | Pass *True* to get default administrator rights of the bot in channels. Otherwise, default administrator rights of the bot for groups and supergroups will be returned. |
+| for_channels | Boolean | Optional | Pass *True* to get the default administrator rights of the bot in channels. Otherwise, the default administrator rights of the bot for groups and supergroups will be returned. |

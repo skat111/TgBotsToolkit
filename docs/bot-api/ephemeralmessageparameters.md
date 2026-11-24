@@ -1,7 +1,9 @@
 Source: https://core.telegram.org/bots/api#ephemeralmessageparameters
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### EphemeralMessageParameters
+
+Describes the parameters of an ephemeral message to be sent.
 
 | Field | Type | Description |
 | --- | --- | --- |

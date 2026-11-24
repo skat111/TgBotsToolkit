@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inlinekeyboardbutton
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### InlineKeyboardButton
 
@@ -19,5 +19,5 @@ This object represents one button of an inline keyboard. Exactly one of the fiel
 | switch_inline_query_chosen_chat | [SwitchInlineQueryChosenChat](https://core.telegram.org/bots/api#switchinlinequerychosenchat) | *Optional*. If set, pressing the button will prompt the user to select one of their chats of the specified type, open that chat and insert the bot's username and the specified inline query in the input field. Not supported for messages sent in channel direct messages chats and on behalf of a business account. |
 | copy_text | [CopyTextButton](https://core.telegram.org/bots/api#copytextbutton) | *Optional*. Description of the button that copies the specified text to the clipboard |
 | callback_game | [CallbackGame](https://core.telegram.org/bots/api#callbackgame) | *Optional*. Description of the game that will be launched when the user presses the button.  **NOTE:** This type of button **must** always be the first button in the first row. |
-| pay | Boolean | *Optional*. Specify *True*, to send a [Pay button](https://core.telegram.org/bots/api#payments). Substrings “⭐” and “XTR” in the buttons's text will be replaced with a Telegram Star icon.  **NOTE:** This type of button **must** always be the first button in the first row and can only be used in invoice messages. |
+| pay | Boolean | *Optional*. Specify *True* to send a [Pay button](https://core.telegram.org/bots/api#payments). Substrings “⭐” and “XTR” in the button's text will be replaced with a Telegram Star icon.  **NOTE:** This type of button **must** always be the first button in the first row and can only be used in invoice messages. |
 | disabled | [DisabledButton](https://core.telegram.org/bots/api#disabledbutton) | *Optional*. If set, then the button is disabled and does nothing |

@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#editmessagechecklist
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### editMessageChecklist
 
@@ -7,7 +7,7 @@ Use this method to edit a checklist on behalf of a connected business account. O
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
-| business_connection_id | String | Yes | Unique identifier of the business connection on behalf of which the message will be sent |
+| business_connection_id | String | Yes | Unique identifier of the business connection on behalf of which the message to be edited was sent |
 | chat_id | Integer or String | Yes | Unique identifier for the target chat or username of the target bot in the format `@username` |
 | message_id | Integer | Yes | Unique identifier for the target message |
 | checklist | [InputChecklist](https://core.telegram.org/bots/api#inputchecklist) | Yes | A JSON-serialized object for the new checklist |

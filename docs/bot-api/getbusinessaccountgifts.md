@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#getbusinessaccountgifts
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### getBusinessAccountGifts
 
@@ -16,5 +16,5 @@ Returns the gifts received and owned by a managed business account. Requires the
 | exclude_unique | Boolean | Optional | Pass *True* to exclude unique gifts |
 | exclude_from_blockchain | Boolean | Optional | Pass *True* to exclude gifts that were assigned from the TON blockchain and can't be resold or transferred in Telegram |
 | sort_by_price | Boolean | Optional | Pass *True* to sort results by gift price instead of send date. Sorting is applied before pagination. |
-| offset | String | Optional | Offset of the first entry to return as received from the previous request; use empty string to get the first chunk of results |
+| offset | String | Optional | Offset of the first entry to return as received from the previous request; use an empty string to get the first chunk of results |
 | limit | Integer | Optional | The maximum number of gifts to be returned; 1-100. Defaults to 100. |

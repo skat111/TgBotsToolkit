@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#sendlocation
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### sendLocation
 
-Use this method to send point on the map. On success, the sent [Message](https://core.telegram.org/bots/api#message) is returned.
+Use this method to send a point on the map. On success, the sent [Message](https://core.telegram.org/bots/api#message) is returned.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |

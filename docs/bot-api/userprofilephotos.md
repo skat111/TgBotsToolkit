@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#userprofilephotos
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### UserProfilePhotos
 
-This object represent a user's profile pictures.
+This object represents a user's profile pictures.
 
 | Field | Type | Description |
 | --- | --- | --- |

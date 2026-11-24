@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#deletemessage
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### deleteMessage
 
@@ -11,8 +11,8 @@ Use this method to delete a message, including service messages, with the follow
 - Bots can delete incoming messages in private chats.  
 - Bots granted *can_post_messages* permissions can delete outgoing messages in channels.  
 - If the bot is an administrator of a group, it can delete any message there.  
-- If the bot has *can_delete_messages* administrator right in a supergroup or a channel, it can delete any message there.  
-- If the bot has *can_manage_direct_messages* administrator right in a channel, it can delete any message in the corresponding direct messages chat.  
+- If the bot has the *can_delete_messages* administrator right in a supergroup or a channel, it can delete any message there.  
+- If the bot has the *can_manage_direct_messages* administrator right in a channel, it can delete any message in the corresponding direct messages chat.  
 Returns *True* on success.
 
 | Parameter | Type | Required | Description |

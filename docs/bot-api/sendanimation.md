@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#sendanimation
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### sendAnimation
 
-Use this method to send animation files (GIF or H.264/MPEG-4 AVC video without sound). On success, the sent [Message](https://core.telegram.org/bots/api#message) is returned. Bots can currently send animation files of up to 50 MB in size, this limit may be changed in the future.
+Use this method to send animation files (GIF or H.264/MPEG-4 AVC video without sound). On success, the sent [Message](https://core.telegram.org/bots/api#message) is returned. Bots can currently send animation files of up to 50 MB in size; this limit may be changed in the future.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
@@ -16,8 +16,8 @@ Use this method to send animation files (GIF or H.264/MPEG-4 AVC video without s
 | duration | Integer | Optional | Duration of sent animation in seconds |
 | width | Integer | Optional | Animation width |
 | height | Integer | Optional | Animation height |
-| thumbnail | [InputFile](https://core.telegram.org/bots/api#inputfile) or String | Optional | Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can be only uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>. [More information on Sending Files »](https://core.telegram.org/bots/api#sending-files) |
-| caption | String | Optional | Animation caption (may also be used when resending animation by *file_id*), 0-1024 characters after entities parsing |
+| thumbnail | [InputFile](https://core.telegram.org/bots/api#inputfile) or String | Optional | Thumbnail of the file sent; can be ignored if thumbnail generation for the file is supported server-side. The thumbnail should be in JPEG format and less than 200 kB in size. A thumbnail's width and height should not exceed 320. Ignored if the file is not uploaded using multipart/form-data. Thumbnails can't be reused and can only be uploaded as a new file, so you can pass “attach://<file_attach_name>” if the thumbnail was uploaded using multipart/form-data under <file_attach_name>. [More information on Sending Files »](https://core.telegram.org/bots/api#sending-files) |
+| caption | String | Optional | Animation caption (may also be used when resending animations by *file_id*), 0-1024 characters after entities parsing |
 | parse_mode | String | Optional | Mode for parsing entities in the animation caption. See [formatting options](https://core.telegram.org/bots/api#formatting-options) for more details. |
 | caption_entities | Array of [MessageEntity](https://core.telegram.org/bots/api#messageentity) | Optional | A JSON-serialized list of special entities that appear in the caption, which can be specified instead of *parse_mode* |
 | show_caption_above_media | Boolean | Optional | Pass *True* if the caption must be shown above the message media |

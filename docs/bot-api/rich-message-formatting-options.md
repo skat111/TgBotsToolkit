@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#rich-message-formatting-options
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### Rich Message Formatting Options
 
@@ -211,7 +211,7 @@ Please note:
 * In media syntax, the optional title after the URL is used as the caption; for example, ![](url "Photo caption") displays “Photo caption” under the media.
 * Table cells can contain only inline formatting.
 * Formula source is treated as raw LaTeX.
-* Markdown isn't parsed inside block HTML tags other than <details>, <tg-collage> and <tg-slideshow>, therefore only HTML tags can be used there.
+* Markdown isn't parsed inside block HTML tags other than <details>, <tg-collage> and <tg-slideshow>; therefore, only HTML tags can be used there.
 * See [date-time entity formatting](https://core.telegram.org/bots/api#date-time-entity-formatting) for more details about supported date-time formats.
 
 ###### Rich HTML style

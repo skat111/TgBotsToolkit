@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#inputsticker
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### InputSticker
 
@@ -11,4 +11,4 @@ This object describes a sticker to be added to a sticker set.
 | format | String | Format of the added sticker, must be one of “static” for a **.WEBP** or **.PNG** image, “animated” for a **.TGS** animation, “video” for a **.WEBM** video |
 | emoji_list | Array of String | List of 1-20 emoji associated with the sticker |
 | mask_position | [MaskPosition](https://core.telegram.org/bots/api#maskposition) | *Optional*. Position where the mask should be placed on faces. For “mask” stickers only. |
-| keywords | Array of String | *Optional*. List of 0-20 search keywords for the sticker with total length of up to 64 characters. For “regular” and “custom_emoji” stickers only. |
+| keywords | Array of String | *Optional*. List of 0-20 search keywords for the sticker with a total length of up to 64 characters. For “regular” and “custom_emoji” stickers only. |

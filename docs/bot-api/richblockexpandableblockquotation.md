@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#richblockexpandableblockquotation
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### RichBlockExpandableBlockQuotation
 
-A block quotation, corresponding to the HTML tag `<blockquote>` with custom attribute `"expandable"`.
+A block quotation, corresponding to the HTML tag `<blockquote>` with the custom attribute `"expandable"`.
 
 | Field | Type | Description |
 | --- | --- | --- |

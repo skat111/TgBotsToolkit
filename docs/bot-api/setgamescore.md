@@ -1,9 +1,9 @@
 Source: https://core.telegram.org/bots/api#setgamescore
-Snapshot: 2026-11-23T12:52:14Z
+Snapshot: 2026-11-24T13:48:01Z
 
 #### setGameScore
 
-Use this method to set the score of the specified user in a game message. On success, if the message is not an inline message, the [Message](https://core.telegram.org/bots/api#message) is returned, otherwise *True* is returned. Returns an error, if the new score is not greater than the user's current score in the chat and *force* is *False*.
+Use this method to set the score of the specified user in a game message. On success, if the message is not an inline message, the [Message](https://core.telegram.org/bots/api#message) is returned; otherwise, *True* is returned. Returns an error if the new score is not greater than the user's current score in the chat and *force* is *False*.
 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
