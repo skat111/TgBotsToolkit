@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#menubutton
-Snapshot: 2026-11-26T12:40:52Z
+Snapshot: 2026-11-27T12:28:14Z
 
 #### MenuButton
 
