@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#reopengeneralforumtopic
-Snapshot: 2026-11-27T12:28:14Z
+Snapshot: 2026-11-28T11:51:36Z
 
 #### reopenGeneralForumTopic
 

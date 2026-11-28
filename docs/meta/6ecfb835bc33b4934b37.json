@@ -2,7 +2,7 @@
   "url": "https://core.telegram.org/method/messages.getPeerDialogs",
   "final_url": "https://core.telegram.org/method/messages.getPeerDialogs",
   "title": "messages.getPeerDialogs",
-  "fetched_at": "2026-11-27T12:30:06Z",
+  "fetched_at": "2026-11-28T11:53:00Z",
   "sha256": "7ae5fad19906fc2375a5f2d772145d360f8a92a0b32318406300e4ae36a95190",
   "bytes": 16741,
   "content_type": "text/html; charset=utf-8",

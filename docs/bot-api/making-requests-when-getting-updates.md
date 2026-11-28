@@ -1,5 +1,5 @@
 Source: https://core.telegram.org/bots/api#making-requests-when-getting-updates
-Snapshot: 2026-11-27T12:28:14Z
+Snapshot: 2026-11-28T11:51:36Z
 
 #### Making requests when getting updates
 
